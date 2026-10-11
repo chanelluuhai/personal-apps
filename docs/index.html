@@ -91,6 +91,9 @@
     animation: welcomeIconBounce 500ms cubic-bezier(.22, 1, .36, 1) both;
   }
   .app:nth-child(2) { animation-delay: 110ms; }
+  .app:nth-child(3) { animation-delay: 220ms; }
+  /* Three apps: let the row wrap on narrow phones instead of overflowing. */
+  .apps { flex-wrap: wrap; align-content: center; }
   .app img {
     width: min(132px, 36vw);
     height: min(132px, 36vw);
@@ -156,6 +159,12 @@
           <img src="library/icons/clay-book.png?v=20261004e" alt="" width="541" height="694"/>
         </span>
         <span>Little Library</span>
+      </a>
+      <a class="app" href="nibble/">
+        <span class="app-tile">
+          <img src="nibble/icons/clay-plate.webp?v=1" alt="" width="288" height="288"/>
+        </span>
+        <span>Nibble &amp; Sip</span>
       </a>
     </main>
   </div>

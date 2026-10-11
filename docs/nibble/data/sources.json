@@ -1,0 +1,18 @@
+{
+  "_note": "Nibble & Sip sources. Add Instagram post/reel links to `posts` and creator handles to `accounts`. Run: python3 docs/nibble/scripts/scrape.py (from the repo root). Tracking query strings are stripped automatically.",
+  "accounts": [
+    { "handle": "kidfriendly.meals", "name": "Min Kwon • Baby and Toddler Recipes" },
+    { "handle": "babymealsfreezer", "name": "Mom Life | Freezer Baby Meals" },
+    { "handle": "mini.tiger.zen", "name": "DB Lee | NYC mama" },
+    { "handle": "busymamaeasybites", "name": "Amy • Easy Baby & Toddler Recipes" },
+    { "handle": "soniamazri_", "name": "SONIA MAZRI" }
+  ],
+  "posts": [
+    "https://www.instagram.com/reel/DbL8lkyxo5u/",
+    "https://www.instagram.com/reel/DdObMJ6SGYA/",
+    "https://www.instagram.com/reel/DeQGbyevSm9/",
+    "https://www.instagram.com/reel/DdnIx7EugPm/",
+    "https://www.instagram.com/reel/DYM-EdVRv5w/",
+    "https://www.instagram.com/reel/DZNgOJWxKeb/"
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "_note": "His food favorites. The Picks tab scores every scraped idea against these keywords in the browser, so edits here show up on the next page load. weight: how strongly a match counts. kind: 'favorite' = things he already eats, 'format' = textures/shapes he likes (used for Gentle next steps). new_foods: foods he doesn't usually eat; when a match also contains one of these it's shown as a 'New: …' chip in Gentle next steps.",
+  "name": "him",
+  "age": "about 21 months",
+  "headline": "pasta with his blended sauce, mac and cheese, zucchini muffins, bananas and snacks",
+  "favorites": [
+    {
+      "id": "pasta",
+      "label": "pasta",
+      "kind": "favorite",
+      "weight": 5,
+      "keywords": [
+        "pasta",
+        "rotini",
+        "shells",
+        "shell pasta",
+        "fusilli",
+        "penne",
+        "macaroni",
+        "noodle",
+        "noodles",
+        "udon",
+        "spaghetti",
+        "orzo"
+      ],
+      "reason": "Like his pasta"
+    },
+    {
+      "id": "sauce",
+      "label": "blended meat & spinach sauce",
+      "kind": "favorite",
+      "weight": 3,
+      "keywords": [
+        "tomato paste",
+        "tomato sauce",
+        "cream cheese",
+        "spinach",
+        "meat sauce",
+        "creamy",
+        "cream sauce",
+        "blended",
+        "hidden veggie",
+        "hidden veg"
+      ],
+      "reason": "Creamy sauce, like his pasta sauce"
+    },
+    {
+      "id": "mac",
+      "label": "mac and cheese",
+      "kind": "favorite",
+      "weight": 5,
+      "keywords": [
+        "mac & cheese",
+        "mac and cheese",
+        "mac n cheese",
+        "macaroni and cheese",
+        "cheesy",
+        "cheese"
+      ],
+      "reason": "Cheesy, like his mac and cheese"
+    },
+    {
+      "id": "muffin",
+      "label": "zucchini muffins",
+      "kind": "favorite",
+      "weight": 5,
+      "keywords": [
+        "muffin",
+        "muffins",
+        "cupcake",
+        "cupcakes",
+        "mini muffin"
+      ],
+      "reason": "Muffin, like his zucchini ones"
+    },
+    {
+      "id": "zucchini",
+      "label": "zucchini (from his muffins)",
+      "kind": "favorite",
+      "weight": 2,
+      "keywords": [
+        "zucchini",
+        "courgette"
+      ],
+      "reason": "Has zucchini, like his muffins"
+    },
+    {
+      "id": "banana",
+      "label": "bananas",
+      "kind": "favorite",
+      "weight": 3,
+      "keywords": [
+        "banana",
+        "bananas"
+      ],
+      "reason": "Has banana"
+    },
+    {
+      "id": "snack",
+      "label": "snacks",
+      "kind": "favorite",
+      "weight": 2,
+      "keywords": [
+        "snack",
+        "snacks",
+        "toddlersnacks",
+        "babysnacks",
+        "dessert",
+        "rice cake"
+      ],
+      "reason": "Snack-style, like his go-tos"
+    },
+    {
+      "id": "finger",
+      "label": "holdable finger food",
+      "kind": "format",
+      "weight": 2,
+      "keywords": [
+        "finger food",
+        "hold",
+        "holdable",
+        "pancake",
+        "pancakes",
+        "fritter",
+        "bites",
+        "dip",
+        "dipping",
+        "jeon",
+        "nugget",
+        "nuggets"
+      ],
+      "reason": "Easy to hold, like rotini"
+    }
+  ],
+  "new_foods": [
+    "shrimp",
+    "sardine",
+    "sardines",
+    "salmon",
+    "fish",
+    "tofu",
+    "egg",
+    "eggs",
+    "broccoli",
+    "carrot",
+    "carrots",
+    "avocado",
+    "blackberries",
+    "berries",
+    "rice cake",
+    "sweet potato",
+    "lentils",
+    "beans",
+    "chicken",
+    "beef"
+  ]
+}

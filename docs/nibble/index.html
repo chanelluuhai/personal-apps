@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover"/>
+<meta name="theme-color" content="#ECE6E1"/>
+<link rel="icon" type="image/png" href="favicon.png"/>
+<link rel="apple-touch-icon" href="apple-touch-icon.png"/>
+<link rel="manifest" href="site.webmanifest"/>
+<meta name="apple-mobile-web-app-capable" content="yes"/>
+<meta name="apple-mobile-web-app-title" content="Nibble &amp; Sip"/>
+<meta name="apple-mobile-web-app-status-bar-style" content="default"/>
+<meta name="description" content="Toddler food ideas gathered weekly from a few favorite creators, with picks matched to his favorite meals."/>
+<title>Nibble &amp; Sip</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+<link href="https://fonts.googleapis.com/css2?family=Alice&family=Nunito:wght@400;500;600;700&display=swap" rel="stylesheet"/>
+<link rel="stylesheet" href="styles.css?v=1"/>
+</head>
+<body>
+<div id="app" data-view="feed">
+
+  <header class="topbar" id="topbar">
+    <button type="button" class="brand" id="open-about" aria-haspopup="dialog" aria-controls="about-drawer" aria-expanded="false">
+      <span class="brand-mark"><img class="brand-logo" src="icons/clay-plate.webp" alt="" width="38" height="38"/></span>
+      <span class="brand-text">Nibble &amp; Sip</span>
+    </button>
+    <div class="search-pill">
+      <button type="button" class="search-toggle" id="search-toggle" aria-label="Search" aria-expanded="false" aria-pressed="false">
+        <svg viewBox="0 0 24 24" fill="none" aria-hidden="true" focusable="false"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5" stroke-linecap="round"/></svg>
+      </button>
+      <svg class="ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true" focusable="false"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5" stroke-linecap="round"/></svg>
+      <input type="search" id="search" placeholder="Search ideas" autocomplete="off" enterkeyhint="search" aria-label="Search food ideas"/>
+    </div>
+  </header>
+
+  <div class="filters" id="filters" aria-label="Filters">
+    <div class="chips" id="cat-chips" role="group" aria-label="Category"></div>
+    <div class="chips chips-time" id="time-chips" role="group" aria-label="Time and prep">
+      <button type="button" class="chip chip-sm" data-time="quick" aria-pressed="false">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" aria-hidden="true"><circle cx="12" cy="13" r="7.5"/><path d="M12 9.5V13l2.5 1.5M10 3h4" stroke-linecap="round" stroke-linejoin="round"/></svg>Quick
+      </button>
+      <button type="button" class="chip chip-sm" data-time="long" aria-pressed="false">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" aria-hidden="true"><path d="M4 11h16v3a6 6 0 0 1-6 6h-4a6 6 0 0 1-6-6v-3zM2.5 11h19M9 7.5c0-1 1-1.5 1-2.5M13.5 7.5c0-1 1-1.5 1-2.5" stroke-linecap="round" stroke-linejoin="round"/></svg>Longer cook
+      </button>
+      <button type="button" class="chip chip-sm" data-time="prep" aria-pressed="false">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" aria-hidden="true"><rect x="3.5" y="8" width="17" height="11" rx="3"/><path d="M3.5 12h17M8 5h8" stroke-linecap="round"/></svg>Meal prep
+      </button>
+    </div>
+  </div>
+
+  <main class="views">
+    <section class="panel active" id="panel-feed" aria-label="Food ideas">
+      <div class="panel-header">
+        <h1>Food ideas</h1>
+        <p class="panel-sub" id="feed-sub"></p>
+      </div>
+      <div class="panel-body"><div class="grid" id="feed-grid"></div></div>
+    </section>
+
+    <section class="panel" id="panel-picks" aria-label="Picks for him">
+      <div class="panel-header">
+        <h1>For him</h1>
+        <p class="panel-sub" id="picks-sub"></p>
+      </div>
+      <div class="panel-body" id="picks-body"></div>
+    </section>
+
+    <section class="panel" id="panel-saved" aria-label="Saved ideas">
+      <div class="panel-header">
+        <h1>Saved</h1>
+        <p class="panel-sub">Ideas you hearted, kept on this device.</p>
+      </div>
+      <div class="panel-body"><div class="grid" id="saved-grid"></div></div>
+    </section>
+  </main>
+
+  <nav class="dock" aria-label="Main">
+    <div class="seg glass" id="view-seg" role="tablist" aria-label="Views">
+      <span class="tab-indicator" aria-hidden="true"></span>
+      <button type="button" class="tab active" data-tab="feed" role="tab" aria-selected="true">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" aria-hidden="true"><rect x="4" y="4" width="7" height="9" rx="2"/><rect x="13" y="4" width="7" height="6" rx="2"/><rect x="4" y="15" width="7" height="5" rx="2"/><rect x="13" y="12" width="7" height="8" rx="2"/></svg>
+        <span>Feed</span>
+      </button>
+      <button type="button" class="tab" data-tab="picks" role="tab" aria-selected="false">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" aria-hidden="true"><path d="M12 3.5l1.9 4.6 4.9.4-3.7 3.2 1.1 4.8L12 14l-4.2 2.5 1.1-4.8-3.7-3.2 4.9-.4z" stroke-linejoin="round"/><path d="M6 20.5h12" stroke-linecap="round"/></svg>
+        <span>For him</span>
+      </button>
+    </div>
+    <div class="saved-shell glass">
+      <button type="button" class="dock-btn" id="saved-btn" aria-label="Saved" aria-pressed="false">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" aria-hidden="true"><path d="M12 20s-7-4.4-7-10a4 4 0 0 1 7-2.6A4 4 0 0 1 19 10c0 5.6-7 10-7 10z" stroke-linejoin="round"/></svg>
+        <span>Saved</span>
+      </button>
+    </div>
+  </nav>
+
+  <div class="sheet-backdrop" id="sheet-backdrop"></div>
+  <aside class="sheet" id="sheet" role="dialog" aria-modal="true" aria-labelledby="sheet-title" hidden>
+    <div class="sheet-handle" aria-hidden="true"></div>
+    <div class="sheet-bar">
+      <span></span>
+      <button type="button" class="sheet-nav" id="sheet-dismiss" aria-label="Close">&times;</button>
+    </div>
+    <div class="sheet-scroll" id="sheet-body"></div>
+  </aside>
+
+  <div class="drawer-backdrop" id="about-backdrop" hidden></div>
+  <aside class="about-drawer" id="about-drawer" role="dialog" aria-modal="true" aria-labelledby="about-title" hidden>
+    <div class="drawer-scroll">
+      <div class="drawer-top">
+        <h1 id="about-title">About</h1>
+        <button type="button" class="icon-x" id="about-close" aria-label="Close">&times;</button>
+      </div>
+      <div class="about-card">
+        <h2>What this is</h2>
+        <p>Toddler food ideas gathered once a week from a few creators. Every card is a real post; tap it for the recipe when the creator wrote one out, or open the original.</p>
+        <p id="about-updated"></p>
+      </div>
+      <div class="about-card">
+        <h2>How “For him” works</h2>
+        <p id="about-profile"></p>
+        <p>Edit <code>data/profile.json</code> to change his favorites.</p>
+      </div>
+      <div class="about-card">
+        <h2>Sources</h2>
+        <ul id="about-sources"></ul>
+      </div>
+      <button type="button" class="about-replay" id="welcome-replay">What is this</button>
+      <a class="about-replay" href="https://chanelluuhai.github.io/personal-apps/">More apps</a>
+    </div>
+  </aside>
+
+  <div class="welcome" id="welcome" role="dialog" aria-modal="true" aria-labelledby="welcome-title" hidden>
+    <div class="welcome-main">
+      <div class="welcome-emoji" aria-hidden="true"><img src="icons/clay-bread.webp" alt="" width="92" height="92"/><img src="icons/clay-plate.webp" alt="" width="92" height="92"/><img src="icons/clay-sweet.webp" alt="" width="92" height="92"/><img src="icons/clay-pizza.webp" alt="" width="92" height="92"/></div>
+      <img class="welcome-wordmark" id="welcome-title" src="icons/clay-wordmark.webp" alt="Nibble &amp; Sip" width="762" height="449"/>
+      <p class="welcome-line">Little food ideas for little hands, gathered each week from creators we love.</p>
+      <button type="button" class="welcome-enter" id="welcome-enter">Enter</button>
+    </div>
+    <p class="welcome-credit">Created by Chanel and her bot</p>
+  </div>
+</div>
+<script src="app.js?v=1"></script>
+</body>
+</html>
