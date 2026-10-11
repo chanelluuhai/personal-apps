@@ -16,7 +16,7 @@ A full run takes about 15-20 minutes: recipe sites are read politely (robots.txt
 
 ### Sources (`data/sources.json`)
 
-Creators get top billing in the feed (round-robin across creators, newest first); recipe sites are filler after them.
+Creators get top billing in the feed (round-robin across creators, newest first); recipe sites are filler after them. The reels Chanel sent (`instagram_reel`) lead their creator's queue, so they all land in the first round of the feed.
 
 | `type` | What it does |
 |--------|--------------|
@@ -27,13 +27,14 @@ Creators get top billing in the feed (round-robin across creators, newest first)
 | `website_category` | Recipe links from a blog category page (`/page/N/` paging) |
 | `website_sitemap` | Recipe URLs from a sitemap, filtered by `include` / `exclude` keywords, newest first |
 
-Each source can set `creator` (links it to a creator in `creators`), `site`, `id_prefix`, `limit` and `enabled`. Website pages are read from their schema.org Recipe JSON-LD (name, ingredients, steps, totalTime, yield, category, keywords). Sites that block bots or need a login/paywall are skipped, never bypassed.
+Each source can set `creator` (links it to a creator in `creators`), `site`, `id_prefix`, `limit`, `enabled` and `strict_food` (keep only posts whose title names something to make; used for accounts with lots of nutrition talk or product reviews. YouTube Shorts always use this, since they often only have a title). Website pages are read from their schema.org Recipe JSON-LD (name, ingredients, steps, totalTime, yield, category, keywords). Sites that block bots or need a login/paywall are skipped, never bypassed.
 
 ### What a run does
 
 - Lists each enabled source and fetches only items it hasn't seen (`--refresh` re-fetches all).
 - Downloads a ~400px WebP thumbnail into `thumbs/` and stores its average colour as the loading placeholder.
 - Social posts: parses the caption (line-based for Instagram, inline for TikTok's one-line captions) for title, ingredients and steps. Non-food posts (vlogs, toys, etc.) are excluded.
+- Re-posts on one platform with the same title and caption are merged into one card (preferring the one with a written recipe).
 - The same video posted on Instagram and TikTok/YouTube is merged into one card ("Also posted on"). Instagram is preferred, and the other caption's recipe is used if it has one.
 - Video-only posts: `scripts/video_recipe.py` transcribes the narration (Whisper) and OCRs on-screen text, building a recipe **only from what is said or shown**. It handles the newest 30 per run (`--video-max`); the rest wait for later runs (`video_pending` in `store.json`). Videos go to a temp folder that is deleted right away.
 - Derives tags, category, time (`quick` / `long`, `minutes` only when stated or from `totalTime`) and `mealPrep`.

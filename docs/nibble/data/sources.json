@@ -5,7 +5,9 @@
     { "handle": "babymealsfreezer", "name": "Baby Meals | Freezer Baby Meals", "instagram": "https://www.instagram.com/babymealsfreezer/" },
     { "handle": "mini.tiger.zen", "name": "DB Lee · mini.tiger.zen", "instagram": "https://www.instagram.com/mini.tiger.zen/" },
     { "handle": "busymamaeasybites", "name": "Amy · Busy Mama Easy Bites", "instagram": "https://www.instagram.com/busymamaeasybites/" },
-    { "handle": "soniamazri_", "name": "Sonia Mazri · Baby Meal Plan", "instagram": "https://www.instagram.com/soniamazri_/" }
+    { "handle": "soniamazri_", "name": "Sonia Mazri · Baby Meal Plan", "instagram": "https://www.instagram.com/soniamazri_/" },
+    { "handle": "mountain_mothering", "name": "Jess · Mountain Mothering", "instagram": "https://www.instagram.com/mountain_mothering/" },
+    { "handle": "thepickyeater", "name": "Anjali Shah · The Picky Eater", "instagram": "https://www.instagram.com/thepickyeater/" }
   ],
   "sources": [
     { "type": "instagram_reel", "creator": "kidfriendly.meals", "url": "https://www.instagram.com/reel/DbL8lkyxo5u/" },
@@ -14,20 +16,29 @@
     { "type": "instagram_reel", "creator": "busymamaeasybites", "url": "https://www.instagram.com/reel/DdnIx7EugPm/" },
     { "type": "instagram_reel", "creator": "soniamazri_", "url": "https://www.instagram.com/reel/DYM-EdVRv5w/" },
     { "type": "instagram_reel", "creator": "soniamazri_", "url": "https://www.instagram.com/reel/DZNgOJWxKeb/" },
+    { "type": "instagram_reel", "creator": "mountain_mothering", "url": "https://www.instagram.com/reel/DcbRdMQoCC2/" },
+    { "type": "instagram_reel", "creator": "thepickyeater", "url": "https://www.instagram.com/reel/DcFDtQDv_7p/" },
 
     { "type": "instagram_profile", "creator": "kidfriendly.meals", "url": "https://www.instagram.com/kidfriendly.meals/", "enabled": false, "note": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists" },
     { "type": "instagram_profile", "creator": "babymealsfreezer", "url": "https://www.instagram.com/babymealsfreezer/", "enabled": false, "note": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists" },
     { "type": "instagram_profile", "creator": "mini.tiger.zen", "url": "https://www.instagram.com/mini.tiger.zen/", "enabled": false, "note": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists" },
     { "type": "instagram_profile", "creator": "busymamaeasybites", "url": "https://www.instagram.com/busymamaeasybites/", "enabled": false, "note": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists" },
     { "type": "instagram_profile", "creator": "soniamazri_", "url": "https://www.instagram.com/soniamazri_/", "enabled": false, "note": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists" },
+    { "type": "instagram_profile", "creator": "mountain_mothering", "url": "https://www.instagram.com/mountain_mothering/", "enabled": false, "note": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists" },
+    { "type": "instagram_profile", "creator": "thepickyeater", "url": "https://www.instagram.com/thepickyeater/", "enabled": false, "note": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists" },
 
     { "type": "tiktok_profile", "creator": "soniamazri_", "url": "https://www.tiktok.com/@soniamazri" },
     { "type": "tiktok_profile", "creator": "busymamaeasybites", "url": "https://www.tiktok.com/@busymamaeasybites" },
     { "type": "tiktok_profile", "creator": "mini.tiger.zen", "url": "https://www.tiktok.com/@mini.tiger.zen" },
     { "type": "tiktok_profile", "creator": "babymealsfreezer", "url": "https://www.tiktok.com/@babymealsfreezer" },
+    { "type": "tiktok_profile", "creator": "mountain_mothering", "url": "https://www.tiktok.com/@mountain_mothering" },
+    { "type": "tiktok_profile", "creator": "thepickyeater", "url": "https://www.tiktok.com/@pickyeaterblog", "strict_food": true, "note": "Lots of nutrition talk and product reviews here, so only posts that name something to make are kept" },
+    { "type": "youtube_channel", "creator": "mountain_mothering", "url": "https://www.youtube.com/@mountain_mothering/shorts" },
+    { "type": "youtube_channel", "creator": "thepickyeater", "url": "https://www.youtube.com/@thepickyeater/shorts" },
     { "type": "youtube_channel", "creator": "kidfriendly.meals", "url": "https://www.youtube.com/@kidfriendlymeals/shorts" },
     { "type": "youtube_channel", "creator": "busymamaeasybites", "url": "https://www.youtube.com/@busymamaeasybites/shorts" },
     { "type": "website_category", "creator": "kidfriendly.meals", "site": "MJ and Hungryman", "site_url": "https://www.mjandhungryman.com/", "id_prefix": "mj", "url": "https://www.mjandhungryman.com/category/baby-kid-friendly-recipes/", "limit": 150 },
+    { "type": "website_category", "creator": "thepickyeater", "site": "The Picky Eater", "site_url": "https://pickyeaterblog.com/", "id_prefix": "pe", "url": "https://pickyeaterblog.com/category/kid-friendly-recipes/", "limit": 150 },
 
     { "type": "website_sitemap", "site": "Healthy Little Foodies", "site_url": "https://www.healthylittlefoodies.com/", "id_prefix": "hlf", "url": "https://www.healthylittlefoodies.com/post-sitemap.xml", "limit": 18,
       "include": ["muffin", "zucchini", "pasta", "mac-and-cheese", "macaroni", "fritter", "bites", "pancake", "nugget", "sauce", "hidden-veg", "veggie", "freezer", "banana", "snack", "toddler"], "exclude": ["puree", "how-to", "ideas", "guide", "tips"] },

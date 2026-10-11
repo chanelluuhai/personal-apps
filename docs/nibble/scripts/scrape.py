@@ -225,6 +225,8 @@ def sections(caption):
             cur = notes; continue
         if cur is None:
             continue
+        if re.match(r"^\W*(nutrition|macros|calories)\b", clean(l) or l, re.I):
+            cur = None; continue
         if BULLET.match(l) or (cur is steps and len(steps) < 15 and not l.startswith("#")):
             item = clean(BULLET.sub("", l))
             if item and not item.lower().startswith(("that", "save this", "follow", "want ")):
@@ -244,6 +246,7 @@ def summary(caption, title):
     for p in re.split(r"\n\s*\n", caption):
         keep = [clean(l) for l in p.splitlines()]
         keep = [l for l in keep if l and not skip.match(l) and not GENERIC.match(l)
+                and not QTY_LEAD.match(l) and not RECIPE_HEAD.match(l)
                 and l.lower().rstrip(".!") != title.lower()]
         if keep:
             paras.append(" ".join(keep))
@@ -493,8 +496,42 @@ def inline_sections(caption):
 COOKY = re.compile(r"\b(mix|stir|blend|whisk|mash|microwave|bake|cook|boil|steam|simmer|roast|fry|saut[eé]|toast|grill|heat|freeze|pour|fold|knead|puree|purée|shape|flatten|spread|combine|add|brown|season|roll|wrap|fill|layer|top|cut|slice|grate|preheat|serve)\b", re.I)
 
 
+QTY_LEAD = re.compile(r"^\s*(\d|[½¼¾⅓⅔⅛]|a (pinch|dash|handful|cup|few)|pinch|dash|one|two|three|half)\b", re.I)
+RECIPE_HEAD = re.compile(r"^\s*\W*\s*(full )?recipe\s*(below|here)?\s*\W*\s*:?\s*\W*$", re.I)
+STEP_VERB = re.compile(r"^\s*(mix|stir|blend|whisk|mash|microwave|bake|cook|boil|steam|simmer|roast|fry|saut[eé]|toast|grill|heat|"
+                       r"freeze|pour|fold|knead|shape|flatten|spread|combine|add|season|roll|wrap|fill|layer|top|cut|slice|grate|"
+                       r"preheat|serve|place|transfer|let|remove|chill|refrigerate|form|scoop|press|line|grease|brush|toss)\b", re.I)
+
+
+def heading_block(caption):
+    """'Full Recipe:' (or 'Recipe:') followed by plain lines: quantity-led lines are ingredients,
+    then lines that start with a cooking verb are steps."""
+    lines = [l.strip() for l in (caption or "").splitlines()]
+    start = next((k for k, l in enumerate(lines) if RECIPE_HEAD.match(l)), None)
+    if start is None:
+        return [], [], []
+    ing, steps = [], []
+    for l in lines[start + 1:]:
+        if not l:
+            continue
+        c = clean(BULLET.sub("", l))
+        if not c or c.startswith("#"):
+            break
+        if QTY_LEAD.match(c) and not steps and len(c) < 120:
+            ing.append(c)
+        elif STEP_VERB.match(c) and ing:
+            steps.append(c)
+        elif ing:
+            break
+    if len(ing) < 2 or food_count(" ".join(ing)) < 2:
+        return [], [], []
+    return ing, steps, []
+
+
 def recipe_from_caption(caption):
     ing, steps, notes = sections(caption or "")
+    if not (ing or steps) and caption and "\n" in caption.strip():
+        ing, steps, notes = heading_block(caption)
     if not (ing or steps) and caption and "\n" not in caption.strip():
         ing, steps = inline_sections(caption)
         if food_count(" ".join(ing)) < 2:  # a bullet list that isn't food (prices, toys, tips)
@@ -526,6 +563,22 @@ def _shorten(t):
     return t
 
 
+STAPLES = re.compile(r"\b(flour|baking (powder|soda)|salt|pepper|sugar|oil|water|butter|vanilla|eggs?|egg yolks?|milk|yeast|spices?)\b", re.I)
+
+
+def title_from_ingredients(ing):
+    """For a caption that names no dish: the two main ingredients, as written (no invented dish name)."""
+    picks = []
+    for x in ing:
+        n = re.sub(r"^[\d\s/½¼¾⅓⅔⅛.,-]*(cups?|tablespoons?|tbsps?|teaspoons?|tsps?|grams?|g|oz|lbs?|pounds?|of|large|small|medium)?\b\s*(of\s+)?", "", x, flags=re.I)
+        n = re.sub(r"\s*\(.*?\)|,.*$", "", n).strip()
+        if n and not STAPLES.fullmatch(n) and not re.match(r"^\s*(\w+\s)?(butter|flour|salt|sugar|oil|water)\s*$", n, re.I):
+            picks.append(n)
+        if len(picks) == 2:
+            break
+    return nice(" & ".join(picks)) if picks else ""
+
+
 def social_title(caption, fallback):
     cap = caption or ""
     pl = pseudo_lines(cap)
@@ -543,7 +596,12 @@ def social_title(caption, fallback):
             if 1 <= len(nxt.split()) <= 9 and not any(ch in nxt for ch in BUL_CH):
                 return nice(nxt)[:90]
     if "\n" in cap.strip():  # real line breaks (Instagram): the original rules work well
-        return _shorten(title_from(pl, fallback)) or fallback
+        kept = [l for l in pl.splitlines() if l.strip() and not (RECIPE_HEAD.match(clean(l) or l) or re.match(r"^\W*(full )?recipe (below|here)\W*$", clean(l) or "", re.I))]
+        if kept:
+            m = re.match(r"\W*this ([a-z][\w\s&’'-]{3,60}?) (?:is|are|was)\b", clean(kept[0]) or "", re.I)
+            if m:
+                return nice(m.group(1).strip())[:90]
+        return _shorten(title_from("\n".join(kept), fallback)) or fallback
     cands, days = [], []
     for l in lines[:6]:
         l = ING_CUT.split(l)[0]
@@ -588,9 +646,43 @@ def food_count(text):
     return len({m.lower() for m in FOOD_RE.findall(text)})
 
 
-def is_food_post(caption, has_recipe):
+# Nutrition talk, product reviews and parenting advice: not something to cook.
+NOT_RECIPE = re.compile(
+    r"what.?s (really )?(inside|in)\b|did you know|\bavoid\b|never (eat|buy|give)|won.?t (give|be eating|eat)|will not be eating|"
+    r"unhealthiest|misconception|health coach|what i eat in a day|taste test|grocery|\bhaul\b|costco|sugar (in|bomb)|how much sugar|"
+    r"^is (this|your)|\bsigns\b|\brule\b|cheat sheet|\bvs\.?\b|\bor oat milk|meal plans?\b|replacements? for|substitutes|"
+    r"teach your|just a phase|picky eating|won.?t eat|fussy|break down|ingredient list|^pov: you started|how i became|why you should|"
+    r"^your kids|^does your child|^don.?t eat|the reason (most|why)|you would never guess|how to get a picky|gut-friendly|eating vegan 101|"
+    r"^snack smart|fill you up|morning coffee|"
+    r"^(top )?\d+ (foods|things|ways|processed|vegan foods|most|ingredients|signs)|foods (that|to avoid|containing|i would)|"
+    r"these (foods|are going)|\bthinks? milk\b|can be a smart choice|made with duck|happens when|nutrition hacks|eating changes|"
+    r"increase your protein|without meat\?|^get (healthy|the recipe)|^save for|blog as a hobby|\bdoes eating\b|functional mushrooms|"
+    r"source of (calcium|iron)|stop (relying|cooking)|add \d+ years|making you sick|empty stomach|tip to|meal planning hack|"
+    r"healthy (snacks|food) (for picky eaters )?at|feel like this", re.I)
+
+
+ALCOHOL = re.compile(r"\b(margaritas?|cocktails?|mocktails? with|mojitos?|sangria|wine\b|beer|vodka|tequila|rum\b|spritz|martinis?|mimosas?|bourbon|whiske?y)\b", re.I)
+STRICT_DISH = re.compile(r"\b(potato(es)?|fries|rolls?|blondies|brownies|popcorn|granola|oats|chili|lasagna|noodles|pasta|mac|bread|cereal|jam|syrup|"
+                         r"juice|latte|milk|tofu|falafel|hummus|eggs?|beans|lentils?|rice|ice cream|popsicles?|pie|donuts?|flapjacks|crunch|"
+                         r"chowder|masala|sabji|sloppy|roast|parmesan|dressing|taquitos|reuben|lunchables|happy meals|shots|grapes|salsa|"
+                         r"guacamole|biscuits|crackers|cheez|churros|jerky|energy|protein balls|parfait|yogurt|chia|cauliflower|broccoli|"
+                         r"veggies?|fruit|smoothie|nachos|burgers?|sliders|kebabs?|pinwheels|bagels?|muffins?|pancakes?|waffles?|oatmeal)\b", re.I)
+
+
+def is_food_post(caption, has_recipe, strict=False, title=""):
+    """strict is used for YouTube Shorts, where we often only have a title: drop nutrition talk,
+    product reviews and parenting advice that name foods but aren't something to cook."""
     if has_recipe:
         return True
+    if strict:
+        heads = [re.sub(r"#[\w]+", " ", (caption or "").strip().split("\n")[0])[:140].strip(), (title or "")[:140]]
+        if any(NOT_RECIPE.search(h) and not re.search(r"\brecipe\b", h, re.I) for h in heads if h):
+            return False
+        if any(ALCOHOL.search(h) for h in heads if h):
+            return False
+        # Must name something to make, not just talk about food.
+        if not any(DISH.search(h) or STRICT_DISH.search(h) for h in heads if h):
+            return False
     t = re.sub(r"#[\w]+", " ", caption or "")
     foods, dishes = food_count(t), len({d[0].lower() if isinstance(d, tuple) else d.lower() for d in DISH.findall(t)})
     if LIFESTYLE.search(caption or "") and foods < 3:
@@ -715,13 +807,13 @@ def social_item(platform, pid, url, caption, ts, handle, name, creator, thumbs, 
             "fetched_at": now_iso()}
 
 
-def want_social(store, iid, caption, refresh):
+def want_social(store, iid, caption, refresh, title="", strict=False):
     if iid in store["items"] and not refresh and store["items"][iid].get("status") in ("ok", "merged"):
         return False
     if iid in store["skipped"] and not refresh:
         return False
     ing, steps, _ = recipe_from_caption(caption)
-    if not is_food_post(caption, bool(ing or steps)):
+    if not is_food_post(caption, bool(ing or steps), strict=strict or iid.startswith("yt-"), title=title or social_title(caption, "")):
         store["skipped"][iid] = "not a food post"
         return False
     return True
@@ -783,7 +875,7 @@ def run_tiktok(src, store, creators, args):
     for e in entries:
         pid = str(e.get("id"))
         cap = e.get("description") or e.get("title") or ""
-        if not want_social(store, "tt-" + pid, cap, args.refresh):
+        if not want_social(store, "tt-" + pid, cap, args.refresh, strict=bool(src.get("strict_food"))):
             continue
         handle = e.get("uploader") or src["url"].rstrip("/").rsplit("@", 1)[-1]
         thumbs = [t.get("url") for t in sorted(e.get("thumbnails") or [], key=lambda t: (t.get("id") != "cover", -(t.get("width") or 0)))]
@@ -793,6 +885,8 @@ def run_tiktok(src, store, creators, args):
         if not it["thumb"]:
             store["skipped"]["tt-" + pid] = "no photo"
             continue
+        if src.get("strict_food"):
+            it["strict_food"] = True
         store["items"][it["id"]] = it
         added += 1
         log(f"ok   {it['id']}  @{handle}  {social_title(cap, '')[:60]}")
@@ -858,6 +952,14 @@ def list_category(src):
             raise
         arts = re.findall(r"<article\b.*?</article>", html, re.S)
         found = [m.group(1) for a in arts for m in [re.search(r'href="([^"]+)"', a)] if m]
+        if len(found) < 5:
+            # Themes without <article> cards: take one-segment post links from the main content area.
+            main = re.search(r"<main\b.*?</main>", html, re.S)
+            host = re.escape(urllib.parse.urlsplit(src["url"]).netloc)
+            skip = {"about", "shop-now", "contact", "privacy-policy", "recipes", "category", "tag", "page", "subscribe", "shop"}
+            found = [u for u in re.findall(r'href="(https?://' + host + r'/([a-z0-9-]+)/)"', main.group(0) if main else html)
+                     if u[1] not in skip]
+            found = [u[0] for u in found]
         if not found:
             break
         urls += found
@@ -963,6 +1065,8 @@ def derive_social(it):
     if not (ing or steps) and v.get("kind") in ("video", "video-partial"):
         ing, steps, extraction, frm = v["ingredients"], v["steps"], v["kind"], "video"
     it["ingredients"], it["steps"], it["notes"], it["extraction"], it["recipe_from"] = ing, steps, notes, extraction, frm
+    if not it.get("title_locked") and ing and (re.match(r"^\W*(full )?recipe\b", it["title"], re.I) or _norm(it["title"])[:18] == _norm(ing[0])[:18]):
+        it["title"] = title_from_ingredients(ing) or it["title"]
     if not it.get("summary_locked"):
         it["summary"] = summary(pseudo_lines(cap), it["title"])
     it["links"] = links_in(cap)
@@ -1008,7 +1112,8 @@ def derive(it):
         derive_social(it)
         cap = it.get("caption") or ""
         full = bool(it.get("ingredients") or it.get("steps"))
-        it["status"] = "ok" if (is_food_post(cap, full) or it.get("extraction") in ("video", "video-partial")) else "excluded"
+        strict = it.get("platform") == "youtube" or bool(it.get("strict_food"))
+        it["status"] = "ok" if (is_food_post(cap, full, strict, it.get("title") or "") or it.get("extraction") in ("video", "video-partial")) else "excluded"
     if it.get("thumb") and not it.get("color"):
         it["color"] = thumb_color(it["thumb"])
 
@@ -1048,6 +1153,25 @@ def link_mirrors(items):
         if best and not a.get("mirror"):
             a["mirror"] = {"platform": best["platform"], "url": best["url"], "id": best["id"], "caption": best.get("caption")}
             best["status"], best["merged_into"] = "merged", a["id"]
+    # Re-posts on one platform with the same title (common on TikTok): keep one card, preferring the one
+    # with a written recipe, then the newest.
+    groups = {}
+    for i in items.values():
+        if i.get("status") != "ok" or i.get("platform") not in rank:
+            continue
+        t = re.sub(r"\brecipes?\b|@\w+|[^a-z0-9 ]", " ", (i.get("title") or "").lower())
+        t = re.sub(r"\s+", " ", t).strip()
+        if len(t) >= 8 and not re.match(r"(full recipe|recipe (below|in|on)|the secret ingredient|link in bio|everything my|what my)", t):
+            groups.setdefault((i.get("creator"), i["platform"], t), []).append(i)
+    for g in groups.values():
+        if len(g) < 2:
+            continue
+        g.sort(key=lambda i: (0 if (i.get("ingredients") or i.get("steps")) else 1, "".join(chr(255 - ord(c)) for c in (i.get("date") or ""))))
+        keep = g[0]
+        for dup in g[1:]:
+            same_cap = difflib.SequenceMatcher(None, _norm(keep.get("caption"))[:160], _norm(dup.get("caption"))[:160]).ratio() >= 0.6
+            if same_cap:
+                dup["status"], dup["merged_into"] = "merged", keep["id"]
 
 
 # ---------- outputs ----------
@@ -1064,12 +1188,21 @@ def kw_text(it):
 
 
 def order_items(items):
-    """Creators first (round-robin across creators, newest first within each), then recipe sites."""
-    def rr(group_key, pool):
+    """Creators first, then recipe sites. Creators go round-robin, newest first within each, except that the
+    reels Chanel sent (instagram_reel sources) lead their creator's queue, and creators with the newest sent
+    reel go first, so every sent reel lands in the first round of the feed."""
+    def featured(it):
+        return it.get("platform") == "instagram"
+    def rr(group_key, pool, feature=False):
         groups = {}
         for it in sorted(pool, key=lambda i: i.get("date") or "", reverse=True):
             groups.setdefault(group_key(it), []).append(it)
-        out, qs = [], list(groups.values())
+        qs = list(groups.values())
+        if feature:
+            for q in qs:
+                q.sort(key=lambda i: (0 if featured(i) else 1, "".join(chr(255 - ord(c)) for c in (i.get("date") or ""))))
+            qs.sort(key=lambda q: (0 if featured(q[0]) else 1, "".join(chr(255 - ord(c)) for c in (q[0].get("date") or ""))))
+        out = []
         while any(qs):
             for q in qs:
                 if q:
@@ -1077,7 +1210,7 @@ def order_items(items):
         return out
     creators = [i for i in items if i.get("kind") == "creator"]
     sites = [i for i in items if i.get("kind") != "creator"]
-    return rr(lambda i: i.get("creator"), creators) + rr(lambda i: i.get("site"), sites)
+    return rr(lambda i: i.get("creator"), creators, True) + rr(lambda i: i.get("site"), sites)
 
 
 CARD_KEYS = ("id", "url", "platform", "kind", "creator", "site", "title", "thumb", "thumb_w", "thumb_h", "color", "date",
