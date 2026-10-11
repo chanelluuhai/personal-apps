@@ -250,6 +250,8 @@
     $('#filter-shell').style.visibility = v === 'saved' ? 'hidden' : '';
     moveIndicator();
     render();
+    if (v === 'feed') noteFeedReadyForHint();
+    else { clearTimeout(hintWait); if (hintBusy) cancelHeaderHint(); }
   }
   $$('.tab', seg).forEach(t => t.addEventListener('click', () => setView(t.dataset.tab)));
   $('#saved-btn').addEventListener('click', () => setView(state.view === 'saved' ? 'feed' : 'saved'));
@@ -455,6 +457,7 @@
   /* ---------- search (shared pattern) ---------- */
   const topbar = $('#topbar'), searchEl = $('#search'), searchToggle = $('#search-toggle');
   function openSearch() {
+    clearTimeout(hintWait); if (hintBusy) cancelHeaderHint();
     searchToggle.classList.add('is-active'); searchToggle.setAttribute('aria-expanded', 'true'); searchToggle.setAttribute('aria-pressed', 'true');
     searchEl.focus({ preventScroll: true }); topbar.classList.add('search-focused');
   }
@@ -462,6 +465,7 @@
     if (!searchEl.value.trim()) {
       topbar.classList.remove('search-focused'); searchToggle.classList.remove('is-active');
       searchToggle.setAttribute('aria-expanded', 'false'); searchToggle.setAttribute('aria-pressed', 'false');
+      noteFeedReadyForHint();
     }
   }
   searchToggle.addEventListener('click', openSearch);
@@ -491,9 +495,94 @@
       + sites.map(x => `<li>${link(x.site_url || new URL(x.url).origin, x.site)}</li>`).join('');
   }
 
+  /* ---------- header hint (copied from Toddler Spots) ----------
+     Once per device, when the feed is showing: the name fades out while the pill
+     shrinks to the icon, it grows back with "Click here for more info" for ~3.3s,
+     then shrinks and returns to the name. Tapping the pill opens About as usual. */
+  const HINT_KEY = 'nibble-sip-header-hint';
+  const HINT_LABEL = 'Click here for more info';
+  const BRAND_LABEL = 'Nibble & Sip';
+  let hintWait = 0, hintPhase = 0, hintBusy = false, hintGen = 0;
+  function brandTextEl() { return openAbout.querySelector('.brand-text'); }
+  function hintSeen() { try { return localStorage.getItem(HINT_KEY) === '1'; } catch (err) { return true; } }
+  function markHintSeen() { try { localStorage.setItem(HINT_KEY, '1'); } catch (err) {} }
+  function feedReadyForHint() {
+    return !!(welcome.hidden && state.view === 'feed' && !topbar.hidden && !topbar.classList.contains('search-focused') && $('#sheet').hidden);
+  }
+  function restoreBrandTitle() {
+    const text = brandTextEl(), pill = openAbout;
+    text.classList.remove('is-hint'); text.textContent = BRAND_LABEL; text.style.opacity = '';
+    pill.classList.remove('showing-hint'); pill.style.width = ''; pill.style.overflow = ''; pill.style.transition = '';
+  }
+  function cancelHeaderHint() { hintGen++; hintBusy = false; clearTimeout(hintPhase); restoreBrandTitle(); }
+  function noteFeedReadyForHint() {
+    if (hintSeen() || hintBusy) return;
+    clearTimeout(hintWait);
+    hintWait = setTimeout(runHeaderHint, 300);
+  }
+  function measureBrandWidth(mutate) {
+    const pill = openAbout, locked = pill.style.width, prevTransition = pill.style.transition;
+    pill.style.transition = 'none';
+    mutate();
+    const w = Math.ceil(pill.getBoundingClientRect().width);
+    pill.style.width = locked; void pill.offsetWidth; pill.style.transition = prevTransition;
+    return w;
+  }
+  function collapsedBrandWidth() {
+    const text = brandTextEl(), pill = openAbout, locked = pill.style.width, prevTransition = pill.style.transition;
+    pill.style.transition = 'none'; text.style.display = 'none'; pill.style.width = 'max-content';
+    const w = Math.ceil(pill.getBoundingClientRect().width);
+    text.style.display = ''; pill.style.width = locked; void pill.offsetWidth; pill.style.transition = prevTransition;
+    return w;
+  }
+  function naturalBrandWidth() { return measureBrandWidth(() => { openAbout.style.width = 'max-content'; }); }
+  function runHeaderHint() {
+    if (hintSeen() || hintBusy) return;
+    if (!feedReadyForHint()) return;
+    const text = brandTextEl(), pill = openAbout;
+    const gen = ++hintGen;
+    hintBusy = true;
+    const alive = () => gen === hintGen && feedReadyForHint();
+    function stop() { if (gen !== hintGen) return; cancelHeaderHint(); if (!hintSeen()) noteFeedReadyForHint(); }
+    if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+      text.textContent = HINT_LABEL; text.classList.add('is-hint'); markHintSeen();
+      hintPhase = setTimeout(() => { if (!alive()) { stop(); return; } hintBusy = false; restoreBrandTitle(); }, 3000);
+      return;
+    }
+    const startW = Math.ceil(pill.getBoundingClientRect().width);
+    const small = collapsedBrandWidth();
+    pill.style.overflow = 'hidden'; pill.style.transition = 'none'; pill.style.width = startW + 'px'; text.style.opacity = '1';
+    void pill.offsetWidth;
+    pill.style.transition = ''; text.style.opacity = '0'; pill.style.width = small + 'px';
+    hintPhase = setTimeout(() => {
+      if (!alive()) { stop(); return; }
+      text.textContent = HINT_LABEL; text.classList.add('is-hint'); pill.classList.add('showing-hint');
+      const target = naturalBrandWidth();
+      pill.style.transition = 'none'; pill.style.width = small + 'px'; void pill.offsetWidth;
+      pill.style.transition = ''; text.style.opacity = '1'; pill.style.width = target + 'px';
+      markHintSeen();
+      hintPhase = setTimeout(() => {
+        if (!alive()) { stop(); return; }
+        text.style.opacity = '0'; pill.style.width = small + 'px';
+        hintPhase = setTimeout(() => {
+          if (!alive()) { stop(); return; }
+          text.classList.remove('is-hint'); text.textContent = BRAND_LABEL; pill.classList.remove('showing-hint');
+          const back = naturalBrandWidth();
+          pill.style.transition = 'none'; pill.style.width = small + 'px'; void pill.offsetWidth;
+          pill.style.transition = ''; text.style.opacity = '1'; pill.style.width = back + 'px';
+          hintPhase = setTimeout(() => {
+            if (gen !== hintGen) return;
+            hintBusy = false; pill.style.width = ''; pill.style.overflow = ''; text.style.opacity = '';
+          }, 360);
+        }, 340);
+      }, 3320);
+    }, 340);
+  }
+
   /* ---------- welcome (shared shape) ---------- */
   const welcome = $('#welcome'), welcomeEnter = $('#welcome-enter');
   function openWelcome() {
+    clearTimeout(hintWait); if (hintBusy) cancelHeaderHint();
     const bits = $$('.welcome-emoji, .welcome-wordmark, .welcome-line, .welcome-enter, .welcome-credit', welcome);
     welcome.classList.remove('open'); welcome.hidden = false;
     welcome.style.transition = 'none'; bits.forEach(el => { el.style.transition = 'none'; });
@@ -504,7 +593,7 @@
   function closeWelcome() {
     store(WELCOME_KEY, 1);
     welcome.classList.remove('open');
-    setTimeout(() => { if (!welcome.classList.contains('open')) welcome.hidden = true; }, 360);
+    setTimeout(() => { if (!welcome.classList.contains('open')) welcome.hidden = true; noteFeedReadyForHint(); }, 360);
   }
   welcomeEnter.addEventListener('click', closeWelcome);
   $('#welcome-replay').addEventListener('click', () => { closeAbout(); setTimeout(openWelcome, 200); });
