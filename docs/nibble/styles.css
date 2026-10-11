@@ -78,7 +78,7 @@ button, input { font-family: inherit; }
   transition: max-width 460ms var(--ease), padding 460ms var(--ease), margin 460ms var(--ease), opacity 280ms ease;
 }
 .brand-mark { width: 38px; height: 38px; display: grid; place-items: center; flex-shrink: 0; }
-.brand-logo { width: 38px; height: 38px; object-fit: contain; display: block; }
+.brand-logo { width: 34px; height: 34px; object-fit: contain; display: block; }
 .brand-text { font-family: var(--display); font-weight: 600; font-size: 1.08rem; letter-spacing: -0.015em; line-height: 1; white-space: nowrap; }
 .search-pill {
   position: absolute; z-index: 3; right: 14px; top: calc(8px + var(--safe-top));
@@ -433,15 +433,17 @@ details.caption p { white-space: pre-wrap; font-size: 0.86rem; color: var(--ink-
 .welcome.open .welcome-line { opacity: 1; transform: none; transition-delay: 350ms; }
 .welcome.open .welcome-enter { opacity: 1; transform: none; transition-delay: 480ms; }
 .welcome.open .welcome-credit { opacity: 1; transform: none; transition-delay: 620ms; }
-.welcome-emoji { display: flex; align-items: flex-end; justify-content: center; gap: 12px; margin: 0 0 36px; }
-.welcome-emoji img { width: 92px; height: 92px; object-fit: contain; display: block; opacity: 0; transform: translateY(12px) scale(.88); }
+/* Sized to Spots: its 92px icon boxes have ~70px of visible clay; these art files are cropped tight, so 76px boxes give about the same visible size (~70px). */
+.welcome-emoji { display: flex; align-items: flex-end; justify-content: center; gap: 20px; line-height: 1; margin: 0 0 40px; }
+.welcome-emoji img { width: 76px; height: 76px; object-fit: contain; display: block; opacity: 0; transform: translateY(12px) scale(.88); }
 .welcome.open .welcome-emoji img { animation: welcomeIconBounce 500ms var(--spring) both; }
 .welcome.open .welcome-emoji img:nth-child(2) { animation-delay: 110ms; }
 .welcome.open .welcome-emoji img:nth-child(3) { animation-delay: 220ms; }
 .welcome.open .welcome-emoji img:nth-child(4) { animation-delay: 330ms; }
-@media (max-width: 380px) { .welcome-emoji img { width: 78px; height: 78px; } }
-.welcome-wordmark { width: min(330px, 86vw); height: auto; display: block; margin: 0 0 26px; }
-@media (max-width: 600px) { .welcome-wordmark { width: min(262px, 70vw); } }
+@media (max-width: 380px) { .welcome-emoji img { width: 63px; height: 63px; } .welcome-emoji { gap: 16px; } }
+/* Letter height matched to the "Toddler spots" wordmark (~46px mobile, ~68px desktop). */
+.welcome-wordmark { width: min(293px, 77vw); height: auto; display: block; margin: 0 0 28px; }
+@media (max-width: 600px) { .welcome-wordmark { width: min(205px, 54vw); } }
 .welcome-line { margin: 0 0 22px; max-width: 32ch; color: var(--ink-2); font-size: 1.02rem; line-height: 1.55; }
 .welcome-credit { margin-top: auto; margin-bottom: 0; color: var(--ink-2); font-size: 1.02rem; line-height: 1.55; letter-spacing: 0.01em; }
 .welcome-enter {
