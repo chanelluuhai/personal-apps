@@ -441,7 +441,7 @@ def write_recipe_pages(items):
     os.makedirs(out_dir, exist_ok=True)
     keep = set()
     for it in items:
-        if it.get("status") != "ok" or not (it.get("ingredients") or it.get("steps")):
+        if it.get("status") != "ok" or not (it.get("ingredients") and it.get("steps")):
             continue
         keep.add(f"{it['id']}.html")
         ld = {
@@ -483,7 +483,7 @@ def write_recipe_pages(items):
 {f'<img class="hero" src="../{esc(it["thumb"])}" alt="{esc(it["title"])}"/>' if it.get('thumb') else ''}
 {f'<section class="card"><h2>Ingredients</h2><ul>{ing}</ul></section>' if ing else ''}
 {f'<section class="card"><h2>Steps</h2><ol>{st}</ol></section>' if st else ''}
-<p>Recipe text as written by @{esc(it.get('account'))}. <a class="btn" href="{esc(src)}" rel="noopener">Open original</a></p>
+<p>{"From the video's narration and on-screen text, by @" + esc(it.get('account')) + "." if it.get('extraction') == 'video' else "Recipe text as written by @" + esc(it.get('account')) + "."} <a class="btn" href="{esc(src)}" rel="noopener">Open original</a></p>
 </main></body></html>
 """
         open(os.path.join(out_dir, f"{it['id']}.html"), "w", encoding="utf-8").write(html)
@@ -500,6 +500,8 @@ def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--refresh", action="store_true", help="re-fetch posts already in the feed")
     ap.add_argument("--no-accounts", action="store_true", help="skip trying to list each account's recent posts")
+    ap.add_argument("--no-video", action="store_true", help="skip reading recipes out of the videos")
+    ap.add_argument("--video-retry", action="store_true", help="re-run video extraction on items already checked")
     args = ap.parse_args()
 
     sources = json.load(open(SOURCES, encoding="utf-8"))
@@ -544,6 +546,8 @@ def main():
                 for k in ("title", "summary"):
                     if old.get(k + "_locked"):
                         item[k] = old[k]
+                if old.get("video"):
+                    item["video"] = old["video"]
             by_url[url] = item
             new += 1
             log(f"ok   {code}  @{item['account']}  {item['title']}")
@@ -554,6 +558,29 @@ def main():
                 by_url[url] = {"id": code, "url": url, "status": "failed", "title": "Instagram post",
                                "error": str(e)[:200], "tags": [], "category": "meal",
                                "fetched_at": dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds")}
+
+    # Recipe from the video itself, for posts whose caption has none (checked once per post).
+    if not args.no_video:
+        try:
+            import video_recipe
+        except Exception as e:  # noqa: BLE001
+            video_recipe = None
+            log(f"video extraction unavailable: {e}")
+        for it in by_url.values():
+            if not video_recipe or it.get("status") != "ok":
+                continue
+            ci, cs, _ = sections(it.get("caption") or "")
+            if ci or cs or it.get("extraction") == "recipe-page":
+                continue
+            if it.get("video") and not args.video_retry:
+                continue
+            try:
+                res = video_recipe.from_reel(it["url"], ytdlp_bin(), it.get("title", ""), log)
+                res["checked_at"] = dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds")
+                it["video"] = res
+                log(f"video {it['id']}: {res['kind']} ({len(res['ingredients'])} ingredients, {len(res['steps'])} steps)")
+            except Exception as e:  # noqa: BLE001
+                log(f"video {it['id']}: failed: {e}")
 
     for it in by_url.values():  # rules may change; re-derive from the stored caption
         if it.get("status") == "ok" and it.get("caption") is not None:
@@ -567,12 +594,22 @@ def main():
             else:
                 it["ingredients"], it["steps"] = ci, cs
                 it["extraction"] = "caption" if (ci or cs) else "none"
+                v = it.get("video") or {}
+                if v and (v.get("narration") or v.get("onscreen")):  # re-run the (cheap) text rules on stored text
+                    import video_recipe as _vr
+                    v["ingredients"], v["steps"], v["kind"] = _vr.extract(v.get("narration"), v.get("onscreen"), it["title"])
+                if not (ci or cs) and v.get("kind") in ("video", "video-partial"):
+                    it["ingredients"], it["steps"], it["extraction"] = v["ingredients"], v["steps"], v["kind"]
                 it.setdefault("recipeSourceUrl", None)
                 it.setdefault("yield", None)
             it["links"] = links_in(it["caption"])
             if it.get("thumb") and not it.get("thumb_lqip") and os.path.exists(os.path.join(APP, it["thumb"])):
                 it["thumb_lqip"] = lqip(it["thumb"])
             text = it["title"] + "\n" + it["caption"]
+            v = it.get("video") or {}
+            if v:
+                import video_recipe as _vr
+                text += "\n" + _vr.words_to_digits(v.get("narration") or "") + "\n" + "\n".join(_vr.words_to_digits(l) for l in v.get("onscreen") or [])
             it["tags"] = auto_tags(text)
             it["category"] = category(it["tags"])
             sig = prep_signals(text)

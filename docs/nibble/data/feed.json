@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T01:36:29+00:00",
+  "updated_at": "2026-10-11T01:46:56+00:00",
   "count": 6,
   "accounts": {
     "kidfriendly.meals": {
@@ -31,8 +31,14 @@
       "title": "Korean rice cake",
       "summary": "No added sugar, easy to make. No baking involved!",
       "caption": "Baby dessert idea 🫶🏼 \nKorean rice cake — no added sugar, easy to make. No baking involved! \n\n#babyledweaningideas #blwrecipes #babyfood #toddlersnacks #babysnacks easy recipe for baby led weaning",
-      "ingredients": [],
-      "steps": [],
+      "ingredients": [
+        "tangerine",
+        "rice flour",
+        "egg"
+      ],
+      "steps": [
+        "Mix them all together and microwave for 3 minutes"
+      ],
       "notes": [],
       "account": "mini.tiger.zen",
       "account_name": "DB Lee | NYC mama",
@@ -47,16 +53,43 @@
       ],
       "category": "sweet",
       "time": "quick",
-      "minutes": null,
-      "time_basis": "no baking",
+      "minutes": 3,
+      "time_basis": "says 3 min",
       "mealPrep": false,
       "mealPrep_basis": [],
       "fetched_at": "2026-10-11T01:31:56+00:00",
       "links": [],
       "thumb_lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAAcABADASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDfubQNETNIIlxjJNUP+EfEiBobnch75qTUdS81xEkfyKw+cjORRp0VvNdSFfNidhziQjJ+grjdanKfKdPs6kIcwyWznWTaoJz97A61oabpy2m6R/mc8LnsPf3rQ6Ux+9VHCwjPmJliJyjyn//Z",
-      "extraction": "none",
+      "extraction": "video",
       "recipeSourceUrl": null,
-      "yield": null
+      "yield": null,
+      "video": {
+        "narration": "I made super easy Korean style baby dessert for my super picky toddler. It's a tangerine rice cake, just three ingredients with no added sugar, all you need are tangerine, some rice flour, and an egg. Mix them all together and microwave for three minutes and you're done. Hope your little one enjoyed this fun chewy treat as much as mine did.",
+        "onscreen": [
+          "Baby Dessert",
+          "3 ingredients",
+          "3 minutes",
+          "No oven",
+          "Microwave for",
+          "3 min"
+        ],
+        "ingredients": [
+          "tangerine",
+          "rice flour",
+          "egg"
+        ],
+        "steps": [
+          "Mix them all together and microwave for 3 minutes"
+        ],
+        "kind": "video",
+        "tools": [
+          "ffmpeg",
+          "tesseract",
+          "whisper"
+        ],
+        "checked_at": "2026-10-11T01:45:58+00:00"
+      },
+      "recipePage": "r/DeQGbyevSm9.html"
     },
     {
       "id": "DdnIx7EugPm",
@@ -173,8 +206,18 @@
       "title": "Creamy sardine hummus",
       "summary": "This creamy sardine hummus is perfect for babies 6 months and up and can be served in so many ways: on a preloaded spoon, spread on toast, or as a dip for soft-cooked veggies. The more variety we offer our little ones ea…",
       "caption": "🙋🏻‍♀️Hi I’m Min, a pediatric dietitian mom,  here to share creative baby food combos that go beyond the usual purees and are deeply nourishing.\n\nThis creamy sardine hummus is perfect for babies 6 months and up and can be served in so many ways: on a preloaded spoon, spread on toast, or as a dip for soft-cooked veggies.\nThe more variety we offer our little ones early on, the more opportunities they have to explore new flavors and textures without pressure. And yes, babies can absolutely enjoy flavorful foods, too so don’t hold back on seasoning their food. \n\n🐟Comment “sardines” and I’ll send you the details to join my community where you’ll unlock this exclusive recipe plus hundreds of nourishing meal ideas for babies and kids so you don’t have to wonder what to serve next❤️",
-      "ingredients": [],
-      "steps": [],
+      "ingredients": [
+        "chickpeas",
+        "olive oil",
+        "lemon juice",
+        "bread",
+        "sardine"
+      ],
+      "steps": [
+        "Combine with chickpeas for an extra boost of iron, some olive oil for healthy fat, and lemon juice for vitamin C which can increase iron absorption by 67%.",
+        "Blend until smooth and you can serve as is, trust me you need the spoon.",
+        "Or this is my favorite bread for babies, you'll need to toast it, slice into thick strips, spread, and this is how we make every bite count."
+      ],
       "notes": [],
       "account": "kidfriendly.meals",
       "account_name": "Min Kwon • Baby and Toddler Recipes",
@@ -197,9 +240,58 @@
       "fetched_at": "2026-10-11T01:31:52+00:00",
       "links": [],
       "thumb_lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAAcABADASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDUiRli8w4wAT+VUNN1K5OrLaynzkuE3ptH3Mf0qWDWFuLM+WBHOIgRldwBPQe9UdO1V111Yvs72uI2L7sfMOP061kmzWysXrbQ5bE7o5UkbaACUw3H504Wc7XEbSWwYkkbwQcDvWoJGUbgeaW0dmLMTz/KrsZ8zWx//9k=",
-      "extraction": "none",
+      "extraction": "video",
       "recipeSourceUrl": null,
-      "yield": null
+      "yield": null,
+      "video": {
+        "narration": "I'm a pediatric dietitian and did you know sardines are one of the lowest mercury fish that's also packed with omega 3s, calcium, iron, and vitamin D. Combine with chickpeas for an extra boost of iron, some olive oil for healthy fat, and lemon juice for vitamin C which can increase iron absorption by 67%. Blend until smooth and you can serve as is, trust me you need the spoon. Or this is my favorite bread for babies, you'll need to toast it, slice into thick strips, spread, and this is how we make every bite count.",
+        "onscreen": [
+          "I'm pediatric dietitian",
+          "and did you know",
+          "sardines are one of the",
+          "lowest mercury fish",
+          "that's also packed with",
+          "and vitamin",
+          "mbine with chickp",
+          "for an extra boost of",
+          "juice for",
+          "some olive oil for healthy",
+          "and lemon juice for",
+          "iron absorption",
+          "vitamin which can",
+          "increase iran absorption",
+          "Blend until smooth and",
+          "you can serve as",
+          "serve as",
+          "spoon or this is",
+          "or this",
+          "favorite bread for babies",
+          "You'll need to toast",
+          "slice into thick",
+          "and this is how",
+          "we make every bite count"
+        ],
+        "ingredients": [
+          "chickpeas",
+          "olive oil",
+          "lemon juice",
+          "bread",
+          "sardine"
+        ],
+        "steps": [
+          "Combine with chickpeas for an extra boost of iron, some olive oil for healthy fat, and lemon juice for vitamin C which can increase iron absorption by 67%.",
+          "Blend until smooth and you can serve as is, trust me you need the spoon.",
+          "Or this is my favorite bread for babies, you'll need to toast it, slice into thick strips, spread, and this is how we make every bite count."
+        ],
+        "kind": "video",
+        "tools": [
+          "ffmpeg",
+          "tesseract",
+          "whisper"
+        ],
+        "checked_at": "2026-10-11T01:46:16+00:00"
+      },
+      "recipePage": "r/DbL8lkyxo5u.html"
     },
     {
       "id": "DZNgOJWxKeb",
@@ -239,7 +331,33 @@
       "thumb_lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAAcABADASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDIiuZYiroFYHqSRkmt62js5NNaSZW+0lydue1Yun2TxxKZjGhALFmbAA9Pet64ZJbJWtgpJXnjnb2IrnnDmd0bRbjo9iBoQ0AWSKOZUJYKwzuzj+WKsQmaWUZhWNMDJAxn0AplqWfKFjgVOIFd3DM+F6DNdPIr3MXJn//Z",
       "extraction": "none",
       "recipeSourceUrl": null,
-      "yield": null
+      "yield": null,
+      "video": {
+        "narration": "",
+        "onscreen": [
+          "20 OF TODDLE",
+          "DAY 16",
+          "Broccoli bites",
+          "Cheesy bites",
+          "20 DAYS OF",
+          "Cheesy Broccoli",
+          "AYS OF TOD",
+          "AYS OF",
+          "heesy Br",
+          "20 DAYS OF TODDLER LUNCHES",
+          "DAYS 0",
+          "OF TODD"
+        ],
+        "ingredients": [],
+        "steps": [],
+        "kind": "none",
+        "tools": [
+          "ffmpeg",
+          "tesseract",
+          "whisper"
+        ],
+        "checked_at": "2026-10-11T01:46:33+00:00"
+      }
     },
     {
       "id": "DYM-EdVRv5w",
@@ -248,7 +366,13 @@
       "title": "Carrot mac & cheese + blackberries + avocado",
       "summary": "A comforting, low-effort meal that works perfectly for busy days.",
       "caption": "Day 5 of 20 days of toddler lunch ideas 🤍\n\nIf you’re tired of constantly thinking about what to make for lunch, this series is for you.\n\nToday’s lunch: carrot mac & cheese + blackberries + avocado\n\nA comforting, low-effort meal that works perfectly for busy days.\n\nWhy this meal works:\n\n• Carrots → provide vitamin A, supporting vision, immune health, and growth\n\n• Egg → provides high-quality protein and choline, supporting brain development\n\n• Cheese & heavy cream → provide calcium and fat to support healthy growth\n\n• Pasta → provides carbohydrates for energy\n\n• Blackberries → provide fiber and antioxidants\n\n• Avocado → provides healthy fats that support brain development\n\nMeals like this help keep things simple while still offering balanced nutrition 🤍\n\nThis is exactly the kind of meal you’ll find inside MunchMind —\nan app made for busy, overwhelmed parents like me, that plans your baby’s meals for you so you don’t have to think about what to make every day.\n\nIf you want the recipe, comment RECIPE and I’ll send it to you 💛\n\nFollow for more recipes for babies, toddlers, and families 🤍\n#toddlerlunch #toddlerrecipes #babyledweaning #pickyeater #feedingtoddlers",
-      "ingredients": [],
+      "ingredients": [
+        "carrots",
+        "cheese",
+        "egg",
+        "blackberries",
+        "avocado"
+      ],
       "steps": [],
       "notes": [
         "Carrots provide vitamin A, supporting vision, immune health, and growth",
@@ -279,9 +403,38 @@
       "fetched_at": "2026-10-11T01:32:00+00:00",
       "links": [],
       "thumb_lqip": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAAcABADASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDL1W3a2vGUbvY1rw2tvqtpDJMpIwMkHBB70G9truUfaYo49o4I6t9RU2nKyzMLR0mhJ5UEAoRWFJOyuaSaT5blCJIZJ9wUgp8pGf1rS0exhhvXljjKk8swPB49Kijt43YFhkjoe9W4pGQ7UO0KeMVSpy5r82hL5bfDqf/Z",
-      "extraction": "none",
+      "extraction": "video-partial",
       "recipeSourceUrl": null,
-      "yield": null
+      "yield": null,
+      "video": {
+        "narration": "Day 5 of toddler lunch ideas. This carrot mac and cheese is my go-to on picky days. I add carrots, cheese and egg for extra protein. It's creamy, easy to make, and perfect for busy days or when your brain is running out of ideas. Serve it with blackberries and avocado, recipes in the caption. Follow for more toddler meals.",
+        "onscreen": [
+          "DAYS OF TODDLER LUNCHES",
+          "DAY 5",
+          "Carrot Mac",
+          "ot Mac",
+          "Mac cheese",
+          "20 DAYS OF LUNCHES",
+          "Carrot Mac & cheese",
+          "he ese",
+          "OF TODDLER"
+        ],
+        "ingredients": [
+          "carrots",
+          "cheese",
+          "egg",
+          "blackberries",
+          "avocado"
+        ],
+        "steps": [],
+        "kind": "video-partial",
+        "tools": [
+          "ffmpeg",
+          "tesseract",
+          "whisper"
+        ],
+        "checked_at": "2026-10-11T01:46:45+00:00"
+      }
     }
   ]
 }

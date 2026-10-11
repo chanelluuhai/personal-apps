@@ -10,11 +10,16 @@
   const WELCOME_KEY = 'nibble-sip-welcome';
 
   const CATS = [
-    { id: 'all', label: 'All' },
-    { id: 'pasta', label: 'Pasta & noodles', icon: 'icons/clay-pizza.webp' },
-    { id: 'finger', label: 'Finger food', icon: 'icons/clay-bread.webp' },
-    { id: 'sweet', label: 'Sweets & snacks', icon: 'icons/clay-sweet.webp' },
-    { id: 'meal', label: 'Meals', icon: 'icons/clay-plate.webp' },
+    { id: 'all', label: 'All ideas', hint: 'Show everything', dot: '#B5654D' },
+    { id: 'pasta', label: 'Pasta & noodles', hint: 'Shapes he can hold', icon: 'icons/clay-pizza.webp', dot: '#C8735A' },
+    { id: 'finger', label: 'Finger food', hint: 'Bites, pancakes, dips', icon: 'icons/clay-bread.webp', dot: '#B98A5E' },
+    { id: 'sweet', label: 'Sweets & snacks', hint: 'Treats and small bites', icon: 'icons/clay-sweet.webp', dot: '#C98998' },
+    { id: 'meal', label: 'Meals', hint: 'Plates and bowls', icon: 'icons/clay-plate.webp', dot: '#7D8FAE' },
+  ];
+  const TIMES = [
+    { id: 'quick', label: 'Quick', hint: 'About 15 min or less, no-bake or no-cook', dot: '#B5654D' },
+    { id: 'long', label: 'Longer cook', hint: 'Says it takes longer', dot: '#8A4430' },
+    { id: 'prep', label: 'Meal prep', hint: 'Make-ahead, batch or freezer-friendly', dot: '#9AA383' },
   ];
   const CAT_ICON = Object.fromEntries(CATS.filter(c => c.icon).map(c => [c.id, c.icon]));
   const CAT_LABEL = Object.fromEntries(CATS.map(c => [c.id, c.label]));
@@ -79,15 +84,13 @@
     return { score, strong, reasons: hits.slice(0, 2).map(h => h.f.reason), fresh: freshUnique };
   }
 
-  /* ---------- cards ---------- */
-  function timeBadge(it) {
+  /* ---------- cards: photo, title, one quiet line ---------- */
+  function timeText(it) {
     if (it.status !== 'ok') return '';
-    let b = '';
-    if (it.minutes) b += `<span class="pbadge">${ICON.clock}${it.minutes} min</span>`;
-    else if (it.time === 'quick') b += `<span class="pbadge">${ICON.clock}Quick</span>`;
-    else if (it.time === 'long') b += `<span class="pbadge">${ICON.pot}Longer cook</span>`;
-    if (it.mealPrep) b += `<span class="pbadge">${ICON.box}Meal prep</span>`;
-    return b;
+    if (it.minutes) return `${it.minutes} min`;
+    if (it.time === 'quick') return 'Quick';
+    if (it.time === 'long') return 'Longer cook';
+    return '';
   }
   function photoHtml(it, ar, eager) {
     if (it.thumb) {
@@ -98,26 +101,19 @@
     }
     return `<div class="photo loaded" style="--ar:${ar}"><div class="placeholder">
       <img src="${CAT_ICON[it.category] || CAT_ICON.meal}" alt=""/>
-      <small>${it.status === 'ok' ? 'No photo' : 'Couldn’t fetch'}</small></div></div>`;
+      <small>${it.status === 'ok' ? 'No photo' : 'Not fetched'}</small></div></div>`;
   }
-  function card(it, i, extra = '') {
+  function card(it, i, why) {
     const ar = ARS[i % ARS.length];
-    const isSaved = saved.has(it.id);
-    const title = it.status === 'ok' ? it.title : 'Instagram post (not fetched)';
-    const src = it.account ? '@' + it.account : 'Instagram';
+    const title = it.status === 'ok' ? it.title : 'Instagram post';
+    const line = [it.account ? '@' + it.account : 'Open on Instagram', timeText(it)].filter(Boolean).join(' · ');
     return `<article class="card" role="button" tabindex="0" data-id="${esc(it.id)}" style="--i:${Math.min(i, 12)}" aria-label="${esc(title)}">
       ${photoHtml(it, ar, i < 4)}
-      <div class="photo-badges">${timeBadge(it)}</div>
-      <button type="button" class="heart" data-heart="${esc(it.id)}" aria-pressed="${isSaved}" aria-label="${isSaved ? 'Unsave' : 'Save'} ${esc(title)}"><span>${ICON.heart}</span></button>
+      ${saved.has(it.id) ? `<span class="saved-dot" aria-label="Saved">${ICON.heart}</span>` : ''}
       <div class="card-body">
-        <span class="card-src">${esc(src)}</span>
         <h3>${esc(title)}</h3>
-        ${it.status === 'ok' && it.summary ? `<p class="card-sum">${esc(it.summary)}</p>` : ''}
-        ${it.status !== 'ok' ? `<p class="card-sum">This post couldn’t be read from here. Open it on Instagram.</p>` : ''}
-        ${extra}
-        <div class="card-foot">
-          <a class="open-link" href="${esc(it.url)}" target="_blank" rel="noopener" data-stop>Open original ${ICON.out}</a>
-        </div>
+        <p class="card-line">${esc(line)}</p>
+        ${why ? `<p class="card-why">${esc(why)}</p>` : ''}
       </div>
     </article>`;
   }
@@ -137,10 +133,8 @@
     const list = items.filter(it => passes(it));
     const g = $('#feed-grid');
     g.innerHTML = list.length ? list.map((it, i) => card(it, i)).join('')
-      : emptyHtml('icons/clay-plate.webp', 'Nothing here yet', state.time.size ? 'Only ideas whose caption states a time or meal-prep tip show with these filters.' : 'Try another filter or search.', filtersActive());
+      : emptyHtml('icons/clay-plate.webp', 'Nothing here yet', state.time.size ? 'Only ideas that state a time or a make-ahead tip show with time filters.' : 'Try another filter or search.', filtersActive());
     wireImages(g);
-    const ok = items.filter(i => i.status === 'ok').length;
-    $('#feed-sub').textContent = `${list.length} of ${items.length} ideas · from ${new Set(items.map(i => i.account).filter(Boolean)).size} creators${ok < items.length ? ` · ${items.length - ok} not fetched` : ''}`;
   }
   function renderPicks() {
     const body = $('#picks-body');
@@ -148,43 +142,44 @@
     scored.sort((a, b) => b.s.score - a.s.score);
     const close = scored.filter(x => x.s.strong);
     const next = scored.filter(x => !x.s.strong);
-    const favs = profile ? profile.favorites.filter(f => f.kind === 'favorite').map(f => f.label) : [];
-    $('#picks-sub').textContent = profile && profile.headline ? `Ranked by what he already loves: ${profile.headline}.` : (favs.length ? `Ranked by what he already loves: ${favs.join(', ')}.` : '');
-    const reasons = (s) => `<div class="reasons">${s.reasons.map(r => `<span class="reason">${esc(r)}</span>`).join('')}${s.fresh.map(f => `<span class="reason new">New: ${esc(f)}</span>`).join('')}</div>`;
+    $('#picks-sub').textContent = profile && profile.headline ? `Matched to what he loves: ${profile.headline}.` : '';
     if (!scored.length) {
-      body.innerHTML = emptyHtml('icons/clay-sweet.webp', 'No close matches yet', 'Nothing in the feed lines up with his favorites' + (filtersActive() ? ' with these filters.' : ' this week. New ideas arrive weekly.'), filtersActive());
+      body.innerHTML = emptyHtml('icons/clay-sweet.webp', 'No close matches yet', 'Nothing lines up with his favorites' + (filtersActive() ? ' with these filters.' : ' this week. New ideas arrive weekly.'), filtersActive());
       return;
     }
     let i = 0;
+    const why = (s) => s.reasons[0] + (s.fresh.length ? ` · new: ${s.fresh[0]}` : '');
     const sec = (title, note, arr) => arr.length ? `<section class="pick-section">
-      <div class="section-head"><h2>${title}</h2><span>${arr.length}</span></div>
-      <p class="section-note">${note}</p>
-      <div class="grid">${arr.map(x => card(x.it, i++, reasons(x.s))).join('')}</div></section>` : '';
-    body.innerHTML = sec('Close to his favorites', 'Pasta, mac and cheese, muffins: the textures he already says yes to.', close)
-      + sec('Gentle next steps', 'Same holdable, saucy or snacky format, with one new food to meet.', next);
+      <div class="section-head"><h2>${title}</h2><p>${note}</p></div>
+      <div class="grid">${arr.map(x => card(x.it, i++, why(x.s))).join('')}</div></section>` : '';
+    body.innerHTML = sec('Close to his favorites', 'Textures he already says yes to.', close)
+      + sec('Gentle next steps', 'A familiar format with one new food.', next);
     wireImages(body);
   }
   function renderSaved() {
     const list = items.filter(it => saved.has(it.id));
     const g = $('#saved-grid');
-    g.innerHTML = list.length ? list.map((it, i) => card(it, i)).join('') : emptyHtml('icons/clay-bread.webp', 'Nothing saved yet', 'Tap the heart on any idea to keep it here.');
+    g.innerHTML = list.length ? list.map((it, i) => card(it, i)).join('') : emptyHtml('icons/clay-bread.webp', 'Nothing saved yet', 'Open an idea and tap Save to keep it here.');
     wireImages(g);
   }
-  function renderChips() {
-    const counts = {};
-    items.forEach(it => { if (passes(it, false)) counts[it.category] = (counts[it.category] || 0) + 1; });
-    const total = items.filter(it => passes(it, false)).length;
-    $('#cat-chips').innerHTML = CATS.map(c => `<button type="button" class="chip${c.icon ? '' : ' no-icon'}${c.id !== 'all' && !counts[c.id] ? ' is-empty' : ''}" data-cat="${c.id}" aria-pressed="${state.cat === c.id}">
-      ${c.icon ? `<img src="${c.icon}" alt="" width="34" height="34"/>` : ''}${c.label} <span class="count">${c.id === 'all' ? total : (counts[c.id] || 0)}</span></button>`).join('');
-    $$('#time-chips .chip').forEach(b => b.setAttribute('aria-pressed', state.time.has(b.dataset.time)));
+  function activeCount() { return (state.cat !== 'all' ? 1 : 0) + state.time.size; }
+  function renderActive() {
+    const box = $('#active-filters');
+    const pills = [];
+    if (state.cat !== 'all') pills.push(`<button type="button" class="pill" data-clear-cat aria-label="Remove ${esc(CAT_LABEL[state.cat])}">${esc(CAT_LABEL[state.cat])}<span aria-hidden="true">&times;</span></button>`);
+    TIMES.filter(t => state.time.has(t.id)).forEach(t => pills.push(`<button type="button" class="pill" data-clear-time="${t.id}" aria-label="Remove ${t.label}">${t.label}<span aria-hidden="true">&times;</span></button>`));
+    box.innerHTML = pills.join('');
+    box.hidden = !pills.length || state.view === 'saved';
+    const n = activeCount(), badge = $('#filter-count'), fb = $('#filter-btn');
+    badge.hidden = !n; badge.textContent = n;
+    fb.setAttribute('aria-label', n ? `Filter, ${n} active` : 'Filter');
   }
   function render() {
-    renderChips();
+    renderActive();
     if (state.view === 'feed') renderFeed();
     else if (state.view === 'picks') renderPicks();
     else renderSaved();
   }
-
   /* ---------- views + dock ---------- */
   const seg = $('#view-seg');
   function moveIndicator() {
@@ -200,48 +195,93 @@
     $$('.panel').forEach(p => p.classList.toggle('active', p.id === 'panel-' + v));
     $$('.tab', seg).forEach(t => { const on = t.dataset.tab === v; t.classList.toggle('active', on); t.setAttribute('aria-selected', on); });
     const sb = $('#saved-btn'); sb.classList.toggle('on', v === 'saved'); sb.setAttribute('aria-pressed', v === 'saved');
-    const filters = $('#filters');
-    if (v === 'saved') filters.hidden = true;
-    else { filters.hidden = false; $(`#panel-${v} .panel-header`).appendChild(filters); }
+    $(`#panel-${v} .panel-header`).appendChild($('#active-filters'));
+    $('#filter-shell').style.visibility = v === 'saved' ? 'hidden' : '';
     moveIndicator();
     render();
   }
   $$('.tab', seg).forEach(t => t.addEventListener('click', () => setView(t.dataset.tab)));
   $('#saved-btn').addEventListener('click', () => setView(state.view === 'saved' ? 'feed' : 'saved'));
 
-  /* ---------- chips ---------- */
-  $('#cat-chips').addEventListener('click', e => {
-    const b = e.target.closest('[data-cat]'); if (!b) return;
-    state.cat = (state.cat === b.dataset.cat && b.dataset.cat !== 'all') ? 'all' : b.dataset.cat;
-    render();
+  /* ---------- filter sheet (Spots pattern) ---------- */
+  const fSheet = $('#filter-sheet'), fBack = $('#filter-backdrop'), fBtn = $('#filter-btn');
+  let draft = null;
+  const baseList = () => state.view === 'picks' ? items.filter(it => scoreItem(it)) : items;
+  function countWith(cat, time) {
+    const keep = { cat: state.cat, time: state.time };
+    state.cat = cat; state.time = time;
+    const n = baseList().filter(it => passes(it)).length;
+    state.cat = keep.cat; state.time = keep.time;
+    return n;
+  }
+  function renderSheet() {
+    $('#cat-options').innerHTML = CATS.map(c => {
+      const on = draft.cat === c.id;
+      return `<button type="button" class="filter-chip" role="radio" aria-checked="${on}" data-cat="${c.id}">
+        <span class="dot" style="background:${c.dot}"></span>
+        <span class="label">${c.label}<span class="hint">${c.hint}</span></span>
+        <span class="n">${countWith(c.id, draft.time)}</span><span class="check"></span></button>`;
+    }).join('');
+    $('#time-options').innerHTML = TIMES.map(t => {
+      const on = draft.time.has(t.id);
+      return `<button type="button" class="filter-chip" aria-pressed="${on}" data-time="${t.id}">
+        <span class="dot" style="background:${t.dot}"></span>
+        <span class="label">${t.label}<span class="hint">${t.hint}</span></span><span class="check"></span></button>`;
+    }).join('');
+    const n = countWith(draft.cat, draft.time);
+    $('#filter-apply').textContent = `Show ${n} result${n === 1 ? '' : 's'}`;
+  }
+  function openFilters() {
+    draft = { cat: state.cat, time: new Set(state.time) };
+    renderSheet();
+    fSheet.hidden = false; fBack.hidden = false;
+    requestAnimationFrame(() => { fSheet.classList.add('open'); fBack.classList.add('open'); });
+    fBtn.classList.add('on'); fBtn.setAttribute('aria-expanded', 'true'); fBtn.setAttribute('aria-pressed', 'true');
+    setTimeout(() => $('#filter-close').focus({ preventScroll: true }), 60);
+  }
+  function closeFilters() {
+    fSheet.classList.remove('open'); fBack.classList.remove('open');
+    fBtn.classList.remove('on'); fBtn.setAttribute('aria-expanded', 'false'); fBtn.setAttribute('aria-pressed', 'false');
+    setTimeout(() => { if (!fSheet.classList.contains('open')) { fSheet.hidden = true; fBack.hidden = true; } }, 360);
+    fBtn.focus({ preventScroll: true });
+  }
+  fBtn.addEventListener('click', () => fSheet.classList.contains('open') ? closeFilters() : openFilters());
+  $('#filter-close').addEventListener('click', closeFilters);
+  fBack.addEventListener('click', closeFilters);
+  fSheet.addEventListener('click', e => {
+    const c = e.target.closest('[data-cat]');
+    if (c) { draft.cat = c.dataset.cat; renderSheet(); return; }
+    const t = e.target.closest('[data-time]');
+    if (t) {
+      const id = t.dataset.time;
+      if (draft.time.has(id)) draft.time.delete(id);
+      else { draft.time.add(id); if (id === 'quick') draft.time.delete('long'); if (id === 'long') draft.time.delete('quick'); }
+      renderSheet(); return;
+    }
+    if (e.target.closest('#filter-clear')) { draft = { cat: 'all', time: new Set() }; renderSheet(); return; }
+    if (e.target.closest('#filter-apply')) { state.cat = draft.cat; state.time = new Set(draft.time); render(); closeFilters(); }
   });
-  $('#time-chips').addEventListener('click', e => {
-    const b = e.target.closest('[data-time]'); if (!b) return;
-    const t = b.dataset.time;
-    if (state.time.has(t)) state.time.delete(t);
-    else { state.time.add(t); if (t === 'quick') state.time.delete('long'); if (t === 'long') state.time.delete('quick'); }
+  $('#active-filters').addEventListener('click', e => {
+    if (e.target.closest('[data-clear-cat]')) state.cat = 'all';
+    const t = e.target.closest('[data-clear-time]'); if (t) state.time.delete(t.dataset.clearTime);
     render();
   });
 
   /* ---------- card clicks (delegated) ---------- */
   document.addEventListener('click', e => {
     if (e.target.closest('[data-reset]')) { state.cat = 'all'; state.time.clear(); state.q = ''; $('#search').value = ''; closeSearchIfEmpty(); render(); return; }
-    const h = e.target.closest('[data-heart]');
-    if (h) { e.stopPropagation(); toggleSave(h.dataset.heart); return; }
-    if (e.target.closest('[data-stop]')) return;
     const c = e.target.closest('.card');
     if (c) openSheet(c.dataset.id);
   });
   document.addEventListener('keydown', e => {
     if ((e.key === 'Enter' || e.key === ' ') && e.target.classList && e.target.classList.contains('card')) { e.preventDefault(); openSheet(e.target.dataset.id); }
-    if (e.key === 'Escape') { if (!$('#sheet').hidden) closeSheet(); else if ($('#about-drawer').classList.contains('open')) closeAbout(); }
+    if (e.key === 'Escape') { if (!$('#sheet').hidden) closeSheet(); else if (fSheet.classList.contains('open')) closeFilters(); else if ($('#about-drawer').classList.contains('open')) closeAbout(); }
   });
   function toggleSave(id) {
     if (saved.has(id)) saved.delete(id); else saved.add(id);
     store(SAVED_KEY, [...saved]);
-    $$(`[data-heart="${CSS.escape(id)}"]`).forEach(b => b.setAttribute('aria-pressed', saved.has(id)));
     const sb = $('#sheet-save'); if (sb && sb.dataset.id === id) { sb.setAttribute('aria-pressed', saved.has(id)); sb.lastChild.textContent = saved.has(id) ? 'Saved' : 'Save'; }
-    if (state.view === 'saved') renderSaved();
+    render();
   }
 
   /* ---------- detail sheet ---------- */
@@ -253,34 +293,35 @@
     const ok = it.status === 'ok';
     const done = new Set(checked[id] || []);
     const badges = [];
-    if (it.category) badges.push(`<span class="badge">${esc(CAT_LABEL[it.category] || it.category)}</span>`);
-    if (it.minutes) badges.push(`<span class="badge">${ICON.clock}${it.minutes} min</span>`);
-    else if (it.time === 'quick') badges.push(`<span class="badge">${ICON.clock}Quick</span>`);
-    else if (it.time === 'long') badges.push(`<span class="badge">${ICON.pot}Longer cook</span>`);
+    if (it.category) badges.push(`<span class="badge soft">${esc(CAT_LABEL[it.category] || it.category)}</span>`);
+    const tt = timeText(it); if (tt) badges.push(`<span class="badge">${ICON.clock}${esc(tt)}</span>`);
     if (it.mealPrep) badges.push(`<span class="badge">${ICON.box}Meal prep</span>`);
     if (it.yield) badges.push(`<span class="badge soft">Makes ${esc(it.yield)}</span>`);
+    const partial = it.extraction === 'video-partial';
     const ing = (it.ingredients || []).map((x, n) => `<li><label><input type="checkbox" data-ing="${n}" ${done.has(n) ? 'checked' : ''}/><span class="box"></span><span class="txt">${esc(x)}</span></label></li>`).join('');
     const steps = (it.steps || []).map(x => `<li><span>${esc(x)}</span></li>`).join('');
     const notes = (it.notes || []).map(x => `<li>${esc(x)}</li>`).join('');
     const s = scoreItem(it);
     const srcName = it.account_name ? `${esc(it.account_name)} (@${esc(it.account)})` : (it.account ? '@' + esc(it.account) : 'Instagram');
-    const fromWhere = it.extraction === 'recipe-page' ? `the creator’s recipe page` : `@${esc(it.account)}’s caption`;
+    const credit = it.extraction === 'video' ? `From the video’s narration and on-screen text, by @${esc(it.account)}. Amounts aren’t given unless said.`
+      : partial ? `Mentioned in the video’s narration. The video doesn’t give a full method or amounts.`
+      : it.extraction === 'recipe-page' ? `Recipe text as written on the creator’s recipe page.`
+      : (ing || steps) ? `Recipe text as written in @${esc(it.account)}’s caption.` : '';
     $('#sheet-body').innerHTML = `
       <div class="sheet-hero">${photoHtml(it, '4 / 5', true)}</div>
       <h2 id="sheet-title">${esc(ok ? it.title : 'Instagram post (not fetched)')}</h2>
       <p class="sheet-by">By ${it.account_url ? `<a href="${esc(it.account_url)}" target="_blank" rel="noopener">${srcName}</a>` : srcName}${it.date ? ' · ' + esc(new Date(it.date + 'T12:00:00').toLocaleDateString(undefined, { month: 'short', day: 'numeric', year: 'numeric' })) : ''}</p>
-      <div class="sheet-badges">${badges.join('')}</div>
-      ${s ? `<div class="sheet-section"><strong>Why it’s a pick for him</strong><div class="reasons">${s.reasons.map(r => `<span class="reason">${esc(r)}</span>`).join('')}${s.fresh.map(f => `<span class="reason new">New: ${esc(f)}</span>`).join('')}</div></div>` : ''}
+      ${badges.length ? `<div class="sheet-badges">${badges.join('')}</div>` : ''}
+      ${s ? `<div class="sheet-section"><strong>For him</strong>${esc(s.reasons.join(' · '))}${s.fresh.length ? esc(' · new to him: ' + s.fresh.join(', ')) : ''}</div>` : ''}
       ${ok && it.summary ? `<div class="sheet-section">${esc(it.summary)}</div>` : ''}
-      ${ing ? `<div class="sheet-section"><strong>Ingredients</strong><ul class="ing-list">${ing}</ul></div>` : ''}
+      ${ing ? `<div class="sheet-section"><strong>${partial ? 'Mentioned in the video' : 'Ingredients'}</strong><ul class="ing-list">${ing}</ul></div>` : ''}
       ${steps ? `<div class="sheet-section"><strong>Steps</strong><ol class="step-list">${steps}</ol></div>` : ''}
-      ${!ing && !steps ? `<div class="recipe-missing"><img src="${CAT_ICON[it.category] || CAT_ICON.meal}" alt=""/><span>Recipe in the video, open original.</span></div>` : ''}
+      ${!steps && !partial ? `<div class="recipe-missing"><img src="${CAT_ICON[it.category] || CAT_ICON.meal}" alt=""/><span>${ing ? 'Steps are in the video, open original.' : 'Recipe in the video, open original.'}</span></div>` : ''}
+      ${credit ? `<p class="credit">${credit}</p>` : ''}
       ${notes ? `<div class="sheet-section"><strong>Why it works (from the post)</strong><ul class="note-list">${notes}</ul></div>` : ''}
       ${ok && it.caption ? `<details class="caption"><summary>Full caption</summary><p>${esc(it.caption)}</p></details>` : ''}
-      ${ing || steps ? `<p class="credit">Recipe text as written in ${fromWhere}.</p>` : ''}
       <div class="sheet-actions">
         <a class="primary" href="${esc(it.recipeSourceUrl || it.url)}" target="_blank" rel="noopener">${ICON.out}Open original</a>
-        ${it.recipeSourceUrl ? `<a class="ghost" href="${esc(it.url)}" target="_blank" rel="noopener">${ICON.out}Instagram post</a>` : ''}
         ${it.recipePage ? `<a class="ghost" href="${esc(it.recipePage)}" target="_blank" rel="noopener">${ICON.page}Recipe page</a>` : ''}
         <button type="button" class="ghost" id="sheet-save" data-id="${esc(id)}" aria-pressed="${saved.has(id)}">${ICON.heart.replace('<svg', '<svg fill="none" stroke="currentColor"')}<span>${saved.has(id) ? 'Saved' : 'Save'}</span></button>
         <button type="button" class="close-btn" id="sheet-close">Close</button>

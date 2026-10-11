@@ -15,7 +15,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com"/>
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
 <link href="https://fonts.googleapis.com/css2?family=Alice&family=Nunito:wght@400;500;600;700&display=swap" rel="stylesheet"/>
-<link rel="stylesheet" href="styles.css?v=1"/>
+<link rel="stylesheet" href="styles.css?v=2"/>
 </head>
 <body>
 <div id="app" data-view="feed">
@@ -34,26 +34,12 @@
     </div>
   </header>
 
-  <div class="filters" id="filters" aria-label="Filters">
-    <div class="chips" id="cat-chips" role="group" aria-label="Category"></div>
-    <div class="chips chips-time" id="time-chips" role="group" aria-label="Time and prep">
-      <button type="button" class="chip chip-sm" data-time="quick" aria-pressed="false">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" aria-hidden="true"><circle cx="12" cy="13" r="7.5"/><path d="M12 9.5V13l2.5 1.5M10 3h4" stroke-linecap="round" stroke-linejoin="round"/></svg>Quick
-      </button>
-      <button type="button" class="chip chip-sm" data-time="long" aria-pressed="false">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" aria-hidden="true"><path d="M4 11h16v3a6 6 0 0 1-6 6h-4a6 6 0 0 1-6-6v-3zM2.5 11h19M9 7.5c0-1 1-1.5 1-2.5M13.5 7.5c0-1 1-1.5 1-2.5" stroke-linecap="round" stroke-linejoin="round"/></svg>Longer cook
-      </button>
-      <button type="button" class="chip chip-sm" data-time="prep" aria-pressed="false">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" aria-hidden="true"><rect x="3.5" y="8" width="17" height="11" rx="3"/><path d="M3.5 12h17M8 5h8" stroke-linecap="round"/></svg>Meal prep
-      </button>
-    </div>
-  </div>
+  <div class="active-filters" id="active-filters" aria-label="Active filters" hidden></div>
 
   <main class="views">
     <section class="panel active" id="panel-feed" aria-label="Food ideas">
       <div class="panel-header">
         <h1>Food ideas</h1>
-        <p class="panel-sub" id="feed-sub"></p>
       </div>
       <div class="panel-body"><div class="grid" id="feed-grid"></div></div>
     </section>
@@ -69,31 +55,51 @@
     <section class="panel" id="panel-saved" aria-label="Saved ideas">
       <div class="panel-header">
         <h1>Saved</h1>
-        <p class="panel-sub">Ideas you hearted, kept on this device.</p>
       </div>
       <div class="panel-body"><div class="grid" id="saved-grid"></div></div>
     </section>
   </main>
 
   <nav class="dock" aria-label="Main">
-    <div class="seg glass" id="view-seg" role="tablist" aria-label="Views">
-      <span class="tab-indicator" aria-hidden="true"></span>
-      <button type="button" class="tab active" data-tab="feed" role="tab" aria-selected="true">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" aria-hidden="true"><rect x="4" y="4" width="7" height="9" rx="2"/><rect x="13" y="4" width="7" height="6" rx="2"/><rect x="4" y="15" width="7" height="5" rx="2"/><rect x="13" y="12" width="7" height="8" rx="2"/></svg>
-        <span>Feed</span>
-      </button>
-      <button type="button" class="tab" data-tab="picks" role="tab" aria-selected="false">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" aria-hidden="true"><path d="M12 3.5l1.9 4.6 4.9.4-3.7 3.2 1.1 4.8L12 14l-4.2 2.5 1.1-4.8-3.7-3.2 4.9-.4z" stroke-linejoin="round"/><path d="M6 20.5h12" stroke-linecap="round"/></svg>
-        <span>For him</span>
-      </button>
+    <div class="dock-left">
+      <div class="seg glass" id="view-seg" role="tablist" aria-label="Feed or picks">
+        <span class="tab-indicator" aria-hidden="true"></span>
+        <button type="button" class="tab active" data-tab="feed" role="tab" aria-label="Feed" aria-selected="true">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" aria-hidden="true"><rect x="4" y="4" width="7" height="9" rx="2"/><rect x="13" y="4" width="7" height="6" rx="2"/><rect x="4" y="15" width="7" height="5" rx="2"/><rect x="13" y="12" width="7" height="8" rx="2"/></svg>
+        </button>
+        <button type="button" class="tab" data-tab="picks" role="tab" aria-label="For him" aria-selected="false">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" aria-hidden="true"><path d="M12 3.8l2.2 4.8 5.2.6-3.9 3.5 1.1 5.1L12 15.2l-4.6 2.6 1.1-5.1-3.9-3.5 5.2-.6z" stroke-linejoin="round"/></svg>
+        </button>
+      </div>
+      <div class="filter-shell glass" id="filter-shell">
+        <button type="button" class="dock-btn" id="filter-btn" aria-label="Filter" aria-pressed="false" aria-expanded="false" aria-controls="filter-sheet">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" aria-hidden="true"><path d="M5 7h14M8 12h8M10.5 17h3" stroke-linecap="round"/></svg>
+          <span class="filter-count" id="filter-count" hidden></span>
+        </button>
+      </div>
     </div>
     <div class="saved-shell glass">
       <button type="button" class="dock-btn" id="saved-btn" aria-label="Saved" aria-pressed="false">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" aria-hidden="true"><path d="M12 20s-7-4.4-7-10a4 4 0 0 1 7-2.6A4 4 0 0 1 19 10c0 5.6-7 10-7 10z" stroke-linejoin="round"/></svg>
-        <span>Saved</span>
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" aria-hidden="true"><path d="M12 19.5s-7-4.3-7-9.6A3.9 3.9 0 0 1 12 7.6a3.9 3.9 0 0 1 7 2.3c0 5.3-7 9.6-7 9.6z" stroke-linejoin="round"/></svg>
       </button>
     </div>
   </nav>
+
+  <div class="filter-backdrop" id="filter-backdrop" hidden></div>
+  <aside class="filter-sheet" id="filter-sheet" role="dialog" aria-modal="true" aria-labelledby="filter-title" hidden>
+    <div class="filter-sheet-head">
+      <h2 id="filter-title">Filters</h2>
+      <button type="button" class="icon-x" id="filter-close" aria-label="Close filters">&times;</button>
+    </div>
+    <p class="filter-label" id="cat-label">Category</p>
+    <div class="filter-grid" id="cat-options" role="radiogroup" aria-labelledby="cat-label"></div>
+    <p class="filter-label" id="time-label">Time</p>
+    <div class="filter-grid" id="time-options" role="group" aria-labelledby="time-label"></div>
+    <div class="filter-foot">
+      <button type="button" class="filter-clear" id="filter-clear">Clear</button>
+      <button type="button" class="filter-apply" id="filter-apply">Show results</button>
+    </div>
+  </aside>
 
   <div class="sheet-backdrop" id="sheet-backdrop"></div>
   <aside class="sheet" id="sheet" role="dialog" aria-modal="true" aria-labelledby="sheet-title" hidden>
@@ -141,6 +147,6 @@
     <p class="welcome-credit">Created by Chanel and her bot</p>
   </div>
 </div>
-<script src="app.js?v=1"></script>
+<script src="app.js?v=2"></script>
 </body>
 </html>
