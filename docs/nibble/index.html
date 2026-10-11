@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover"/>
-<meta name="theme-color" content="#ECE6E1"/>
+<meta name="theme-color" content="#ECE7E4"/>
 <link rel="icon" type="image/png" href="favicon.png"/>
 <link rel="apple-touch-icon" href="apple-touch-icon.png"/>
 <link rel="manifest" href="site.webmanifest"/>
@@ -15,7 +15,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com"/>
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
 <link href="https://fonts.googleapis.com/css2?family=Alice&family=Nunito:wght@400;500;600;700&display=swap" rel="stylesheet"/>
-<link rel="stylesheet" href="styles.css?v=2"/>
+<link rel="stylesheet" href="styles.css?v=3"/>
 </head>
 <body>
 <div id="app" data-view="feed">
@@ -39,9 +39,9 @@
   <main class="views">
     <section class="panel active" id="panel-feed" aria-label="Food ideas">
       <div class="panel-header">
-        <h1>Food ideas</h1>
+        <h1>Food ideas</h1><p class="panel-sub" id="feed-sub"></p>
       </div>
-      <div class="panel-body"><div class="grid" id="feed-grid"></div></div>
+      <div class="panel-body"><div class="grid" id="feed-grid"></div><div class="more-sentinel" id="feed-more" aria-hidden="true"></div></div>
     </section>
 
     <section class="panel" id="panel-picks" aria-label="Picks for him">
@@ -68,7 +68,7 @@
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" aria-hidden="true"><rect x="4" y="4" width="7" height="9" rx="2"/><rect x="13" y="4" width="7" height="6" rx="2"/><rect x="4" y="15" width="7" height="5" rx="2"/><rect x="13" y="12" width="7" height="8" rx="2"/></svg>
         </button>
         <button type="button" class="tab" data-tab="picks" role="tab" aria-label="For him" aria-selected="false">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" aria-hidden="true"><path d="M12 3.8l2.2 4.8 5.2.6-3.9 3.5 1.1 5.1L12 15.2l-4.6 2.6 1.1-5.1-3.9-3.5 5.2-.6z" stroke-linejoin="round"/></svg>
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" aria-hidden="true"><path d="M12 4.4L14.47 9.4L19.99 10.21L15.99 14.1L16.94 19.6L12 17L7.06 19.6L8.01 14.1L4.01 10.21L9.53 9.4Z" stroke-linejoin="round"/></svg>
         </button>
       </div>
       <div class="filter-shell glass" id="filter-shell">
@@ -95,6 +95,8 @@
     <div class="filter-grid" id="cat-options" role="radiogroup" aria-labelledby="cat-label"></div>
     <p class="filter-label" id="time-label">Time</p>
     <div class="filter-grid" id="time-options" role="group" aria-labelledby="time-label"></div>
+    <p class="filter-label" id="src-label">Source</p>
+    <div class="filter-grid" id="src-options" role="radiogroup" aria-labelledby="src-label"></div>
     <div class="filter-foot">
       <button type="button" class="filter-clear" id="filter-clear">Clear</button>
       <button type="button" class="filter-apply" id="filter-apply">Show results</button>
@@ -120,7 +122,7 @@
       </div>
       <div class="about-card">
         <h2>What this is</h2>
-        <p>Toddler food ideas gathered once a week from a few creators. Every card is a real post; tap it for the recipe when the creator wrote one out, or open the original.</p>
+        <p>Toddler food ideas gathered once a week from a few creators (their Instagram, TikTok, YouTube and blog posts), plus a few toddler recipe sites. Every card is a real post or recipe with its own link; tap it for the recipe when one is written out, or open the original.</p>
         <p id="about-updated"></p>
       </div>
       <div class="about-card">
@@ -139,7 +141,7 @@
 
   <div class="welcome" id="welcome" role="dialog" aria-modal="true" aria-labelledby="welcome-title" hidden>
     <div class="welcome-main">
-      <div class="welcome-emoji" aria-hidden="true"><img src="icons/clay-bread.webp" alt="" width="92" height="92"/><img src="icons/clay-plate.webp" alt="" width="92" height="92"/><img src="icons/clay-sweet.webp" alt="" width="92" height="92"/><img src="icons/clay-pizza.webp" alt="" width="92" height="92"/></div>
+      <div class="welcome-emoji" aria-hidden="true"><img src="icons/clay-bread.webp" alt="" width="96" height="96"/><img src="icons/clay-plate.webp" alt="" width="96" height="96"/><img src="icons/clay-pizza.webp" alt="" width="96" height="96"/></div>
       <img class="welcome-wordmark" id="welcome-title" src="icons/clay-wordmark.webp" alt="Nibble &amp; Sip" width="762" height="449"/>
       <p class="welcome-line">Little food ideas for little hands, gathered each week from creators we love.</p>
       <button type="button" class="welcome-enter" id="welcome-enter">Enter</button>
@@ -147,6 +149,6 @@
     <p class="welcome-credit">Created by Chanel and her bot</p>
   </div>
 </div>
-<script src="app.js?v=2"></script>
+<script src="app.js?v=3"></script>
 </body>
 </html>

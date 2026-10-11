@@ -1,18 +1,39 @@
 {
-  "_note": "Nibble & Sip sources. Add Instagram post/reel links to `posts` and creator handles to `accounts`. Run: python3 docs/nibble/scripts/scrape.py (from the repo root). Tracking query strings are stripped automatically.",
-  "accounts": [
-    { "handle": "kidfriendly.meals", "name": "Min Kwon • Baby and Toddler Recipes" },
-    { "handle": "babymealsfreezer", "name": "Mom Life | Freezer Baby Meals" },
-    { "handle": "mini.tiger.zen", "name": "DB Lee | NYC mama" },
-    { "handle": "busymamaeasybites", "name": "Amy • Easy Baby & Toddler Recipes" },
-    { "handle": "soniamazri_", "name": "SONIA MAZRI" }
+  "_note": "Nibble & Sip sources. Each entry in `sources` has a `type`: instagram_reel (one public post), instagram_profile (whole profile; needs an Instagram login, so it is skipped for now), tiktok_profile, youtube_channel, website_category (paged blog category) or website_sitemap (post sitemap filtered by `include` keywords in the URL). `creator` ties a source to one of the creators below so it gets top billing and credit. `limit` caps how many of the newest pages a website source looks at per run. Run from the repo root: /workspace/.nvenv/bin/python docs/nibble/scripts/scrape.py",
+  "creators": [
+    { "handle": "kidfriendly.meals", "name": "Min Kwon · Kidfriendly Meals", "instagram": "https://www.instagram.com/kidfriendly.meals/" },
+    { "handle": "babymealsfreezer", "name": "Baby Meals | Freezer Baby Meals", "instagram": "https://www.instagram.com/babymealsfreezer/" },
+    { "handle": "mini.tiger.zen", "name": "DB Lee · mini.tiger.zen", "instagram": "https://www.instagram.com/mini.tiger.zen/" },
+    { "handle": "busymamaeasybites", "name": "Amy · Busy Mama Easy Bites", "instagram": "https://www.instagram.com/busymamaeasybites/" },
+    { "handle": "soniamazri_", "name": "Sonia Mazri · Baby Meal Plan", "instagram": "https://www.instagram.com/soniamazri_/" }
   ],
-  "posts": [
-    "https://www.instagram.com/reel/DbL8lkyxo5u/",
-    "https://www.instagram.com/reel/DdObMJ6SGYA/",
-    "https://www.instagram.com/reel/DeQGbyevSm9/",
-    "https://www.instagram.com/reel/DdnIx7EugPm/",
-    "https://www.instagram.com/reel/DYM-EdVRv5w/",
-    "https://www.instagram.com/reel/DZNgOJWxKeb/"
+  "sources": [
+    { "type": "instagram_reel", "creator": "kidfriendly.meals", "url": "https://www.instagram.com/reel/DbL8lkyxo5u/" },
+    { "type": "instagram_reel", "creator": "babymealsfreezer", "url": "https://www.instagram.com/reel/DdObMJ6SGYA/" },
+    { "type": "instagram_reel", "creator": "mini.tiger.zen", "url": "https://www.instagram.com/reel/DeQGbyevSm9/" },
+    { "type": "instagram_reel", "creator": "busymamaeasybites", "url": "https://www.instagram.com/reel/DdnIx7EugPm/" },
+    { "type": "instagram_reel", "creator": "soniamazri_", "url": "https://www.instagram.com/reel/DYM-EdVRv5w/" },
+    { "type": "instagram_reel", "creator": "soniamazri_", "url": "https://www.instagram.com/reel/DZNgOJWxKeb/" },
+
+    { "type": "instagram_profile", "creator": "kidfriendly.meals", "url": "https://www.instagram.com/kidfriendly.meals/", "enabled": false, "note": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists" },
+    { "type": "instagram_profile", "creator": "babymealsfreezer", "url": "https://www.instagram.com/babymealsfreezer/", "enabled": false, "note": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists" },
+    { "type": "instagram_profile", "creator": "mini.tiger.zen", "url": "https://www.instagram.com/mini.tiger.zen/", "enabled": false, "note": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists" },
+    { "type": "instagram_profile", "creator": "busymamaeasybites", "url": "https://www.instagram.com/busymamaeasybites/", "enabled": false, "note": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists" },
+    { "type": "instagram_profile", "creator": "soniamazri_", "url": "https://www.instagram.com/soniamazri_/", "enabled": false, "note": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists" },
+
+    { "type": "tiktok_profile", "creator": "soniamazri_", "url": "https://www.tiktok.com/@soniamazri" },
+    { "type": "tiktok_profile", "creator": "busymamaeasybites", "url": "https://www.tiktok.com/@busymamaeasybites" },
+    { "type": "tiktok_profile", "creator": "mini.tiger.zen", "url": "https://www.tiktok.com/@mini.tiger.zen" },
+    { "type": "tiktok_profile", "creator": "babymealsfreezer", "url": "https://www.tiktok.com/@babymealsfreezer" },
+    { "type": "youtube_channel", "creator": "kidfriendly.meals", "url": "https://www.youtube.com/@kidfriendlymeals/shorts" },
+    { "type": "youtube_channel", "creator": "busymamaeasybites", "url": "https://www.youtube.com/@busymamaeasybites/shorts" },
+    { "type": "website_category", "creator": "kidfriendly.meals", "site": "MJ and Hungryman", "site_url": "https://www.mjandhungryman.com/", "id_prefix": "mj", "url": "https://www.mjandhungryman.com/category/baby-kid-friendly-recipes/", "limit": 150 },
+
+    { "type": "website_sitemap", "site": "Healthy Little Foodies", "site_url": "https://www.healthylittlefoodies.com/", "id_prefix": "hlf", "url": "https://www.healthylittlefoodies.com/post-sitemap.xml", "limit": 18,
+      "include": ["muffin", "zucchini", "pasta", "mac-and-cheese", "macaroni", "fritter", "bites", "pancake", "nugget", "sauce", "hidden-veg", "veggie", "freezer", "banana", "snack", "toddler"], "exclude": ["puree", "how-to", "ideas", "guide", "tips"] },
+    { "type": "website_sitemap", "site": "Baby Foode", "site_url": "https://babyfoode.com/", "id_prefix": "bf", "url": "https://babyfoode.com/post-sitemap.xml", "limit": 15,
+      "include": ["muffin", "zucchini", "pasta", "mac-and-cheese", "macaroni", "fritter", "bites", "pancake", "nugget", "sauce", "veggie", "banana", "toddler"], "exclude": ["puree", "how-to-serve", "ideas", "guide", "tips"] },
+    { "type": "website_sitemap", "site": "Weelicious", "site_url": "https://weelicious.com/", "id_prefix": "wee", "url": "https://weelicious.com/post-sitemap.xml", "limit": 15,
+      "include": ["muffin", "zucchini", "pasta", "mac-and-cheese", "mac-n-cheese", "macaroni", "fritter", "bites", "pancake", "nugget", "veggie", "banana"], "exclude": ["ideas", "guide", "tips", "round-up", "roundup"] }
   ]
 }
