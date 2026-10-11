@@ -57,6 +57,8 @@ TEMPLATE = r'''<!DOCTYPE html>
     --free-soft: #F6EBEE;
     --indoor: #A08B8E;
     --indoor-soft: #F0EAEA;
+    --hike: #7A8C6E;
+    --hike-soft: #EBEFE6;
     --shadow: 0 10px 32px rgba(70, 50, 48, 0.06);
     --shadow-lg: 0 18px 48px rgba(60, 40, 42, 0.10);
     --radius: 34px;
@@ -425,6 +427,7 @@ TEMPLATE = r'''<!DOCTYPE html>
   .badge.far { background: var(--far-soft); color: var(--far); }
   .badge.free { background: var(--free-soft); color: var(--free); }
   .badge.indoor { background: var(--indoor-soft); color: var(--indoor); }
+  .badge.hike { background: var(--hike-soft); color: var(--hike); }
   .place-card h3 {
     margin: 0;
     font-family: var(--display);
@@ -525,6 +528,7 @@ TEMPLATE = r'''<!DOCTYPE html>
   .filter-chip[data-filter="far"] .dot { background: var(--far); }
   .filter-chip[data-filter="free"] .dot { background: var(--free); }
   .filter-chip[data-filter="indoor"] .dot { background: var(--indoor); }
+  .filter-chip[data-filter="hike"] .dot { background: var(--hike); }
   .filter-chip[data-filter="all"] .dot { background: var(--accent); }
   .filter-chip .label {
     flex: 1;
@@ -1505,6 +1509,11 @@ TEMPLATE = r'''<!DOCTYPE html>
         <span class="label">Indoor<span class="hint"><br>Museums, play, libraries</span></span>
         <span class="check"></span>
       </button>
+      <button type="button" class="filter-chip" data-filter="hike" role="option" aria-selected="false">
+        <span class="dot"></span>
+        <span class="label">Toddler hikes<span class="hint"><br>Short trails & creek walks</span></span>
+        <span class="check"></span>
+      </button>
     </div>
   </aside>
 
@@ -1849,6 +1858,10 @@ const EVENTS_DOC = __EVENTS_JSON__;
     const tags = (p.tags||[]).map(t => String(t).toLowerCase());
     return tags.includes('indoor') || tags.includes('museum') || tags.includes('library') || tags.includes('bookstore');
   }
+  function isHike(p){
+    const tags = (p.tags||[]).map(t => String(t).toLowerCase());
+    return tags.includes('toddler-hike');
+  }
   function snippet(text, n){
     const t = String(text||'').trim();
     if (t.length <= n) return t;
@@ -1864,6 +1877,7 @@ const EVENTS_DOC = __EVENTS_JSON__;
     badges.push(isFar(p) ? '<span class="badge far">Farther</span>' : '<span class="badge near">Near</span>');
     if (isFree(p)) badges.push('<span class="badge free">Free</span>');
     if (isIndoor(p)) badges.push('<span class="badge indoor">Indoor</span>');
+    if (isHike(p)) badges.push('<span class="badge hike">Hike</span>');
     return badges.join('');
   }
 
@@ -1893,6 +1907,7 @@ const EVENTS_DOC = __EVENTS_JSON__;
       ${effectiveDrive(p) ? `<div class="sheet-section"><strong>Drive</strong>${escapeHtml(effectiveDrive(p))}</div>` : ''}
       ${p.hours ? `<div class="sheet-section"><strong>Hours</strong>${escapeHtml(p.hours)}</div>` : ''}
       ${p.cost ? `<div class="sheet-section"><strong>Cost</strong>${escapeHtml(p.cost)}</div>` : ''}
+      ${p.hike ? `<div class="sheet-section"><strong>Trail</strong>${escapeHtml(p.hike)}</div>` : ''}
       ${p.toddler_notes ? `<div class="sheet-section"><strong>Toddler tip</strong>${escapeHtml(p.toddler_notes)}</div>` : ''}
       <div class="sheet-actions">
         <a class="primary" href="${mapsUrl(p)}" target="_blank" rel="noopener">Directions</a>
@@ -2004,7 +2019,7 @@ const EVENTS_DOC = __EVENTS_JSON__;
 
   function matchesQuery(p, q){
     if (!q) return true;
-    const blob = [p.name, p.address, p.why, p.source, p.toddler_notes, ...(p.tags||[])].join(' ').toLowerCase();
+    const blob = [p.name, p.address, p.why, p.source, p.toddler_notes, p.hike, ...(p.tags||[])].join(' ').toLowerCase();
     return blob.includes(q);
   }
   function passesFilter(p){
@@ -2012,6 +2027,7 @@ const EVENTS_DOC = __EVENTS_JSON__;
     if (filter === 'far') return isFar(p);
     if (filter === 'free') return isFree(p);
     if (filter === 'indoor') return isIndoor(p);
+    if (filter === 'hike') return isHike(p);
     return true;
   }
 
@@ -2694,6 +2710,8 @@ def build():
             f"- **Cost:** {p.get('cost','')}",
             f"- **Toddler tip:** {p.get('toddler_notes','')}",
         ]
+        if p.get("hike"):
+            lines.append(f"- **Trail:** {p['hike']}")
         for l in p.get("links") or []:
             lines.append(f"- [{l.get('label', l.get('url'))}]({l.get('url')})")
         lines.append("")

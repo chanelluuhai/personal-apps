@@ -41,7 +41,7 @@
         "note": "Facebook page Littleradadventure, also posted as Must Do In Colorado. Added from Chanel FB share 2026-10-03 (reel 1738726840765924 → Tiny Town & Railroad, Morrison). Park is seasonal and closed after Labor Day, so no pin until it reopens. IG scrubbed through 2026-10-09 (Boo at the Zoo reel)."
       }
     ],
-    "updated": "2026-10-09",
+    "updated": "2026-10-11",
     "scrub_window": "2026-10-09 Mon/Wed/Fri pass: Instagram read post by post for all five accounts (Oct 7–9); Facebook shows only the top post without login. Added four playgrounds from CKAR's Oct 8 list (Beverly Heights, Westfield Village, Thornton Sports Complex, Woodglen/Brookshire) and nine October Halloween events. Prior scrubs retained.",
     "notes": "Why-notes paraphrased/quoted from source captions and newsletters. Drive times are rough estimates from Arvada 80004; verify in Google Maps. Do not invent venues — every pin cites a named source. Seasonal spots kept if still relevant for fall 2026 or evergreen otherwise. Home base updated to W 64th Ave & Ward Rd; drive times refreshed via public OSRM routing on 2026-10-02."
   },
@@ -867,7 +867,7 @@
       "name": "Ralston Valley Park",
       "lat": 39.8235519,
       "lng": -105.1520672,
-      "address": "Ralston Valley Park, Arvada, CO 80004",
+      "address": "6863 Coors St, Arvada, CO 80004",
       "why": "Days.in.denver May creek pick in Arvada: play structures for littles and bigger kids; standout is the shallow, shady creek. Street parking only.",
       "source": "Days.in.denver (@days.in.denver)",
       "source_accounts": [
@@ -875,6 +875,10 @@
         "Facebook: Days.in.denver"
       ],
       "links": [
+        {
+          "label": "Days.in.denver creek reel",
+          "url": "https://www.instagram.com/days.in.denver/reel/C71gQk-sy4q/"
+        },
         {
           "label": "Instagram @days.in.denver",
           "url": "https://www.instagram.com/days.in.denver/"
@@ -892,12 +896,15 @@
         "creek",
         "arvada",
         "near-home",
-        "free"
+        "free",
+        "trail",
+        "toddler-hike"
       ],
       "drive_note": "~4 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~1.0 mi straight-line)",
       "farther_than_30min": false,
       "approx_drive_minutes": 4,
-      "straight_line_miles": 1.0
+      "straight_line_miles": 1.0,
+      "hike": "Ralston Creek Trail runs right past the park · paved and flat, stroller yes · walk as far as you like · Shady creek (Days.in.denver)"
     },
     {
       "id": "paul-derda",
@@ -1186,12 +1193,16 @@
           "url": "https://www.instagram.com/days.in.denver/"
         },
         {
+          "label": "Day Hikes Near Denver — Meadow & Forest Loops",
+          "url": "https://dayhikesneardenver.com/meadow-forest-loop-trails-lookout-mountain/"
+        },
+        {
           "label": "Days in Denver June newsletter",
           "url": "https://days-in-denver.beehiiv.com/p/days-in-denver-june-newsletter-6e6b3c54ee90a522"
         },
         {
           "label": "Lookout Mountain Nature Center",
-          "url": "https://www.jeffco.us/1447/Lookout-Mountain-Nature-Center"
+          "url": "https://www.jeffco.us/1281/Lookout-Mountain-Preserve-and-Nature-Cen"
         }
       ],
       "hours": "Fri–Mon often 10am–4pm (verify)",
@@ -1201,12 +1212,15 @@
         "nature",
         "free",
         "golden",
-        "outdoor"
+        "outdoor",
+        "trail",
+        "toddler-hike"
       ],
       "drive_note": "~24 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~7.6 mi straight-line)",
       "farther_than_30min": false,
       "approx_drive_minutes": 24,
-      "straight_line_miles": 7.6
+      "straight_line_miles": 7.6,
+      "hike": "Forest Loop ~0.6 mi through ponderosa pine forest (plus 0.75 mi Meadow Loop, more open) · easy · dirt path, carrier better than stroller"
     },
     {
       "id": "denver-zoo",
@@ -2725,12 +2739,14 @@
         "creek",
         "boulder",
         "free",
-        "nature"
+        "nature",
+        "toddler-hike"
       ],
       "drive_note": "~35 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~16.1 mi straight-line) — FARTHER (>30 min; flag)",
       "farther_than_30min": true,
       "approx_drive_minutes": 35,
-      "straight_line_miles": 16.1
+      "straight_line_miles": 16.1,
+      "hike": "2.3–2.6 mi each way along Boulder Creek, easy (Boulder County) · paved at the start from Eben G. Fine Park, then wide gravel, stroller yes · turn around anytime"
     },
     {
       "id": "inspiration-point-park",
@@ -2818,7 +2834,7 @@
       "lat": 39.7549101,
       "lng": -105.2293095,
       "address": "Lions Park, 10th St & Illinois St, Golden, CO 80401 (along Clear Creek)",
-      "why": "Colorado Kids Are Rad Oct 3 post: creek time plus a playground at Lions Park in Golden. Colorado Mama Life (Oct 5) called the Clear Creek Trail in Golden a stroller-friendly fall walk, and Little Rad Adventure (Oct 4) listed Clear Creek Path as popping with fall color.",
+      "why": "Colorado Kids Are Rad Oct 3 post: creek time plus a playground at Lions Park in Golden. Colorado Mama Life (Oct 5) called the Clear Creek Trail in Golden a stroller-friendly fall walk, and Little Rad Adventure (Oct 4) listed Clear Creek Path as popping with fall color. Days.in.denver called the Clear Creek Trail here 'mostly shady'.",
       "source": "Colorado Kids Are Rad (@coloradokidsarerad) — Instagram post 2026-10-03",
       "source_accounts": [
         "@coloradokidsarerad",
@@ -2826,6 +2842,10 @@
         "@littleradadventure"
       ],
       "links": [
+        {
+          "label": "Days.in.denver 'mostly shady' reel (via Visit Golden)",
+          "url": "https://www.instagram.com/visitgoldenco/reel/DMGPRYpvqeo/"
+        },
         {
           "label": "CKAR fall weekend post",
           "url": "https://www.instagram.com/coloradokidsarerad/p/DeCOrLrEbgl/"
@@ -2856,12 +2876,15 @@
         "creek",
         "free",
         "outdoor",
-        "golden"
+        "golden",
+        "trail",
+        "toddler-hike"
       ],
       "drive_note": "~14 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~6.2 mi straight-line)",
       "farther_than_30min": false,
       "approx_drive_minutes": 14,
-      "straight_line_miles": 6.2
+      "straight_line_miles": 6.2,
+      "hike": "Clear Creek Trail, Parfet Park to Lions Park: ~0.5 mi each way · flat · paved, stroller yes · Mostly shady (Days.in.denver)"
     },
     {
       "id": "forney-museum",
@@ -2976,14 +2999,17 @@
         "nature",
         "indoor",
         "trail",
-        "animals"
+        "animals",
+        "toddler-hike",
+        "outdoor"
       ],
       "lat": 39.5831695,
       "lng": -105.0289705,
       "drive_note": "~36 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~16.9 mi straight-line) — farther",
       "farther_than_30min": true,
       "approx_drive_minutes": 36,
-      "straight_line_miles": 16.9
+      "straight_line_miles": 16.9,
+      "hike": "Paved Mary Carter Greenway (~3.5 mi) plus ~4 mi of dirt trails (South Suburban) · flat, stroller yes on the paved path · go as far as you like"
     },
     {
       "id": "spectra-art-space",
@@ -3216,6 +3242,258 @@
       "farther_than_30min": true,
       "approx_drive_minutes": 31,
       "straight_line_miles": 12.0
+    },
+    {
+      "id": "apex-enchanted-forest",
+      "name": "Apex & Enchanted Forest Loop (Apex Park)",
+      "lat": 39.7162672,
+      "lng": -105.2093677,
+      "address": "Apex Park Trailhead, 121 Heritage Rd, Golden, CO 80401 (main lot by Heritage Square)",
+      "why": "Chanel's pick. A popular foothills loop: up Apex Trail along a little creek, then through the Enchanted Forest, where Jeffco Open Space says a dense forest gives shade on the park's west end. Watch for elk and fall color.",
+      "source": "Chanel's pick (AllTrails share); Jeffco Open Space",
+      "source_accounts": [
+        "Chanel (AllTrails share)"
+      ],
+      "links": [
+        {
+          "label": "AllTrails — Apex & Enchanted Forest Loop",
+          "url": "https://www.alltrails.com/trail/us/colorado/apex-enchanted-forest-trail-loop"
+        },
+        {
+          "label": "Jeffco Open Space — Apex Park",
+          "url": "https://www.jeffco.us/1190/Apex-Park"
+        },
+        {
+          "label": "Jeffco designated-use calendar",
+          "url": "https://www.jeffco.us/3817/Designated-Use"
+        }
+      ],
+      "hours": "Open 1 hr before sunrise to 1 hr after sunset. Hikers only on ODD calendar dates (even dates are bikes-only on Enchanted Forest).",
+      "cost": "Free",
+      "toddler_notes": "Rocky and uneven in spots, so use a carrier, not a stroller. The full loop is ~2 hr; for a shorter outing, go out and back along the creek or to the forest and turn around. Bottle-fill station at the trailhead.",
+      "tags": [
+        "hike",
+        "outdoor",
+        "nature",
+        "golden",
+        "free",
+        "toddler-hike"
+      ],
+      "hike": "3.7 mi loop · ~800 ft gain · moderate (AllTrails) · Carrier, no stroller · Shade in the Enchanted Forest section",
+      "drive_note": "~15 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~7.6 mi straight-line)",
+      "farther_than_30min": false,
+      "approx_drive_minutes": 15,
+      "straight_line_miles": 7.6
+    },
+    {
+      "id": "memorial-park-arvada",
+      "name": "Memorial Park (Ralston Creek Trail)",
+      "lat": 39.8039119,
+      "lng": -105.088017,
+      "address": "8151 W 59th Ave, Arvada, CO 80004",
+      "why": "On Arvada's paved Ralston Creek Trail, just north of Olde Town. Playground, picnic pavilion, and lots of mature shade trees (Arvada City Lifestyle); the trail continues to Ralston Central Park's playground and splash pad.",
+      "source": "City of Arvada parks; Arvada City Lifestyle; Visit Arvada (found during the Oct 10 meet-up search)",
+      "source_accounts": [],
+      "links": [
+        {
+          "label": "Arvada — Park amenities",
+          "url": "https://www.arvadaco.gov/1039/Park-Inventory-and-Amenities"
+        },
+        {
+          "label": "Arvada City Lifestyle — Memorial Park",
+          "url": "https://citylifestyle.com/articles/love-your-park-arvada"
+        },
+        {
+          "label": "Visit Arvada — playgrounds",
+          "url": "https://www.visitarvada.org/articles/five-must-visit-playgrounds-in-arvada"
+        },
+        {
+          "label": "Arvada primary trails",
+          "url": "https://www.arvadaco.gov/558/Primary-Trails"
+        }
+      ],
+      "hours": "Dawn–dusk",
+      "cost": "Free",
+      "toddler_notes": "The big tube slides are for bigger kids; there are bouncers for little ones. Creek bank drops off steeply near the playground, so keep a hand close. Parking lot and year-round portable toilets.",
+      "tags": [
+        "park",
+        "playground",
+        "trail",
+        "creek",
+        "arvada",
+        "free",
+        "outdoor",
+        "toddler-hike"
+      ],
+      "hike": "Ralston Creek Trail · paved and flat, stroller yes · out and back as far as you like · Shade trees in the park (Arvada City Lifestyle)",
+      "drive_note": "~7 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~2.8 mi straight-line)",
+      "farther_than_30min": false,
+      "approx_drive_minutes": 7,
+      "straight_line_miles": 2.8
+    },
+    {
+      "id": "wheat-ridge-greenbelt",
+      "name": "Wheat Ridge Greenbelt at Prospect Park",
+      "lat": 39.7762399,
+      "lng": -105.1262101,
+      "address": "Prospect Park, 11000 W 44th Ave, Wheat Ridge, CO 80033 (south lot for the trail)",
+      "why": "The paved Clear Creek Trail runs through the Wheat Ridge Greenbelt past ponds and cottonwoods; the National Recreation Trails listing says it feels like 'passing through an eastern forest.' Prospect Park has a playground and restrooms.",
+      "source": "Wheat Ridge Parks & Rec; National Recreation Trails; GoHikeColorado (found during the Oct 10 meet-up search)",
+      "source_accounts": [],
+      "links": [
+        {
+          "label": "Wheat Ridge — Open Space & Trails",
+          "url": "https://www.rootedinfun.com/249/Open-Space-Trails"
+        },
+        {
+          "label": "National Recreation Trails — Clear Creek Trail",
+          "url": "https://www.nationalrecreationtrails.com/trails/clear-creek-trail"
+        },
+        {
+          "label": "GoHikeColorado — Prospect Park to West Lake",
+          "url": "http://www.gohikecolorado.com/cct---prospect-park-to-west-lake.html"
+        }
+      ],
+      "hours": "Dawn–dusk",
+      "cost": "Free",
+      "toddler_notes": "Stay on the paved trail with a stroller; the dirt side paths along the creek are narrower. Watch for bikes.",
+      "tags": [
+        "park",
+        "trail",
+        "creek",
+        "wheat-ridge",
+        "free",
+        "outdoor",
+        "toddler-hike"
+      ],
+      "hike": "Clear Creek Trail · paved, nearly flat, stroller yes · Prospect Park to West Lake ~1.2 mi round trip · Cottonwood shade along the creek",
+      "drive_note": "~7 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~2.6 mi straight-line)",
+      "farther_than_30min": false,
+      "approx_drive_minutes": 7,
+      "straight_line_miles": 2.6
+    },
+    {
+      "id": "anne-u-white-trail",
+      "name": "Anne U. White Trail",
+      "lat": 40.059436,
+      "lng": -105.3196607,
+      "address": "Anne U. White Trailhead, Wagonwheel Gap Rd off Fourmile Canyon Dr, Boulder, CO 80304",
+      "why": "Colorado Kids Are Rad (Oct 5 reel) calls it toddler-friendly. A pedestrian-only trail that crisscrosses Fourmile Canyon Creek through a narrow canyon of lush vegetation (Boulder County).",
+      "source": "Colorado Kids Are Rad (@coloradokidsarerad) — Instagram reel 2026-10-05; Boulder County Parks & Open Space",
+      "source_accounts": [
+        "@coloradokidsarerad"
+      ],
+      "links": [
+        {
+          "label": "CKAR Anne U. White reel (Oct 5)",
+          "url": "https://www.instagram.com/coloradokidsarerad/reel/DeIiRaYxAou/"
+        },
+        {
+          "label": "Boulder County — Anne U. White Trail",
+          "url": "https://bouldercounty.gov/open-space/parks-and-trails/anne-u-white-trail/"
+        }
+      ],
+      "hours": "Day use only",
+      "cost": "Free",
+      "toddler_notes": "Lots of creek crossings, so bring a carrier and a change of clothes. Small lot (28 spots) fills fast; go early. Portable toilet at the trailhead. Turn around whenever. ~46 min, farther than the usual 30.",
+      "tags": [
+        "hike",
+        "creek",
+        "boulder",
+        "free",
+        "outdoor",
+        "nature",
+        "toddler-hike"
+      ],
+      "hike": "1.7 mi each way (3.4 mi round trip), rated moderate (Boulder County) · many creek crossings · Not stroller-friendly, carrier",
+      "drive_note": "~46 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~19.5 mi straight-line) — farther",
+      "farther_than_30min": true,
+      "approx_drive_minutes": 46,
+      "straight_line_miles": 19.5
+    },
+    {
+      "id": "mount-falcon-walker-ruins",
+      "name": "Mount Falcon West to Walker Home Ruins",
+      "lat": 39.6360763,
+      "lng": -105.2394071,
+      "address": "Mount Falcon West Trailhead, 21074 Mount Falcon Rd, Indian Hills, CO 80454",
+      "why": "Little Rad Adventure reel: an easy walk from the west trailhead on Castle Trail to the stone ruins of John Brisben Walker’s 1900s home, with big views.",
+      "source": "Little Rad Adventure (@littleradadventure) — Instagram reel; Jeffco Open Space",
+      "source_accounts": [
+        "@littleradadventure"
+      ],
+      "links": [
+        {
+          "label": "Little Rad Adventure reel",
+          "url": "https://www.instagram.com/littleradadventure/reel/DWNuX_4iVjj/"
+        },
+        {
+          "label": "Jeffco Open Space — Mount Falcon Park",
+          "url": "https://www.jeffco.us/1332/Mount-Falcon-Park/"
+        },
+        {
+          "label": "Let's Jet Kids — Mount Falcon with kids",
+          "url": "https://letsjetkids.com/mount-falcon-park-colorado/"
+        }
+      ],
+      "hours": "Open 1 hr before sunrise to 1 hr after sunset",
+      "cost": "Free",
+      "toddler_notes": "Use the WEST trailhead (the east one is a 2,000 ft climb). Stay on Castle Trail with a stroller; Tower Trail has stairs. Mostly open with little shade, so go early and bring sun hats. Busy on weekends. ~38 min, farther.",
+      "tags": [
+        "hike",
+        "history",
+        "free",
+        "outdoor",
+        "nature",
+        "toddler-hike"
+      ],
+      "hike": "~0.7 mi each way to the ruins (~1.4 mi round trip), easy · wide packed dirt, rugged stroller OK · Little shade (open canopy per COTREX)",
+      "drive_note": "~38 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~13.3 mi straight-line) — farther",
+      "farther_than_30min": true,
+      "approx_drive_minutes": 38,
+      "straight_line_miles": 13.3
+    },
+    {
+      "id": "peaks-to-plains-gateway",
+      "name": "Peaks to Plains (Clear Creek Trail) – Gateway Trailhead",
+      "lat": 39.7538664,
+      "lng": -105.2381827,
+      "address": "Gateway Trailhead, 21100 US Highway 6, Golden, CO 80403",
+      "why": "The paved Clear Creek Trail (formerly Peaks to Plains) heads into Clear Creek Canyon right at the edge of Golden: wide, smooth path beside the creek, bridges, and rock steps down to the water. It came up in the feeds as a mostly sunny toddler walk.",
+      "source": "Feed tip (Oct shady-hike search); Jeffco Open Space; Visit Golden",
+      "source_accounts": [],
+      "links": [
+        {
+          "label": "Jeffco — Clear Creek Trail",
+          "url": "https://www.jeffco.us/3792/Clear-Creek-Trail"
+        },
+        {
+          "label": "Jeffco — Clear Creek Canyon Park",
+          "url": "https://www.jeffco.us/1196/Clear-Creek-Canyon-Park"
+        },
+        {
+          "label": "Visit Golden — Clear Creek Trail",
+          "url": "https://www.visitgolden.com/outdoors/hiking/clear-creek-trail"
+        }
+      ],
+      "hours": "Open 1 hr before sunrise to 1 hr after sunset",
+      "cost": "Free",
+      "toddler_notes": "Flush restrooms and shaded seating at the trailhead. The creek is fast and cold, so only the edges by the rock steps. Watch for bikes. Mostly sunny; bring hats. Pairs with downtown Golden (~4 min).",
+      "tags": [
+        "hike",
+        "trail",
+        "creek",
+        "golden",
+        "free",
+        "outdoor",
+        "stroller",
+        "toddler-hike"
+      ],
+      "hike": "Gateway Segment 1.75 mi each way to Tunnel 1 · 10 ft wide paved path, stroller yes · Little shade on the trail",
+      "drive_note": "~13 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~6.6 mi straight-line)",
+      "farther_than_30min": false,
+      "approx_drive_minutes": 13,
+      "straight_line_miles": 6.6
     }
   ]
 }

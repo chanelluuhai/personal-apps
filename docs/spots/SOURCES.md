@@ -10,6 +10,14 @@
 | Colorado Mama Life (Angelica) | https://www.instagram.com/coloradomamalife/ | https://www.facebook.com/profile.php?id=61577651781310 | https://www.tiktok.com/@coloradomamalife |
 | Little Rad Adventure | https://www.instagram.com/littleradadventure/ | https://www.facebook.com/LittleRadAdventure | https://littleradadventure.com/ |
 
+## Toddler hikes category (2026-10-11)
+
+New **Toddler hikes** filter (sage dot, "Hike" badge). A pin is in it when its `tags` include `toddler-hike`; it keeps its other filters (Near/Farther, Free, Indoor) too. Hike pins also carry a `hike` line (shown as "Trail" in the place card): length and route type, gain if notable, stroller yes/no (or carrier), and shade only when a source says so.
+
+- New pin: **Apex & Enchanted Forest Loop**, Apex Park, Golden. Chanel's pick from AllTrails: 3.7 mi loop, ~800 ft gain, moderate, carrier only, shady Enchanted Forest stretch (Jeffco). Hikers only on odd calendar dates. ~15 min.
+- New pins: Memorial Park on the Ralston Creek Trail, Arvada (~7 min); Wheat Ridge Greenbelt at Prospect Park (~7 min); Peaks to Plains / Clear Creek Trail Gateway Trailhead, Golden (~13 min); Anne U. White Trail, Boulder (CKAR Oct 5 reel, ~46 min, farther); Mount Falcon West to Walker Home Ruins (Little Rad Adventure reel, ~38 min, farther).
+- Tagged existing pins: Lions Park + Clear Creek (Golden, Days.in.denver "mostly shady" reel via Visit Golden), Lookout Mountain Nature Center (Forest and Meadow loops), Ralston Valley Park (Days.in.denver creek reel), Boulder Canyon Trail (Mama Life FB reel, farther), Carson Nature Center / South Platte Park (Mama Life reel, farther).
+
 ## Scrub window (2026-10-09 Mon/Wed/Fri pass)
 
 **Checked**
@@ -195,5 +203,6 @@ Cheyenne-Arapaho, Bates-Logan, Washington Park, City View, La Raza, Paco Sanchez
 
 1. Scrub **all** accounts listed in this SOURCES.md Accounts table (IG/FB/TikTok/newsletter as linked) — currently Days.in.denver, Colorado Kids Explore, Colorado Kids Are Rad, Colorado Mama Life, Little Rad Adventure — plus Days.in.denver beehiiv.
 2. Add/edit rows in `data/places.json` (keep `source` + `links`).
+   - **Toddler hikes:** when a feed posts a toddler-friendly hike, trail, or creek walk (short, easy, stroller or carrier OK), add the `toddler-hike` tag (new pin, or add the tag to an existing pin so it stays in its other filters). Fill `hike` with length/route type, stroller yes/no or carrier, and shade only if the post or an official trail page says so. Put the feed reel first in `links` (only the first 4 links show in the place card). Use the trailhead for the pin and drive time; over 30 min gets `farther_than_30min: true` like other pins.
 3. `python3 scripts/build_map.py` (writes `output/` and syncs `docs/` for Pages).
 4. Commit & push `main` — GitHub Pages serves from `/docs`.

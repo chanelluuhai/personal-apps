@@ -447,14 +447,17 @@ details.caption p { white-space: pre-wrap; font-size: 0.86rem; color: var(--ink-
 .welcome-enter {
   width: min(184px, 100%); min-height: 50px; margin: 18px 0 0; border: 0; outline: none; border-radius: 999px; cursor: pointer;
   font-family: var(--font); font-weight: 600; font-size: 1rem; letter-spacing: 0.01em; color: #fff;
-  /* Darker terra cotta stops keep white text above 4.5:1 across the drift. */
-  background: linear-gradient(120deg, #8F5B4E 0%, #9A6355 44%, #7C4B40 100%);
+  /* Spots' three-stop drifting gradient (#C98998 / #DFA9B5 / #B57A88) re-hued to terra cotta in OKLCH,
+     with its lightness spread kept and the whole set lowered so white text stays at 4.57:1 or better. */
+  background: linear-gradient(120deg, #905747 0%, #9A6A5D 44%, #844F40 100%);
   background-size: 220% 100%;
   -webkit-appearance: none; appearance: none;
+  -webkit-backdrop-filter: blur(14px) saturate(1.2); backdrop-filter: blur(14px) saturate(1.2);
+  box-shadow: none;
   animation: welcomeButtonGradient 8s ease-in-out infinite;
 }
 .welcome-enter:active { transform: scale(0.98); }
-.welcome-enter:focus, .welcome-enter:focus-visible { outline: none; box-shadow: 0 0 0 3px rgba(158, 102, 86, 0.28); }
+.welcome-enter:focus, .welcome-enter:focus-visible, .welcome-enter:hover, .welcome-enter:active { border: 0; outline: none; box-shadow: none; }
 
 /* —— Desktop —— */
 @media (min-width: 768px) {
