@@ -478,15 +478,17 @@
   $('#about-close').addEventListener('click', closeAbout);
   dback.addEventListener('click', closeAbout);
   function fillAbout() {
-    const up = feed.updated_at ? new Date(feed.updated_at) : null;
-    $('#about-updated').textContent = `Updated ${up ? up.toLocaleDateString(undefined, { month: 'short', day: 'numeric', year: 'numeric' }) : '—'} · ${items.length} ideas`;
-    if (profile) $('#about-profile').textContent = `Each idea is matched against his favorites (${profile.favorites.map(f => f.label).join(', ')}). “Close to his favorites” share a main favorite; “Gentle next steps” share a texture or format and may add one new food.`;
     const creators = (sources && sources.creators) || [];
     const srcs = (sources && sources.sources) || [];
-    const plat = (h) => srcs.filter(x => x.creator === h && x.type !== 'instagram_profile').map(x => x.type.startsWith('tiktok') ? 'TikTok' : x.type.startsWith('youtube') ? 'YouTube' : x.type.startsWith('website') ? 'blog' : 'Instagram');
-    const sites = srcs.filter(x => x.type.startsWith('website') && !x.creator);
-    $('#about-sources').innerHTML = creators.map(a => `<li><a href="${esc(a.instagram)}" target="_blank" rel="noopener">@${esc(a.handle)}</a>${a.name ? ` · ${esc(a.name)}` : ''}<br><small>${[...new Set(plat(a.handle))].join(', ')}</small></li>`).join('')
-      + sites.map(x => `<li><a href="${esc(x.site_url)}" target="_blank" rel="noopener">${esc(x.site)}</a><br><small>Recipe site</small></li>`).join('');
+    const link = (u, t) => `<a href="${esc(u)}" target="_blank" rel="noopener">${esc(t)}</a>`;
+    const others = (h) => srcs.filter(x => x.creator === h && /^(tiktok|youtube|website)/.test(x.type) && x.enabled !== false).map(x => {
+      if (x.type.startsWith('tiktok')) return link(x.url, 'TikTok');
+      if (x.type.startsWith('youtube')) return link(x.url.replace(/\/(shorts|videos)\/?$/, ''), 'YouTube');
+      return link(x.site_url || new URL(x.url).origin, 'blog');
+    });
+    const sites = srcs.filter(x => x.type.startsWith('website') && !x.creator && x.enabled !== false);
+    $('#about-sources').innerHTML = creators.map(a => { const o = others(a.handle); return `<li>${link(a.instagram, '@' + a.handle)}${o.length ? ` (${o.join(' · ')})` : ''}</li>`; }).join('')
+      + sites.map(x => `<li>${link(x.site_url || new URL(x.url).origin, x.site)}</li>`).join('');
   }
 
   /* ---------- welcome (shared shape) ---------- */
