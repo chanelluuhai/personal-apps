@@ -10,6 +10,36 @@
 | Colorado Mama Life (Angelica) | https://www.instagram.com/coloradomamalife/ | https://www.facebook.com/profile.php?id=61577651781310 | https://www.tiktok.com/@coloradomamalife |
 | Little Rad Adventure | https://www.instagram.com/littleradadventure/ | https://www.facebook.com/LittleRadAdventure | https://littleradadventure.com/ |
 
+## Scrub window (2026-10-12 Mon/Wed/Fri pass)
+
+**Checked**
+- Days.in.denver beehiiv: no issue newer than the October newsletter (sitemap checked).
+- Little Rad Adventure site feed: newest post still Chief Mountain Trail (2026-06-12).
+- Instagram, read post by post (posts Oct 9–11; no popup this time):
+  - @days.in.denver: Oct 11 Halloween patio reel (Ms. Marjis, Steuben's Uptown, Little Man Ice Cream; no details); Oct 9 Boo at the Zoo post (new Fall Market at the trail start).
+  - @colorado.kids.explore: Oct 11 VIN39 Wine Bar, Brighton (sponsored, adult-focused); Oct 10 Baby University birthday reel; Oct 9 Jellystone Larkspur Halloween weekends (sponsored).
+  - @coloradokidsarerad: Oct 11 Dream Lake (RMNP) toddler hike; Oct 10 "Smash or Pass" post (Hudson Gardens Jack O'Lanterns, Berthoud Town Park, Spookadelia, Loveland Pass Lake, LINC Greeley, Sloan's Lake; caption cut off at Sloan's); Oct 9 Coot Lake Trail reel.
+  - @coloradomamalife: Oct 11 Butterfly Pavilion October reel; Oct 9 Number Thirty Eight (RiNo sports patio). Oct 7–8 "FREE Halloween plans" parts 4–6 fall before this window and were not re-read.
+  - @littleradadventure: Oct 11 Argo Mine (Idaho Springs); Oct 11 Gold Camp Road; Oct 10 "Best Halloween Houses near Denver" list; Oct 9 Skyline Drive (Cañon City).
+- Facebook without login: top post readable on Little Rad Adventure (Argo Mine), Colorado Mama Life (Butterfly Pavilion), and Colorado Kids Explore (VIN39); each matched Instagram. Rest login-walled, no captions guessed. Days.in.denver and CKAR FB not re-tried (login-walled on earlier passes).
+- TikTok not readable beyond profile meta (unchanged).
+
+**New pins (2)**
+- Baby University, Aurora: indoor Play Village plus an under-3 climbing zone, open daily 9am–5:30pm (CKE Oct 10 reel; babyuniversity.net) (~28 min)
+- Coot Lake Trail, Boulder: 1.3 mi easy stroller loop, tagged Toddler hikes (CKAR Oct 9 reel; City of Boulder, COTREX) (~40 min, farther)
+
+**Updated**
+- Butterfly Pavilion: added Colorado Mama Life Oct 11 reel.
+- Hudson Gardens and Spectra Art Space: added CKAR Oct 10 post.
+- Denver Zoo: noted the new Boo at the Zoo Fall Market.
+
+**New events:** none (nothing new, dated, and in range).
+
+**Tips not pinned**
+- Little Rad Adventure Halloween houses: private home displays with evening hours (mostly Thornton and Northglenn); the closest is The Pirates of Holland Court, 8210 Holland Ct, Arvada, 6–10pm. Not pinned since they're residences and run past toddler bedtime.
+- Dream Lake (RMNP, timed entry through Oct 18), Loveland Pass Lake, Berthoud Town Park, LINC Greeley, Argo Mine, Gold Camp Road, Skyline Drive, Jellystone Larkspur: outside the ~30-minute radius.
+- VIN39 Wine Bar and Number Thirty Eight: adult-focused, not toddler outings.
+
 ## Toddler hikes category (2026-10-11)
 
 New **Toddler hikes** filter (sage dot, "Hike" badge). A pin is in it when its `tags` include `toddler-hike`; it keeps its other filters (Near/Farther, Free, Indoor) too. Hike pins also carry a `hike` line (shown as "Trail" in the place card): length and route type, gain if notable, stroller yes/no (or carrier), and shade only when a source says so.

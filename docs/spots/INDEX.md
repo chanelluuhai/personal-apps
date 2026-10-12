@@ -1,9 +1,9 @@
 # Denver/Arvada Toddler Outing Spots
 
-Updated: 2026-10-11  
+Updated: 2026-10-12  
 Base: W 64th Ave & Ward Rd, Arvada, CO 80004  
 Audience: Toddler ~20 months; prefer ~30 min drive  
-Places: 84
+Places: 86
 
 Each pin has a why-note from a named social/newsletter source. Drive times are rough estimates.
 
@@ -338,6 +338,7 @@ Each pin has a why-note from a named social/newsletter source. Drive times are r
 - **Hours:** Check butterflies.org; Crawl-O-Ween Oct 24, 25 & 31, 9am–5pm (timed entry)
 - **Cost:** Paid admission; Crawl-O-Ween adults $25, kids 2–12 $19, under 2 free (ticket page)
 - **Toddler tip:** Indoor and stroller-friendly; the butterfly room is a big hit with toddlers. Under 2 is free for Crawl-O-Ween.
+- [Colorado Mama Life Butterfly Pavilion reel (Oct 11)](https://www.instagram.com/coloradomamalife/reel/DeX5nu_THcd/)
 - [CKE Butterfly Pavilion reel (Oct 6)](https://www.instagram.com/colorado.kids.explore/reel/DeLPLpTRr8R/)
 - [Days.in.denver spider reel (Oct 7)](https://www.instagram.com/days.in.denver/reel/DeMXxxxhM0G/)
 - [Butterfly Pavilion Crawl-O-Ween](https://butterflies.org/event/crawl-o-ween/)
@@ -605,7 +606,7 @@ Each pin has a why-note from a named social/newsletter source. Drive times are r
 
 - **Address:** 2300 Steele St, Denver, CO 80205
 - **Drive:** ~24 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~11.0 mi straight-line)
-- **Why:** Days.in.denver June feature (130th anniversary programming) and fall Boo at the Zoo — classic toddler outing with stroller paths and animal viewing. Oct 8–9: Days.in.denver, Colorado Mama Life, and Little Rad Adventure all posted Boo at the Zoo (nine candy stations, friendly cryptid characters, new Wild Fall Market). CKAR's Oct 8 playground list also names Wild Village at the zoo.
+- **Why:** Days.in.denver June feature (130th anniversary programming) and fall Boo at the Zoo — classic toddler outing with stroller paths and animal viewing. Oct 8–9: Days.in.denver, Colorado Mama Life, and Little Rad Adventure all posted Boo at the Zoo (nine candy stations, friendly cryptid characters, new Wild Fall Market). CKAR's Oct 8 playground list also names Wild Village at the zoo. Days.in.denver's Oct 9 post: new this year is a Fall Market at the start of the Boo at the Zoo trail; arrive around 5:30 while it's still light.
 - **Source:** Days.in.denver (@days.in.denver)
 - **Hours:** Typically 9am–4pm (seasonal)
 - **Cost:** Paid (library free zoo day prizes / SCFD free days when offered)
@@ -678,11 +679,12 @@ Each pin has a why-note from a named social/newsletter source. Drive times are r
 
 - **Address:** 1836 S Broadway, Denver, CO 80210
 - **Drive:** ~26 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~12.1 mi straight-line)
-- **Why:** Colorado Kids Are Rad Oct 6 reel: Spookadelia is an interactive art experience where kids are encouraged to touch things; they went during the day with little kids. Temporary exhibit, open Oct 3 through Dec 2026.
+- **Why:** Colorado Kids Are Rad Oct 6 reel: Spookadelia is an interactive art experience where kids are encouraged to touch things; they went during the day with little kids. Temporary exhibit, open Oct 3 through Dec 2026. CKAR's Oct 10 post says they went during the day with little kids.
 - **Source:** Colorado Kids Are Rad (@coloradokidsarerad) — Instagram reel 2026-10-06; spectraartspace.com
 - **Hours:** Temporary: Oct 3–Dec 2026. Mon, Wed, Thu, Sun 11am–10pm; Fri–Sat 11am–11pm; closed Tue
 - **Cost:** Ticketed, timed entry (book ahead on Spectra's site)
 - **Toddler tip:** All-ages but spooky-themed; go in daytime like CKAR did, and bring a charged phone (the site says one per group is needed).
+- [CKAR Smash or Pass post (Oct 10)](https://www.instagram.com/coloradokidsarerad/p/DeUM7ivkfZv/)
 - [CKAR Spookadelia reel (Oct 6)](https://www.instagram.com/coloradokidsarerad/reel/DeLIP4fxqkn/)
 - [Spectra Art Space — Spookadelia](https://spectraartspace.com/spookadelia/)
 - [Instagram @coloradokidsarerad](https://www.instagram.com/coloradokidsarerad/)
@@ -711,6 +713,19 @@ Each pin has a why-note from a named social/newsletter source. Drive times are r
 - **Toddler tip:** Discounted toddler indoor play.
 - [Instagram @days.in.denver](https://www.instagram.com/days.in.denver/)
 - [Days in Denver April newsletter](https://days-in-denver.beehiiv.com/p/days-in-denver-april-newsletter-c7d0)
+
+## Baby University (indoor play) (near)
+
+- **Address:** 10255 E 25th Ave #11, Aurora, CO 80010
+- **Drive:** ~28 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~15.0 mi straight-line)
+- **Why:** Colorado Kids Explore Oct 10 reel: toddler's second-birthday party at Baby University, an indoor role-play center they rated "5 stars." Per its site: a Play Village of little pretend shops (flower shop, ice cream shop, bug lab, doggy daycare) plus a soft climbing zone just for kids under 3, and baby-and-me classes.
+- **Source:** Colorado Kids Explore (@colorado.kids.explore) Instagram reel 2026-10-10; babyuniversity.net
+- **Hours:** Open daily 9am–5:30pm (site)
+- **Cost:** Paid play passes; check babyuniversity.net
+- **Toddler tip:** Made for ages 0–6; the climbing area is under-3 only, so it's a good fit at ~20 months. Unlimited play time during open hours, coffee lounge for parents.
+- [CKE Baby University reel (Oct 10)](https://www.instagram.com/colorado.kids.explore/reel/DeVou-QxVP8/)
+- [Baby University indoor playground](https://babyuniversity.net/indoor-playground-aurora-denver/)
+- [Baby University FAQ / hours](https://babyuniversity.net/contact/)
 
 ## Bates-Logan Park (near)
 
@@ -913,11 +928,12 @@ Each pin has a why-note from a named social/newsletter source. Drive times are r
 
 - **Address:** 6115 S Santa Fe Dr, Littleton, CO 80120
 - **Drive:** ~34 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~15.5 mi straight-line) — FARTHER (>30 min; flag)
-- **Why:** Days.in.denver Oct library adventure: browse Hudson Gardens covered in thousands of pumpkins in early morning (free daytime; evening Magic of the Jack O’Lanterns ticketed), then Bemis Public Library for reading/play.
+- **Why:** Days.in.denver Oct library adventure: browse Hudson Gardens covered in thousands of pumpkins in early morning (free daytime; evening Magic of the Jack O’Lanterns ticketed), then Bemis Public Library for reading/play. CKAR's Oct 10 post also flags it: the garden is free by day, while the Magic of the Jack O'Lanterns night show is ticketed.
 - **Source:** Days.in.denver (@days.in.denver)
 - **Hours:** Daytime garden hours vary; fall evenings for ticketed glow events
 - **Cost:** Daytime often free / low cost; evening events ticketed
 - **Toddler tip:** Morning pumpkin stroll = low-key toddler outing.
+- [CKAR Smash or Pass post (Oct 10)](https://www.instagram.com/coloradokidsarerad/p/DeUM7ivkfZv/)
 - [Instagram @days.in.denver](https://www.instagram.com/days.in.denver/)
 - [Days in Denver Oct newsletter](https://days-in-denver.beehiiv.com/p/days-in-denver-october-newsletter)
 - [Days in Denver Fall guide](https://days-in-denver.beehiiv.com/p/days-in-denver-the-best-of-fall-b1520ba52a91735b)
@@ -1069,6 +1085,20 @@ Each pin has a why-note from a named social/newsletter source. Drive times are r
 - [Little Rad Adventure reel](https://www.instagram.com/littleradadventure/reel/DWNuX_4iVjj/)
 - [Jeffco Open Space — Mount Falcon Park](https://www.jeffco.us/1332/Mount-Falcon-Park/)
 - [Let's Jet Kids — Mount Falcon with kids](https://letsjetkids.com/mount-falcon-park-colorado/)
+
+## Coot Lake Trail (Boulder) (FARTHER)
+
+- **Address:** Coot Lake Trailhead, 6247 63rd St, Boulder, CO 80503
+- **Drive:** ~40 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~19.2 mi straight-line)
+- **Why:** Colorado Kids Are Rad Oct 9 reel: "toddler + stroller-friendly" 1.3-mile easy loop around Coot Lake with wide paths, about 40 minutes from Denver. City of Boulder notes nature play, an art walk of prints along the trail, picnic spots, and restrooms.
+- **Source:** Colorado Kids Are Rad (@coloradokidsarerad) Instagram reel 2026-10-09; City of Boulder; COTREX
+- **Hours:** Open daily (Boulder OSMP)
+- **Cost:** Free
+- **Toddler tip:** Small lot fills; park at Tom Watson Park across 63rd St. Crusher-fines and gravel path, so a sturdy stroller works best (a few short rocky slopes on the west side). Expect lots of dogs, some off-leash.
+- **Trail:** 1.2–1.3 mi easy loop · ~26–47 ft gain · stroller yes (sturdy, gravel sections)
+- [CKAR Coot Lake reel (Oct 9)](https://www.instagram.com/coloradokidsarerad/reel/DeS41a-R5ZF/)
+- [City of Boulder — Coot Lake](https://bouldercolorado.gov/locations/coot-lake)
+- [COTREX — Coot Lake route](https://trails.colorado.gov/routes/150754)
 
 ## Centennial Center Park (FARTHER)
 
