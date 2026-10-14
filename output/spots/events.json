@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated": "2026-10-09",
-    "as_of": "2026-10-09",
+    "updated": "2026-10-14",
+    "as_of": "2026-10-14",
     "timezone": "America/Denver",
     "notes": "Upcoming, dated family events kept separate from map pins. Confirm times, access, and weather with the linked organizer before heading out."
   },
@@ -351,6 +351,58 @@
       "note": "Free drop-in Halloween party with crafts, stories, and trick-or-treating around downtown Golden spots.",
       "drive_note": "~13 min from the 64th & Ward base",
       "source": "Colorado Mama Life; goldenhistory.org"
+    },
+    {
+      "id": "dreamlab-opening-2026",
+      "title": "DreamLab Opening Day at Longmont Museum",
+      "date": "2026-10-17",
+      "end_date": "2026-10-17",
+      "time": "9:00 AM–5:00 PM",
+      "place_id": "longmont-museum-dreamlab",
+      "place": "Longmont Museum, 400 Quail Rd, Longmont",
+      "link": "https://longmontcolorado.gov/news/longmont-museum-celebrates-grand-reopening-with-free-celebration-oct-17/",
+      "note": "Free grand reopening; DreamLab permanent children's gallery opens. After Oct 17, regular museum admission (~$12 adults / $5 children).",
+      "drive_note": "~41 min from the 64th & Ward base (farther)",
+      "source": "Colorado Mama Life IG Oct 12; City of Longmont"
+    },
+    {
+      "id": "highlands-harvest-festival-2026",
+      "title": "Highlands Harvest Festival & Trick-or-Treat Street",
+      "date": "2026-10-25",
+      "end_date": "2026-10-25",
+      "time": "2:00–5:00 PM",
+      "place_id": null,
+      "place": "W 32nd Ave between Julian St and Newton St, Denver Highlands",
+      "link": "https://visitdenverhighlands.com/harvest-festival-and-trick-or-treat-street",
+      "note": "Free costume contest, pumpkin patch, jump castle, kids' games, live music, beer garden, trick-or-treating at neighborhood businesses. From Days.in.denver Fall guide; confirmed on Highland Square site.",
+      "drive_note": "~15 min from the 64th & Ward base",
+      "source": "Days.in.denver Fall 2026 guide; visitdenverhighlands.com"
+    },
+    {
+      "id": "bear-creek-haunted-trail-2026",
+      "title": "Haunted Trail Adventure",
+      "date": "2026-10-24",
+      "end_date": "2026-10-24",
+      "time": "4:00–7:00 PM",
+      "place_id": null,
+      "place": "Bear Creek Lake Park, 15600 W Morrison Rd, Lakewood",
+      "link": "https://www.lakewoodco.gov/Local-Government/Departments/Community-Resources/Parks-Forestry-and-Open-Space/Park-Programs-and-Events/Haunted-Trail-Adventure",
+      "note": "Owl Trail stories/critters, carnival games, treats, then amphitheater s'mores & hot chocolate. Advance registration required (no walk-ins). From Days.in.denver Fall guide; confirmed on City of Lakewood.",
+      "drive_note": "~27 min from the 64th & Ward base",
+      "source": "Days.in.denver Fall 2026 guide; lakewoodco.gov"
+    },
+    {
+      "id": "magic-jack-olanterns-2026",
+      "title": "Magic of the Jack O'Lanterns",
+      "date": "2026-09-18",
+      "end_date": "2026-11-01",
+      "time": "Evening ticketed entry (times vary by date); daytime garden free / unlit",
+      "place_id": "hudson-gardens",
+      "place": "Hudson Gardens, 6115 S Santa Fe Dr, Littleton",
+      "link": "https://hudsongardens.org/",
+      "note": "Nighttime carved-pumpkin walk, ticketed, through Nov 1. Daytime garden stroll free (displays not lit). Gardens close 4:30 PM on event nights (CKAR). Confirm nightly schedule/tickets on Hudson Gardens.",
+      "drive_note": "~34 min from the 64th & Ward base (farther)",
+      "source": "Colorado Kids Are Rad + Colorado Kids Explore IG Oct 12; Days.in.denver Fall guide"
     }
   ]
 }

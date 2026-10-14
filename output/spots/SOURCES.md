@@ -10,6 +10,44 @@
 | Colorado Mama Life (Angelica) | https://www.instagram.com/coloradomamalife/ | https://www.facebook.com/profile.php?id=61577651781310 | https://www.tiktok.com/@coloradomamalife |
 | Little Rad Adventure | https://www.instagram.com/littleradadventure/ | https://www.facebook.com/LittleRadAdventure | https://littleradadventure.com/ |
 
+## Scrub window (2026-10-14 Mon/Wed/Fri pass)
+
+**Checked**
+- Days.in.denver beehiiv: still no issue newer than the October newsletter; Fall guide re-read for dated-event gaps (Highlands Harvest Festival Oct 25, Bear Creek Haunted Trail Oct 24, Magic of the Jack O'Lanterns).
+- Little Rad Adventure site feed: newest post still Chief Mountain Trail (2026-06-12).
+- Instagram, read Oct 12–13 posts on all five accounts (captions readable without login; dismiss signup popup):
+  - @days.in.denver: Oct 13 hikes reel (Bluff Lake Nature Center nest/shelter play, Morrison Nature Center / Star K Ranch loop + nature playground, Mount Falcon Castle Trail from west trailhead; also Castlewood Canyon and Flying J Ranch piano hike ~49 min Conifer — not pinned).
+  - @colorado.kids.explore: Oct 13 FlyteCo Tower sponsored reel (kids eat free / mini golf Wed deal); Oct 12 Magic of the Jack O'Lanterns at Hudson Gardens.
+  - @coloradokidsarerad: Oct 12 Hudson Gardens Magic of the Jack O'Lanterns reel (daytime free/unlit; nights ticketed through Nov 1; gardens close 4:30pm on event nights).
+  - @coloradomamalife: Oct 12 DreamLab at Longmont Museum reel (grand reopening Oct 17); Oct 12 Steuben's (adult dining — not pinned).
+  - @littleradadventure: downtown Denver fall spots (Beehive, BAZAAR — without verified dates/addresses for new pins); Leadville (outside radius).
+- Facebook: login-walled (top posts matched IG where visible); no captions guessed.
+- TikTok: profile meta only (unchanged).
+- Finding Nectar: not in this feed window.
+
+**New pins (4)**
+- Bluff Lake Nature Center, Denver: short nature trails + nest/shelter play, tagged Toddler hikes (Days.in.denver Oct 13) (~26 min)
+- Morrison Nature Center at Star K Ranch, Aurora: easy loop + nature playground, tagged Toddler hikes (Days.in.denver Oct 13) (~31 min, farther)
+- FlyteCo Tower, Denver: indoor bowling/arcade/mini golf + Wed kids pasta deal (CKE Oct 13) (~25 min)
+- DreamLab at Longmont Museum: permanent children's gallery; free opening day Oct 17 (Colorado Mama Life Oct 12) (~41 min, farther) — not the Girl Scout DreamLab in Lowry
+
+**Updated**
+- Mount Falcon West to Walker Home Ruins: added Days.in.denver Oct 13 Castle Trail / west trailhead recommendation.
+- Hudson Gardens: Magic of the Jack O'Lanterns through Nov 1; daytime free/unlit; gardens close 4:30pm on event nights; CKAR + CKE Oct 12 reels.
+
+**New events (4)**
+- Oct 17 DreamLab Opening Day at Longmont Museum, 9am–5pm, free (then regular admission)
+- Oct 24 Haunted Trail Adventure, Bear Creek Lake Park, 4–7pm (advance registration required)
+- Oct 25 Highlands Harvest Festival & Trick-or-Treat Street, W 32nd Ave, 2–5pm, free
+- Sep 18–Nov 1 Magic of the Jack O'Lanterns at Hudson Gardens (evening ticketed; daytime garden free)
+
+**Tips not pinned**
+- Steuben's: adult dining from Mama Life, not a toddler outing.
+- Leadville and Flying J Ranch piano hike (~49 min, Conifer): outside the ~30-minute radius preference.
+- Castlewood Canyon: mentioned in Days hikes reel but not pinned this pass (farther / already crowded list).
+- Downtown Beehive / BAZAAR (Little Rad Adventure): no verified dates or addresses for new pins.
+- Finding Nectar: not in this feed window.
+
 ## Scrub window (2026-10-12 Mon/Wed/Fri pass)
 
 **Checked**

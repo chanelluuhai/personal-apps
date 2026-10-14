@@ -1,9 +1,9 @@
 # Denver/Arvada Toddler Outing Spots
 
-Updated: 2026-10-12  
+Updated: 2026-10-14  
 Base: W 64th Ave & Ward Rd, Arvada, CO 80004  
 Audience: Toddler ~20 months; prefer ~30 min drive  
-Places: 86
+Places: 90
 
 Each pin has a why-note from a named social/newsletter source. Drive times are rough estimates.
 
@@ -633,6 +633,19 @@ Each pin has a why-note from a named social/newsletter source. Drive times are r
 - [Instagram @days.in.denver](https://www.instagram.com/days.in.denver/)
 - [Days in Denver April newsletter](https://days-in-denver.beehiiv.com/p/days-in-denver-april-newsletter-c7d0)
 
+## FlyteCo Tower (near)
+
+- **Address:** 3120 Uinta St, Denver, CO 80238
+- **Drive:** ~25 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~13.6 mi straight-line)
+- **Why:** Colorado Kids Explore Oct 13 sponsored reel: indoor family entertainment with bowling, arcade, outdoor mini golf, and lawn/board games. Wed 3–8pm kids 12 & under free pasta with $15+ adult entrée; free mini golf that Wed window if you follow @flytecotower and show proof; Tue–Fri 3–6pm 50% off pizza/arcade. Tower tour is ages 10+ (separate).
+- **Source:** Colorado Kids Explore (@colorado.kids.explore) Instagram reel 2026-10-13
+- **Hours:** Closed Mon; typically Tue–Thu 11am–10pm, Fri–Sat 11am–11pm, Sun 11am–9pm (confirm on site)
+- **Cost:** Pay-for-play + dining; Wed kids pasta deal
+- **Toddler tip:** Best as indoor rainy-day / food + light play; not a pure toddler venue. Tower tour not for under 10.
+- [CKE FlyteCo Tower reel (Oct 13)](https://www.instagram.com/colorado.kids.explore/reel/DedKjevxR1J/)
+- [FlyteCo Tower](https://flytecotower.com/)
+- [Kids eat free 2026](https://flytecotower.com/events/kidseatfree2026-)
+
 ## Denver Botanic Gardens — Mordecai Children's Garden (near)
 
 - **Address:** 1007 York St, Denver, CO 80206
@@ -701,6 +714,20 @@ Each pin has a why-note from a named social/newsletter source. Drive times are r
 - [CKAR 11 playgrounds reel (Oct 8)](https://www.instagram.com/coloradokidsarerad/reel/DeNuRClxb_F/)
 - [Map (OpenStreetMap)](https://www.openstreetmap.org/?mlat=39.88161&mlon=-104.92081#map=17/39.88161/-104.92081)
 - [Instagram @coloradokidsarerad](https://www.instagram.com/coloradokidsarerad/)
+
+## Bluff Lake Nature Center (near)
+
+- **Address:** 11255 E Martin Luther King Jr Blvd, Denver, CO 80238
+- **Drive:** ~26 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~14.4 mi straight-line)
+- **Why:** Days.in.denver Oct 13 reel: hike with nature-play extras — a giant bird's nest climb and a build-your-own-shelter / tepee area, not just a plain trail.
+- **Source:** Days.in.denver (@days.in.denver) Instagram reel 2026-10-13
+- **Hours:** Sunrise–sunset daily (verify on site)
+- **Cost:** Free
+- **Toddler tip:** Nature play stations (nest, shelter) make this more toddler-friendly than a plain trail.
+- **Trail:** Short nature trails + nature play · stroller usability unknown · urban open space
+- [Days.in.denver Bluff Lake / hikes reel (Oct 13)](https://www.instagram.com/days.in.denver/reel/Deb02B6hKEQ/)
+- [Bluff Lake Nature Center — Visiting](https://www.blufflake.org/about/visiting)
+- [Instagram @days.in.denver](https://www.instagram.com/days.in.denver/)
 
 ## Sweet Play (Toddler Tuesday) (near)
 
@@ -858,6 +885,19 @@ Each pin has a why-note from a named social/newsletter source. Drive times are r
 - [Map (OpenStreetMap)](https://www.openstreetmap.org/?mlat=39.90683&mlon=-104.94856#map=17/39.90683/-104.94856)
 - [Instagram @coloradokidsarerad](https://www.instagram.com/coloradokidsarerad/)
 
+## Morrison Nature Center at Star K Ranch (FARTHER)
+
+- **Address:** 16002 E Smith Rd, Aurora, CO 80011
+- **Drive:** ~31 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~18.4 mi straight-line) — farther
+- **Why:** Days.in.denver Oct 13 reel: easy Star K Ranch loop from Morrison Nature Center, plus a new inclusive Nature Exploration Area / nature playground outside the center.
+- **Source:** Days.in.denver (@days.in.denver) Instagram reel 2026-10-13
+- **Hours:** Grounds sunrise–sunset; check nature center building hours
+- **Cost:** Free
+- **Toddler tip:** Easy loop plus a nature playground at the center — good for short legs and outdoor play after the walk.
+- **Trail:** Easy Star K Ranch loop · nature playground at center · stroller-friendly sections likely
+- [Days.in.denver Star K / hikes reel (Oct 13)](https://www.instagram.com/days.in.denver/reel/Deb02B6hKEQ/)
+- [Aurora — Morrison Nature Center](https://www.auroragov.org/things_to_do/parks__open_space___trails/nature___open_space/nature_centers/morrison_nature_center)
+
 ## Clement Park (+ Columbine Library) (FARTHER)
 
 - **Address:** 7306 W Bowles Ave, Littleton, CO 80123
@@ -928,16 +968,15 @@ Each pin has a why-note from a named social/newsletter source. Drive times are r
 
 - **Address:** 6115 S Santa Fe Dr, Littleton, CO 80120
 - **Drive:** ~34 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~15.5 mi straight-line) — FARTHER (>30 min; flag)
-- **Why:** Days.in.denver Oct library adventure: browse Hudson Gardens covered in thousands of pumpkins in early morning (free daytime; evening Magic of the Jack O’Lanterns ticketed), then Bemis Public Library for reading/play. CKAR's Oct 10 post also flags it: the garden is free by day, while the Magic of the Jack O'Lanterns night show is ticketed.
+- **Why:** Days.in.denver Oct library adventure and CKAR/CKE Oct 12 reels: daytime garden stroll among thousands of pumpkins (displays unlit, free); evenings are ticketed Magic of the Jack O'Lanterns through Nov 1, 2026. Gardens close 4:30pm on event nights (CKAR).
 - **Source:** Days.in.denver (@days.in.denver)
-- **Hours:** Daytime garden hours vary; fall evenings for ticketed glow events
+- **Hours:** Daytime garden free (displays unlit); Magic of the Jack O'Lanterns evenings ticketed through Nov 1, 2026. Gardens close 4:30pm on event nights (confirm schedule).
 - **Cost:** Daytime often free / low cost; evening events ticketed
-- **Toddler tip:** Morning pumpkin stroll = low-key toddler outing.
-- [CKAR Smash or Pass post (Oct 10)](https://www.instagram.com/coloradokidsarerad/p/DeUM7ivkfZv/)
-- [Instagram @days.in.denver](https://www.instagram.com/days.in.denver/)
-- [Days in Denver Oct newsletter](https://days-in-denver.beehiiv.com/p/days-in-denver-october-newsletter)
-- [Days in Denver Fall guide](https://days-in-denver.beehiiv.com/p/days-in-denver-the-best-of-fall-b1520ba52a91735b)
+- **Toddler tip:** Daytime pumpkin stroll = low-key toddler outing (free, unlit). Night Magic of the Jack O'Lanterns is ticketed and runs through Nov 1 — better for after-dinner if your toddler can stay up.
+- [CKAR Magic of the Jack O'Lanterns reel (Oct 12)](https://www.instagram.com/coloradokidsarerad/reel/DeakxXHx8AV/)
+- [CKE Jack O'Lanterns reel (Oct 12)](https://www.instagram.com/colorado.kids.explore/reel/Deacdecxb2m/)
 - [Hudson Gardens](https://hudsongardens.org/)
+- [Days in Denver Fall guide](https://days-in-denver.beehiiv.com/p/days-in-denver-the-best-of-fall-b1520ba52a91735b)
 
 ## Eloise May Library (Arapahoe Libraries) (FARTHER)
 
@@ -1076,15 +1115,15 @@ Each pin has a why-note from a named social/newsletter source. Drive times are r
 
 - **Address:** Mount Falcon West Trailhead, 21074 Mount Falcon Rd, Indian Hills, CO 80454
 - **Drive:** ~38 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~13.3 mi straight-line) — farther
-- **Why:** Little Rad Adventure reel: an easy walk from the west trailhead on Castle Trail to the stone ruins of John Brisben Walker’s 1900s home, with big views.
+- **Why:** Little Rad Adventure reel: an easy walk from the west trailhead on Castle Trail to the stone ruins of John Brisben Walker's 1900s home, with big views. Days.in.denver Oct 13 also recommends this Castle Trail start from the west trailhead.
 - **Source:** Little Rad Adventure (@littleradadventure) — Instagram reel; Jeffco Open Space
 - **Hours:** Open 1 hr before sunrise to 1 hr after sunset
 - **Cost:** Free
 - **Toddler tip:** Use the WEST trailhead (the east one is a 2,000 ft climb). Stay on Castle Trail with a stroller; Tower Trail has stairs. Mostly open with little shade, so go early and bring sun hats. Busy on weekends. ~38 min, farther.
 - **Trail:** ~0.7 mi each way to the ruins (~1.4 mi round trip), easy · wide packed dirt, rugged stroller OK · Little shade (open canopy per COTREX)
+- [Days.in.denver Castle Trail / hikes reel (Oct 13)](https://www.instagram.com/days.in.denver/reel/Deb02B6hKEQ/)
 - [Little Rad Adventure reel](https://www.instagram.com/littleradadventure/reel/DWNuX_4iVjj/)
 - [Jeffco Open Space — Mount Falcon Park](https://www.jeffco.us/1332/Mount-Falcon-Park/)
-- [Let's Jet Kids — Mount Falcon with kids](https://letsjetkids.com/mount-falcon-park-colorado/)
 
 ## Coot Lake Trail (Boulder) (FARTHER)
 
@@ -1111,6 +1150,19 @@ Each pin has a why-note from a named social/newsletter source. Drive times are r
 - **Toddler tip:** Playground usable year-round; splash is summer-only.
 - [Instagram @days.in.denver](https://www.instagram.com/days.in.denver/)
 - [Days in Denver June newsletter](https://days-in-denver.beehiiv.com/p/days-in-denver-june-newsletter-6e6b3c54ee90a522)
+
+## DreamLab at Longmont Museum (FARTHER)
+
+- **Address:** 400 Quail Rd, Longmont, CO 80501
+- **Drive:** ~41 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~23.1 mi straight-line) — farther
+- **Why:** Colorado Mama Life Oct 12 reel: permanent hands-on children's exhibit (DreamLab in Lila's Children's Gallery) with playful spaces like a dragon castle and crystal cave. Opens with a free grand reopening celebration Oct 17. Not the Girl Scout DreamLab in Denver Lowry.
+- **Source:** Colorado Mama Life (@coloradomamalife) Instagram reel 2026-10-12; City of Longmont
+- **Hours:** Museum hours; confirm on longmontcolorado.gov/museum
+- **Cost:** Regular ~$12 adults / $5 children / members free; Oct 17 opening day free
+- **Toddler tip:** Hands-on children's gallery built for little explorers; permanent exhibit after the Oct 17 reopening.
+- [Colorado Mama Life DreamLab reel (Oct 12)](https://www.instagram.com/coloradomamalife/reel/DeaiK5XTAUo/)
+- [DreamLab in Lila's Children's Gallery](https://longmontcolorado.gov/museum/exhibitions/dreamlab-in-lilas-childrens-gallery/)
+- [Grand reopening Oct 17](https://longmontcolorado.gov/news/longmont-museum-celebrates-grand-reopening-with-free-celebration-oct-17/)
 
 ## Cherry Creek Valley Ecological Park (FARTHER)
 
