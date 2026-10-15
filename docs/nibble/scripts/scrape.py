@@ -497,7 +497,7 @@ COOKY = re.compile(r"\b(mix|stir|blend|whisk|mash|microwave|bake|cook|boil|steam
 
 
 QTY_LEAD = re.compile(r"^\s*(\d|[½¼¾⅓⅔⅛]|a (pinch|dash|handful|cup|few)|pinch|dash|one|two|three|half)\b", re.I)
-RECIPE_HEAD = re.compile(r"^\s*\W*\s*(full )?recipe\s*(below|here)?\s*\W*\s*:?\s*\W*$", re.I)
+RECIPE_HEAD = re.compile(r"^\s*\W*\s*(full )?recipe\s*(below|here)?\s*(\((makes|serves|yields?)\b[^)]{0,30}\))?\s*\W*\s*:?\s*\W*$", re.I)
 STEP_VERB = re.compile(r"^\s*(mix|stir|blend|whisk|mash|microwave|bake|cook|boil|steam|simmer|roast|fry|saut[eé]|toast|grill|heat|"
                        r"freeze|pour|fold|knead|shape|flatten|spread|combine|add|season|roll|wrap|fill|layer|top|cut|slice|grate|"
                        r"preheat|serve|place|transfer|let|remove|chill|refrigerate|form|scoop|press|line|grease|brush|toss)\b", re.I)
@@ -521,6 +521,8 @@ def heading_block(caption):
             ing.append(c)
         elif STEP_VERB.match(c) and ing:
             steps.append(c)
+        elif ing and not steps and len(c.split()) <= 5 and food_count(c) >= 1 and not c.endswith(":"):
+            ing.append(c)  # an ingredient without a quantity, e.g. "Homemade jam"
         elif ing:
             break
     if len(ing) < 2 or food_count(" ".join(ing)) < 2:
@@ -532,6 +534,8 @@ def recipe_from_caption(caption):
     ing, steps, notes = sections(caption or "")
     if not (ing or steps) and caption and "\n" in caption.strip():
         ing, steps, notes = heading_block(caption)
+    elif steps and not ing and caption and "\n" in caption.strip():
+        ing = heading_block(caption)[0]  # "Recipe (makes 14)" + quantity lines, then a "Steps:" section
     if not (ing or steps) and caption and "\n" not in caption.strip():
         ing, steps = inline_sections(caption)
         if food_count(" ".join(ing)) < 2:  # a bullet list that isn't food (prices, toys, tips)
@@ -807,6 +811,17 @@ def social_item(platform, pid, url, caption, ts, handle, name, creator, thumbs, 
             "fetched_at": now_iso()}
 
 
+def too_old(src, ts=None, date=None):
+    """Per-source "since" (YYYY-MM-DD): posts older than this are never fetched or queued. Undated posts are
+    skipped too when a cutoff is set, since we can't tell they're new enough."""
+    since = src.get("since")
+    if not since:
+        return False
+    if ts:
+        date = dt.datetime.fromtimestamp(int(ts), dt.timezone.utc).date().isoformat()
+    return not date or date < since
+
+
 def want_social(store, iid, caption, refresh, title="", strict=False):
     if iid in store["items"] and not refresh and store["items"][iid].get("status") in ("ok", "merged"):
         return False
@@ -875,6 +890,8 @@ def run_tiktok(src, store, creators, args):
     for e in entries:
         pid = str(e.get("id"))
         cap = e.get("description") or e.get("title") or ""
+        if too_old(src, e.get("timestamp")):
+            continue
         if not want_social(store, "tt-" + pid, cap, args.refresh, strict=bool(src.get("strict_food"))):
             continue
         handle = e.get("uploader") or src["url"].rstrip("/").rsplit("@", 1)[-1]
@@ -887,6 +904,8 @@ def run_tiktok(src, store, creators, args):
             continue
         if src.get("strict_food"):
             it["strict_food"] = True
+        if src.get("since"):
+            it["since"] = src["since"]
         store["items"][it["id"]] = it
         added += 1
         log(f"ok   {it['id']}  @{handle}  {social_title(cap, '')[:60]}")
@@ -919,6 +938,8 @@ def run_youtube(src, store, creators, args):
                     "channel": data.get("channel") or data.get("uploader"), "uploader_id": data.get("uploader_id"),
                     "channel_url": data.get("channel_url")}
         cap = (meta.get("title") or "") + "\n" + (meta.get("description") or "")
+        if too_old(src, meta.get("timestamp")):
+            continue
         if not want_social(store, iid, cap, args.refresh):
             continue
         url = f"https://www.youtube.com/shorts/{pid}" if "/shorts" in src["url"] else f"https://www.youtube.com/watch?v={pid}"
@@ -1008,6 +1029,8 @@ def run_website(src, store, creators, args):
             continue
         if not rec or not (rec["ingredients"] and rec["steps"]) or not rec["image"]:
             store["skipped"][url] = "no Recipe JSON-LD with ingredients, steps and a photo"
+            continue
+        if too_old(src, date=(rec.get("date") or "")[:10]):
             continue
         try:
             thumb, w, h, color = download_thumb(urllib.parse.urljoin(url, rec["image"]), iid)

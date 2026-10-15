@@ -1,5 +1,5 @@
 {
-  "_note": "Nibble & Sip sources. Each entry in `sources` has a `type`: instagram_reel (one public post), instagram_profile (whole profile; needs an Instagram login, so it is skipped for now), tiktok_profile, youtube_channel, website_category (paged blog category) or website_sitemap (post sitemap filtered by `include` keywords in the URL). `creator` ties a source to one of the creators below so it gets top billing and credit. `limit` caps how many of the newest pages a website source looks at per run. Run from the repo root: /workspace/.nvenv/bin/python docs/nibble/scripts/scrape.py",
+  "_note": "Nibble & Sip sources. Each entry in `sources` has a `type`: instagram_reel (one public post), instagram_profile (whole profile; needs an Instagram login, so it is skipped for now), tiktok_profile, youtube_channel, website_category (paged blog category) or website_sitemap (post sitemap filtered by `include` keywords in the URL). `creator` ties a source to one of the creators below so it gets top billing and credit. `limit` caps how many of the newest pages a website source looks at per run. Optional `since` (YYYY-MM-DD) on any source: older or undated posts are never fetched or queued. Run from the repo root: /workspace/.nvenv/bin/python docs/nibble/scripts/scrape.py",
   "creators": [
     { "handle": "kidfriendly.meals", "name": "Min Kwon · Kidfriendly Meals", "instagram": "https://www.instagram.com/kidfriendly.meals/" },
     { "handle": "babymealsfreezer", "name": "Baby Meals | Freezer Baby Meals", "instagram": "https://www.instagram.com/babymealsfreezer/" },
@@ -7,7 +7,8 @@
     { "handle": "busymamaeasybites", "name": "Amy · Busy Mama Easy Bites", "instagram": "https://www.instagram.com/busymamaeasybites/" },
     { "handle": "soniamazri_", "name": "Sonia Mazri · Baby Meal Plan", "instagram": "https://www.instagram.com/soniamazri_/" },
     { "handle": "mountain_mothering", "name": "Jess · Mountain Mothering", "instagram": "https://www.instagram.com/mountain_mothering/" },
-    { "handle": "thepickyeater", "name": "Anjali Shah · The Picky Eater", "instagram": "https://www.instagram.com/thepickyeater/" }
+    { "handle": "thepickyeater", "name": "Anjali Shah · The Picky Eater", "instagram": "https://www.instagram.com/thepickyeater/" },
+    { "handle": "toddler.snack.therapy", "name": "Bolla · Toddler Snack Therapy", "instagram": "https://www.instagram.com/toddler.snack.therapy/" }
   ],
   "sources": [
     { "type": "instagram_reel", "creator": "kidfriendly.meals", "url": "https://www.instagram.com/reel/DbL8lkyxo5u/" },
@@ -18,6 +19,7 @@
     { "type": "instagram_reel", "creator": "soniamazri_", "url": "https://www.instagram.com/reel/DZNgOJWxKeb/" },
     { "type": "instagram_reel", "creator": "mountain_mothering", "url": "https://www.instagram.com/reel/DcbRdMQoCC2/" },
     { "type": "instagram_reel", "creator": "thepickyeater", "url": "https://www.instagram.com/reel/DcFDtQDv_7p/" },
+    { "type": "instagram_reel", "creator": "toddler.snack.therapy", "url": "https://www.instagram.com/reel/Dbq5xTqNN8Y/" },
 
     { "type": "instagram_profile", "creator": "kidfriendly.meals", "url": "https://www.instagram.com/kidfriendly.meals/", "enabled": false, "note": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists" },
     { "type": "instagram_profile", "creator": "babymealsfreezer", "url": "https://www.instagram.com/babymealsfreezer/", "enabled": false, "note": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists" },
@@ -26,6 +28,7 @@
     { "type": "instagram_profile", "creator": "soniamazri_", "url": "https://www.instagram.com/soniamazri_/", "enabled": false, "note": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists" },
     { "type": "instagram_profile", "creator": "mountain_mothering", "url": "https://www.instagram.com/mountain_mothering/", "enabled": false, "note": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists" },
     { "type": "instagram_profile", "creator": "thepickyeater", "url": "https://www.instagram.com/thepickyeater/", "enabled": false, "note": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists" },
+    { "type": "instagram_profile", "creator": "toddler.snack.therapy", "url": "https://www.instagram.com/toddler.snack.therapy/", "enabled": false, "since": "2025-01-01", "note": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists" },
 
     { "type": "tiktok_profile", "creator": "soniamazri_", "url": "https://www.tiktok.com/@soniamazri" },
     { "type": "tiktok_profile", "creator": "busymamaeasybites", "url": "https://www.tiktok.com/@busymamaeasybites" },
@@ -33,6 +36,7 @@
     { "type": "tiktok_profile", "creator": "babymealsfreezer", "url": "https://www.tiktok.com/@babymealsfreezer" },
     { "type": "tiktok_profile", "creator": "mountain_mothering", "url": "https://www.tiktok.com/@mountain_mothering" },
     { "type": "tiktok_profile", "creator": "thepickyeater", "url": "https://www.tiktok.com/@pickyeaterblog", "strict_food": true, "note": "Lots of nutrition talk and product reviews here, so only posts that name something to make are kept" },
+    { "type": "tiktok_profile", "creator": "toddler.snack.therapy", "url": "https://www.tiktok.com/@toddler.snack.therapy", "since": "2025-01-01", "strict_food": true, "note": "Newer creator: only posts from 2025-01-01 on" },
     { "type": "youtube_channel", "creator": "mountain_mothering", "url": "https://www.youtube.com/@mountain_mothering/shorts" },
     { "type": "youtube_channel", "creator": "thepickyeater", "url": "https://www.youtube.com/@thepickyeater/shorts" },
     { "type": "youtube_channel", "creator": "kidfriendly.meals", "url": "https://www.youtube.com/@kidfriendlymeals/shorts" },

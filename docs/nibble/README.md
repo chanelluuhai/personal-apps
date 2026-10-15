@@ -27,7 +27,7 @@ Creators get top billing in the feed (round-robin across creators, newest first)
 | `website_category` | Recipe links from a blog category page (`/page/N/` paging) |
 | `website_sitemap` | Recipe URLs from a sitemap, filtered by `include` / `exclude` keywords, newest first |
 
-Each source can set `creator` (links it to a creator in `creators`), `site`, `id_prefix`, `limit`, `enabled` and `strict_food` (keep only posts whose title names something to make; used for accounts with lots of nutrition talk or product reviews. YouTube Shorts always use this, since they often only have a title). Website pages are read from their schema.org Recipe JSON-LD (name, ingredients, steps, totalTime, yield, category, keywords). Sites that block bots or need a login/paywall are skipped, never bypassed.
+Each source can set `creator` (links it to a creator in `creators`), `site`, `id_prefix`, `limit`, `enabled`, `since` (YYYY-MM-DD: posts older than this, or undated, are never fetched or queued; used for newer creators, e.g. @toddler.snack.therapy from 2025-01-01) and `strict_food` (keep only posts whose title names something to make; used for accounts with lots of nutrition talk or product reviews. YouTube Shorts always use this, since they often only have a title). Website pages are read from their schema.org Recipe JSON-LD (name, ingredients, steps, totalTime, yield, category, keywords). Sites that block bots or need a login/paywall are skipped, never bypassed.
 
 ### What a run does
 
