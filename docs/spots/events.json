@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated": "2026-10-14",
-    "as_of": "2026-10-14",
+    "updated": "2026-10-16",
+    "as_of": "2026-10-16",
     "timezone": "America/Denver",
     "notes": "Upcoming, dated family events kept separate from map pins. Confirm times, access, and weather with the linked organizer before heading out."
   },
@@ -403,6 +403,43 @@
       "note": "Nighttime carved-pumpkin walk, ticketed, through Nov 1. Daytime garden stroll free (displays not lit). Gardens close 4:30 PM on event nights (CKAR). Confirm nightly schedule/tickets on Hudson Gardens.",
       "drive_note": "~34 min from the 64th & Ward base (farther)",
       "source": "Colorado Kids Are Rad + Colorado Kids Explore IG Oct 12; Days.in.denver Fall guide"
+    },
+    {
+      "id": "golden-mill-howl-o-ween-2026",
+      "title": "Howl-o-ween at The Golden Mill",
+      "date": "2026-10-18",
+      "time": "12–3 PM",
+      "place_id": "golden-mill",
+      "place": "The Golden Mill, 1012 Ford St, Golden",
+      "link": "https://www.thegoldenmill.com/events/5th-annual-howl-o-ween",
+      "note": "5th annual costume afternoon for dogs, kids, and families: pet parade, live music (Wild Goose Chase), adoptable dogs, and a best kid costume prize. Free to attend; food hall purchases extra (18% service fee).",
+      "drive_note": "~13 min from the 64th & Ward base",
+      "source": "Colorado Mama Life IG Oct 16 free Halloween weekend list; confirmed on thegoldenmill.com and visitgolden.com"
+    },
+    {
+      "id": "wash-park-market-spooktacular-2026",
+      "title": "Market in the Park-et Halloween Spook-tacular",
+      "date": "2026-10-18",
+      "time": "10 AM–5 PM",
+      "place_id": "washington-park",
+      "place": "Washington Park Boathouse, 701 S Franklin St, Denver",
+      "link": "https://www.eventbrite.com/e/shop-local-in-wash-park-market-in-the-park-et-tickets-2001944335398",
+      "note": "Free all-ages outdoor market with 70+ local vendors, food trucks, and DJs; costumes encouraged. More of a stroller wander than a kid activity, but the park and lake are right there. Free parking per organizer.",
+      "drive_note": "~30 min from the 64th & Ward base",
+      "source": "Colorado Mama Life IG Oct 16 free Halloween weekend list; confirmed on marketintheparket.com and Eventbrite"
+    },
+    {
+      "id": "golden-corral-thornton-trunk-or-treat-2026",
+      "title": "Trunk-or-Treat at Golden Corral Thornton",
+      "date": "2026-10-17",
+      "time": "2–5 PM (confirm)",
+      "place": "Golden Corral, 9751 Grant St, Thornton, CO 80229",
+      "lat": 39.8738198,
+      "lng": -104.9823214,
+      "link": "https://www.instagram.com/coloradomamalife/reel/DejvWchTNsY/",
+      "note": "Free trunk-or-treat in the restaurant parking lot. Time comes from Colorado Mama Life's list; the restaurant's own posts mention the Oct 17 date but no time was found on an organizer page, so confirm before going.",
+      "drive_note": "~22 min from the 64th & Ward base",
+      "source": "Colorado Mama Life IG Oct 16 free Halloween weekend list"
     }
   ]
 }

@@ -10,6 +10,37 @@
 | Colorado Mama Life (Angelica) | https://www.instagram.com/coloradomamalife/ | https://www.facebook.com/profile.php?id=61577651781310 | https://www.tiktok.com/@coloradomamalife |
 | Little Rad Adventure | https://www.instagram.com/littleradadventure/ | https://www.facebook.com/LittleRadAdventure | https://littleradadventure.com/ |
 
+## Scrub window (2026-10-16 Mon/Wed/Fri pass)
+
+**Checked**
+- Days.in.denver beehiiv: sitemap still tops out at the October newsletter; nothing new.
+- Little Rad Adventure site feed: newest post still Chief Mountain Trail (2026-06-12).
+- Instagram, read Oct 14–16 posts on all five accounts (captions readable from direct /p/ and /reel/ URLs without login; a sign-up dialog appears when clicking grid tiles):
+  - @days.in.denver: Oct 15 Cherokee Ranch & Castle afternoon tea reel (holiday teas from Nov 6; no price/address in caption).
+  - @colorado.kids.explore: Oct 14 Lone Creek Farms fall festival (3879 N Hwy 83, Franktown; Sep 25–Nov 1; ages 3 and under free).
+  - @coloradokidsarerad: Oct 15 The Conscious Bodyworker massage (Wheat Ridge, sponsored); Oct 14 Boo at the Zoo reel.
+  - @coloradomamalife: Oct 16 "this weekend's FREE Halloween plans" list (Oct 17–18); Oct 14 Black Hawk Saturday Halloween festival (Gregory Square, 11am–3pm, $5 pumpkins).
+  - @littleradadventure: Oct 15 Instagram Screen Smart event (parenting/tech, no venue).
+- Facebook: not re-tried this pass (login-walled on earlier passes; IG covered the same posts). No captions guessed.
+- TikTok: profile meta only (unchanged).
+
+**New pins:** none.
+
+**Updated**
+- Denver Zoo: added CKAR Oct 14 Boo at the Zoo reel (go early while it's light with little kids).
+- The Golden Mill and Washington Park: linked their Oct 18 event pages.
+
+**New events (3)**
+- Oct 17 Trunk-or-Treat at Golden Corral, 9751 Grant St, Thornton, 2–5pm per Mama Life (date seen on the restaurant's posts; time marked "confirm") (~22 min)
+- Oct 18 Howl-o-ween at The Golden Mill, noon–3pm, free (confirmed on thegoldenmill.com)
+- Oct 18 Market in the Park-et Halloween Spook-tacular, Wash Park Boathouse, 10am–5pm, free (confirmed on marketintheparket.com / Eventbrite)
+
+**Tips not pinned**
+- Lone Creek Farms (Franktown) and Cherokee Ranch & Castle (Sedalia): roughly an hour away, outside the ~30-minute radius; Cherokee tea is also not toddler-focused.
+- Black Hawk Fall Festival Saturdays: mountain town, outside the radius.
+- From the Mama Life weekend list, not added: South Broadway Halloween Parade (6–9pm, past toddler bedtime), Exhaust Pros Trunk-or-Treat Northglenn and Reunion Trunk-or-Treat Commerce City (not confirmed on an organizer page), and Castle Rock, Colorado Springs, Greeley, Fort Collins events (outside radius).
+- The Conscious Bodyworker: adult self-care, not a toddler outing.
+
 ## Scrub window (2026-10-14 Mon/Wed/Fri pass)
 
 **Checked**

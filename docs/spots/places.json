@@ -38,11 +38,11 @@
         "instagram": "https://www.instagram.com/littleradadventure/",
         "facebook": "https://www.facebook.com/LittleRadAdventure",
         "site": "https://littleradadventure.com/",
-        "note": "Facebook page Littleradadventure, also posted as Must Do In Colorado. Added from Chanel FB share 2026-10-03 (reel 1738726840765924 → Tiny Town & Railroad, Morrison). Park is seasonal and closed after Labor Day, so no pin until it reopens. IG scrubbed through 2026-10-11 (Argo Mine reel)."
+        "note": "Facebook page Littleradadventure, also posted as Must Do In Colorado. Added from Chanel FB share 2026-10-03 (reel 1738726840765924 → Tiny Town & Railroad, Morrison). Park is seasonal and closed after Labor Day, so no pin until it reopens. IG scrubbed through 2026-10-16."
       }
     ],
-    "updated": "2026-10-14",
-    "scrub_window": "2026-10-14 Mon/Wed/Fri pass: Instagram read Oct 12–13 posts on all five accounts (captions readable without login; dismiss signup popup). Added Bluff Lake, Morrison Nature Center / Star K, FlyteCo Tower, DreamLab at Longmont Museum; updated Mount Falcon Walker Ruins and Hudson Gardens (Jack O'Lanterns through Nov 1). New dated events: DreamLab opening Oct 17, Highlands Harvest Festival Oct 25, Bear Creek Haunted Trail Oct 24, Magic of the Jack O'Lanterns through Nov 1. Prior scrubs retained.",
+    "updated": "2026-10-16",
+    "scrub_window": "2026-10-16 Mon/Wed/Fri pass: Instagram read Oct 14–16 posts on all five accounts (captions readable from direct post URLs without login). New dated events from Colorado Mama Life's Oct 16 free Halloween weekend list: Golden Mill Howl-o-ween Oct 18, Market in the Park-et Spook-tacular at Wash Park Oct 18, Golden Corral Thornton Trunk-or-Treat Oct 17 (time to confirm). Denver Zoo updated with CKAR Boo at the Zoo reel. No new pins. Prior scrubs retained.",
     "notes": "Why-notes paraphrased/quoted from source captions and newsletters. Drive times are rough estimates from Arvada 80004; verify in Google Maps. Do not invent venues — every pin cites a named source. Seasonal spots kept if still relevant for fall 2026 or evergreen otherwise. Home base updated to W 64th Ave & Ward Rd; drive times refreshed via public OSRM routing on 2026-10-02."
   },
   "places": [
@@ -295,6 +295,10 @@
         {
           "label": "Days in Denver May newsletter",
           "url": "https://days-in-denver.beehiiv.com/p/may-newsletter-7ae4c6d9c4e11cee"
+        },
+        {
+          "label": "Market in the Park-et Halloween Spook-tacular Oct 18",
+          "url": "https://marketintheparket.com/washington-park-denver-colorado/"
         }
       ],
       "source": "Colorado Kids Are Rad (@coloradokidsarerad) — 10-park list; also Days.in.denver (@days.in.denver)",
@@ -1228,7 +1232,7 @@
       "lat": 39.7502,
       "lng": -104.949,
       "address": "2300 Steele St, Denver, CO 80205",
-      "why": "Days.in.denver June feature (130th anniversary programming) and fall Boo at the Zoo — classic toddler outing with stroller paths and animal viewing. Oct 8–9: Days.in.denver, Colorado Mama Life, and Little Rad Adventure all posted Boo at the Zoo (nine candy stations, friendly cryptid characters, new Wild Fall Market). CKAR's Oct 8 playground list also names Wild Village at the zoo. Days.in.denver's Oct 9 post: new this year is a Fall Market at the start of the Boo at the Zoo trail; arrive around 5:30 while it's still light.",
+      "why": "Days.in.denver June feature (130th anniversary programming) and fall Boo at the Zoo — classic toddler outing with stroller paths and animal viewing. Oct 8–9: Days.in.denver, Colorado Mama Life, and Little Rad Adventure all posted Boo at the Zoo (nine candy stations, friendly cryptid characters, new Wild Fall Market). CKAR's Oct 8 playground list also names Wild Village at the zoo. Days.in.denver's Oct 9 post: new this year is a Fall Market at the start of the Boo at the Zoo trail; arrive around 5:30 while it's still light. CKAR Oct 14 reel: going early while it's still light out works best with little kids (candy stations, carved pumpkins, Fall Market).",
       "source": "Days.in.denver (@days.in.denver)",
       "source_accounts": [
         "@days.in.denver",
@@ -1269,6 +1273,10 @@
         {
           "label": "Little Rad Adventure Boo at the Zoo reel (Oct 8)",
           "url": "https://www.instagram.com/littleradadventure/reel/DeQDLeIpGj-/"
+        },
+        {
+          "label": "Colorado Kids Are Rad Boo at the Zoo reel (Oct 14)",
+          "url": "https://www.instagram.com/coloradokidsarerad/reel/Defu3awRRte/"
         }
       ],
       "hours": "Typically 9am–4pm (seasonal)",
@@ -3074,6 +3082,10 @@
         {
           "label": "Colorado Mama Life Golden Mill reel (Oct 6)",
           "url": "https://www.instagram.com/coloradomamalife/reel/DeKTs2WTVpf/"
+        },
+        {
+          "label": "Howl-o-ween Oct 18",
+          "url": "https://www.thegoldenmill.com/events/5th-annual-howl-o-ween"
         },
         {
           "label": "The Golden Mill",

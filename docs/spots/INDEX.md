@@ -1,6 +1,6 @@
 # Denver/Arvada Toddler Outing Spots
 
-Updated: 2026-10-14  
+Updated: 2026-10-16  
 Base: W 64th Ave & Ward Rd, Arvada, CO 80004  
 Audience: Toddler ~20 months; prefer ~30 min drive  
 Places: 90
@@ -172,6 +172,7 @@ Each pin has a why-note from a named social/newsletter source. Drive times are r
 - **Cost:** Pay per vendor
 - **Toddler tip:** Easy everyone-eats-something lunch; pair with Lions Park and Clear Creek a few blocks away.
 - [Colorado Mama Life Golden Mill reel (Oct 6)](https://www.instagram.com/coloradomamalife/reel/DeKTs2WTVpf/)
+- [Howl-o-ween Oct 18](https://www.thegoldenmill.com/events/5th-annual-howl-o-ween)
 - [The Golden Mill](https://www.thegoldenmill.com/location-and-hours)
 - [Instagram @coloradomamalife](https://www.instagram.com/coloradomamalife/)
 
@@ -606,7 +607,7 @@ Each pin has a why-note from a named social/newsletter source. Drive times are r
 
 - **Address:** 2300 Steele St, Denver, CO 80205
 - **Drive:** ~24 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~11.0 mi straight-line)
-- **Why:** Days.in.denver June feature (130th anniversary programming) and fall Boo at the Zoo — classic toddler outing with stroller paths and animal viewing. Oct 8–9: Days.in.denver, Colorado Mama Life, and Little Rad Adventure all posted Boo at the Zoo (nine candy stations, friendly cryptid characters, new Wild Fall Market). CKAR's Oct 8 playground list also names Wild Village at the zoo. Days.in.denver's Oct 9 post: new this year is a Fall Market at the start of the Boo at the Zoo trail; arrive around 5:30 while it's still light.
+- **Why:** Days.in.denver June feature (130th anniversary programming) and fall Boo at the Zoo — classic toddler outing with stroller paths and animal viewing. Oct 8–9: Days.in.denver, Colorado Mama Life, and Little Rad Adventure all posted Boo at the Zoo (nine candy stations, friendly cryptid characters, new Wild Fall Market). CKAR's Oct 8 playground list also names Wild Village at the zoo. Days.in.denver's Oct 9 post: new this year is a Fall Market at the start of the Boo at the Zoo trail; arrive around 5:30 while it's still light. CKAR Oct 14 reel: going early while it's still light out works best with little kids (candy stations, carved pumpkins, Fall Market).
 - **Source:** Days.in.denver (@days.in.denver)
 - **Hours:** Typically 9am–4pm (seasonal)
 - **Cost:** Paid (library free zoo day prizes / SCFD free days when offered)
@@ -619,6 +620,7 @@ Each pin has a why-note from a named social/newsletter source. Drive times are r
 - [Days.in.denver Boo at the Zoo post (Oct 9)](https://www.instagram.com/days.in.denver/p/DeRwlK1HMZa/)
 - [Colorado Mama Life Boo at the Zoo reel (Oct 8)](https://www.instagram.com/coloradomamalife/reel/DeNnhjZzCaB/)
 - [Little Rad Adventure Boo at the Zoo reel (Oct 8)](https://www.instagram.com/littleradadventure/reel/DeQDLeIpGj-/)
+- [Colorado Kids Are Rad Boo at the Zoo reel (Oct 14)](https://www.instagram.com/coloradokidsarerad/reel/Defu3awRRte/)
 
 ## Central Park (playground) (near)
 
@@ -793,6 +795,7 @@ Each pin has a why-note from a named social/newsletter source. Drive times are r
 - [Instagram @coloradokidsarerad](https://www.instagram.com/coloradokidsarerad/)
 - [Instagram @days.in.denver](https://www.instagram.com/days.in.denver/)
 - [Days in Denver May newsletter](https://days-in-denver.beehiiv.com/p/may-newsletter-7ae4c6d9c4e11cee)
+- [Market in the Park-et Halloween Spook-tacular Oct 18](https://marketintheparket.com/washington-park-denver-colorado/)
 
 ## Anythink Wright Farms Library (near)
 
