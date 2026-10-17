@@ -1686,6 +1686,77 @@
 },
 "yield": "6"
 },
+"bf-roasted-broccoli-finger-food-for-baby-toddler": {
+"account": "",
+"account_name": "Baby Foode",
+"account_url": "https://babyfoode.com/",
+"category": "meal",
+"color": "#acd6c3",
+"creator": null,
+"date": "2022-02-10",
+"extraction": "recipe-page",
+"fetched_at": "2026-10-17T14:51:27+00:00",
+"id": "bf-roasted-broccoli-finger-food-for-baby-toddler",
+"ingredients": [
+"2 cups broccoli florets",
+"1-2 tsp fresh lemon juice"
+],
+"kind": "site",
+"mealPrep": false,
+"mealPrep_basis": [],
+"minutes": 15,
+"notes": [],
+"platform": "web",
+"recipePage": "r/bf-roasted-broccoli-finger-food-for-baby-toddler.html",
+"recipeSourceUrl": "https://babyfoode.com/blog/roasted-broccoli-finger-food-for-baby-toddler/",
+"recipe_from": "recipe page",
+"site": "Baby Foode",
+"site_url": "https://babyfoode.com/",
+"status": "ok",
+"steps": [
+"In a medium saucepan, bring 2\" of water to a boil over high heat. Add a steamer basket with the broccoli florets. Cover and cook for 8-10 minutes or until tender when pricked with a fork.",
+"Remove from heat, and let cool.",
+"Squeeze the lemon juice on the broccoli and toss."
+],
+"summary": "Looking for easy ways to serve broccoli to your baby? I’ve got you!",
+"tags": [
+"veggies"
+],
+"thumb": "thumbs/bf-roasted-broccoli-finger-food-for-baby-toddler.webp",
+"thumb_h": 400,
+"thumb_w": 400,
+"time": "quick",
+"time_basis": "recipe says 15 min total",
+"title": "Steamed Broccoli with Lemon for Baby-Led Weaning",
+"url": "https://babyfoode.com/blog/roasted-broccoli-finger-food-for-baby-toddler/",
+"web": {
+"author": null,
+"cuisine": [
+"American"
+],
+"date": "2022-02-10",
+"description": "Looking for easy ways to serve broccoli to your baby? I’ve got you! This steamed broccoli with lemon recipe makes a flavorful, perfectly tender meal for little hands to grab, squish, and self-feed. Great for babies 6 months and up.",
+"image": "https://babyfoode.com/wp-content/uploads/2022/02/broccoli-baby-led-weaning-1.png",
+"ingredients": [
+"2 cups broccoli florets",
+"1-2 tsp fresh lemon juice"
+],
+"keywords": [],
+"minutes": 15,
+"name": "Steamed Broccoli with Lemon for Baby-Led Weaning",
+"recipeCategory": [
+"Baby Led Weaning",
+"Side Dish"
+],
+"steps": [
+"In a medium saucepan, bring 2\" of water to a boil over high heat. Add a steamer basket with the broccoli florets. Cover and cook for 8-10 minutes or until tender when pricked with a fork.",
+"Remove from heat, and let cool.",
+"Squeeze the lemon juice on the broccoli and toss."
+],
+"yield": "8"
+},
+"yield": "8"
+},
 "bf-veggie-loaded-tomato-sauce-for-toddlers-kids": {
 "account": "",
 "account_name": "Baby Foode",
@@ -4827,6 +4898,115 @@
 },
 "yield": "8"
 },
+"mj-beef-noodles-stir-fry": {
+"account": "kidfriendly.meals",
+"account_name": "Min Kwon · Kidfriendly Meals",
+"account_url": "https://www.mjandhungryman.com/",
+"category": "pasta",
+"color": "#7f5b36",
+"creator": "kidfriendly.meals",
+"date": "2026-10-12",
+"extraction": "recipe-page",
+"fetched_at": "2026-10-17T14:51:20+00:00",
+"id": "mj-beef-noodles-stir-fry",
+"ingredients": [
+"3 tablespoon low-sodium soy sauce",
+"1 tablespoon oyster sauce (optional but adds depth)",
+"1 tablespoon brown sugar or honey",
+"1 tablespoon sesame oil",
+"1 tablespoon rice vinegar (or apple cider vinegar)",
+"2 garlic cloves, minced",
+"1 teaspoon grated ginger",
+"1/2 teaspoon ground black pepper",
+"1 tablespoon avocado or olive oil",
+"1 pound thinly sliced beef (ribeye, sirloin, or ground beef works too)",
+"1 small onion, thinly sliced",
+"1 red bell pepper, thinly sliced",
+"1 zucchini, thinly sliced",
+"1 carrot, thinly sliced",
+"3 packs (about 14 oz total) pre-cooked udon noodles",
+"2 green onions, chopped",
+"Toasted sesame seeds, for garnish"
+],
+"kind": "creator",
+"mealPrep": false,
+"mealPrep_basis": [],
+"minutes": 30,
+"notes": [],
+"platform": "web",
+"recipePage": "r/mj-beef-noodles-stir-fry.html",
+"recipeSourceUrl": "https://www.mjandhungryman.com/beef-noodles-stir-fry/",
+"recipe_from": "recipe page",
+"site": "MJ and Hungryman",
+"site_url": "https://www.mjandhungryman.com/",
+"status": "ok",
+"steps": [
+"Make the sauce - In a small bowl, whisk together soy sauce, oyster sauce, brown sugar, sesame oil, rice vinegar, garlic, ginger, and black pepper. Set aside.",
+"Cook the beef - Heat oil in a large skillet or wok over medium-high heat. Add beef and cook until it’s mostly browned (2–3 minutes). Drain excess fat if needed. Remove from the pan.",
+"Add veggies - Stir in onion, bell pepper, zucchini, and cabbage. Cook for 3–4 minutes, just until veggies are tender-crisp.",
+"Prepare the noodles - Remove the udon noodles from the package and add them to a pot of boiling water. There’s no need to thaw if frozen. Gently stir for 1–2 minutes, just until the noodles loosen and become tender. Since they’re already precooked, be careful not to overcook them or they’ll get too soft.",
+"Add noodles and sauce - Add to the skillet along with the sauce. Toss well to coat everything evenly. Continue cooking for 2–3 minutes, stirring frequently, until the noodles are heated through and glossy.",
+"Finish - Stir in green onions, sprinkle with sesame seeds, and adjust seasoning if needed (a drizzle of soy sauce or an extra touch of sesame oil can balance the flavor)."
+],
+"summary": "This easy beef noodle stir fry combines tender beef, chewy noodles and colorful veggies in a savory sauce for a family dinner ready in 30 minutes.",
+"tags": [
+"dinner",
+"pasta & noodles"
+],
+"thumb": "thumbs/mj-beef-noodles-stir-fry.webp",
+"thumb_h": 400,
+"thumb_w": 400,
+"time": "long",
+"time_basis": "recipe says 30 min total",
+"title": "Beef Noodles Stir Fry",
+"url": "https://www.mjandhungryman.com/beef-noodles-stir-fry/",
+"web": {
+"author": null,
+"cuisine": [
+"Asian"
+],
+"date": "2026-10-12",
+"description": "This easy beef noodle stir fry combines tender beef, chewy noodles and colorful veggies in a savory sauce for a family dinner ready in 30 minutes.",
+"image": "https://www.mjandhungryman.com/wp-content/uploads/2026/10/Beef-udon-stir-fry-recipe.jpg",
+"ingredients": [
+"3 tablespoon low-sodium soy sauce",
+"1 tablespoon oyster sauce (optional but adds depth)",
+"1 tablespoon brown sugar or honey",
+"1 tablespoon sesame oil",
+"1 tablespoon rice vinegar (or apple cider vinegar)",
+"2 garlic cloves, minced",
+"1 teaspoon grated ginger",
+"1/2 teaspoon ground black pepper",
+"1 tablespoon avocado or olive oil",
+"1 pound thinly sliced beef (ribeye, sirloin, or ground beef works too)",
+"1 small onion, thinly sliced",
+"1 red bell pepper, thinly sliced",
+"1 zucchini, thinly sliced",
+"1 carrot, thinly sliced",
+"3 packs (about 14 oz total) pre-cooked udon noodles",
+"2 green onions, chopped",
+"Toasted sesame seeds, for garnish"
+],
+"keywords": [
+"beef noodles stir fry"
+],
+"minutes": 30,
+"name": "Beef Noodles Stir Fry",
+"recipeCategory": [
+"Dinner"
+],
+"steps": [
+"Make the sauce - In a small bowl, whisk together soy sauce, oyster sauce, brown sugar, sesame oil, rice vinegar, garlic, ginger, and black pepper. Set aside.",
+"Cook the beef - Heat oil in a large skillet or wok over medium-high heat. Add beef and cook until it’s mostly browned (2–3 minutes). Drain excess fat if needed. Remove from the pan.",
+"Add veggies - Stir in onion, bell pepper, zucchini, and cabbage. Cook for 3–4 minutes, just until veggies are tender-crisp.",
+"Prepare the noodles - Remove the udon noodles from the package and add them to a pot of boiling water. There’s no need to thaw if frozen. Gently stir for 1–2 minutes, just until the noodles loosen and become tender. Since they’re already precooked, be careful not to overcook them or they’ll get too soft.",
+"Add noodles and sauce - Add to the skillet along with the sauce. Toss well to coat everything evenly. Continue cooking for 2–3 minutes, stirring frequently, until the noodles are heated through and glossy.",
+"Finish - Stir in green onions, sprinkle with sesame seeds, and adjust seasoning if needed (a drizzle of soy sauce or an extra touch of sesame oil can balance the flavor)."
+],
+"yield": "4"
+},
+"yield": "4"
+},
 "mj-beetroot-pesto-pasta-sauce": {
 "account": "kidfriendly.meals",
 "account_name": "Min Kwon · Kidfriendly Meals",
@@ -5184,6 +5364,94 @@
 "yield": "18"
 },
 "yield": "18"
+},
+"mj-blueberry-cottage-cheese-bites": {
+"account": "kidfriendly.meals",
+"account_name": "Min Kwon · Kidfriendly Meals",
+"account_url": "https://www.mjandhungryman.com/",
+"category": "finger",
+"color": "#c4ab8a",
+"creator": "kidfriendly.meals",
+"date": "2026-10-14",
+"extraction": "recipe-page",
+"fetched_at": "2026-10-17T14:51:19+00:00",
+"id": "mj-blueberry-cottage-cheese-bites",
+"ingredients": [
+"1 cup (225g) full fat cottage cheese",
+"1/2 cup (50g) rolled oats",
+"2 large eggs",
+"1 teaspoon baking powder",
+"1 tablespoon maple syrup or honey (optional)",
+"1 teaspoon vanilla extract",
+"1/2 cup fresh blueberries"
+],
+"kind": "creator",
+"mealPrep": false,
+"mealPrep_basis": [],
+"minutes": 30,
+"notes": [],
+"platform": "web",
+"recipePage": "r/mj-blueberry-cottage-cheese-bites.html",
+"recipeSourceUrl": "https://www.mjandhungryman.com/blueberry-cottage-cheese-bites/",
+"recipe_from": "recipe page",
+"site": "MJ and Hungryman",
+"site_url": "https://www.mjandhungryman.com/",
+"status": "ok",
+"steps": [
+"Preheat the oven to 350°F. Lightly grease a 24-cup mini muffin pan or use a silicone mini muffin pan.",
+"Add the cottage cheese, oats, eggs, baking powder, maple syrup, and vanilla to a blender. Blend until completely smooth. Gently stir in the blueberries.",
+"Divide the batter evenly among the mini muffin cups. Bake for 18–22 minutes, or until the centers are set and the edges are lightly golden.",
+"This part is important: Let the bites cool in the pan for at least 10 minutes before removing them. They’re very soft straight from the oven and will firm up as they cool."
+],
+"summary": "These blueberry cottage cheese bites are protein-packed, naturally sweet, and made with just 7 ingredients for an easy breakfast or snack.",
+"tags": [
+"breakfast",
+"snack",
+"sweet",
+"finger food"
+],
+"thumb": "thumbs/mj-blueberry-cottage-cheese-bites.webp",
+"thumb_h": 400,
+"thumb_w": 400,
+"time": "long",
+"time_basis": "recipe says 30 min total",
+"title": "Blueberry Cottage Cheese Bites",
+"url": "https://www.mjandhungryman.com/blueberry-cottage-cheese-bites/",
+"web": {
+"author": null,
+"cuisine": [
+"American"
+],
+"date": "2026-10-14",
+"description": "These blueberry cottage cheese bites are protein-packed, naturally sweet, and made with just 7 ingredients for an easy breakfast or snack.",
+"image": "https://www.mjandhungryman.com/wp-content/uploads/2026/09/Blueberry-cottage-cheese-bites-recipe.jpg",
+"ingredients": [
+"1 cup (225g) full fat cottage cheese",
+"1/2 cup (50g) rolled oats",
+"2 large eggs",
+"1 teaspoon baking powder",
+"1 tablespoon maple syrup or honey (optional)",
+"1 teaspoon vanilla extract",
+"1/2 cup fresh blueberries"
+],
+"keywords": [
+"cottage cheese bites"
+],
+"minutes": 30,
+"name": "Blueberry Cottage Cheese Bites",
+"recipeCategory": [
+"Breakfast",
+"breakfast, snack"
+],
+"steps": [
+"Preheat the oven to 350°F. Lightly grease a 24-cup mini muffin pan or use a silicone mini muffin pan.",
+"Add the cottage cheese, oats, eggs, baking powder, maple syrup, and vanilla to a blender. Blend until completely smooth. Gently stir in the blueberries.",
+"Divide the batter evenly among the mini muffin cups. Bake for 18–22 minutes, or until the centers are set and the edges are lightly golden.",
+"This part is important: Let the bites cool in the pan for at least 10 minutes before removing them. They’re very soft straight from the oven and will firm up as they cool."
+],
+"yield": "24"
+},
+"yield": "24"
 },
 "mj-boursin-pasta": {
 "account": "kidfriendly.meals",
@@ -19281,6 +19549,97 @@
 "yield": "4"
 },
 "yield": "4"
+},
+"pe-healthy-cheesecake": {
+"account": "thepickyeater",
+"account_name": "Anjali Shah · The Picky Eater",
+"account_url": "https://pickyeaterblog.com/",
+"category": "sweet",
+"color": "#b88f78",
+"creator": "thepickyeater",
+"date": "2026-10-12",
+"extraction": "recipe-page",
+"fetched_at": "2026-10-17T14:51:24+00:00",
+"id": "pe-healthy-cheesecake",
+"ingredients": [
+"1½ cups whole-milk (4 to 5%) vanilla Greek yogurt (room temperature, about 360g )",
+"2 large eggs (room temperature)",
+"2 tablespoons cornstarch",
+"1 teaspoon pure vanilla extract",
+"⅛ teaspoon fine salt"
+],
+"kind": "creator",
+"mealPrep": false,
+"mealPrep_basis": [],
+"minutes": 345,
+"notes": [],
+"platform": "web",
+"recipePage": "r/pe-healthy-cheesecake.html",
+"recipeSourceUrl": "https://pickyeaterblog.com/healthy-cheesecake/",
+"recipe_from": "recipe page",
+"site": "The Picky Eater",
+"site_url": "https://pickyeaterblog.com/",
+"status": "ok",
+"steps": [
+"Preheat the oven to 425°F (220°C). Line an 8x4-inch loaf pan with parchment paper, leaving extra parchment extending above the sides.",
+"Taste the yogurt. If it's mostly tangy rather than dessert-sweet, plan to add 1 tablespoon of maple syrup or honey to the batter.",
+"Gently whisk the yogurt, eggs, and vanilla (plus the maple syrup or honey, if using) until smooth. Avoid beating in air, which can cause puffing and cracking.",
+"Sift in the cornstarch and salt. Whisk gently until completely combined with no lumps.",
+"Pour the batter into the prepared pan. Bake until the edges are set, the center still has a gentle jiggle, and the top is deep golden brown. Start checking at 20 minutes.",
+"Let the cheesecake cool completely in the pan at room temperature.",
+"Refrigerate for at least 4 hours, preferably overnight, to finish setting.",
+"Lift out using the parchment, slice, and serve with fresh berries."
+],
+"summary": "I make this crustless, Basque-style healthy cheesecake with whole-milk vanilla Greek yogurt, two eggs, and cornstarch. A hot oven caramelizes the top, and an overnight chill sets the center thick and …",
+"tags": [
+"snack",
+"sweet"
+],
+"thumb": "thumbs/pe-healthy-cheesecake.webp",
+"thumb_h": 600,
+"thumb_w": 400,
+"time": "long",
+"time_basis": "recipe says 345 min total",
+"title": "Healthy Cheesecake Recipe",
+"url": "https://pickyeaterblog.com/healthy-cheesecake/",
+"web": {
+"author": null,
+"cuisine": [
+"American",
+"Spanish"
+],
+"date": "2026-10-12",
+"description": "I make this crustless, Basque-style healthy cheesecake with whole-milk vanilla Greek yogurt, two eggs, and cornstarch. A hot oven caramelizes the top, and an overnight chill sets the center thick and creamy.",
+"image": "https://pickyeaterblog.com/wp-content/uploads/2026/10/healthy-cheesecake-topped-with-berries.jpg",
+"ingredients": [
+"1½ cups whole-milk (4 to 5%) vanilla Greek yogurt (room temperature, about 360g )",
+"2 large eggs (room temperature)",
+"2 tablespoons cornstarch",
+"1 teaspoon pure vanilla extract",
+"⅛ teaspoon fine salt"
+],
+"keywords": [
+"healthy cheesecake",
+"healthy cheesecake recipe"
+],
+"minutes": 345,
+"name": "Healthy Cheesecake Recipe",
+"recipeCategory": [
+"Dessert"
+],
+"steps": [
+"Preheat the oven to 425°F (220°C). Line an 8x4-inch loaf pan with parchment paper, leaving extra parchment extending above the sides.",
+"Taste the yogurt. If it's mostly tangy rather than dessert-sweet, plan to add 1 tablespoon of maple syrup or honey to the batter.",
+"Gently whisk the yogurt, eggs, and vanilla (plus the maple syrup or honey, if using) until smooth. Avoid beating in air, which can cause puffing and cracking.",
+"Sift in the cornstarch and salt. Whisk gently until completely combined with no lumps.",
+"Pour the batter into the prepared pan. Bake until the edges are set, the center still has a gentle jiggle, and the top is deep golden brown. Start checking at 20 minutes.",
+"Let the cheesecake cool completely in the pan at room temperature.",
+"Refrigerate for at least 4 hours, preferably overnight, to finish setting.",
+"Lift out using the parchment, slice, and serve with fresh berries."
+],
+"yield": "6"
+},
+"yield": "6"
 },
 "pe-healthy-chocolate-chip-banana-bread": {
 "account": "thepickyeater",
@@ -52357,6 +52716,18 @@
 "time_basis": "says 18 min",
 "title": "I love seeing your toddler-friendly versions",
 "url": "https://www.tiktok.com/@toddler.snack.therapy/video/7564101990377196832",
+"video": {
+"checked_at": "2026-10-17T14:58:55+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7564150998415969550": {
@@ -52393,6 +52764,18 @@
 "time_basis": "",
 "title": "Simple, balanced, realistic — what my 14-month-old ate today",
 "url": "https://www.tiktok.com/@soniamazri/video/7564150998415969550",
+"video": {
+"checked_at": "2026-10-17T14:58:57+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7564480779955244320": {
@@ -52433,6 +52816,18 @@
 "time_basis": "",
 "title": "These soft, healthy monster cookies will save your snack time",
 "url": "https://www.tiktok.com/@toddler.snack.therapy/video/7564480779955244320",
+"video": {
+"checked_at": "2026-10-17T14:58:48+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7564687412174146848": {
@@ -52520,6 +52915,18 @@
 "time_basis": "says 12 min",
 "title": "Perfect for toddlers, snack boxes, or spooky movie nights",
 "url": "https://www.tiktok.com/@toddler.snack.therapy/video/7564859841882148129",
+"video": {
+"checked_at": "2026-10-17T14:58:44+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7564881997672303886": {
@@ -52556,6 +52963,18 @@
 "time_basis": "",
 "title": "Baby meals don’t need to be complicated Simple, colorful, and balanced here’s…",
 "url": "https://www.tiktok.com/@soniamazri/video/7564881997672303886",
+"video": {
+"checked_at": "2026-10-17T14:58:46+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7565143265641516343": {
@@ -52592,6 +53011,18 @@
 "time_basis": "",
 "title": "A full day of meals for my 1-year-old",
 "url": "https://www.tiktok.com/@soniamazri/video/7565143265641516343",
+"video": {
+"checked_at": "2026-10-17T14:58:38+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "Enjoying who you share it with",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7565218006024981793": {
@@ -52632,6 +53063,18 @@
 "time_basis": "",
 "title": "All my Halloween toddler snacks are made from scratch with real ingredients",
 "url": "https://www.tiktok.com/@toddler.snack.therapy/video/7565218006024981793",
+"video": {
+"checked_at": "2026-10-17T14:58:41+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7565644033163267341": {
@@ -52670,6 +53113,18 @@
 "time_basis": "",
 "title": "Let’s make Sweet Potato Pizza for my 1 year old",
 "url": "https://www.tiktok.com/@soniamazri/video/7565644033163267341",
+"video": {
+"checked_at": "2026-10-17T14:58:35+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7565969774442777888": {
@@ -52681,10 +53136,13 @@
 "color": "#a4866f",
 "creator": "toddler.snack.therapy",
 "date": "2025-10-27",
-"extraction": "none",
+"extraction": "video-partial",
 "fetched_at": "2026-10-15T02:46:53+00:00",
 "id": "tt-7565969774442777888",
-"ingredients": [],
+"ingredients": [
+"corn",
+"flour"
+],
 "kind": "creator",
 "links": [],
 "mealPrep": false,
@@ -52694,7 +53152,7 @@
 "page_minutes": null,
 "platform": "tiktok",
 "recipeSourceUrl": null,
-"recipe_from": "caption",
+"recipe_from": "video",
 "since": "2025-01-01",
 "status": "ok",
 "steps": [],
@@ -52710,6 +53168,21 @@
 "time_basis": "says 18 min",
 "title": "Ingredients ½ cup (60g) corn flour ½ cup (60g) spelt flour ½ cup (50g) grated…",
 "url": "https://www.tiktok.com/@toddler.snack.therapy/video/7565969774442777888",
+"video": {
+"checked_at": "2026-10-17T14:58:32+00:00",
+"ingredients": [
+"corn",
+"flour"
+],
+"kind": "video-partial",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7566355286114553120": {
@@ -52753,6 +53226,18 @@
 "time_basis": "says 15 min",
 "title": "These Pumpkin Spice Granola Bites are the perfect real food snack for little…",
 "url": "https://www.tiktok.com/@toddler.snack.therapy/video/7566355286114553120",
+"video": {
+"checked_at": "2026-10-17T14:58:29+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7566711508248448289": {
@@ -52794,6 +53279,18 @@
 "time_basis": "",
 "title": "Soft, naturally sweet, and made with pure, wholesome ingredients, these bars…",
 "url": "https://www.tiktok.com/@toddler.snack.therapy/video/7566711508248448289",
+"video": {
+"checked_at": "2026-10-17T14:58:26+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7567087991454256417": {
@@ -52937,6 +53434,18 @@
 "time_basis": "",
 "title": "Homemade snacks aren’t about perfection",
 "url": "https://www.tiktok.com/@toddler.snack.therapy/video/7567812605688024353",
+"video": {
+"checked_at": "2026-10-17T14:58:21+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7567889903862795534": {
@@ -52975,6 +53484,18 @@
 "time_basis": "",
 "title": "Nutritious rice balls for babies (6M+)",
 "url": "https://www.tiktok.com/@soniamazri/video/7567889903862795534",
+"video": {
+"checked_at": "2026-10-17T14:58:24+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7568558730678111521": {
@@ -53126,6 +53647,18 @@
 "time_basis": "says 5 min",
 "title": "Snack",
 "url": "https://www.tiktok.com/@toddler.snack.therapy/video/7569303452229127457",
+"video": {
+"checked_at": "2026-10-17T14:58:15+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7569311634850663735": {
@@ -53162,6 +53695,18 @@
 "time_basis": "",
 "title": "Let me know if you want the recipe",
 "url": "https://www.tiktok.com/@soniamazri/video/7569311634850663735",
+"video": {
+"checked_at": "2026-10-17T14:58:19+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "Going top, down in that old Mercedes Music loud, go ahead and hate me Spare the nickel, I'll do your life",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7569678148254584097": {
@@ -53220,10 +53765,16 @@
 "color": "#95908a",
 "creator": "soniamazri_",
 "date": "2025-11-06",
-"extraction": "none",
+"extraction": "video",
 "fetched_at": "2026-10-11T02:23:20+00:00",
 "id": "tt-7569686903679667511",
-"ingredients": [],
+"ingredients": [
+"quinoa",
+"lentils",
+"broth",
+"1 cup water",
+"carrots"
+],
 "kind": "creator",
 "links": [],
 "mealPrep": false,
@@ -53232,10 +53783,13 @@
 "notes": [],
 "page_minutes": null,
 "platform": "tiktok",
+"recipePage": "r/tt-7569686903679667511.html",
 "recipeSourceUrl": null,
-"recipe_from": "caption",
+"recipe_from": "video",
 "status": "ok",
-"steps": [],
+"steps": [
+"Bring it to a boil then lower the heat, cover, and let it cook."
+],
 "summary": ". For this meal you’ll need -1/2cup quinoa -1/2cup red lentils -1cup vegetable broth -1cup water -1/2cup small diced carrots -Greek yogurt -egg yolk -flax seeds -oranges",
 "tags": [
 "lunch",
@@ -53248,6 +53802,26 @@
 "time_basis": "",
 "title": "Let’s make lunch for my 1 year old",
 "url": "https://www.tiktok.com/@soniamazri/video/7569686903679667511",
+"video": {
+"checked_at": "2026-10-17T14:58:12+00:00",
+"ingredients": [
+"quinoa",
+"lentils",
+"broth",
+"1 cup water",
+"carrots"
+],
+"kind": "video",
+"narration": "No one talks about how emotional feeding kids can be and the anxiety you get when they don't want to eat. It's okay though, our job is just to make that meal and offer it. Today I am making quinoa with red lentils and carrots. For this recipe, you'll need half cup quinoa, half cup lentils, one cup vegetable broth, one cup water, and half cup small diced carrots. Bring it to a boil then lower the heat, cover, and let it cook. While that is cooking, I am mixing egg yolk, Greek yogurt, and flax seeds. My son loves anything mixed with Greek yogurt so I like to play around here. I am finishing up the meal with some oranges for vitamin C and there you go, a tasty plate that's ready to be ruined by a one year old.",
+"onscreen": [],
+"steps": [
+"Bring it to a boil then lower the heat, cover, and let it cook."
+],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7569946355301485856": {
@@ -53290,6 +53864,18 @@
 "time_basis": "says 20 min",
 "title": "Soft Sweet Potato Mini Bars for Toddlers These are the SOFTEST toddler…",
 "url": "https://www.tiktok.com/@toddler.snack.therapy/video/7569946355301485856",
+"video": {
+"checked_at": "2026-10-17T14:52:30+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7570066764592139533": {
@@ -53297,7 +53883,7 @@
 "account_name": "Sonia | Baby Meal Plan",
 "account_url": "https://www.tiktok.com/@soniamazri",
 "caption": "Everything my 1 year old ate today. Keeping it simple healthy and balanced with minimum effort. #babyhealthyfoods #toddlermeals #babymealideas #babyledweaning #babyrecipes ",
-"category": "meal",
+"category": "pasta",
 "color": "#d5b89b",
 "creator": "soniamazri_",
 "date": "2025-11-07",
@@ -53318,7 +53904,14 @@
 "status": "ok",
 "steps": [],
 "summary": ". Keeping it simple healthy and balanced with minimum effort.",
-"tags": [],
+"tags": [
+"breakfast",
+"lunch",
+"dinner",
+"snack",
+"pasta & noodles",
+"veggies"
+],
 "thumb": "thumbs/tt-7570066764592139533.webp",
 "thumb_h": 711,
 "thumb_w": 400,
@@ -53326,6 +53919,18 @@
 "time_basis": "",
 "title": "Everything my 1 year old ate today",
 "url": "https://www.tiktok.com/@soniamazri/video/7570066764592139533",
+"video": {
+"checked_at": "2026-10-17T14:56:14+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "Here is everything my one-year-old ate today. He does wake up at 5 a.m. for a bottle and then he goes back to sleep until 7. His breakfast is very simple. He pretty much has the same thing every day because mornings are my busy time. I cannot make him a nice meal plus he's not that hungry. So today he's having a peanut butter toast and a boiled egg and this is how much he ate. That's a good start. For lunch I am making him steamed vegetables. He's been refusing broccoli lately although he used to love it but I'll keep adding it until he tries it again. On top of that I had some pasta leftovers from last night so I put it on the side and of course Greek yogurt and flaxseed. That's always a win and this is how much he ate. He still didn't touch the broccoli but that's okay. After lunch he takes a bottle and goes for a nap. Again keeping it simple with the snacks he's getting a pouch. For dinner of course I'm gonna give him the vegetables I made at lunch. I am not cooking twice. A boiled egg and some bananas. I always top everything with olive oil. It's the gold I add to the plate and this time he ate the broccoli so that's a win. After dinner it's a bottle and bed.",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7570785828381707533": {
@@ -53362,6 +53967,18 @@
 "time_basis": "",
 "title": "Some of the meals my 1 year old had this week",
 "url": "https://www.tiktok.com/@soniamazri/video/7570785828381707533",
+"video": {
+"checked_at": "2026-10-17T14:52:28+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7571912454012226829": {
@@ -53373,10 +53990,15 @@
 "color": "#aab094",
 "creator": "soniamazri_",
 "date": "2025-11-12",
-"extraction": "none",
+"extraction": "video",
 "fetched_at": "2026-10-11T02:23:19+00:00",
 "id": "tt-7571912454012226829",
-"ingredients": [],
+"ingredients": [
+"chicken",
+"2 tablespoons cream cheese",
+"egg",
+"2 tablespoon flour"
+],
 "kind": "creator",
 "links": [],
 "mealPrep": false,
@@ -53385,10 +54007,16 @@
 "notes": [],
 "page_minutes": null,
 "platform": "tiktok",
+"recipePage": "r/tt-7571912454012226829.html",
 "recipeSourceUrl": null,
-"recipe_from": "caption",
+"recipe_from": "video",
 "status": "ok",
-"steps": [],
+"steps": [
+"I have mentioned it before it's so cool because it allows me to take any recipe video I like and it will import it into an actual recipe with ingredients and steps.",
+"I then save it and the cool part is if I want to watch the video I can tap on the link from recipe and it will take me to the video.",
+"Add 2 tablespoons cream cheese, fourth cup shredded cheese, one egg and around 2 tablespoon flour.",
+"Mix everything then cook it on a medium heat."
+],
 "summary": "Here’s our easy chicken lunch idea",
 "tags": [
 "lunch"
@@ -53400,6 +54028,28 @@
 "time_basis": "",
 "title": "Feeding a 1-year-old doesn’t have to be complicated",
 "url": "https://www.tiktok.com/@soniamazri/video/7571912454012226829",
+"video": {
+"checked_at": "2026-10-17T14:52:25+00:00",
+"ingredients": [
+"chicken",
+"2 tablespoons cream cheese",
+"egg",
+"2 tablespoon flour"
+],
+"kind": "video",
+"narration": "Let's make lunch for my one year old and today is chicken day and he loves this recipe plus it's so easy to make. If you want to know how I save recipes so I don't lose track of them I use an app called recipe. I have mentioned it before it's so cool because it allows me to take any recipe video I like and it will import it into an actual recipe with ingredients and steps. I then save it and the cool part is if I want to watch the video I can tap on the link from recipe and it will take me to the video. I can also organize the recipes into categories which is really nice. Going back to the recipe you'll need a pre-cooked chicken. You can use leftovers chicken if you have or buy it pre-cooked. Add two tablespoons cream cheese, fourth cup shredded cheese, one egg and around two tablespoon flour. Mix everything then cook it on a medium heat. This recipe is great if you're busy or have leftovers chicken and you don't know what to do with it. Plus it tastes so good I actually saved some for me and this is how it comes out. I'm adding some cherry tomatoes cutting quarters and kiwi. I ended up cutting the chicken into small pieces because it's easier for him to grow.",
+"onscreen": [],
+"steps": [
+"I have mentioned it before it's so cool because it allows me to take any recipe video I like and it will import it into an actual recipe with ingredients and steps.",
+"I then save it and the cool part is if I want to watch the video I can tap on the link from recipe and it will take me to the video.",
+"Add 2 tablespoons cream cheese, fourth cup shredded cheese, one egg and around 2 tablespoon flour.",
+"Mix everything then cook it on a medium heat."
+],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7572277480338279713": {
@@ -53441,6 +54091,18 @@
 "time_basis": "says 23 min",
 "title": "Join me for more soft, real food wins",
 "url": "https://www.tiktok.com/@toddler.snack.therapy/video/7572277480338279713",
+"video": {
+"checked_at": "2026-10-17T14:52:17+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7572699311201324301": {
@@ -53448,14 +54110,17 @@
 "account_name": "Sonia | Baby Meal Plan",
 "account_url": "https://www.tiktok.com/@soniamazri",
 "caption": "Everything my 1 year old ate today🥦🍌. Excuse my sick voice  #babyfood #babyledweaning #toddlermealinspo #babymeals #babyrecipes ",
-"category": "meal",
+"category": "sweet",
 "color": "#ada090",
 "creator": "soniamazri_",
 "date": "2025-11-14",
-"extraction": "none",
+"extraction": "video-partial",
 "fetched_at": "2026-10-11T02:23:19+00:00",
 "id": "tt-7572699311201324301",
-"ingredients": [],
+"ingredients": [
+"chia seeds",
+"berries"
+],
 "kind": "creator",
 "links": [],
 "mealPrep": false,
@@ -53465,18 +54130,39 @@
 "page_minutes": null,
 "platform": "tiktok",
 "recipeSourceUrl": null,
-"recipe_from": "caption",
+"recipe_from": "video",
 "status": "ok",
 "steps": [],
 "summary": "",
-"tags": [],
+"tags": [
+"breakfast",
+"lunch",
+"dinner",
+"snack",
+"veggies"
+],
 "thumb": "thumbs/tt-7572699311201324301.webp",
 "thumb_h": 711,
 "thumb_w": 400,
-"time": "unknown",
-"time_basis": "",
+"time": "long",
+"time_basis": "overnight",
 "title": "Everything my 1 year old ate today",
 "url": "https://www.tiktok.com/@soniamazri/video/7572699311201324301",
+"video": {
+"checked_at": "2026-10-17T14:52:13+00:00",
+"ingredients": [
+"chia seeds",
+"berries"
+],
+"kind": "video-partial",
+"narration": "Here is everything my one-year-old ate today. As always he takes a bottle at 5 a.m. and goes back to sleep until 7 30. You know we like to keep breakfast simple so today he's having oatmeal. I either do baby oatmeal or overnight oats. I like to add some chia seeds and top it with some berries. For lunch I am making him chicken patties. He loves it so much. If you want the recipe I posted it the other day so make sure you go watch that one. I added some cherry tomatoes and kiwi. I ended up cutting the chicken into small pieces because it's easier for him to grab and this is how much he ate. After lunch he takes a bottle and goes for a nap. After he wakes up I give him a quick snack. Today he's having yogurt with flax seeds and peach. This will keep him full until dinner time. For dinner he's having chicken leftovers. I added some steamed broccoli with olive oil and bananas and yes I give him dinner right before he goes to bed. This is how much he ate. He's back to eating broccoli which is really good. We finish with a bottle and it's bedtime.",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7574146675577539895": {
@@ -53516,6 +54202,18 @@
 "time_basis": "",
 "title": "Easy Breakfast idea for babies and toddlers",
 "url": "https://www.tiktok.com/@soniamazri/video/7574146675577539895",
+"video": {
+"checked_at": "2026-10-17T14:52:05+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7574920211686624526": {
@@ -53523,7 +54221,7 @@
 "account_name": "Sonia | Baby Meal Plan",
 "account_url": "https://www.tiktok.com/@soniamazri",
 "caption": "Everything my 1 year old ate today  #babymeals #toddlermeals #babyledweaning #toddlerrecipes #toddlermealinspo ",
-"category": "meal",
+"category": "sweet",
 "color": "#b7bba3",
 "creator": "soniamazri_",
 "date": "2025-11-20",
@@ -53544,7 +54242,13 @@
 "status": "ok",
 "steps": [],
 "summary": "",
-"tags": [],
+"tags": [
+"breakfast",
+"lunch",
+"dinner",
+"sweet",
+"dip & spread"
+],
 "thumb": "thumbs/tt-7574920211686624526.webp",
 "thumb_h": 711,
 "thumb_w": 400,
@@ -53552,6 +54256,18 @@
 "time_basis": "",
 "title": "Everything my 1 year old ate today",
 "url": "https://www.tiktok.com/@soniamazri/video/7574920211686624526",
+"video": {
+"checked_at": "2026-10-17T14:52:02+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "Here is everything my 1 year old ate today. I like to plan his meals ahead of time. This saves me a lot of thinking and a lot of time. I have a table of ingredients I'm planning to use throughout the week and I use the recipe app to save recipes with those ingredients. I truly love this app because I can just import any recipe I want from anywhere to the app. That way I can have all the recipes in one place. I can also open the video from the app if I want to re-watch it again. And this is how much he ate for breakfast. At lunch I really wanted to try this new recipe with chickpea and sweet potato but it was a total mess so never mind backup plan it is. I quickly steamed some vegetables, a hard boiled egg and yogurt. I'm just glad I made it on time because this little one was really hungry. Anyway after lunch he had a bottle and took a nap. When he woke up I gave him some mangoes. It's a soft mango and he loved it. I really wanted to give him chickpeas for lunch because they are so good for babies and toddlers. And since that did not happen I am making him some improvised hummus. He's having that for dinner as a side dish with whatever we are having. Today it's green beans with tomatoes and garlic. After dinner he had another bottle and went to bed.",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7576379297183649055": {
@@ -53634,6 +54350,18 @@
 "time_basis": "",
 "title": "Baby’s meals shouldn’t be complicated",
 "url": "https://www.tiktok.com/@soniamazri/video/7576769506563870007",
+"video": {
+"checked_at": "2026-10-17T14:51:53+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7577436729892769079": {
@@ -53682,10 +54410,13 @@
 "color": "#87756c",
 "creator": "soniamazri_",
 "date": "2025-11-29",
-"extraction": "none",
+"extraction": "video-partial",
 "fetched_at": "2026-10-11T02:23:17+00:00",
 "id": "tt-7578213146788154638",
-"ingredients": [],
+"ingredients": [
+"blueberries",
+"apple"
+],
 "kind": "creator",
 "links": [],
 "mealPrep": false,
@@ -53695,7 +54426,7 @@
 "page_minutes": null,
 "platform": "tiktok",
 "recipeSourceUrl": null,
-"recipe_from": "caption",
+"recipe_from": "video",
 "status": "ok",
 "steps": [],
 "summary": ". This recipe is freezable and very easy to make -2Eggs -1cup Full fat Greek Yogurt -1/2cup Almond Flour -1/2cup self rising Flour -1/2cup Frozen Blueberries -1cup peeled and small diced apple",
@@ -53709,6 +54440,21 @@
 "time_basis": "",
 "title": "Let’s make blueberries apple breakfast for kids",
 "url": "https://www.tiktok.com/@soniamazri/video/7578213146788154638",
+"video": {
+"checked_at": "2026-10-17T14:51:49+00:00",
+"ingredients": [
+"blueberries",
+"apple"
+],
+"kind": "video-partial",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7579381916671970574": {
@@ -53749,6 +54495,18 @@
 "time_basis": "says 10 min",
 "title": "Let’s make this delicious meal Baby approved in 10 minutes -Preheat the oven…",
 "url": "https://www.tiktok.com/@soniamazri/video/7579381916671970574",
+"video": {
+"checked_at": "2026-10-17T14:51:47+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7579748678395579703": {
@@ -65069,6 +65827,125 @@
 },
 "yield": null
 },
+"tt-7696723245894012190": {
+"account": "mini.tiger.zen",
+"account_name": "mini.tiger.zen",
+"account_url": "https://www.tiktok.com/@mini.tiger.zen",
+"caption": "Healthy protein shake without protein powder 💪💪  #healthyrecipe #momlife #healthydiet #easyrecipe #mom",
+"category": "meal",
+"color": "#877464",
+"creator": "mini.tiger.zen",
+"date": "2026-10-15",
+"extraction": "video",
+"fetched_at": "2026-10-17T14:48:11+00:00",
+"id": "tt-7696723245894012190",
+"ingredients": [
+"banana",
+"tofu",
+"milk",
+"salt"
+],
+"kind": "creator",
+"links": [],
+"mealPrep": false,
+"mealPrep_basis": [],
+"minutes": null,
+"notes": [],
+"page_minutes": null,
+"platform": "tiktok",
+"recipePage": "r/tt-7696723245894012190.html",
+"recipeSourceUrl": null,
+"recipe_from": "video",
+"status": "ok",
+"steps": [
+"Then add a banana, tofu, milk, unsweetened cacao powder, and a pinch of salt.",
+"Blend it until it's super creamy and that's it."
+],
+"summary": "",
+"tags": [],
+"thumb": "thumbs/tt-7696723245894012190.webp",
+"thumb_h": 711,
+"thumb_w": 400,
+"time": "unknown",
+"time_basis": "",
+"title": "Healthy protein shake without protein powder",
+"url": "https://www.tiktok.com/@mini.tiger.zen/video/7696723245894012190",
+"video": {
+"checked_at": "2026-10-17T14:51:41+00:00",
+"ingredients": [
+"banana",
+"tofu",
+"milk",
+"salt"
+],
+"kind": "video",
+"narration": "Here's how you get 24 grams of protein from real whole foods without protein powder and it actually tastes good. First start with two handfuls of pecans for that rich nutty flavor. Then add a banana, tofu, milk, unsweetened cacao powder, and a pinch of salt. Blend it until it's super creamy and that's it.",
+"onscreen": [],
+"steps": [
+"Then add a banana, tofu, milk, unsweetened cacao powder, and a pinch of salt.",
+"Blend it until it's super creamy and that's it."
+],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
+"yield": null
+},
+"tt-7697640013776833822": {
+"account": "mountain_mothering",
+"account_name": "Mountain Mothering",
+"account_url": "https://www.tiktok.com/@mountain_mothering",
+"caption": "Full recipe! You probably have all ingredients already 🍁✨ Apple Carrot Molasses Breakfast Cookies 🍎 These are a healthy, grab-and-go breakfast packed with fiber!  Ingredients Dry: - 3 cups flour (360g)  (I use spelt and einkorn, any flour will work here)  - 3 tsp cinnamon   - 1 tsp nutmeg   - ½ tsp ginger   - ¼ tsp cloves   - 1½ tsp baking powder   - 1 tsp baking soda   - 1 tsp salt   Wet: - 1⅓ cups coconut sugar (270g) or brown sugar   - ⅓ cup butter or coconut oil  - 2 large eggs   - ⅓ cup unsulphured molasses   - 1 tsp vanilla   Add-ins: - 2 cups shredded apples (firm sweet variety like Honeycrisp/Fuji)   -1 cup shredded carrots  -1 cup rolled oats  Instructions 1. Preheat oven to 350°F. Line 2 baking sheets with parchment.   2. Whisk all dry ingredients in a bowl.   3. Beat wet ingredients on medium 2–3 min until smooth.  Add apple and carrot and oats.  4. Mix dry into wet until combined.   6. Scoop ¼-1/2 cup portions, space 2\" apart on sheets.  - top with apple slices (optional)  7. Bake 12–14 min until edges lightly browned (check at 10 min for softer centers).   8. Cool on sheet 2–3 min, then transfer to rack.   Tips - Best slightly soft in middle — don’t overbake.   - Store airtight at room temp 3 days or freeze up to 3 months (microwave 20–30 sec to warm).   -Let a small piece of butter melt on top after baked #momof3 #breakfastideas #healthycooking #healthybaking #toddlerbreakfast ",
+"category": "sweet",
+"color": "#835940",
+"creator": "mountain_mothering",
+"date": "2026-10-17",
+"extraction": "none",
+"fetched_at": "2026-10-17T14:48:14+00:00",
+"id": "tt-7697640013776833822",
+"ingredients": [],
+"kind": "creator",
+"links": [],
+"mealPrep": true,
+"mealPrep_basis": [
+"freeze"
+],
+"minutes": 14,
+"notes": [],
+"page_minutes": null,
+"platform": "tiktok",
+"recipeSourceUrl": null,
+"recipe_from": "caption",
+"status": "ok",
+"steps": [],
+"summary": "Full recipe! You probably have all ingredients already Apple Carrot Molasses Breakfast Cookies These are a healthy, grab-and-go breakfast packed with fiber!",
+"tags": [
+"breakfast",
+"sweet",
+"veggies"
+],
+"thumb": "thumbs/tt-7697640013776833822.webp",
+"thumb_h": 711,
+"thumb_w": 400,
+"time": "quick",
+"time_basis": "says 14 min",
+"title": "You probably have all ingredients already",
+"url": "https://www.tiktok.com/@mountain_mothering/video/7697640013776833822",
+"video": {
+"checked_at": "2026-10-17T14:51:37+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
+"yield": null
+},
 "wee-apple-sausage-stuffing-bites": {
 "account": "",
 "account_name": "Weelicious",
@@ -68119,13 +68996,13 @@
 "account": "thepickyeater",
 "account_name": "Anjali Shah",
 "account_url": "https://www.youtube.com/channel/UC6rFxJxXqjnmfKb4NlVf8Yg",
-"caption": "And when you are hungry? Snack smart with simple whole-food pairings #shorts",
+"caption": "And when you are hungry? Snack smart with simple whole-food pairings #shorts\nHydration = your secret superpower! 💧\nSo often we think we're hungry when we're really just thirsty. Sip throughout the day (aim for ~64 oz!) to boost energy, digestion, and curb cravings.\n\nAnd when you are hungry? Snack smart with simple whole-food pairings:\n🥕 Veggies + hummus\n🍎 Apple + peanut butter\n🍓 Fruit + Greek yogurt\n\nEasy, healthy, no prep — my fave kind of snack! 💚\n\n#healthytips #hydration101 #smartsnacking",
 "category": "sweet",
-"color": "#443f3e",
+"color": "#8c654f",
 "creator": "thepickyeater",
-"date": null,
+"date": "2025-12-13",
 "extraction": "none",
-"fetched_at": "2026-10-11T21:10:47+00:00",
+"fetched_at": "2026-10-17T14:49:16+00:00",
 "id": "yt-En5mA4ZYuqY",
 "ingredients": [],
 "kind": "creator",
@@ -68138,19 +69015,25 @@
 "platform": "youtube",
 "recipeSourceUrl": null,
 "recipe_from": "caption",
-"status": "excluded",
+"status": "ok",
 "steps": [],
-"summary": "And when you are hungry? Snack smart with simple whole-food pairings",
+"summary": "And when you are hungry? Snack smart with simple whole-food pairings Hydration = your secret superpower!",
 "tags": [
-"snack"
+"snack",
+"dip & spread"
 ],
 "thumb": "thumbs/yt-En5mA4ZYuqY.webp",
 "thumb_h": 225,
 "thumb_w": 400,
 "time": "unknown",
 "time_basis": "",
-"title": "Snack smart with simple whole-food pairings",
+"title": "Veggies + hummus",
 "url": "https://www.youtube.com/shorts/En5mA4ZYuqY",
+"video": {
+"checked_at": "2026-10-17T14:51:43+00:00",
+"error": "ERROR: [youtube] En5mA4ZYuqY: Requested format is not available. Use --list-formats for a list of available formats",
+"kind": "none"
+},
 "yield": null
 },
 "yt-EsSs5A-l44g": {
@@ -71293,6 +72176,60 @@
 "url": "https://www.youtube.com/shorts/c1Deg9kyCFY",
 "yield": null
 },
+"yt-cpLvcdekD_A": {
+"account": "Mountain_Mothering",
+"account_name": "Mountain Mothering ",
+"account_url": "https://www.youtube.com/channel/UCq16tPgNuGoaISwMmnZOrBg",
+"caption": "Fantastic Mr Fox Spiced Apple Carrot Molasses Cookies ✨ Perfect for Breafast!\nFull recipe! You probably have all ingredients already 🍁✨\n\nApple Carrot Molasses Breakfast Cookies 🍎\nThese are a healthy, grab-and-go breakfast packed with fiber! \n\nIngredients\nDry:\n- 3 cups flour (360g)  (I use spelt and einkorn, any flour will work here) \n- 3 tsp cinnamon  \n- 1 tsp nutmeg  \n- ½ tsp ginger  \n- ¼ tsp cloves  \n- 1½ tsp baking powder  \n- 1 tsp baking soda  \n- 1 tsp salt  \n\nWet:\n- 1⅓ cups coconut sugar (270g) or brown sugar  \n- ⅓ cup butter or coconut oil \n- 2 large eggs  \n- ⅓ cup unsulphured molasses  \n- 1 tsp vanilla  \n\nAdd-ins:\n- 2 cups shredded apples (firm sweet variety like Honeycrisp/Fuji)  \n-1 cup shredded carrots \n-1 cup rolled oats \n\nInstructions\n1. Preheat oven to 350°F. Line 2 baking sheets with parchment.  \n2. Whisk all dry ingredients in a bowl.  \n3. Beat wet ingredients on medium 2–3 min until smooth.  Add apple and carrot and oats. \n4. Mix dry into wet until combined.  \n6. Scoop ¼-1/2 cup portions, space 2\" apart on sheets.  - top with apple slices (optional) \n7. Bake 12–14 min until edges lightly browned (check at 10 min for softer centers).  \n8. Cool on sheet 2–3 min, then transfer to rack.  \n\nTips\n- Best slightly soft in middle — don’t overbake.  \n- Store airtight at room temp 3 days or freeze up to 3 months (microwave 20–30 sec to warm).  \n-Let a small piece of butter melt on top after baked  #toddlerbreakfast #healthybaking #breakfastideas #momof3 #busymom",
+"category": "sweet",
+"color": "#865e40",
+"creator": "mountain_mothering",
+"date": "2026-10-17",
+"extraction": "caption",
+"fetched_at": "2026-10-17T14:48:37+00:00",
+"id": "yt-cpLvcdekD_A",
+"ingredients": [],
+"kind": "creator",
+"links": [],
+"mealPrep": true,
+"mealPrep_basis": [
+"freeze"
+],
+"minutes": 14,
+"notes": [],
+"page_minutes": null,
+"platform": "youtube",
+"recipeSourceUrl": null,
+"recipe_from": "caption",
+"status": "ok",
+"steps": [
+"Preheat oven to 350°F. Line 2 baking sheets with parchment.",
+"Whisk all dry ingredients in a bowl.",
+"Beat wet ingredients on medium 2–3 min until smooth. Add apple and carrot and oats.",
+"Mix dry into wet until combined.",
+"Scoop ¼-1/2 cup portions, space 2\" apart on sheets. - top with apple slices (optional)",
+"Bake 12–14 min until edges lightly browned (check at 10 min for softer centers).",
+"Cool on sheet 2–3 min, then transfer to rack.",
+"Tips",
+"Best slightly soft in middle — don’t overbake.",
+"Store airtight at room temp 3 days or freeze up to 3 months (microwave 20–30 sec to warm).",
+"Let a small piece of butter melt on top after baked"
+],
+"summary": "Full recipe! You probably have all ingredients already",
+"tags": [
+"breakfast",
+"sweet",
+"veggies"
+],
+"thumb": "thumbs/yt-cpLvcdekD_A.webp",
+"thumb_h": 225,
+"thumb_w": 400,
+"time": "quick",
+"time_basis": "says 14 min",
+"title": "Fantastic Mr Fox Spiced Apple Carrot Molasses Cookies Perfect for Breafast",
+"url": "https://www.youtube.com/shorts/cpLvcdekD_A",
+"yield": null
+},
 "yt-dM-gDf5YazQ": {
 "account": "thepickyeater",
 "account_name": "Anjali Shah",
@@ -71363,6 +72300,53 @@
 "time_basis": "",
 "title": "4 Ways Eating The Rainbow Makes You Healthier",
 "url": "https://www.youtube.com/shorts/dsu2oZPfMSY",
+"yield": null
+},
+"yt-e2ZunrbfAYQ": {
+"account": "Mountain_Mothering",
+"account_name": "Mountain Mothering ",
+"account_url": "https://www.youtube.com/channel/UCq16tPgNuGoaISwMmnZOrBg",
+"caption": "No one is doing this! Add pumpkin and maple syrup to your vinaigrette 🍁✨🎃\nFull recipe here! \n\nPumpkin Maple Vinaigrette \n\nIngredients\n•  ½ cup pumpkin puree\n•  ½ cup olive oil\n•  ¼ cup apple cider vinegar\n•  3 tablespoons maple syrup\n•  1 tablespoon grainy mustard\n•  1 teaspoon thyme\n•  1–2 teaspoons chili pepper flakes\n•  1–2 teaspoons salt and pepper\nWisk pumpkin puree, oil and vinegar, maple syrup, mustard, thyme, chili flakes, salt, and pepper until smooth. Taste and adjust seasoning; thin with a splash of water if needed.\n\nTry this! And subscribe for more recipes and quick meal ideas for moms wanting to spend more time outdoors with your kids 🍂🪶🍁🐸 \n\n#momof3 #onthego #busymomlife #mealprep #recipes",
+"category": "meal",
+"color": "#655434",
+"creator": "mountain_mothering",
+"date": "2026-10-15",
+"extraction": "caption",
+"fetched_at": "2026-10-17T14:48:39+00:00",
+"id": "yt-e2ZunrbfAYQ",
+"ingredients": [
+"½ cup pumpkin puree",
+"½ cup olive oil",
+"¼ cup apple cider vinegar",
+"3 tablespoons maple syrup",
+"1 tablespoon grainy mustard",
+"1 teaspoon thyme",
+"1–2 teaspoons chili pepper flakes",
+"1–2 teaspoons salt and pepper"
+],
+"kind": "creator",
+"links": [],
+"mealPrep": true,
+"mealPrep_basis": [
+"mealprep"
+],
+"minutes": null,
+"notes": [],
+"page_minutes": null,
+"platform": "youtube",
+"recipeSourceUrl": null,
+"recipe_from": "caption",
+"status": "ok",
+"steps": [],
+"summary": "! Add pumpkin and maple syrup to your vinaigrette",
+"tags": [],
+"thumb": "thumbs/yt-e2ZunrbfAYQ.webp",
+"thumb_h": 225,
+"thumb_w": 400,
+"time": "quick",
+"time_basis": "quick",
+"title": "No one is doing this",
+"url": "https://www.youtube.com/shorts/e2ZunrbfAYQ",
 "yield": null
 },
 "yt-e8EJ9916o0A": {
@@ -73423,17 +74407,20 @@
 "account": "thepickyeater",
 "account_name": "Anjali Shah",
 "account_url": "https://www.youtube.com/channel/UC6rFxJxXqjnmfKb4NlVf8Yg",
-"caption": "Best Homemade Hot Chocolate 🍫☕ #shorts",
-"category": "meal",
+"caption": "Best Homemade Hot Chocolate 🍫☕ #shorts\nLearn how to make the best homemade hot chocolate with this easy hot chocolate recipe. Enjoy a rich and creamy hot chocolate at home in minutes!\n\nWarm up with this best homemade hot chocolate recipe – perfect for cozy evenings and chilly winter nights ❄️. With just a few simple ingredients you already have at home, you can make a rich, velvety, and creamy hot chocolate in minutes.\n\nTop it with fluffy marshmallows, silky whipped cream, or a dusting of cocoa for the ultimate comforting treat. This easy hot chocolate recipe is indulgent, family-friendly, and will quickly become your go-to chocolatey drink. 🍫✨\n\n👉 Full Recipe: https://pickyeaterblog.com/\n\n🌟 Why You’ll Love This Hot Chocolate\n\n✔Quick & Easy: Ready in minutes\n✔Ultra Creamy & Rich Flavor\n✔Perfect for cozy nights & holiday gatherings\n✔Customizable with toppings like marshmallows, whipped cream, or cinnamon\n\n🍴 Ingredients You’ll Need\n\n✔Milk of choice 🥛 (dairy or plant-based)\n✔Unsweetened cocoa powder 🍫\n✔Dark or semi-sweet chocolate 🍫\n✔Natural sweetener (honey, maple syrup, or sugar) 🍯\n\nToppings: whipped cream, marshmallows, or a sprinkle of cinnamon\n\n👩🏽‍⚕️ About Me\n\nHi, I’m Anjali Shah – a certified health coach, nutritionist, and mom of two. I make healthy eating easy, delicious, and fun for the whole family!\n\n✨ Want to transform from a stressed, overwhelmed eater into someone who enjoys nourishing, delicious meals in just 30 days? 👉 https://pickyeatermastery.com/\n\n🍴 Explore all recipes 👉 https://pickyeaterblog.com/\n\n📢 Don’t Forget To:\n\n👍 Like this video if you love cozy hot chocolate!\n💬 Comment your favorite topping – marshmallows, whipped cream, or cinnamon?\n🔔 Subscribe for more quick, easy & delicious recipes!\n\nRelated Hashtag:\n#BestHomemadeHotChocolate  #EasyHotChocolateRecipe  #CreamyHotChocolate  #hotchocolaterecipe   #wintertreats   #comfortfood  #ChocolateDrinkRecipe  \n#HotChocolateTime  #SweetTreats  #easydesserts   #winterrecipes   #HotChocolateLovers  \n#dessertshorts   #ChocolateShorts  #HotChocolateShorts",
+"category": "sweet",
 "color": "#2e251f",
 "creator": "thepickyeater",
-"date": null,
+"date": "2025-09-08",
 "extraction": "none",
-"fetched_at": "2026-10-11T21:11:58+00:00",
+"fetched_at": "2026-10-17T14:49:19+00:00",
 "id": "yt-wu_SoD-Sya4",
 "ingredients": [],
 "kind": "creator",
-"links": [],
+"links": [
+"https://pickyeaterblog.com/",
+"https://pickyeatermastery.com/"
+],
 "mealPrep": false,
 "mealPrep_basis": [],
 "minutes": null,
@@ -73442,16 +74429,18 @@
 "platform": "youtube",
 "recipeSourceUrl": null,
 "recipe_from": "caption",
-"status": "excluded",
+"status": "ok",
 "steps": [],
-"summary": "",
-"tags": [],
+"summary": "Best Homemade Hot Chocolate Learn how to make the best homemade hot chocolate with this easy hot chocolate recipe. Enjoy a rich and creamy hot chocolate at home in minutes!",
+"tags": [
+"sweet"
+],
 "thumb": "thumbs/yt-wu_SoD-Sya4.webp",
 "thumb_h": 225,
 "thumb_w": 400,
-"time": "unknown",
-"time_basis": "",
-"title": "Best Homemade Hot Chocolate",
+"time": "quick",
+"time_basis": "quick",
+"title": "Full Recipe: https://pickyeaterblog.com/",
 "url": "https://www.youtube.com/shorts/wu_SoD-Sya4",
 "yield": null
 },
@@ -73848,22 +74837,68 @@
 "https://www.mjandhungryman.com/no-bake-snacks/": "no Recipe JSON-LD with ingredients, steps and a photo",
 "https://www.mjandhungryman.com/one-pot-meals-for-families/": "no Recipe JSON-LD with ingredients, steps and a photo",
 "https://www.mjandhungryman.com/protein-snacks-for-toddlers-and-kids/": "no Recipe JSON-LD with ingredients, steps and a photo",
+"tt-7050387555375680815": "not a food post",
+"tt-7051129357196184878": "not a food post",
+"tt-7052118905493589294": "not a food post",
+"tt-7052122005683899695": "not a food post",
+"tt-7052769799402900782": "not a food post",
+"tt-7053529009371745583": "not a food post",
+"tt-7054467897715952943": "not a food post",
+"tt-7054724871032638767": "not a food post",
+"tt-7056708928003902767": "not a food post",
 "tt-7056892277645528366": "not a food post",
+"tt-7062274833089826095": "not a food post",
+"tt-7063232243862490415": "not a food post",
+"tt-7064053656525540655": "not a food post",
+"tt-7064065285665361199": "not a food post",
+"tt-7065052631277948206": "not a food post",
+"tt-7065054354897833262": "not a food post",
+"tt-7066218764735532335": "not a food post",
+"tt-7066299302544510255": "not a food post",
 "tt-7066307013457759535": "not a food post",
+"tt-7066312644050996526": "not a food post",
+"tt-7068205742288899375": "not a food post",
+"tt-7068562305356680495": "not a food post",
+"tt-7073284159518838062": "not a food post",
+"tt-7076102467821489454": "not a food post",
+"tt-7076105360469232942": "not a food post",
 "tt-7079651711366745387": "not a food post",
+"tt-7080034584385064235": "not a food post",
+"tt-7081322427271367982": "not a food post",
+"tt-7081326807726755115": "not a food post",
+"tt-7082657303950003502": "not a food post",
 "tt-7085485148686486830": "not a food post",
+"tt-7088230401793166635": "not a food post",
+"tt-7091425663537761582": "not a food post",
+"tt-7096940645733961002": "not a food post",
 "tt-7099216011613736234": "not a food post",
 "tt-7102067047265275182": "not a food post",
 "tt-7106672922353241387": "not a food post",
 "tt-7106954529329007914": "not a food post",
 "tt-7108729749874150702": "not a food post",
 "tt-7109727669071252782": "not a food post",
+"tt-7110597772700781870": "not a food post",
+"tt-7112586700123065646": "not a food post",
+"tt-7112589661272362283": "not a food post",
 "tt-7114416007694863659": "not a food post",
+"tt-7114418709153795370": "not a food post",
+"tt-7116939433265384746": "not a food post",
+"tt-7119630805990739243": "not a food post",
+"tt-7120134670267813166": "not a food post",
+"tt-7121872253780020526": "not a food post",
+"tt-7122580818349903150": "not a food post",
 "tt-7124453021068774702": "not a food post",
+"tt-7129538154364718379": "not a food post",
+"tt-7130903237191863594": "not a food post",
+"tt-7137235131181370667": "not a food post",
 "tt-7137545679890681130": "not a food post",
+"tt-7138077034919611691": "not a food post",
+"tt-7140326033433169195": "not a food post",
 "tt-7142701878973861163": "not a food post",
+"tt-7142706516942982446": "not a food post",
 "tt-7142710271419616555": "not a food post",
 "tt-7142715489637322030": "not a food post",
+"tt-7144934486894071083": "not a food post",
 "tt-7144968377113791790": "not a food post",
 "tt-7147564613201218862": "not a food post",
 "tt-7149218182740380971": "not a food post",
@@ -73871,18 +74906,27 @@
 "tt-7149226926345866538": "not a food post",
 "tt-7151223660404084014": "not a food post",
 "tt-7153506746361761066": "not a food post",
+"tt-7154575164359920938": "not a food post",
+"tt-7154865518414007595": "not a food post",
+"tt-7156218701380029742": "not a food post",
 "tt-7156221547634609451": "not a food post",
+"tt-7156707888910634283": "not a food post",
+"tt-7156709827157298475": "not a food post",
+"tt-7158266032132459822": "not a food post",
 "tt-7158307585068649770": "not a food post",
+"tt-7158310502001593646": "not a food post",
 "tt-7165666629618027819": "not a food post",
 "tt-7167086680862657834": "not a food post",
 "tt-7168260709455809838": "not a food post",
 "tt-7170458692616408366": "not a food post",
+"tt-7175898036193807658": "not a food post",
 "tt-7175914767771651370": "not a food post",
 "tt-7178502514126409006": "not a food post",
 "tt-7179660552791215406": "not a food post",
 "tt-7180492608060296490": "not a food post",
 "tt-7183319316819954987": "not a food post",
 "tt-7184427679209327918": "not a food post",
+"tt-7184470467724578091": "not a food post",
 "tt-7184901019103431979": "not a food post",
 "tt-7185213720086187310": "not a food post",
 "tt-7185532838660361514": "not a food post",
@@ -73897,11 +74941,19 @@
 "tt-7191512629821672746": "not a food post",
 "tt-7193117942937128234": "not a food post",
 "tt-7211960820467551534": "not a food post",
+"tt-7212888964624141614": "not a food post",
+"tt-7216969808192245038": "not a food post",
+"tt-7218313228634377515": "not a food post",
 "tt-7219552138320416046": "not a food post",
 "tt-7220870025505148202": "not a food post",
 "tt-7221272859392347435": "not a food post",
+"tt-7222428602040700202": "not a food post",
+"tt-7222434399877418286": "not a food post",
+"tt-7222437147826162990": "not a food post",
 "tt-7223047137997704491": "not a food post",
+"tt-7223218249813560622": "not a food post",
 "tt-7223221090414365998": "not a food post",
+"tt-7223792981541670187": "not a food post",
 "tt-7227560325560667438": "not a food post",
 "tt-7229036582110645546": "not a food post",
 "tt-7229500729340333355": "not a food post",
@@ -73912,12 +74964,21 @@
 "tt-7232690034250534190": "not a food post",
 "tt-7233863712296176939": "not a food post",
 "tt-7234201773844614443": "not a food post",
+"tt-7237535887339457838": "not a food post",
 "tt-7240550677041319214": "not a food post",
 "tt-7243770759049481514": "not a food post",
 "tt-7249748041027308846": "not a food post",
 "tt-7265116360970161451": "not a food post",
 "tt-7281347424503729451": "not a food post",
+"tt-7282866746682379563": "not a food post",
+"tt-7283927823893564718": "not a food post",
+"tt-7286201683493801247": "not a food post",
+"tt-7286202456541875486": "not a food post",
+"tt-7288427493386620191": "not a food post",
 "tt-7290583332360932651": "not a food post",
+"tt-7303653862706023723": "not a food post",
+"tt-7309219923992071470": "not a food post",
+"tt-7309222678706113834": "not a food post",
 "tt-7312280029977644331": "not a food post",
 "tt-7320247928189160746": "not a food post",
 "tt-7323030342070258986": "not a food post",
@@ -73926,12 +74987,14 @@
 "tt-7336014531740749102": "not a food post",
 "tt-7336741236600016170": "not a food post",
 "tt-7340151335695797550": "not a food post",
+"tt-7345189947294354731": "not a food post",
 "tt-7353060712622722347": "not a food post",
 "tt-7358614157521980702": "not a food post",
 "tt-7361081301870431519": "not a food post",
 "tt-7361465382814682398": "not a food post",
 "tt-7365886097919921438": "not a food post",
 "tt-7366271562976169247": "not a food post",
+"tt-7366431705135172906": "not a food post",
 "tt-7369624906788506911": "not a food post",
 "tt-7369978310710840606": "not a food post",
 "tt-7372580082507861290": "not a food post",
@@ -73980,23 +75043,44 @@
 "tt-7417187594435415339": "not a food post",
 "tt-7420539456379227434": "not a food post",
 "tt-7421177853984705834": "not a food post",
+"tt-7421580438969355563": "not a food post",
 "tt-7421673532679294254": "not a food post",
 "tt-7422342014877961514": "not a food post",
+"tt-7423064669163654443": "not a food post",
+"tt-7423435734595620142": "not a food post",
+"tt-7424177872350285102": "not a food post",
+"tt-7424548906568060203": "not a food post",
 "tt-7425376778916515115": "not a food post",
+"tt-7425662217984462123": "not a food post",
+"tt-7426032751633206574": "not a food post",
+"tt-7426775496341458219": "not a food post",
+"tt-7427146493632564522": "not a food post",
 "tt-7427948791480847658": "not a food post",
+"tt-7428259818990832939": "not a food post",
+"tt-7428630841619778858": "not a food post",
+"tt-7429373037293849902": "not a food post",
+"tt-7429744117401324842": "not a food post",
 "tt-7430599672550542634": "not a food post",
+"tt-7430857385511554346": "not a food post",
 "tt-7431678721842580778": "not a food post",
+"tt-7431970665520958762": "not a food post",
 "tt-7432018560769166635": "not a food post",
 "tt-7432768094705159470": "not a food post",
+"tt-7433470416640920875": "not a food post",
+"tt-7433841509885054251": "not a food post",
 "tt-7434198342743117102": "not a food post",
 "tt-7434582337251314986": "not a food post",
+"tt-7434583811402435886": "not a food post",
+"tt-7434954864398028074": "not a food post",
 "tt-7435333609227078955": "not a food post",
 "tt-7435407772780465454": "not a food post",
 "tt-7435784545020087598": "not a food post",
 "tt-7436439147272801579": "not a food post",
+"tt-7437181306405915950": "not a food post",
 "tt-7437552342100299054": "not a food post",
 "tt-7437553959524437294": "not a food post",
 "tt-7438011487332994347": "not a food post",
+"tt-7438665706108882222": "not a food post",
 "tt-7438667055852834091": "not a food post",
 "tt-7438746362860096811": "not a food post",
 "tt-7439005091253898542": "not a food post",
@@ -74011,28 +75095,39 @@
 "tt-7440549947092585774": "not a food post",
 "tt-7441267300407479598": "not a food post",
 "tt-7441713548436196651": "not a food post",
+"tt-7442005404789361963": "not a food post",
 "tt-7442086945338953006": "not a food post",
 "tt-7442719838663019822": "not a food post",
+"tt-7442755012091989290": "not a food post",
 "tt-7442809532352302382": "not a food post",
 "tt-7443112837003627822": "not a food post",
 "tt-7443209802051865902": "not a food post",
+"tt-7443860764005272874": "not a food post",
 "tt-7443943416175578411": "not a food post",
 "tt-7444695250011950378": "not a food post",
+"tt-7444974078055681322": "not a food post",
 "tt-7445364645126278442": "not a food post",
 "tt-7445748696509189418": "not a food post",
+"tt-7446458365875899694": "not a food post",
 "tt-7446563397451124010": "not a food post",
 "tt-7446829509627874606": "not a food post",
 "tt-7446887655687671086": "not a food post",
 "tt-7446944339177032991": "not a food post",
+"tt-7447571681809304874": "not a food post",
 "tt-7447663295600987438": "not a food post",
 "tt-7448651872451333422": "not a food post",
 "tt-7449043191778544942": "not a food post",
 "tt-7449405212449623339": "not a food post",
+"tt-7449427083622698286": "not a food post",
+"tt-7450169275958119726": "not a food post",
 "tt-7450281487980711214": "not a food post",
+"tt-7450540406128823598": "not a food post",
 "tt-7451011571691851054": "not a food post",
+"tt-7451653628676328747": "not a food post",
 "tt-7452140113859071262": "not a food post",
 "tt-7452489009260973355": "not a food post",
 "tt-7452755009378225451": "not a food post",
+"tt-7452766834711039278": "not a food post",
 "tt-7452814990761020718": "not a food post",
 "tt-7453171770393300270": "not a food post",
 "tt-7453529171206229294": "not a food post",
@@ -74041,25 +75136,49 @@
 "tt-7454251258392628523": "not a food post",
 "tt-7454331459571240238": "not a food post",
 "tt-7454705679048248619": "not a food post",
+"tt-7455364419372076331": "not a food post",
+"tt-7455374840112123182": "not a food post",
+"tt-7455735537194781995": "not a food post",
 "tt-7456104068755475758": "not a food post",
 "tt-7456498381054020906": "not a food post",
+"tt-7456848729300290862": "not a food post",
 "tt-7456860040419446058": "not a food post",
 "tt-7457303961217830186": "not a food post",
 "tt-7457673043775687979": "not a food post",
 "tt-7458046200403479851": "not a food post",
 "tt-7458405476024257834": "not a food post",
 "tt-7458694299631242542": "not a food post",
+"tt-7459835176953318702": "not a food post",
 "tt-7460557458159799598": "not a food post",
 "tt-7462161286512577838": "not a food post",
+"tt-7462415177112112430": "not a food post",
+"tt-7463157296785263914": "not a food post",
+"tt-7463528285725527339": "not a food post",
 "tt-7463612573770894638": "not a food post",
+"tt-7464641418158673198": "not a food post",
+"tt-7465012464581725483": "not a food post",
+"tt-7465754490717719850": "not a food post",
+"tt-7466125712576007466": "not a food post",
 "tt-7467238967298231598": "not a food post",
 "tt-7467316297441824043": "not a food post",
+"tt-7467610089541602606": "not a food post",
+"tt-7468352395471326507": "not a food post",
+"tt-7468723300844293418": "not a food post",
 "tt-7469496249780243758": "not a food post",
+"tt-7469836527707688238": "not a food post",
+"tt-7470207678460038446": "not a food post",
 "tt-7470225939603918123": "not a food post",
+"tt-7470949985027214635": "not a food post",
+"tt-7471320964999974186": "not a food post",
 "tt-7471715972550790443": "not a food post",
+"tt-7472434224608431406": "not a food post",
 "tt-7472805327289716014": "not a food post",
+"tt-7473547494497078574": "not a food post",
+"tt-7473918693978737962": "not a food post",
+"tt-7474333573688905002": "not a food post",
 "tt-7474366317097667882": "not a food post",
 "tt-7475120805723032878": "not a food post",
+"tt-7475665360113372462": "not a food post",
 "tt-7475833886317104430": "not a food post",
 "tt-7476135147130195243": "not a food post",
 "tt-7476192566296431918": "not a food post",
@@ -74067,23 +75186,28 @@
 "tt-7477058255856864555": "not a food post",
 "tt-7480234757649878315": "not a food post",
 "tt-7480974652928527662": "not a food post",
+"tt-7481728428694310190": "not a food post",
 "tt-7483665048024501550": "not a food post",
 "tt-7483964686413745450": "not a food post",
 "tt-7484288773430332718": "not a food post",
 "tt-7485500114069425454": "not a food post",
 "tt-7486982282138357034": "not a food post",
 "tt-7487317526838562094": "not a food post",
+"tt-7488871859509939502": "not a food post",
 "tt-7489591873607060778": "not a food post",
 "tt-7490297116221394219": "not a food post",
 "tt-7490337227432742190": "not a food post",
+"tt-7491045700625583403": "not a food post",
 "tt-7491869403819117866": "not a food post",
 "tt-7492170028477877547": "not a food post",
 "tt-7492550200179854634": "not a food post",
+"tt-7492611589967940910": "not a food post",
 "tt-7492877014605548843": "not a food post",
 "tt-7493262794037546282": "not a food post",
 "tt-7493627046061624622": "not a food post",
 "tt-7494038235606437166": "not a food post",
 "tt-7495184521839676718": "not a food post",
+"tt-7495874044395261227": "not a food post",
 "tt-7496239378784783662": "not a food post",
 "tt-7497010554872106283": "not a food post",
 "tt-7498842365000437034": "not a food post",
@@ -74091,6 +75215,7 @@
 "tt-7499600373301120302": "not a food post",
 "tt-7501455917217484074": "not a food post",
 "tt-7502127649767132458": "not a food post",
+"tt-7502499344571190574": "not a food post",
 "tt-7502575104661163310": "not a food post",
 "tt-7506635467291462954": "not a food post",
 "tt-7507795884147608875": "not a food post",
@@ -74105,7 +75230,10 @@
 "tt-7513994285000314155": "not a food post",
 "tt-7514392401759210794": "not a food post",
 "tt-7514428258809646378": "not a food post",
+"tt-7515186508077206830": "not a food post",
+"tt-7515509710766837035": "not a food post",
 "tt-7515955367692586283": "not a food post",
+"tt-7516936678385159437": "not a food post",
 "tt-7517025933534973198": "not a food post",
 "tt-7518453336765369655": "not a food post",
 "tt-7518788073996455223": "not a food post",
@@ -74114,9 +75242,12 @@
 "tt-7530349830883872030": "not a food post",
 "tt-7530749395772525855": "not a food post",
 "tt-7532604305640017165": "not a food post",
+"tt-7535184911322352951": "not a food post",
 "tt-7538601045841169678": "not a food post",
+"tt-7542560297513471245": "not a food post",
 "tt-7544060837774904590": "not a food post",
 "tt-7544865751199517965": "not a food post",
+"tt-7545553008889711927": "not a food post",
 "tt-7546051276442832142": "not a food post",
 "tt-7546706649147280695": "not a food post",
 "tt-7547073666572356877": "not a food post",
@@ -74127,6 +75258,7 @@
 "tt-7553016030163930423": "not a food post",
 "tt-7553404564850904375": "not a food post",
 "tt-7553757845221690637": "not a food post",
+"tt-7554850335597120823": "not a food post",
 "tt-7554854960496790797": "not a food post",
 "tt-7555568883613125943": "not a food post",
 "tt-7556681291408641335": "not a food post",
@@ -74151,6 +75283,7 @@
 "tt-7576384805265247502": "not a food post",
 "tt-7576670453314424077": "not a food post",
 "tt-7577159563577773367": "not a food post",
+"tt-7577436729892769079": "not a food post",
 "tt-7578978197992115470": "not a food post",
 "tt-7580056851102977293": "not a food post",
 "tt-7580768009371913527": "not a food post",
@@ -74159,13 +75292,23 @@
 "tt-7600257769731607839": "not a food post",
 "tt-7600531656990084383": "not a food post",
 "tt-7615372297095974158": "not a food post",
+"tt-7616101337289346317": "not a food post",
+"tt-7616516818164813070": "not a food post",
+"tt-7619085934922976525": "not a food post",
 "tt-7621484485330128142": "not a food post",
+"tt-7622074259153702158": "not a food post",
 "tt-7623974064473885965": "not a food post",
 "tt-7629417335132130573": "not a food post",
+"tt-7629499297217744141": "not a food post",
 "tt-7646494459277888799": "not a food post",
+"tt-7647545552716025118": "not a food post",
 "tt-7649191121628777759": "not a food post",
+"tt-7650242590620536078": "not a food post",
 "tt-7650435879315508493": "not a food post",
 "tt-7650658272709594382": "not a food post",
+"tt-7650999023972764942": "not a food post",
+"tt-7661075619706391821": "not a food post",
+"tt-7662212768442912013": "not a food post",
 "tt-7667673912825695501": "not a food post",
 "tt-7667674064621702413": "not a food post",
 "tt-7667674209098796302": "not a food post",
@@ -74173,8 +75316,10 @@
 "tt-7667674738075929870": "not a food post",
 "tt-7667675050878717197": "not a food post",
 "tt-7668496304435186957": "not a food post",
+"tt-7670504545881017614": "not a food post",
 "tt-7675549321965686030": "not a food post",
 "tt-7679146312478084365": "not a food post",
+"tt-7683936555660086559": "not a food post",
 "tt-7684852287461690638": "not a food post",
 "tt-7689198676010487071": "not a food post",
 "tt-7691110674767940894": "not a food post",
@@ -74183,25 +75328,42 @@
 "tt-7692804888593468686": "not a food post",
 "tt-7693933437882797342": "not a food post",
 "tt-7694286949405805854": "not a food post",
+"tt-7695734999294790926": "not a food post",
+"tt-7696273867437804831": "not a food post",
+"tt-7696637815030910221": "not a food post",
+"tt-7697040623852997919": "not a food post",
 "yt--5sP4x2l_K0": "not a food post",
 "yt--63or12q_A0": "not a food post",
+"yt--W0uEvpIAUU": "not a food post",
 "yt--qSLfTgwqu8": "not a food post",
 "yt-05-fvk2wTmQ": "not a food post",
 "yt-0IntYgglxVQ": "not a food post",
 "yt-0vgvyJD6B3Y": "not a food post",
 "yt-123aU7eXl2o": "not a food post",
 "yt-1C63b8U93s8": "not a food post",
+"yt-1LD6EfGbWBk": "not a food post",
 "yt-1Tgg0td1o1I": "not a food post",
 "yt-1n-JFL3TS24": "not a food post",
+"yt-29a5SjaVcbM": "not a food post",
+"yt-2muEIrmTo-U": "not a food post",
+"yt-2qWTZ6VBLqI": "not a food post",
+"yt-4HelJixwbDQ": "not a food post",
+"yt-4u7GN2tWHzk": "not a food post",
 "yt-4wfZZUSCbQs": "not a food post",
 "yt-5SBBsvnAPQ8": "not a food post",
 "yt-5WG83rUZ9Tg": "not a food post",
+"yt-6AiS53eptoQ": "not a food post",
 "yt-6W5Jmd9tp64": "not a food post",
 "yt-6j-UcWi0ME8": "not a food post",
+"yt-7ZU7L-B6KIM": "not a food post",
+"yt-7l9lp__Jpl8": "not a food post",
 "yt-7qESjZKTMQY": "not a food post",
+"yt-84beFRA_gL8": "not a food post",
 "yt-8ON2ZBZDIvU": "not a food post",
 "yt-8YBb-7gMfAs": "not a food post",
+"yt-8wYJ9f21i-I": "not a food post",
 "yt-8zDZ7wHXv7k": "not a food post",
+"yt-98qwuiKL2Hc": "not a food post",
 "yt-9QalxAR69UU": "not a food post",
 "yt-9YuBKOzk26I": "not a food post",
 "yt-9oNdLDdoRbc": "not a food post",
@@ -74217,292 +75379,372 @@
 "yt-CKm7zGKBqNQ": "not a food post",
 "yt-CcDUC6JgPmA": "not a food post",
 "yt-DIVG5ItRdNc": "not a food post",
+"yt-DjLoqUV6pts": "not a food post",
+"yt-Dk2-q9T97so": "not a food post",
+"yt-Ed3zV_xeZO4": "not a food post",
+"yt-EfdMgbAXoN4": "not a food post",
 "yt-EvNWh4QWDik": "not a food post",
+"yt-FCACOVhcS2E": "not a food post",
+"yt-FDGdlOVAzlM": "not a food post",
 "yt-GZ378q31U4I": "not a food post",
+"yt-HL8kQND5V5o": "not a food post",
+"yt-HZqVXNgCsgU": "not a food post",
+"yt-HzWSoeP7xgE": "not a food post",
 "yt-Ia63MHNrI4I": "not a food post",
 "yt-IvB4K-Jyol0": "not a food post",
+"yt-JEd-snovssA": "not a food post",
+"yt-KayMWrO9oVc": "not a food post",
+"yt-KhYIqmlwPiQ": "not a food post",
+"yt-KpGiWSUGJ_M": "not a food post",
 "yt-L5c6HvNHfuk": "not a food post",
 "yt-L9dtiuaeW_8": "not a food post",
 "yt-LAbItue0PCk": "not a food post",
+"yt-Ligbwwe4tC0": "not a food post",
+"yt-M-XKHcWC93s": "not a food post",
 "yt-ND5jTiUeRcE": "not a food post",
+"yt-NGmy62BVL4k": "not a food post",
+"yt-OFR1qoaafL8": "not a food post",
+"yt-OjHPt1LvXz0": "not a food post",
 "yt-OreovNuLwtw": "not a food post",
 "yt-PH2P4GHZw50": "not a food post",
+"yt-POywpt67M-U": "not a food post",
+"yt-PX6NHORvrgA": "not a food post",
+"yt-PknFQSU0Tz0": "not a food post",
+"yt-Q-FXwKrfHbw": "not a food post",
 "yt-Q0JPSZHui5Q": "not a food post",
+"yt-QS3a6dYsryc": "not a food post",
+"yt-R-NM5JQTR8k": "not a food post",
+"yt-RHEM0v4OI4o": "not a food post",
+"yt-S47aZS10DG4": "not a food post",
 "yt-So_wBgaJVnM": "not a food post",
 "yt-T6gpcLDJJUw": "not a food post",
 "yt-T7L4XU54xwk": "not a food post",
+"yt-T9qrBaDHKug": "not a food post",
+"yt-TUUv_diBeyI": "not a food post",
 "yt-TYINpf7hHoI": "not a food post",
 "yt-Tdm97-neskQ": "not a food post",
+"yt-TuUmyLyR2IU": "not a food post",
 "yt-U9X2Wj30-uA": "not a food post",
+"yt-UQaqSinAn6M": "not a food post",
 "yt-V842U6rfKhs": "not a food post",
+"yt-VWgJ0tB8SIo": "not a food post",
+"yt-VZZxf3MdiF4": "not a food post",
 "yt-VolVAiOCrqM": "not a food post",
 "yt-VqQzLYYe86E": "not a food post",
 "yt-WKYAwH_YTC4": "not a food post",
+"yt-WQG75GvLd-g": "not a food post",
 "yt-WVggG4MReWE": "not a food post",
+"yt-WhIFLKp6-qo": "not a food post",
 "yt-WrDNGJQFTe4": "not a food post",
 "yt-YWXpMQ6Rxlw": "not a food post",
+"yt-Ygw4_Arwcqo": "not a food post",
+"yt-YxtzZnovZEo": "not a food post",
 "yt-Z-v2GewSlXQ": "not a food post",
 "yt-Z52FRF5VLLk": "not a food post",
+"yt-ZWIY5VVCgpc": "not a food post",
 "yt-Zbf_wcBVcGw": "not a food post",
 "yt-ZiNXdCww4rc": "not a food post",
 "yt-ZkpdbuzOTKI": "not a food post",
+"yt-_Mqck9BwiW0": "not a food post",
 "yt-_Zm4lyAY2aM": "not a food post",
+"yt-_fot6b1wsT0": "not a food post",
 "yt-aFPYKbr3Nno": "not a food post",
 "yt-aMCJOn9ke1o": "not a food post",
 "yt-aQ2sZNqHdjc": "not a food post",
 "yt-aUUgHi0qTPw": "not a food post",
 "yt-b2QtJRPXmgM": "not a food post",
+"yt-bIJfm5JbmAc": "not a food post",
+"yt-bRsib3jw9eo": "not a food post",
 "yt-c-g0Xiv6VQw": "not a food post",
+"yt-c1Deg9kyCFY": "not a food post",
+"yt-dM-gDf5YazQ": "not a food post",
 "yt-dUK7dOIuNXY": "not a food post",
 "yt-dZCHHqsoeEM": "not a food post",
+"yt-dsu2oZPfMSY": "not a food post",
 "yt-e7qee0FAOPc": "not a food post",
+"yt-eGgdndyx-tQ": "not a food post",
 "yt-ebbwGNduvKg": "not a food post",
+"yt-ejX81JjWDrE": "not a food post",
 "yt-f9Lcw05L8rA": "not a food post",
+"yt-fcTRWKDhpx8": "not a food post",
 "yt-fu1zp2QMQoE": "not a food post",
 "yt-fwOCcdP3tZs": "not a food post",
 "yt-gCntWQjVAoQ": "not a food post",
+"yt-gorYVmjBbCs": "not a food post",
 "yt-gpqJ6BXK0Fw": "not a food post",
 "yt-h4FyGDVf_O4": "not a food post",
 "yt-h4TuwrbMymo": "not a food post",
 "yt-h9_CXXJY4AQ": "not a food post",
+"yt-hF5xrhQUcHQ": "not a food post",
 "yt-hKNixWn9urA": "not a food post",
 "yt-hR884a7bkm8": "not a food post",
 "yt-hSLWUy-_byY": "not a food post",
 "yt-hW3IW0RkEEc": "not a food post",
 "yt-hhtVjj6QwdI": "not a food post",
+"yt-i6Vk-c48_eA": "not a food post",
+"yt-iEikNEcOR48": "not a food post",
 "yt-iMp0K2eA6Gg": "not a food post",
+"yt-ir7ZSpjZ-q4": "not a food post",
 "yt-j1AfHkbtENA": "not a food post",
+"yt-j1bRS5hQRV8": "not a food post",
 "yt-k0MvpWPObq0": "not a food post",
+"yt-kKBNRxTLVTY": "not a food post",
+"yt-l8e1V6kdj1U": "not a food post",
+"yt-lGTCP06QgSQ": "not a food post",
 "yt-lUupX3LXB04": "not a food post",
+"yt-m-DWivtsMY4": "not a food post",
 "yt-mSYcxyfa-qg": "not a food post",
+"yt-m_RyvhkGWnY": "not a food post",
+"yt-nKVgJbjb4Bw": "not a food post",
 "yt-o9tiksKotdY": "not a food post",
 "yt-ouExKnJY-J4": "not a food post",
+"yt-pBb72OKX6mY": "not a food post",
+"yt-pT8k0U_i2RI": "not a food post",
 "yt-pwgyOQXMgsk": "not a food post",
 "yt-q0TBBiI9JZw": "not a food post",
+"yt-q48NVYlBT1w": "not a food post",
 "yt-qIKM0uDrTSc": "not a food post",
 "yt-qO3wiOwNw04": "not a food post",
 "yt-rEY9_tyX7pY": "not a food post",
 "yt-rVadmPApIiA": "not a food post",
 "yt-rojaNfD-0p4": "not a food post",
 "yt-rx-cx6W0WZs": "not a food post",
+"yt-s8eb1yzMu0E": "not a food post",
+"yt-t4StWH63mYk": "not a food post",
 "yt-tUdWifiytWA": "not a food post",
 "yt-tYY_oit-7fg": "not a food post",
 "yt-tq3iPeHoPEk": "not a food post",
+"yt-tvi49zasKaE": "not a food post",
 "yt-u17e0yunYmk": "not a food post",
+"yt-uBEea7iQk5o": "not a food post",
 "yt-uMo4fk3vKZ8": "not a food post",
 "yt-vHZIvAwXra4": "not a food post",
 "yt-wCSiVppuTfQ": "not a food post",
 "yt-wR5NDZvLQKk": "not a food post",
 "yt-wRBifoUgpgQ": "not a food post",
+"yt-wVTuVyuL1Ng": "not a food post",
+"yt-x6NG1TWFKUY": "not a food post",
+"yt-xDISK946r6c": "not a food post",
 "yt-xGxr5WTLf9w": "not a food post",
+"yt-xO4TqgsOtNc": "not a food post",
 "yt-xToiKFhtZNU": "not a food post",
+"yt-xZ-qo7AZAvo": "not a food post",
 "yt-xbVKhjwmWTM": "not a food post",
+"yt-xkXeajiWws4": "not a food post",
 "yt-xy_HErY1PVI": "not a food post",
 "yt-y4N0te0BhCk": "not a food post",
+"yt-y8SoMx7pJGE": "not a food post",
 "yt-yHZGMj-z9vg": "not a food post",
 "yt-yJVgggkWtDQ": "not a food post",
+"yt-yYf8m0CeU4M": "not a food post",
+"yt-yle_KzWmoXg": "not a food post",
 "yt-z9qC7CJ9Vo8": "not a food post",
 "yt-zhJPkVwMnDc": "not a food post",
 "yt-zmDdNQzQU5k": "not a food post"
 },
 "sources": {
 "instagram_profile https://www.instagram.com/babymealsfreezer/": {
-"checked_at": "2026-10-11T02:22:28+00:00",
+"checked_at": "2026-10-17T14:47:50+00:00",
 "status": "skipped",
 "why": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists"
 },
 "instagram_profile https://www.instagram.com/busymamaeasybites/": {
-"checked_at": "2026-10-11T02:22:28+00:00",
+"checked_at": "2026-10-17T14:47:50+00:00",
 "status": "skipped",
 "why": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists"
 },
 "instagram_profile https://www.instagram.com/kidfriendly.meals/": {
-"checked_at": "2026-10-11T02:22:28+00:00",
+"checked_at": "2026-10-17T14:47:50+00:00",
 "status": "skipped",
 "why": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists"
 },
 "instagram_profile https://www.instagram.com/mini.tiger.zen/": {
-"checked_at": "2026-10-11T02:22:28+00:00",
+"checked_at": "2026-10-17T14:47:50+00:00",
 "status": "skipped",
 "why": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists"
 },
 "instagram_profile https://www.instagram.com/mountain_mothering/": {
-"checked_at": "2026-10-11T21:05:59+00:00",
+"checked_at": "2026-10-17T14:47:50+00:00",
 "status": "skipped",
 "why": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists"
 },
 "instagram_profile https://www.instagram.com/soniamazri_/": {
-"checked_at": "2026-10-11T02:22:28+00:00",
+"checked_at": "2026-10-17T14:47:50+00:00",
 "status": "skipped",
 "why": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists"
 },
 "instagram_profile https://www.instagram.com/thepickyeater/": {
-"checked_at": "2026-10-11T21:06:45+00:00",
+"checked_at": "2026-10-17T14:47:50+00:00",
 "status": "skipped",
 "why": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists"
 },
 "instagram_profile https://www.instagram.com/toddler.snack.therapy/": {
-"checked_at": "2026-10-15T02:46:45+00:00",
+"checked_at": "2026-10-17T14:47:50+00:00",
 "status": "skipped",
 "why": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists"
 },
+"instagram_profile https://www.instagram.com/tuankil28/": {
+"checked_at": "2026-10-17T14:47:50+00:00",
+"status": "skipped",
+"why": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists. No public TikTok, YouTube or blog found for this account (Oct 2026)"
+},
 "instagram_reel https://www.instagram.com/reel/DYM-EdVRv5w/": {
 "added": 0,
-"checked_at": "2026-10-11T02:22:28+00:00",
+"checked_at": "2026-10-17T14:47:49+00:00",
 "detail": "kept",
 "status": "ok"
 },
 "instagram_reel https://www.instagram.com/reel/DZNgOJWxKeb/": {
 "added": 0,
-"checked_at": "2026-10-11T02:22:28+00:00",
+"checked_at": "2026-10-17T14:47:50+00:00",
 "detail": "kept",
 "status": "ok"
 },
 "instagram_reel https://www.instagram.com/reel/DbL8lkyxo5u/": {
 "added": 0,
-"checked_at": "2026-10-11T02:22:28+00:00",
+"checked_at": "2026-10-17T14:47:49+00:00",
 "detail": "kept",
 "status": "ok"
 },
 "instagram_reel https://www.instagram.com/reel/DbbXt7wpuIX/": {
-"added": 1,
-"checked_at": "2026-10-17T12:46:48+00:00",
-"detail": "ok",
+"added": 0,
+"checked_at": "2026-10-17T14:47:50+00:00",
+"detail": "kept",
 "status": "ok"
 },
 "instagram_reel https://www.instagram.com/reel/Dbq5xTqNN8Y/": {
-"added": 1,
-"checked_at": "2026-10-15T02:47:22+00:00",
-"detail": "ok",
+"added": 0,
+"checked_at": "2026-10-17T14:47:50+00:00",
+"detail": "kept",
 "status": "ok"
 },
 "instagram_reel https://www.instagram.com/reel/DcFDtQDv_7p/": {
-"added": 1,
-"checked_at": "2026-10-11T21:05:58+00:00",
-"detail": "ok",
+"added": 0,
+"checked_at": "2026-10-17T14:47:50+00:00",
+"detail": "kept",
 "status": "ok"
 },
 "instagram_reel https://www.instagram.com/reel/DcbRdMQoCC2/": {
-"added": 1,
-"checked_at": "2026-10-11T21:05:55+00:00",
-"detail": "ok",
+"added": 0,
+"checked_at": "2026-10-17T14:47:50+00:00",
+"detail": "kept",
 "status": "ok"
 },
 "instagram_reel https://www.instagram.com/reel/DdObMJ6SGYA/": {
 "added": 0,
-"checked_at": "2026-10-11T02:22:28+00:00",
+"checked_at": "2026-10-17T14:47:49+00:00",
 "detail": "kept",
 "status": "ok"
 },
 "instagram_reel https://www.instagram.com/reel/DdnIx7EugPm/": {
 "added": 0,
-"checked_at": "2026-10-11T02:22:28+00:00",
+"checked_at": "2026-10-17T14:47:49+00:00",
 "detail": "kept",
 "status": "ok"
 },
 "instagram_reel https://www.instagram.com/reel/DeQGbyevSm9/": {
 "added": 0,
-"checked_at": "2026-10-11T02:22:28+00:00",
+"checked_at": "2026-10-17T14:47:49+00:00",
 "detail": "kept",
 "status": "ok"
 },
 "tiktok_profile https://www.tiktok.com/@babymealsfreezer": {
-"added": 31,
-"checked_at": "2026-10-11T02:24:58+00:00",
+"added": 0,
+"checked_at": "2026-10-17T14:48:12+00:00",
 "detail": "listed 31 posts (oldest 2026-03-10)",
 "status": "ok"
 },
 "tiktok_profile https://www.tiktok.com/@busymamaeasybites": {
-"added": 54,
-"checked_at": "2026-10-11T02:24:22+00:00",
-"detail": "listed 66 posts (oldest 2026-04-14)",
+"added": 0,
+"checked_at": "2026-10-17T14:48:07+00:00",
+"detail": "listed 68 posts (oldest 2026-04-14)",
 "status": "ok"
 },
 "tiktok_profile https://www.tiktok.com/@mini.tiger.zen": {
-"added": 44,
-"checked_at": "2026-10-11T02:24:39+00:00",
-"detail": "listed 75 posts (oldest 2023-04-08)",
+"added": 1,
+"checked_at": "2026-10-17T14:48:11+00:00",
+"detail": "listed 77 posts (oldest 2023-04-08)",
 "status": "ok"
 },
 "tiktok_profile https://www.tiktok.com/@mountain_mothering": {
-"added": 9,
-"checked_at": "2026-10-11T21:06:03+00:00",
-"detail": "listed 11 posts (oldest 2026-09-23)",
+"added": 1,
+"checked_at": "2026-10-17T14:48:14+00:00",
+"detail": "listed 13 posts (oldest 2026-09-23)",
 "status": "ok"
 },
 "tiktok_profile https://www.tiktok.com/@pickyeaterblog": {
-"added": 521,
-"checked_at": "2026-10-11T21:23:41+00:00",
+"added": 0,
+"checked_at": "2026-10-17T14:48:32+00:00",
 "detail": "listed 606 posts (oldest 2022-01-02)",
 "status": "ok"
 },
 "tiktok_profile https://www.tiktok.com/@soniamazri": {
-"added": 182,
-"checked_at": "2026-10-11T02:24:00+00:00",
+"added": 0,
+"checked_at": "2026-10-17T14:48:04+00:00",
 "detail": "listed 385 posts (oldest 2022-11-14)",
 "status": "ok"
 },
 "tiktok_profile https://www.tiktok.com/@toddler.snack.therapy": {
-"added": 32,
-"checked_at": "2026-10-15T02:47:02+00:00",
+"added": 0,
+"checked_at": "2026-10-17T14:48:34+00:00",
 "detail": "listed 34 posts (oldest 2025-09-24)",
 "status": "ok"
 },
 "website_category https://pickyeaterblog.com/category/kid-friendly-recipes/": {
-"added": 108,
-"checked_at": "2026-10-11T21:25:58+00:00",
-"detail": "listed 115 pages, considered newest 115",
+"added": 1,
+"checked_at": "2026-10-17T14:51:24+00:00",
+"detail": "listed 114 pages, considered newest 114",
 "status": "ok"
 },
 "website_category https://www.mjandhungryman.com/category/baby-kid-friendly-recipes/": {
-"added": 133,
-"checked_at": "2026-10-11T02:28:27+00:00",
+"added": 2,
+"checked_at": "2026-10-17T14:51:20+00:00",
 "detail": "listed 178 pages, considered newest 150",
 "status": "ok"
 },
 "website_sitemap https://babyfoode.com/post-sitemap.xml": {
-"added": 13,
-"checked_at": "2026-10-11T02:29:08+00:00",
+"added": 1,
+"checked_at": "2026-10-17T14:51:27+00:00",
 "detail": "listed 115 pages, considered newest 15",
 "status": "ok"
 },
 "website_sitemap https://weelicious.com/post-sitemap.xml": {
-"added": 15,
-"checked_at": "2026-10-11T02:29:27+00:00",
+"added": 0,
+"checked_at": "2026-10-17T14:51:29+00:00",
 "detail": "listed 109 pages, considered newest 15",
 "status": "ok"
 },
 "website_sitemap https://www.healthylittlefoodies.com/post-sitemap.xml": {
-"added": 18,
-"checked_at": "2026-10-11T02:28:49+00:00",
+"added": 0,
+"checked_at": "2026-10-17T14:51:25+00:00",
 "detail": "listed 84 pages, considered newest 18",
 "status": "ok"
 },
 "youtube_channel https://www.youtube.com/@busymamaeasybites/shorts": {
-"added": 2,
-"checked_at": "2026-10-11T02:29:55+00:00",
+"added": 0,
+"checked_at": "2026-10-17T14:51:05+00:00",
 "detail": "listed 2 videos",
 "status": "ok"
 },
 "youtube_channel https://www.youtube.com/@kidfriendlymeals/shorts": {
-"added": 6,
-"checked_at": "2026-10-11T02:29:50+00:00",
+"added": 0,
+"checked_at": "2026-10-17T14:51:04+00:00",
 "detail": "listed 8 videos",
 "status": "ok"
 },
 "youtube_channel https://www.youtube.com/@mountain_mothering/shorts": {
-"added": 12,
-"checked_at": "2026-10-11T21:06:37+00:00",
-"detail": "listed 17 videos",
+"added": 2,
+"checked_at": "2026-10-17T14:48:41+00:00",
+"detail": "listed 20 videos",
 "status": "ok"
 },
 "youtube_channel https://www.youtube.com/@thepickyeater/shorts": {
-"added": 177,
-"checked_at": "2026-10-11T21:17:54+00:00",
+"added": 2,
+"checked_at": "2026-10-17T14:51:02+00:00",
 "detail": "listed 291 videos",
 "status": "ok"
 }
 },
-"updated_at": "2026-10-17T12:51:12+00:00",
-"video_pending": 582
+"updated_at": "2026-10-17T14:59:06+00:00",
+"video_pending": 556
 }
