@@ -8,7 +8,8 @@
     { "handle": "soniamazri_", "name": "Sonia Mazri · Baby Meal Plan", "instagram": "https://www.instagram.com/soniamazri_/" },
     { "handle": "mountain_mothering", "name": "Jess · Mountain Mothering", "instagram": "https://www.instagram.com/mountain_mothering/" },
     { "handle": "thepickyeater", "name": "Anjali Shah · The Picky Eater", "instagram": "https://www.instagram.com/thepickyeater/" },
-    { "handle": "toddler.snack.therapy", "name": "Bolla · Toddler Snack Therapy", "instagram": "https://www.instagram.com/toddler.snack.therapy/" }
+    { "handle": "toddler.snack.therapy", "name": "Bolla · Toddler Snack Therapy", "instagram": "https://www.instagram.com/toddler.snack.therapy/" },
+    { "handle": "tuankil28", "name": "Tuan Te", "instagram": "https://www.instagram.com/tuankil28/" }
   ],
   "sources": [
     { "type": "instagram_reel", "creator": "kidfriendly.meals", "url": "https://www.instagram.com/reel/DbL8lkyxo5u/" },
@@ -20,6 +21,7 @@
     { "type": "instagram_reel", "creator": "mountain_mothering", "url": "https://www.instagram.com/reel/DcbRdMQoCC2/" },
     { "type": "instagram_reel", "creator": "thepickyeater", "url": "https://www.instagram.com/reel/DcFDtQDv_7p/" },
     { "type": "instagram_reel", "creator": "toddler.snack.therapy", "url": "https://www.instagram.com/reel/Dbq5xTqNN8Y/" },
+    { "type": "instagram_reel", "creator": "tuankil28", "url": "https://www.instagram.com/reel/DbbXt7wpuIX/" },
 
     { "type": "instagram_profile", "creator": "kidfriendly.meals", "url": "https://www.instagram.com/kidfriendly.meals/", "enabled": false, "note": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists" },
     { "type": "instagram_profile", "creator": "babymealsfreezer", "url": "https://www.instagram.com/babymealsfreezer/", "enabled": false, "note": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists" },
@@ -29,6 +31,7 @@
     { "type": "instagram_profile", "creator": "mountain_mothering", "url": "https://www.instagram.com/mountain_mothering/", "enabled": false, "note": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists" },
     { "type": "instagram_profile", "creator": "thepickyeater", "url": "https://www.instagram.com/thepickyeater/", "enabled": false, "note": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists" },
     { "type": "instagram_profile", "creator": "toddler.snack.therapy", "url": "https://www.instagram.com/toddler.snack.therapy/", "enabled": false, "since": "2025-01-01", "note": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists" },
+    { "type": "instagram_profile", "creator": "tuankil28", "url": "https://www.instagram.com/tuankil28/", "enabled": false, "since": "2025-01-01", "note": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists. No public TikTok, YouTube or blog found for this account (Oct 2026)" },
 
     { "type": "tiktok_profile", "creator": "soniamazri_", "url": "https://www.tiktok.com/@soniamazri" },
     { "type": "tiktok_profile", "creator": "busymamaeasybites", "url": "https://www.tiktok.com/@busymamaeasybites" },

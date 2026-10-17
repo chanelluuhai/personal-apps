@@ -268,6 +268,95 @@
 },
 "yield": null
 },
+"DbbXt7wpuIX": {
+"account": "tuankil28",
+"account_name": "Tuan Te",
+"account_url": "https://www.instagram.com/tuankil28/",
+"caption": "If you love mango, you need to try this creamy coconut mango dessert! 🥭 🥥 💛 \n#Coconutmangodessert #EasyDessert\n#FoodReels #foodies",
+"category": "sweet",
+"color": "#cbac7d",
+"creator": "tuankil28",
+"date": "2026-07-30",
+"extraction": "video-partial",
+"fetched_at": "2026-10-17T12:46:48+00:00",
+"id": "DbbXt7wpuIX",
+"ingredients": [
+"salt",
+"mango"
+],
+"kind": "creator",
+"links": [],
+"mealPrep": false,
+"mealPrep_basis": [],
+"minutes": 20,
+"notes": [],
+"page_minutes": null,
+"platform": "instagram",
+"recipeSourceUrl": null,
+"recipe_from": "video",
+"status": "ok",
+"steps": [],
+"summary": "",
+"tags": [
+"snack",
+"sweet"
+],
+"thumb": "thumbs/DbbXt7wpuIX.webp",
+"thumb_h": 710,
+"thumb_w": 400,
+"time": "quick",
+"time_basis": "says 20 min",
+"title": "Creamy coconut mango dessert",
+"title_locked": true,
+"url": "https://www.instagram.com/reel/DbbXt7wpuIX/",
+"video": {
+"checked_at": "2026-10-17T12:48:57+00:00",
+"ingredients": [
+"salt",
+"mango"
+],
+"kind": "video-partial",
+"narration": "",
+"onscreen": [
+"My toddler stop asking",
+"for this coconut mango",
+"Peel and dice 3 ripe honey mangoes",
+"Peel and dice 3 ripe",
+"Blend the diced mangoes until smooth",
+"the diced mangoes",
+"cup of the",
+"the pot",
+"Add tsp agar agar",
+"tsp agar",
+"Add the blended mangoes",
+"Add tsp of salt and stir",
+"until the mango mixture starts to",
+"il the mango",
+"Pour the mango mixture into",
+"then refrigerate for 20 minutes",
+"then refi",
+"800 milk into pot",
+"mi into",
+"tsp of salt",
+"Add 2 tbsp agar powder",
+"of sugar and stir until",
+"cup of stir until",
+"Carefully pour the coconut mixture",
+"over the chilled mango then",
+"refrigerate until completely set",
+"pour the coconut",
+"refrigerate until",
+"the final result and"
+],
+"steps": [],
+"tools": [
+"ffmpeg",
+"tesseract",
+"whisper"
+]
+},
+"yield": null
+},
 "Dbq5xTqNN8Y": {
 "account": "toddler.snack.therapy",
 "account_name": "Bolla | Healthy Toddler Snacks",
@@ -310,7 +399,7 @@
 "Fill the hearts with homemade fiber rich jam once cooled.",
 "Tip: Store in an airtight container for up to 3 days."
 ],
-"summary": "Comment \"YES\" if you want me to share the Fiber rich, Zero added sugar homemade jam recipe!",
+"summary": "I sneak protein & fiber into picky snacks! Soft chickpea cookies with a sweet little heart, filled with homemade, zero added sugar, fiber rich jam perfect for calm, chaos free snack time.",
 "tags": [
 "snack",
 "sweet"
@@ -53023,7 +53112,7 @@
 "status": "ok",
 "steps": [],
 "strict_food": true,
-"summary": "Comment “snack” if you want more calm snack ideas like this one & FOLLOW for weekly “Snack Therapy” moments made simple. Episode is NEXT ...a NEW snack for calm energy and happy bellies.",
+"summary": "Episode is NEXT ...a NEW snack for calm energy and happy bellies. Let’s turn morning tantrums into peaceful smiles.",
 "tags": [
 "breakfast",
 "snack",
@@ -56801,7 +56890,7 @@
 "recipe_from": "video",
 "status": "ok",
 "steps": [],
-"summary": "Frozen cubes make it so easy Just mix & match For details, check my Instagram (link in bio) Comment “cube” on Instagram and I’ll DM you",
+"summary": "Frozen cubes make it so easy Just mix & match For details, check my Instagram (link in bio)",
 "tags": [
 "pasta & noodles"
 ],
@@ -57305,8 +57394,7 @@
 "mango",
 "potato",
 "broccoli",
-"avocado",
-"beef"
+"avocado"
 ],
 "kind": "creator",
 "links": [],
@@ -57344,8 +57432,7 @@
 "mango",
 "potato",
 "broccoli",
-"avocado",
-"beef"
+"avocado"
 ],
 "kind": "video-partial",
 "narration": "",
@@ -60417,7 +60504,7 @@
 "recipe_from": "caption",
 "status": "ok",
 "steps": [],
-"summary": "Comment Waffles for the recipe! Using @omielifeinc plate (link in bio)",
+"summary": "Using @omielifeinc plate (link in bio)",
 "tags": [],
 "thumb": "thumbs/tt-7656592729387945230.webp",
 "thumb_h": 572,
@@ -61772,7 +61859,7 @@
 "recipe_from": "video",
 "status": "ok",
 "steps": [],
-"summary": "Comment “potatoes” and I’ll send you the recipe + the link to the @grownsy baby food maker! I still use this all the time, even with a toddler.",
+"summary": "I still use this all the time, even with a toddler. It’s perfect for quickly steaming veggies and making meal prep so much easier—not just for the purée stage!",
 "tags": [
 "veggies"
 ],
@@ -74277,6 +74364,12 @@
 "detail": "kept",
 "status": "ok"
 },
+"instagram_reel https://www.instagram.com/reel/DbbXt7wpuIX/": {
+"added": 1,
+"checked_at": "2026-10-17T12:46:48+00:00",
+"detail": "ok",
+"status": "ok"
+},
 "instagram_reel https://www.instagram.com/reel/Dbq5xTqNN8Y/": {
 "added": 1,
 "checked_at": "2026-10-15T02:47:22+00:00",
@@ -74410,6 +74503,6 @@
 "status": "ok"
 }
 },
-"updated_at": "2026-10-15T02:50:16+00:00",
+"updated_at": "2026-10-17T12:51:12+00:00",
 "video_pending": 582
 }

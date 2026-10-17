@@ -241,7 +241,9 @@ def sections(caption):
 
 
 def summary(caption, title):
-    skip = re.compile(r"^(hi|hey|hello)\b|^day \d+ of|^if you|^today[’']?s (lunch|dinner|breakfast|snack|meal)", re.I)
+    skip = re.compile(r"^\W*comment\b|^(hi|hey|hello)\b|^day \d+ of|^if you|^today[’']?s (lunch|dinner|breakfast|snack|meal)", re.I)
+    # an opening "Comment YES and I'll send you the recipe!" call to action is not a description
+    caption = re.sub(r"^\W*comment\b[^.!?]{0,240}[.!?]+\W*", "", caption or "", count=1, flags=re.I)
     paras = []
     for p in re.split(r"\n\s*\n", caption):
         keep = [clean(l) for l in p.splitlines()]
