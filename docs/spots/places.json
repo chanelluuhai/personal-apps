@@ -627,13 +627,17 @@
       "lat": 39.7476,
       "lng": -104.9428,
       "address": "2001 Colorado Blvd, Denver, CO 80205",
-      "why": "Days.in.denver weekend idea: Museum of Nature & Science then Nature Play Park right behind it (climbable bighorn sheep, tunnels, water features). Curious Kids programs for ages 2–5 also featured.",
+      "why": "Days.in.denver weekend idea: Museum of Nature & Science then Nature Play Park right behind it (climbable bighorn sheep, tunnels, water features). Curious Kids programs for ages 2–5 also featured. New Mythic Creatures: Dragons, Unicorns & Mermaids exhibit opened Oct 16 and runs through Apr 4, 2027; included with general admission, with a mythical-creature dress-up area kids loved (Days.in.denver Oct 16 reel).",
       "source": "Days.in.denver (@days.in.denver)",
       "source_accounts": [
         "@days.in.denver",
         "Facebook: Days.in.denver"
       ],
       "links": [
+        {
+          "label": "Days.in.denver Mythic Creatures reel (Oct 16)",
+          "url": "https://www.instagram.com/days.in.denver/reel/DekSbbHBzeP/"
+        },
         {
           "label": "Instagram @days.in.denver",
           "url": "https://www.instagram.com/days.in.denver/"
@@ -649,6 +653,10 @@
         {
           "label": "Steal this weekend idea",
           "url": "https://days-in-denver.beehiiv.com/p/days-in-denver-steal-this-weekend-idea-0001"
+        },
+        {
+          "label": "Mythic Creatures exhibit",
+          "url": "https://www.dmns.org/exhibitions/temporary-exhibitions/mythic-creatures/"
         }
       ],
       "hours": "Nature Play outdoor: typically dawn–dusk free; museum hours vary",
@@ -1232,14 +1240,15 @@
       "lat": 39.7502,
       "lng": -104.949,
       "address": "2300 Steele St, Denver, CO 80205",
-      "why": "Days.in.denver June feature (130th anniversary programming) and fall Boo at the Zoo — classic toddler outing with stroller paths and animal viewing. Oct 8–9: Days.in.denver, Colorado Mama Life, and Little Rad Adventure all posted Boo at the Zoo (nine candy stations, friendly cryptid characters, new Wild Fall Market). CKAR's Oct 8 playground list also names Wild Village at the zoo. Days.in.denver's Oct 9 post: new this year is a Fall Market at the start of the Boo at the Zoo trail; arrive around 5:30 while it's still light. CKAR Oct 14 reel: going early while it's still light out works best with little kids (candy stations, carved pumpkins, Fall Market).",
+      "why": "Days.in.denver June feature (130th anniversary programming) and fall Boo at the Zoo — classic toddler outing with stroller paths and animal viewing. Oct 8–9: Days.in.denver, Colorado Mama Life, and Little Rad Adventure all posted Boo at the Zoo (nine candy stations, friendly cryptid characters, new Wild Fall Market). CKAR's Oct 8 playground list also names Wild Village at the zoo. Days.in.denver's Oct 9 post: new this year is a Fall Market at the start of the Boo at the Zoo trail; arrive around 5:30 while it's still light. CKAR Oct 14 reel: going early while it's still light out works best with little kids (candy stations, carved pumpkins, Fall Market). CKE Oct 16 reel: Boo at the Zoo has 9 trick-or-treat stations, Animal Ambassador encounters, costumed characters, and crafts; remaining dates Oct 23–25 and 30, 4:30–9pm; ages 2 and under free; Oct 31 is a special sensory-friendly evening; timed tickets can sell out.",
       "source": "Days.in.denver (@days.in.denver)",
       "source_accounts": [
         "@days.in.denver",
         "Facebook: Days.in.denver",
         "@coloradomamalife",
         "@littleradadventure",
-        "@coloradokidsarerad"
+        "@coloradokidsarerad",
+        "@colorado.kids.explore"
       ],
       "links": [
         {
@@ -1277,6 +1286,10 @@
         {
           "label": "Colorado Kids Are Rad Boo at the Zoo reel (Oct 14)",
           "url": "https://www.instagram.com/coloradokidsarerad/reel/Defu3awRRte/"
+        },
+        {
+          "label": "CKE Boo at the Zoo reel (Oct 16)",
+          "url": "https://www.instagram.com/reel/Dek32kaxsr_/"
         }
       ],
       "hours": "Typically 9am–4pm (seasonal)",
@@ -2170,7 +2183,7 @@
       "lat": 39.7530014,
       "lng": -104.8779448,
       "address": "2501 Dallas St, Aurora, CO 80010",
-      "why": "Days.in.denver May: Tattered Cover story time Wed 11am & Sun 12pm at Stanley Marketplace — grab Logan House coffee and let kids play out back. Days.in.denver’s Oct 4 playground reel also lists Lu Bird’s Light Playground right behind Stanley (coffee and Tattered Cover inside).",
+      "why": "Days.in.denver May: Tattered Cover story time Wed 11am & Sun 12pm at Stanley Marketplace — grab Logan House coffee and let kids play out back. Days.in.denver’s Oct 4 playground reel also lists Lu Bird’s Light Playground right behind Stanley (coffee and Tattered Cover inside). Days.in.denver Oct 18 post: Friends of Friends (@we.are.friends.of.friends) is now at Stanley, an easy pop-in spot to make something together.",
       "source": "Days.in.denver (@days.in.denver)",
       "source_accounts": [
         "@days.in.denver",
@@ -2188,6 +2201,10 @@
         {
           "label": "Days.in.denver playground reel",
           "url": "https://www.instagram.com/days.in.denver/reel/DeExVgtB1UU/"
+        },
+        {
+          "label": "Days.in.denver Friends of Friends post (Oct 18)",
+          "url": "https://www.instagram.com/p/Deo0h_CnK9h/"
         }
       ],
       "hours": "Marketplace hours; story times Wed/Sun",
@@ -3650,10 +3667,11 @@
       "lat": 39.7537644,
       "lng": -104.8009588,
       "address": "16002 E Smith Rd, Aurora, CO 80011",
-      "why": "Days.in.denver Oct 13 reel: easy Star K Ranch loop from Morrison Nature Center, plus a new inclusive Nature Exploration Area / nature playground outside the center.",
+      "why": "Days.in.denver Oct 13 reel: easy Star K Ranch loop from Morrison Nature Center, plus a new inclusive Nature Exploration Area / nature playground outside the center. Colorado Mama Life Oct 18 reel: free indoor animals, costumes, puppets, and puzzles, plus the outdoor nature play area with a giant beaver lodge to crawl inside; bring lunch and walk the Star K Ranch trails.",
       "source": "Days.in.denver (@days.in.denver) Instagram reel 2026-10-13",
       "source_accounts": [
-        "@days.in.denver"
+        "@days.in.denver",
+        "@coloradomamalife"
       ],
       "links": [
         {
@@ -3663,6 +3681,10 @@
         {
           "label": "Aurora — Morrison Nature Center",
           "url": "https://www.auroragov.org/things_to_do/parks__open_space___trails/nature___open_space/nature_centers/morrison_nature_center"
+        },
+        {
+          "label": "Colorado Mama Life Morrison Nature Center reel (Oct 18)",
+          "url": "https://www.instagram.com/coloradomamalife/reel/DeqDv8ST6Aw/"
         }
       ],
       "hours": "Grounds sunrise–sunset; check nature center building hours",
@@ -3763,6 +3785,88 @@
       "farther_than_30min": true,
       "approx_drive_minutes": 41,
       "straight_line_miles": 23.1
+    },
+    {
+      "id": "ridgeview-heights-park",
+      "name": "Ridgeview Heights Park (new playground)",
+      "lat": 39.941667,
+      "lng": -105.082194,
+      "address": "Kohl St & Hemlock Way / Iris St, Broomfield, CO 80021",
+      "why": "Colorado Kids Are Rad Oct 18 reel: brand-new Broomfield playground (replaced in Broomfield's 2026 Playground Replacement Program) with lots of climbing, a mix of rubber surfacing and wood chips. Meagan said her 3-year-old loved it but her 1-year-old was not so into it, and some areas have bigger drop-offs.",
+      "source": "Colorado Kids Are Rad (@coloradokidsarerad) Instagram reel 2026-10-18; City and County of Broomfield",
+      "source_accounts": [
+        "@coloradokidsarerad"
+      ],
+      "links": [
+        {
+          "label": "CKAR Ridgeview Heights reel (Oct 18)",
+          "url": "https://www.instagram.com/coloradokidsarerad/reel/Deo8zRgx35C/"
+        },
+        {
+          "label": "Broomfield park page",
+          "url": "https://www.broomfield.org/Facilities/Facility/Details/31"
+        },
+        {
+          "label": "Broomfield 2026 Playground Replacement Program",
+          "url": "https://www.broomfield.org/4484/2026-Playground-Replacement-Program"
+        }
+      ],
+      "hours": "Dawn–dusk",
+      "cost": "Free",
+      "toddler_notes": "Better for climbers; stay close on the taller pieces with bigger drop-offs. Small park with shelter, grass, and open-space trails on either side.",
+      "tags": [
+        "park",
+        "playground",
+        "outdoor",
+        "free",
+        "broomfield"
+      ],
+      "drive_note": "~23 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~9.4 mi straight-line)",
+      "farther_than_30min": false,
+      "approx_drive_minutes": 23,
+      "straight_line_miles": 9.4
+    },
+    {
+      "id": "red-rocks-trading-post-trail",
+      "name": "Red Rocks Trading Post Trail",
+      "lat": 39.66387,
+      "lng": -105.20257,
+      "address": "Trading Post, 17900 Trading Post Rd, Morrison, CO 80465",
+      "why": "Colorado Kids Are Rad Oct 16 reel: Red Rocks isn't just for concerts. The Trading Post Trail loop winds through the red rock formations; steep, rocky sections but doable with little hikers. Pop into the Trading Post afterward for the little nature exhibits. Free.",
+      "source": "Colorado Kids Are Rad (@coloradokidsarerad) Instagram reel 2026-10-16; Denver Mountain Parks",
+      "source_accounts": [
+        "@coloradokidsarerad"
+      ],
+      "links": [
+        {
+          "label": "CKAR Red Rocks Trading Post reel (Oct 16)",
+          "url": "https://www.instagram.com/coloradokidsarerad/reel/Dek9R8RRW1X/"
+        },
+        {
+          "label": "Red Rocks Park & Amphitheatre",
+          "url": "https://www.redrocksonline.com/"
+        },
+        {
+          "label": "Trail details (Trailforks)",
+          "url": "https://www.trailforks.com/trails/trading-post/"
+        }
+      ],
+      "hours": "Park opens 1 hour before sunrise, closes 1 hour after sunset",
+      "cost": "Free",
+      "toddler_notes": "Bring the carrier rather than the stroller: packed dirt, stairs, and rocky stretches. Trails can be icy in winter. Restrooms at the Trading Post.",
+      "hike": "1.6-mile loop · ~318 ft gain · moderate with stairs and rocky sections · carrier, not stroller (CKAR / AllTrails)",
+      "tags": [
+        "trail",
+        "nature",
+        "outdoor",
+        "free",
+        "toddler-hike",
+        "morrison"
+      ],
+      "drive_note": "~25 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~10.8 mi straight-line)",
+      "farther_than_30min": false,
+      "approx_drive_minutes": 25,
+      "straight_line_miles": 10.8
     }
   ]
 }

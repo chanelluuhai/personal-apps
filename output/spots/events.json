@@ -440,6 +440,33 @@
       "note": "Free trunk-or-treat in the restaurant parking lot. Time comes from Colorado Mama Life's list; the restaurant's own posts mention the Oct 17 date but no time was found on an organizer page, so confirm before going.",
       "drive_note": "~22 min from the 64th & Ward base",
       "source": "Colorado Mama Life IG Oct 16 free Halloween weekend list"
+    },
+    {
+      "id": "dmns-mythic-creatures-2026",
+      "title": "Mythic Creatures: Dragons, Unicorns & Mermaids at DMNS",
+      "date": "2026-10-16",
+      "end_date": "2027-04-04",
+      "time": "Museum hours 9 AM–5 PM daily (most Fridays to 9 PM)",
+      "place_id": "dmns-nature-play",
+      "place": "Denver Museum of Nature & Science, 2001 Colorado Blvd, Denver",
+      "link": "https://www.dmns.org/exhibitions/temporary-exhibitions/mythic-creatures/",
+      "note": "New temporary exhibit included with general admission (free for members), with a mythical-creature dress-up area. Pair with the Nature Play park out back.",
+      "drive_note": "~25 min from the 64th & Ward base",
+      "source": "Days.in.denver IG Oct 16 reel; dmns.org"
+    },
+    {
+      "id": "skynets-over-downtown-2026",
+      "title": "Skynets Over Downtown floating ribbon art (final weeks)",
+      "date": "2026-10-19",
+      "end_date": "2026-11-08",
+      "time": "Outdoors, any time",
+      "place": "Skyline Park (1127 17th St) and Glenarm Plaza (500 16th St), Denver",
+      "lat": 39.7494209,
+      "lng": -104.9940781,
+      "link": "https://www.artsandvenuesdenver.com/denverskynets",
+      "note": "Free floating ribbon canopies that ripple in the wind: Skyline Drift at Skyline Park and Quaking Gold at Glenarm Plaza, on view through Nov 8 (the Union Station piece already came down). Fun stroller stop for a toddler who likes looking up.",
+      "drive_note": "~22 min from the 64th & Ward base",
+      "source": "Little Rad Adventure IG Oct 17 reel; Denver Arts & Venues"
     }
   ]
 }

@@ -10,6 +10,41 @@
 | Colorado Mama Life (Angelica) | https://www.instagram.com/coloradomamalife/ | https://www.facebook.com/profile.php?id=61577651781310 | https://www.tiktok.com/@coloradomamalife |
 | Little Rad Adventure | https://www.instagram.com/littleradadventure/ | https://www.facebook.com/LittleRadAdventure | https://littleradadventure.com/ |
 
+## Scrub window (2026-10-19 Mon/Wed/Fri pass)
+
+**Checked**
+- Days.in.denver beehiiv: sitemap still tops out at the October newsletter and Fall guide; nothing new.
+- Little Rad Adventure site feed: newest post still Chief Mountain Trail (2026-06-12).
+- Instagram, read Oct 16–18 posts on all five accounts (profiles and direct /p/ and /reel/ URLs readable without login this pass):
+  - @days.in.denver: Oct 18 Friends of Friends make-something studio at Stanley Marketplace; Oct 16 DMNS Mythic Creatures exhibit reel (opened Oct 16, through Apr 4, 2027, included with admission, dress-up area).
+  - @colorado.kids.explore: Oct 18 Strider/balance-bike racing at Colorado Speedway (personal recap); Oct 18 Cruisin Cutz kids' salon, 1401 E Bridge St, Brighton (sponsored); Oct 16 Boo at the Zoo reel (9 stations, Oct 23–25 and 30, 4:30–9pm, 2 and under free, Oct 31 sensory-friendly).
+  - @coloradokidsarerad: Oct 18 tumble HAUS giveaway (closes Oct 25, 10pm); Oct 18 new Ridgeview Heights Park playground, Broomfield; Oct 17 one-year account anniversary; Oct 16 Red Rocks Trading Post Trail reel.
+  - @coloradomamalife: Oct 18 Morrison Nature Center reel (free, beaver lodge nature play); Oct 16 free Halloween weekend list (already handled on the Oct 16 pass).
+  - @littleradadventure: Oct 18 Ichigo Matcha ice cream, downtown; Oct 17 Skynets floating art (Skyline Park and Glenarm Plaza through Nov 8); Oct 16 Pope Farms Corn Maze, Wiggins.
+- Facebook: not re-tried (login-walled on earlier passes; IG covered the same accounts). No captions guessed.
+- TikTok: profile meta only (unchanged).
+
+**New pins (2)**
+- Ridgeview Heights Park (new playground), Broomfield: lots of climbing, some bigger drop-offs; CKAR's 1-year-old wasn't as into it (CKAR Oct 18; confirmed on broomfield.org) (~23 min)
+- Red Rocks Trading Post Trail, Morrison: 1.6-mile loop, ~318 ft gain, rocky with stairs, carrier not stroller; tagged Toddler hikes (CKAR Oct 16) (~25 min)
+
+**Updated**
+- DMNS Nature Play Park + Museum: Mythic Creatures exhibit (Days.in.denver Oct 16 reel + dmns.org).
+- Stanley Marketplace: Friends of Friends now there (Days.in.denver Oct 18).
+- Morrison Nature Center: Colorado Mama Life Oct 18 reel (indoor animals, costumes, puppets; beaver lodge).
+- Denver Zoo: CKE Oct 16 Boo at the Zoo reel (event entry already had dates and pricing).
+
+**New events (2)**
+- Oct 16, 2026–Apr 4, 2027 Mythic Creatures: Dragons, Unicorns & Mermaids at DMNS (confirmed on dmns.org)
+- Oct 19–Nov 8 Skynets Over Downtown final weeks, Skyline Park and Glenarm Plaza, free (confirmed on artsandvenuesdenver.com)
+
+**Tips not pinned**
+- Cruisin Cutz (Brighton): kids' haircut salon, sponsored, not an outing (~30+ min).
+- Ichigo Matcha: dessert shop, not a toddler outing.
+- Pope Farms Corn Maze (Wiggins): about 75+ min away, outside the radius.
+- Colorado Speedway racing recap: no dated public event.
+- tumble HAUS giveaway: already pinned; giveaway itself isn't an outing.
+
 ## Scrub window (2026-10-16 Mon/Wed/Fri pass)
 
 **Checked**

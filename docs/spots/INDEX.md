@@ -3,7 +3,7 @@
 Updated: 2026-10-16  
 Base: W 64th Ave & Ward Rd, Arvada, CO 80004  
 Audience: Toddler ~20 months; prefer ~30 min drive  
-Places: 90
+Places: 92
 
 Each pin has a why-note from a named social/newsletter source. Drive times are rough estimates.
 
@@ -574,19 +574,34 @@ Each pin has a why-note from a named social/newsletter source. Drive times are r
 - [Rock Creek Farm](https://rockcreekfarm.com/)
 - [Instagram @days.in.denver](https://www.instagram.com/days.in.denver/)
 
+## Ridgeview Heights Park (new playground) (near)
+
+- **Address:** Kohl St & Hemlock Way / Iris St, Broomfield, CO 80021
+- **Drive:** ~23 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~9.4 mi straight-line)
+- **Why:** Colorado Kids Are Rad Oct 18 reel: brand-new Broomfield playground (replaced in Broomfield's 2026 Playground Replacement Program) with lots of climbing, a mix of rubber surfacing and wood chips. Meagan said her 3-year-old loved it but her 1-year-old was not so into it, and some areas have bigger drop-offs.
+- **Source:** Colorado Kids Are Rad (@coloradokidsarerad) Instagram reel 2026-10-18; City and County of Broomfield
+- **Hours:** Dawn–dusk
+- **Cost:** Free
+- **Toddler tip:** Better for climbers; stay close on the taller pieces with bigger drop-offs. Small park with shelter, grass, and open-space trails on either side.
+- [CKAR Ridgeview Heights reel (Oct 18)](https://www.instagram.com/coloradokidsarerad/reel/Deo8zRgx35C/)
+- [Broomfield park page](https://www.broomfield.org/Facilities/Facility/Details/31)
+- [Broomfield 2026 Playground Replacement Program](https://www.broomfield.org/4484/2026-Playground-Replacement-Program)
+
 ## DMNS Nature Play Park + Museum (near)
 
 - **Address:** 2001 Colorado Blvd, Denver, CO 80205
 - **Drive:** ~24 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~11.4 mi straight-line)
-- **Why:** Days.in.denver weekend idea: Museum of Nature & Science then Nature Play Park right behind it (climbable bighorn sheep, tunnels, water features). Curious Kids programs for ages 2–5 also featured.
+- **Why:** Days.in.denver weekend idea: Museum of Nature & Science then Nature Play Park right behind it (climbable bighorn sheep, tunnels, water features). Curious Kids programs for ages 2–5 also featured. New Mythic Creatures: Dragons, Unicorns & Mermaids exhibit opened Oct 16 and runs through Apr 4, 2027; included with general admission, with a mythical-creature dress-up area kids loved (Days.in.denver Oct 16 reel).
 - **Source:** Days.in.denver (@days.in.denver)
 - **Hours:** Nature Play outdoor: typically dawn–dusk free; museum hours vary
 - **Cost:** Nature Play free; museum paid (SCFD free days / library passes)
 - **Toddler tip:** Outdoor Nature Play works well for toddlers without buying museum tickets.
+- [Days.in.denver Mythic Creatures reel (Oct 16)](https://www.instagram.com/days.in.denver/reel/DekSbbHBzeP/)
 - [Instagram @days.in.denver](https://www.instagram.com/days.in.denver/)
 - [Days in Denver March newsletter](https://days-in-denver.beehiiv.com/p/days-in-denver-march-newsletter)
 - [DMNS Nature Play](https://www.dmns.org/)
 - [Steal this weekend idea](https://days-in-denver.beehiiv.com/p/days-in-denver-steal-this-weekend-idea-0001)
+- [Mythic Creatures exhibit](https://www.dmns.org/exhibitions/temporary-exhibitions/mythic-creatures/)
 
 ## Lookout Mountain Nature Center (near)
 
@@ -607,7 +622,7 @@ Each pin has a why-note from a named social/newsletter source. Drive times are r
 
 - **Address:** 2300 Steele St, Denver, CO 80205
 - **Drive:** ~24 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~11.0 mi straight-line)
-- **Why:** Days.in.denver June feature (130th anniversary programming) and fall Boo at the Zoo — classic toddler outing with stroller paths and animal viewing. Oct 8–9: Days.in.denver, Colorado Mama Life, and Little Rad Adventure all posted Boo at the Zoo (nine candy stations, friendly cryptid characters, new Wild Fall Market). CKAR's Oct 8 playground list also names Wild Village at the zoo. Days.in.denver's Oct 9 post: new this year is a Fall Market at the start of the Boo at the Zoo trail; arrive around 5:30 while it's still light. CKAR Oct 14 reel: going early while it's still light out works best with little kids (candy stations, carved pumpkins, Fall Market).
+- **Why:** Days.in.denver June feature (130th anniversary programming) and fall Boo at the Zoo — classic toddler outing with stroller paths and animal viewing. Oct 8–9: Days.in.denver, Colorado Mama Life, and Little Rad Adventure all posted Boo at the Zoo (nine candy stations, friendly cryptid characters, new Wild Fall Market). CKAR's Oct 8 playground list also names Wild Village at the zoo. Days.in.denver's Oct 9 post: new this year is a Fall Market at the start of the Boo at the Zoo trail; arrive around 5:30 while it's still light. CKAR Oct 14 reel: going early while it's still light out works best with little kids (candy stations, carved pumpkins, Fall Market). CKE Oct 16 reel: Boo at the Zoo has 9 trick-or-treat stations, Animal Ambassador encounters, costumed characters, and crafts; remaining dates Oct 23–25 and 30, 4:30–9pm; ages 2 and under free; Oct 31 is a special sensory-friendly evening; timed tickets can sell out.
 - **Source:** Days.in.denver (@days.in.denver)
 - **Hours:** Typically 9am–4pm (seasonal)
 - **Cost:** Paid (library free zoo day prizes / SCFD free days when offered)
@@ -621,6 +636,7 @@ Each pin has a why-note from a named social/newsletter source. Drive times are r
 - [Colorado Mama Life Boo at the Zoo reel (Oct 8)](https://www.instagram.com/coloradomamalife/reel/DeNnhjZzCaB/)
 - [Little Rad Adventure Boo at the Zoo reel (Oct 8)](https://www.instagram.com/littleradadventure/reel/DeQDLeIpGj-/)
 - [Colorado Kids Are Rad Boo at the Zoo reel (Oct 14)](https://www.instagram.com/coloradokidsarerad/reel/Defu3awRRte/)
+- [CKE Boo at the Zoo reel (Oct 16)](https://www.instagram.com/reel/Dek32kaxsr_/)
 
 ## Central Park (playground) (near)
 
@@ -647,6 +663,20 @@ Each pin has a why-note from a named social/newsletter source. Drive times are r
 - [CKE FlyteCo Tower reel (Oct 13)](https://www.instagram.com/colorado.kids.explore/reel/DedKjevxR1J/)
 - [FlyteCo Tower](https://flytecotower.com/)
 - [Kids eat free 2026](https://flytecotower.com/events/kidseatfree2026-)
+
+## Red Rocks Trading Post Trail (near)
+
+- **Address:** Trading Post, 17900 Trading Post Rd, Morrison, CO 80465
+- **Drive:** ~25 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~10.8 mi straight-line)
+- **Why:** Colorado Kids Are Rad Oct 16 reel: Red Rocks isn't just for concerts. The Trading Post Trail loop winds through the red rock formations; steep, rocky sections but doable with little hikers. Pop into the Trading Post afterward for the little nature exhibits. Free.
+- **Source:** Colorado Kids Are Rad (@coloradokidsarerad) Instagram reel 2026-10-16; Denver Mountain Parks
+- **Hours:** Park opens 1 hour before sunrise, closes 1 hour after sunset
+- **Cost:** Free
+- **Toddler tip:** Bring the carrier rather than the stroller: packed dirt, stairs, and rocky stretches. Trails can be icy in winter. Restrooms at the Trading Post.
+- **Trail:** 1.6-mile loop · ~318 ft gain · moderate with stairs and rocky sections · carrier, not stroller (CKAR / AllTrails)
+- [CKAR Red Rocks Trading Post reel (Oct 16)](https://www.instagram.com/coloradokidsarerad/reel/Dek9R8RRW1X/)
+- [Red Rocks Park & Amphitheatre](https://www.redrocksonline.com/)
+- [Trail details (Trailforks)](https://www.trailforks.com/trails/trading-post/)
 
 ## Denver Botanic Gardens — Mordecai Children's Garden (near)
 
@@ -826,7 +856,7 @@ Each pin has a why-note from a named social/newsletter source. Drive times are r
 
 - **Address:** 2501 Dallas St, Aurora, CO 80010
 - **Drive:** ~30 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~14.5 mi straight-line)
-- **Why:** Days.in.denver May: Tattered Cover story time Wed 11am & Sun 12pm at Stanley Marketplace — grab Logan House coffee and let kids play out back. Days.in.denver’s Oct 4 playground reel also lists Lu Bird’s Light Playground right behind Stanley (coffee and Tattered Cover inside).
+- **Why:** Days.in.denver May: Tattered Cover story time Wed 11am & Sun 12pm at Stanley Marketplace — grab Logan House coffee and let kids play out back. Days.in.denver’s Oct 4 playground reel also lists Lu Bird’s Light Playground right behind Stanley (coffee and Tattered Cover inside). Days.in.denver Oct 18 post: Friends of Friends (@we.are.friends.of.friends) is now at Stanley, an easy pop-in spot to make something together.
 - **Source:** Days.in.denver (@days.in.denver)
 - **Hours:** Marketplace hours; story times Wed/Sun
 - **Cost:** Free story time
@@ -834,6 +864,7 @@ Each pin has a why-note from a named social/newsletter source. Drive times are r
 - [Instagram @days.in.denver](https://www.instagram.com/days.in.denver/)
 - [Days in Denver May newsletter](https://days-in-denver.beehiiv.com/p/may-newsletter-7ae4c6d9c4e11cee)
 - [Days.in.denver playground reel](https://www.instagram.com/days.in.denver/reel/DeExVgtB1UU/)
+- [Days.in.denver Friends of Friends post (Oct 18)](https://www.instagram.com/p/Deo0h_CnK9h/)
 
 ## The Bookies Bookstore (FARTHER)
 
@@ -892,7 +923,7 @@ Each pin has a why-note from a named social/newsletter source. Drive times are r
 
 - **Address:** 16002 E Smith Rd, Aurora, CO 80011
 - **Drive:** ~31 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~18.4 mi straight-line) — farther
-- **Why:** Days.in.denver Oct 13 reel: easy Star K Ranch loop from Morrison Nature Center, plus a new inclusive Nature Exploration Area / nature playground outside the center.
+- **Why:** Days.in.denver Oct 13 reel: easy Star K Ranch loop from Morrison Nature Center, plus a new inclusive Nature Exploration Area / nature playground outside the center. Colorado Mama Life Oct 18 reel: free indoor animals, costumes, puppets, and puzzles, plus the outdoor nature play area with a giant beaver lodge to crawl inside; bring lunch and walk the Star K Ranch trails.
 - **Source:** Days.in.denver (@days.in.denver) Instagram reel 2026-10-13
 - **Hours:** Grounds sunrise–sunset; check nature center building hours
 - **Cost:** Free
@@ -900,6 +931,7 @@ Each pin has a why-note from a named social/newsletter source. Drive times are r
 - **Trail:** Easy Star K Ranch loop · nature playground at center · stroller-friendly sections likely
 - [Days.in.denver Star K / hikes reel (Oct 13)](https://www.instagram.com/days.in.denver/reel/Deb02B6hKEQ/)
 - [Aurora — Morrison Nature Center](https://www.auroragov.org/things_to_do/parks__open_space___trails/nature___open_space/nature_centers/morrison_nature_center)
+- [Colorado Mama Life Morrison Nature Center reel (Oct 18)](https://www.instagram.com/coloradomamalife/reel/DeqDv8ST6Aw/)
 
 ## Clement Park (+ Columbine Library) (FARTHER)
 
