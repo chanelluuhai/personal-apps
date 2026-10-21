@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated": "2026-10-16",
-    "as_of": "2026-10-16",
+    "updated": "2026-10-21",
+    "as_of": "2026-10-21",
     "timezone": "America/Denver",
     "notes": "Upcoming, dated family events kept separate from map pins. Confirm times, access, and weather with the linked organizer before heading out."
   },
@@ -467,6 +467,19 @@
       "note": "Free floating ribbon canopies that ripple in the wind: Skyline Drift at Skyline Park and Quaking Gold at Glenarm Plaza, on view through Nov 8 (the Union Station piece already came down). Fun stroller stop for a toddler who likes looking up.",
       "drive_note": "~22 min from the 64th & Ward base",
       "source": "Little Rad Adventure IG Oct 17 reel; Denver Arts & Venues"
+    },
+    {
+      "id": "space-dnvr-halloween-2026",
+      "title": "Halloween Paint + Potions at Space DNVR",
+      "date": "2026-10-31",
+      "time": "10am–12pm",
+      "place": "Space DNVR, 3810 Pierce St, Suite C, Wheat Ridge",
+      "lat": 39.7696194,
+      "lng": -105.0719558,
+      "link": "https://www.spacednvr.com/halloween-glow-paint-party",
+      "note": "Black-light glow paint on the walls, a take-home sensory potion station, and glow face painting. For kids of all ages plus parents; $50 for one parent + one child, $10 per extra family member 2 and up. Tickets are limited. Glow paint is harder to wash out of costumes.",
+      "drive_note": "~12 min from the 64th & Ward base",
+      "source": "Colorado Kids Are Rad IG Oct 19 reel (Space DNVR); spacednvr.com"
     }
   ]
 }

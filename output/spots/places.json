@@ -38,11 +38,11 @@
         "instagram": "https://www.instagram.com/littleradadventure/",
         "facebook": "https://www.facebook.com/LittleRadAdventure",
         "site": "https://littleradadventure.com/",
-        "note": "Facebook page Littleradadventure, also posted as Must Do In Colorado. Added from Chanel FB share 2026-10-03 (reel 1738726840765924 → Tiny Town & Railroad, Morrison). Park is seasonal and closed after Labor Day, so no pin until it reopens. IG scrubbed through 2026-10-16."
+        "note": "Facebook page Littleradadventure, also posted as Must Do In Colorado. Added from Chanel FB share 2026-10-03 (reel 1738726840765924 → Tiny Town & Railroad, Morrison). Park is seasonal and closed after Labor Day, so no pin until it reopens. IG scrubbed through 2026-10-21."
       }
     ],
-    "updated": "2026-10-16",
-    "scrub_window": "2026-10-16 Mon/Wed/Fri pass: Instagram read Oct 14–16 posts on all five accounts (captions readable from direct post URLs without login). New dated events from Colorado Mama Life's Oct 16 free Halloween weekend list: Golden Mill Howl-o-ween Oct 18, Market in the Park-et Spook-tacular at Wash Park Oct 18, Golden Corral Thornton Trunk-or-Treat Oct 17 (time to confirm). Denver Zoo updated with CKAR Boo at the Zoo reel. No new pins. Prior scrubs retained.",
+    "updated": "2026-10-21",
+    "scrub_window": "2026-10-21 Mon/Wed/Fri pass: Instagram Oct 18–21 posts read on all five accounts via the public profile API. New pins: Space DNVR (CKAR Oct 19) and Junkyard Social Club, Boulder (Days.in.denver Oct 20). New event: Space DNVR Halloween Paint + Potions, Oct 31. Updated Clear Creek Trail Gateway (Little Rad Oct 21) and Apex Center (Colorado Mama Life Oct 19 free rainy-day list). Prior scrubs retained.",
     "notes": "Why-notes paraphrased/quoted from source captions and newsletters. Drive times are rough estimates from Arvada 80004; verify in Google Maps. Do not invent venues — every pin cites a named source. Seasonal spots kept if still relevant for fall 2026 or evergreen otherwise. Home base updated to W 64th Ave & Ward Rd; drive times refreshed via public OSRM routing on 2026-10-02."
   },
   "places": [
@@ -100,6 +100,7 @@
       "why": "Days.in.denver: 'basically an entire day under one roof' — indoor water park, ice rinks, climbing wall, and a FREE indoor playground for little kids (Colorado-themed with tots area ~1–3).",
       "source": "Days.in.denver (@days.in.denver)",
       "source_accounts": [
+        "@coloradomamalife",
         "@days.in.denver",
         "Facebook: Days.in.denver"
       ],
@@ -115,6 +116,10 @@
         {
           "label": "Apex Center",
           "url": "https://apexprd.org/facility/apex-center/"
+        },
+        {
+          "label": "Colorado Mama Life free rainy-day list (Oct 19)",
+          "url": "https://www.instagram.com/p/DeslcXLzTwd/"
         }
       ],
       "hours": "Open daily; check Apex schedule for playground/pool hours",
@@ -3500,9 +3505,11 @@
       "lat": 39.7538664,
       "lng": -105.2381827,
       "address": "Gateway Trailhead, 21100 US Highway 6, Golden, CO 80403",
-      "why": "The paved Clear Creek Trail (formerly Peaks to Plains) heads into Clear Creek Canyon right at the edge of Golden: wide, smooth path beside the creek, bridges, and rock steps down to the water. It came up in the feeds as a mostly sunny toddler walk.",
-      "source": "Feed tip (Oct shady-hike search); Jeffco Open Space; Visit Golden",
-      "source_accounts": [],
+      "why": "The paved Clear Creek Trail (formerly Peaks to Plains) heads into Clear Creek Canyon right at the edge of Golden: wide, smooth path beside the creek, bridges, and rock steps down to the water. It came up in the feeds as a mostly sunny toddler walk. Little Rad Adventure (Oct 21) says the new Gateway Segment now links downtown Golden straight into the canyon, about 3.5 miles one way past Tunnel 1; crews are still working, so park only in designated lots.",
+      "source": "Feed tip (Oct shady-hike search); Jeffco Open Space; Visit Golden; Little Rad Adventure IG 2026-10-21",
+      "source_accounts": [
+        "@littleradadventure"
+      ],
       "links": [
         {
           "label": "Jeffco — Clear Creek Trail",
@@ -3515,6 +3522,10 @@
         {
           "label": "Visit Golden — Clear Creek Trail",
           "url": "https://www.visitgolden.com/outdoors/hiking/clear-creek-trail"
+        },
+        {
+          "label": "Little Rad Adventure Clear Creek Trail reel (Oct 21)",
+          "url": "https://www.instagram.com/littleradadventure/reel/DewhG2iJgtW/"
         }
       ],
       "hours": "Open 1 hr before sunrise to 1 hr after sunset",
@@ -3867,6 +3878,82 @@
       "farther_than_30min": false,
       "approx_drive_minutes": 25,
       "straight_line_miles": 10.8
+    },
+    {
+      "id": "space-dnvr",
+      "name": "Space DNVR (Paint on the Walls)",
+      "lat": 39.7696194,
+      "lng": -105.0719558,
+      "address": "3810 Pierce St, Suite C, Wheat Ridge, CO 80033",
+      "why": "Colorado Kids Are Rad Oct 19 reel: a mom-owned creative studio for families where painting on the walls is encouraged. They tried the Paint on the Walls + Story Time class; per spacednvr.com, Little Creators sessions are a 2-hour drop-in window with story time at 10:30am, toys for free play, and outside snacks welcome.",
+      "source": "Colorado Kids Are Rad (@coloradokidsarerad) Instagram reel 2026-10-19; spacednvr.com",
+      "source_accounts": [
+        "@coloradokidsarerad"
+      ],
+      "links": [
+        {
+          "label": "CKAR Space DNVR reel (Oct 19)",
+          "url": "https://www.instagram.com/coloradokidsarerad/reel/Desmy8_xx4i/"
+        },
+        {
+          "label": "Space DNVR — Paint on the Walls",
+          "url": "https://www.spacednvr.com/paint-on-the-walls"
+        },
+        {
+          "label": "Space DNVR schedule",
+          "url": "https://www.spacednvr.com/schedule"
+        }
+      ],
+      "hours": "Session-based; see schedule (Little Creators sessions run in a 2-hour morning window)",
+      "cost": "$30 per Little Creators session; $50/month membership for 1 child",
+      "toddler_notes": "Little Creators is listed for ages 2–6, so he's just under the stated age (site says they never turn a family away). Book ahead: sessions with no pre-bookings are cancelled 12 hours before. Dress for paint; a parent stays onsite.",
+      "tags": [
+        "indoor",
+        "art",
+        "class",
+        "play",
+        "wheat-ridge"
+      ],
+      "drive_note": "~12 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~4.7 mi straight-line)",
+      "farther_than_30min": false,
+      "approx_drive_minutes": 12,
+      "straight_line_miles": 4.7
+    },
+    {
+      "id": "junkyard-social-club",
+      "name": "Junkyard Social Club (Boulder)",
+      "lat": 40.0234012,
+      "lng": -105.2480839,
+      "address": "2525 Frontier Ave, Unit A, Boulder, CO 80301",
+      "why": "Days.in.denver Oct 20 post (\"More places like this, please!\"): a nonprofit 'rebel playground' with indoor and outdoor climbable play spaces built from reused junk, plus an in-house cafe with local coffee.",
+      "source": "Days.in.denver (@days.in.denver) Instagram post 2026-10-20; junkyardsocialclub.org",
+      "source_accounts": [
+        "@days.in.denver"
+      ],
+      "links": [
+        {
+          "label": "Days.in.denver Junkyard post (Oct 20)",
+          "url": "https://www.instagram.com/p/Det2Hemh_5F/"
+        },
+        {
+          "label": "Junkyard Social Club",
+          "url": "https://junkyardsocialclub.org/"
+        }
+      ],
+      "hours": "Tue–Sun 10am–6pm (closed Mon; check site for private-event early closures)",
+      "cost": "Kids $12, under 2 free; adults suggested $5 donation",
+      "toddler_notes": "He's under 2, so he gets in free. Adventure-playground style with bigger-kid climbing, so stay close. Cafe on site for a coffee. Pairs with a Boulder friend meetup.",
+      "tags": [
+        "indoor",
+        "outdoor",
+        "play",
+        "cafe",
+        "boulder"
+      ],
+      "drive_note": "~32 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~15.7 mi straight-line)",
+      "farther_than_30min": true,
+      "approx_drive_minutes": 32,
+      "straight_line_miles": 15.7
     }
   ]
 }

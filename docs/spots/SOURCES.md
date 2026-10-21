@@ -10,6 +10,31 @@
 | Colorado Mama Life (Angelica) | https://www.instagram.com/coloradomamalife/ | https://www.facebook.com/profile.php?id=61577651781310 | https://www.tiktok.com/@coloradomamalife |
 | Little Rad Adventure | https://www.instagram.com/littleradadventure/ | https://www.facebook.com/LittleRadAdventure | https://littleradadventure.com/ |
 
+## Scrub window (2026-10-21 Mon/Wed/Fri pass)
+
+**Checked**
+- Instagram: the logged-out web profile endpoint and profile pages were login-walled (401 / empty shell) this pass, but the public mobile profile API returned recent posts for all five accounts. Read Oct 18–21 posts:
+  - @days.in.denver: Oct 20 Junkyard Social Club, Boulder ("More places like this, please!").
+  - @colorado.kids.explore: Oct 20 Kids Empire Aurora Southlands new indoor playground (6295 S Main St, Aurora; ~47 min, not pinned as too far); Oct 18 Moonlight Diner near DIA (restaurant, not pinned); Oct 18 Cruisin Cutz (already noted on the Oct 19 pass).
+  - @coloradokidsarerad: Oct 20 Gross Reservoir via Forsythe Canyon (rock scramble, dirt road, ~40+ min; not pinned as a toddler hike); Oct 19 Space DNVR, Wheat Ridge; Oct 18 tumble HAUS giveaway (closes Oct 25).
+  - @coloradomamalife: Oct 19 list of 10 free rainy-day spots (Apex Center, CSU Spur, Anythink Nature Library, Carson and Morrison Nature Centers, Central Library are already pinned; Evergreen, Belmar, Castle Pines, Harmony libraries not added this pass); Oct 18 Morrison Nature Center (handled Oct 19).
+  - @littleradadventure: Oct 21 Clear Creek Trail Gateway Segment, Golden; Oct 20 Chinns Lakes near Idaho Springs (4x4, not toddler-pinned); Oct 20 paid political post (skipped); Oct 19 sponsored Bronco post, Winter Park (skipped); Oct 18 Ichigo Matcha (handled Oct 19).
+- Days.in.denver beehiiv: sitemap still tops out at the October newsletter and Fall guide; nothing new.
+- Little Rad Adventure site feed: newest post still Chief Mountain Trail (2026-06-12).
+- Facebook: not re-tried (login-walled on earlier passes; IG covered the same accounts). No captions guessed.
+- TikTok: profile meta only (unchanged).
+
+**New pins (2)**
+- Space DNVR (Paint on the Walls), Wheat Ridge: drop-in wall painting plus story time; Little Creators listed for ages 2–6, $30/session, book ahead (CKAR Oct 19; confirmed on spacednvr.com) (~12 min)
+- Junkyard Social Club, Boulder: indoor/outdoor adventure playground and cafe, Tue–Sun 10am–6pm, kids $12, under 2 free (Days.in.denver Oct 20; confirmed on junkyardsocialclub.org) (~32 min)
+
+**Updated**
+- Clear Creek Trail Gateway Trailhead: new Gateway Segment links downtown Golden into the canyon, ~3.5 mi one way past Tunnel 1 (Little Rad Adventure Oct 21).
+- Apex Center: Colorado Mama Life Oct 19 free rainy-day list link.
+
+**New events (1)**
+- Sat Oct 31, 10am–12pm Halloween Paint + Potions at Space DNVR, Wheat Ridge ($50 parent + child; confirmed on spacednvr.com)
+
 ## Scrub window (2026-10-19 Mon/Wed/Fri pass)
 
 **Checked**

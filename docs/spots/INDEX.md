@@ -1,9 +1,9 @@
 # Denver/Arvada Toddler Outing Spots
 
-Updated: 2026-10-16  
+Updated: 2026-10-21  
 Base: W 64th Ave & Ward Rd, Arvada, CO 80004  
 Audience: Toddler ~20 months; prefer ~30 min drive  
-Places: 92
+Places: 94
 
 Each pin has a why-note from a named social/newsletter source. Drive times are rough estimates.
 
@@ -19,6 +19,7 @@ Each pin has a why-note from a named social/newsletter source. Drive times are r
 - [Instagram @days.in.denver](https://www.instagram.com/days.in.denver/)
 - [Days in Denver Oct newsletter](https://days-in-denver.beehiiv.com/p/days-in-denver-october-newsletter)
 - [Apex Center](https://apexprd.org/facility/apex-center/)
+- [Colorado Mama Life free rainy-day list (Oct 19)](https://www.instagram.com/p/DeslcXLzTwd/)
 
 ## Ralston Valley Park (near)
 
@@ -162,6 +163,19 @@ Each pin has a why-note from a named social/newsletter source. Drive times are r
 - [Instagram @days.in.denver](https://www.instagram.com/days.in.denver/)
 - [Denver Parks — Inspiration Point](https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Parks-Recreation)
 
+## Space DNVR (Paint on the Walls) (near)
+
+- **Address:** 3810 Pierce St, Suite C, Wheat Ridge, CO 80033
+- **Drive:** ~12 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~4.7 mi straight-line)
+- **Why:** Colorado Kids Are Rad Oct 19 reel: a mom-owned creative studio for families where painting on the walls is encouraged. They tried the Paint on the Walls + Story Time class; per spacednvr.com, Little Creators sessions are a 2-hour drop-in window with story time at 10:30am, toys for free play, and outside snacks welcome.
+- **Source:** Colorado Kids Are Rad (@coloradokidsarerad) Instagram reel 2026-10-19; spacednvr.com
+- **Hours:** Session-based; see schedule (Little Creators sessions run in a 2-hour morning window)
+- **Cost:** $30 per Little Creators session; $50/month membership for 1 child
+- **Toddler tip:** Little Creators is listed for ages 2–6, so he's just under the stated age (site says they never turn a family away). Book ahead: sessions with no pre-bookings are cancelled 12 hours before. Dress for paint; a parent stays onsite.
+- [CKAR Space DNVR reel (Oct 19)](https://www.instagram.com/coloradokidsarerad/reel/Desmy8_xx4i/)
+- [Space DNVR — Paint on the Walls](https://www.spacednvr.com/paint-on-the-walls)
+- [Space DNVR schedule](https://www.spacednvr.com/schedule)
+
 ## The Golden Mill (near)
 
 - **Address:** 1012 Ford St, Golden, CO 80401
@@ -180,8 +194,8 @@ Each pin has a why-note from a named social/newsletter source. Drive times are r
 
 - **Address:** Gateway Trailhead, 21100 US Highway 6, Golden, CO 80403
 - **Drive:** ~13 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~6.6 mi straight-line)
-- **Why:** The paved Clear Creek Trail (formerly Peaks to Plains) heads into Clear Creek Canyon right at the edge of Golden: wide, smooth path beside the creek, bridges, and rock steps down to the water. It came up in the feeds as a mostly sunny toddler walk.
-- **Source:** Feed tip (Oct shady-hike search); Jeffco Open Space; Visit Golden
+- **Why:** The paved Clear Creek Trail (formerly Peaks to Plains) heads into Clear Creek Canyon right at the edge of Golden: wide, smooth path beside the creek, bridges, and rock steps down to the water. It came up in the feeds as a mostly sunny toddler walk. Little Rad Adventure (Oct 21) says the new Gateway Segment now links downtown Golden straight into the canyon, about 3.5 miles one way past Tunnel 1; crews are still working, so park only in designated lots.
+- **Source:** Feed tip (Oct shady-hike search); Jeffco Open Space; Visit Golden; Little Rad Adventure IG 2026-10-21
 - **Hours:** Open 1 hr before sunrise to 1 hr after sunset
 - **Cost:** Free
 - **Toddler tip:** Flush restrooms and shaded seating at the trailhead. The creek is fast and cold, so only the edges by the rock steps. Watch for bikes. Mostly sunny; bring hats. Pairs with downtown Golden (~4 min).
@@ -189,6 +203,7 @@ Each pin has a why-note from a named social/newsletter source. Drive times are r
 - [Jeffco — Clear Creek Trail](https://www.jeffco.us/3792/Clear-Creek-Trail)
 - [Jeffco — Clear Creek Canyon Park](https://www.jeffco.us/1196/Clear-Creek-Canyon-Park)
 - [Visit Golden — Clear Creek Trail](https://www.visitgolden.com/outdoors/hiking/clear-creek-trail)
+- [Little Rad Adventure Clear Creek Trail reel (Oct 21)](https://www.instagram.com/littleradadventure/reel/DewhG2iJgtW/)
 
 ## Vital Root (Tennyson) (near)
 
@@ -932,6 +947,18 @@ Each pin has a why-note from a named social/newsletter source. Drive times are r
 - [Days.in.denver Star K / hikes reel (Oct 13)](https://www.instagram.com/days.in.denver/reel/Deb02B6hKEQ/)
 - [Aurora — Morrison Nature Center](https://www.auroragov.org/things_to_do/parks__open_space___trails/nature___open_space/nature_centers/morrison_nature_center)
 - [Colorado Mama Life Morrison Nature Center reel (Oct 18)](https://www.instagram.com/coloradomamalife/reel/DeqDv8ST6Aw/)
+
+## Junkyard Social Club (Boulder) (FARTHER)
+
+- **Address:** 2525 Frontier Ave, Unit A, Boulder, CO 80301
+- **Drive:** ~32 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~15.7 mi straight-line)
+- **Why:** Days.in.denver Oct 20 post ("More places like this, please!"): a nonprofit 'rebel playground' with indoor and outdoor climbable play spaces built from reused junk, plus an in-house cafe with local coffee.
+- **Source:** Days.in.denver (@days.in.denver) Instagram post 2026-10-20; junkyardsocialclub.org
+- **Hours:** Tue–Sun 10am–6pm (closed Mon; check site for private-event early closures)
+- **Cost:** Kids $12, under 2 free; adults suggested $5 donation
+- **Toddler tip:** He's under 2, so he gets in free. Adventure-playground style with bigger-kid climbing, so stay close. Cafe on site for a coffee. Pairs with a Boulder friend meetup.
+- [Days.in.denver Junkyard post (Oct 20)](https://www.instagram.com/p/Det2Hemh_5F/)
+- [Junkyard Social Club](https://junkyardsocialclub.org/)
 
 ## Clement Park (+ Columbine Library) (FARTHER)
 
