@@ -1,9 +1,9 @@
 # Denver/Arvada Toddler Outing Spots
 
-Updated: 2026-10-21  
+Updated: 2026-10-23  
 Base: W 64th Ave & Ward Rd, Arvada, CO 80004  
 Audience: Toddler ~20 months; prefer ~30 min drive  
-Places: 94
+Places: 97
 
 Each pin has a why-note from a named social/newsletter source. Drive times are rough estimates.
 
@@ -204,6 +204,18 @@ Each pin has a why-note from a named social/newsletter source. Drive times are r
 - [Jeffco — Clear Creek Canyon Park](https://www.jeffco.us/1196/Clear-Creek-Canyon-Park)
 - [Visit Golden — Clear Creek Trail](https://www.visitgolden.com/outdoors/hiking/clear-creek-trail)
 - [Little Rad Adventure Clear Creek Trail reel (Oct 21)](https://www.instagram.com/littleradadventure/reel/DewhG2iJgtW/)
+
+## Westminster Station Nature Play Park (near)
+
+- **Address:** 3501 Creekside Dr, Westminster, CO 80221
+- **Drive:** ~13 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~5.9 mi straight-line)
+- **Why:** Colorado Kids Are Rad Oct 22 post listed it among their 6 favorite playgrounds that 'POP OFF for fall': a nature-style playground by Little Dry Creek next to the Westminster Station commuter-rail stop.
+- **Source:** Colorado Kids Are Rad (@coloradokidsarerad) Instagram post 2026-10-22 (6 favorite fall playgrounds); city park pages
+- **Hours:** Park hours 5am–9pm (per listing; verify)
+- **Cost:** Free
+- **Toddler tip:** Nature play pieces for climbing and exploring; restrooms with changing tables under the big pavilion (per Slides and Sunshine). Close by, so it works for a quick post-nap outing.
+- [CKAR fall playgrounds post (Oct 22)](https://www.instagram.com/p/De0Vi5rRnhj/)
+- [Westminster park page](https://www.westminsterco.gov/facilities/facility/details/Westminster-Station-Park-Nature-Playgrou-67)
 
 ## Vital Root (Tennyson) (near)
 
@@ -776,6 +788,19 @@ Each pin has a why-note from a named social/newsletter source. Drive times are r
 - [Bluff Lake Nature Center — Visiting](https://www.blufflake.org/about/visiting)
 - [Instagram @days.in.denver](https://www.instagram.com/days.in.denver/)
 
+## Big Dry Creek Park (near)
+
+- **Address:** 1700 W 128th Ave, Westminster, CO 80234
+- **Drive:** ~26 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~10.6 mi straight-line)
+- **Why:** Colorado Kids Are Rad Oct 22 post listed it among their 6 favorite fall playgrounds. 18-acre regional park (Westminster + Hyland Hills) with playgrounds, a sandbox, trails, pavilion, and a dog park.
+- **Source:** Colorado Kids Are Rad (@coloradokidsarerad) Instagram post 2026-10-22 (6 favorite fall playgrounds); city park pages
+- **Hours:** Dawn–dusk (verify)
+- **Cost:** Free
+- **Toddler tip:** Sandbox plus playgrounds is a good combo at his age. Restrooms are porta-potties per Hyland Hills, so bring changing supplies.
+- [CKAR fall playgrounds post (Oct 22)](https://www.instagram.com/p/De0Vi5rRnhj/)
+- [Westminster park page](https://www.westminsterco.gov/facilities/facility/details/Big-Dry-Creek-Park-10)
+- [Hyland Hills park page](https://www.hylandhills.gov/location/big-dry-creek-park-3/)
+
 ## Sweet Play (Toddler Tuesday) (near)
 
 - **Address:** Sweet Play Denver metro (verify address)
@@ -800,6 +825,18 @@ Each pin has a why-note from a named social/newsletter source. Drive times are r
 - [CKE Baby University reel (Oct 10)](https://www.instagram.com/colorado.kids.explore/reel/DeVou-QxVP8/)
 - [Baby University indoor playground](https://babyuniversity.net/indoor-playground-aurora-denver/)
 - [Baby University FAQ / hours](https://babyuniversity.net/contact/)
+
+## McKay Lake Park (nature play area) (near)
+
+- **Address:** 2301 W 138th Ave, Broomfield, CO 80023
+- **Drive:** ~28 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~11.5 mi straight-line)
+- **Why:** Colorado Kids Are Rad Oct 22 post listed it among their 6 favorite fall playgrounds. Nature play area with tunnels to crawl through, slides, a tiny stream, and bike ramps near McKay Lake.
+- **Source:** Colorado Kids Are Rad (@coloradokidsarerad) Instagram post 2026-10-22 (6 favorite fall playgrounds); city park pages
+- **Hours:** Open daily (verify with Broomfield)
+- **Cost:** Free
+- **Toddler tip:** Tunnels and the shallow stream are fun for little ones; big hills and slides are more for older kids, so stay close. Very little shade and only porta-potties (per reviews).
+- [CKAR fall playgrounds post (Oct 22)](https://www.instagram.com/p/De0Vi5rRnhj/)
+- [Slides and Sunshine review](https://slidesandsunshine.com/mckaylakepark/)
 
 ## Bates-Logan Park (near)
 

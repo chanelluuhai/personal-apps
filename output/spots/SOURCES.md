@@ -10,6 +10,30 @@
 | Colorado Mama Life (Angelica) | https://www.instagram.com/coloradomamalife/ | https://www.facebook.com/profile.php?id=61577651781310 | https://www.tiktok.com/@coloradomamalife |
 | Little Rad Adventure | https://www.instagram.com/littleradadventure/ | https://www.facebook.com/LittleRadAdventure | https://littleradadventure.com/ |
 
+## Scrub window (2026-10-23 Mon/Wed/Fri pass)
+
+**Checked**
+- Instagram: the public mobile profile API was rate-limited ("Please wait a few minutes", require_login) this pass, but the public profile embed pages returned recent posts for all five accounts. Read Oct 21–23 posts:
+  - @days.in.denver: Oct 23 Denver Climate Project "One Effect" ad (skipped); Oct 22 Little Man Ice Cream free Halloween movies, Oct 23 and Oct 30; Oct 21 fall photo post (no venue).
+  - @colorado.kids.explore: Oct 22 Rocky Mountain Pumpkin Ranch, 9057 Ute Hwy, Longmont (free entry, through Nov 1; ~50 min, not added as too far).
+  - @coloradokidsarerad: Oct 22 six favorite fall playgrounds (Crest View Park Boulder, Westminster Station Nature Play Park, McKay Lake Park Broomfield, Big Dry Creek Westminster, NoBo Library Playground Boulder, Grange Creek Park Thornton); Oct 21 Spookadelia at Spectra Art Space (already pinned).
+  - @coloradomamalife: no new posts since Oct 19.
+  - @littleradadventure: Oct 22 mountains opinion post (no venue); Oct 22 Ruby Hill Bike Park, Denver (dirt jumps for a 7-year-old; not pinned for a toddler); Oct 21 Hudson Gardens free fall gardens (already pinned); Oct 21 Clear Creek Trail Gateway (handled Oct 21).
+- Days.in.denver beehiiv: sitemap still tops out at the October newsletter and Fall guide; nothing new.
+- Little Rad Adventure site feed: newest post still Chief Mountain Trail (2026-06-12).
+- Facebook: not re-tried (login-walled on earlier passes; IG covered the same accounts). No captions guessed.
+- TikTok: profile meta only (unchanged).
+
+**New pins (3)**
+- Westminster Station Nature Play Park, Westminster: nature playground by Little Dry Creek, restrooms with changing tables (CKAR Oct 22; westminsterco.gov) (~13 min)
+- Big Dry Creek Park, Westminster: playgrounds, sandbox, trails, porta-potties (CKAR Oct 22; westminsterco.gov, hylandhills.gov) (~26 min)
+- McKay Lake Park nature play area, Broomfield: tunnels, slides, tiny stream, little shade (CKAR Oct 22; Slides and Sunshine) (~28 min)
+- Not pinned from the same list this pass: Crest View Park and NoBo Library Playground (Boulder) and Grange Creek Park (Thornton); candidates for a later pass.
+
+**New events (2)**
+- Fri Oct 23, 7pm Freaky Friday Fright Night Flicks at Little Man Ice Cream LoHi: Toy Story of Terror! + The Addams Family (free; Days.in.denver Oct 22; Eventbrite)
+- Fri Oct 30, 7pm Freaky Friday Fright Night Flicks at Little Man Ice Cream LoHi: Room on the Broom + Hocus Pocus (free; Days.in.denver Oct 22; Eventbrite)
+
 ## Scrub window (2026-10-21 Mon/Wed/Fri pass)
 
 **Checked**

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated": "2026-10-21",
-    "as_of": "2026-10-21",
+    "updated": "2026-10-23",
+    "as_of": "2026-10-23",
     "timezone": "America/Denver",
     "notes": "Upcoming, dated family events kept separate from map pins. Confirm times, access, and weather with the linked organizer before heading out."
   },
@@ -480,6 +480,32 @@
       "note": "Black-light glow paint on the walls, a take-home sensory potion station, and glow face painting. For kids of all ages plus parents; $50 for one parent + one child, $10 per extra family member 2 and up. Tickets are limited. Glow paint is harder to wash out of costumes.",
       "drive_note": "~12 min from the 64th & Ward base",
       "source": "Colorado Kids Are Rad IG Oct 19 reel (Space DNVR); spacednvr.com"
+    },
+    {
+      "id": "little-man-flicks-2026-10-23",
+      "title": "Freaky Friday Fright Night Flicks: Toy Story of Terror!",
+      "date": "2026-10-23",
+      "time": "7pm (short film, then the feature; outdoors)",
+      "place": "Little Man Ice Cream LoHi, back amphitheatre, 2620 16th St, Denver",
+      "lat": 39.7594544,
+      "lng": -105.0110846,
+      "link": "https://www.eventbrite.com/e/freaky-friday-fright-night-flicks-free-halloween-movies-at-the-can-tickets-2001983855604",
+      "drive_note": "~20 min from the 64th & Ward base",
+      "source": "Days.in.denver IG Oct 22 post (https://www.instagram.com/p/DezQS1jB3Do/); Little Man Ice Cream Eventbrite",
+      "note": "Free outdoor Halloween movie night with free popcorn, no tickets needed. Tonight's short is Toy Story of Terror! before The Addams Family (the feature is more for older kids). Starts at 7pm, past a toddler bedtime, and it's outside, so bring coats and blankets."
+    },
+    {
+      "id": "little-man-flicks-2026-10-30",
+      "title": "Freaky Friday Fright Night Flicks: Room on the Broom",
+      "date": "2026-10-30",
+      "time": "7pm (short film, then the feature; outdoors)",
+      "place": "Little Man Ice Cream LoHi, back amphitheatre, 2620 16th St, Denver",
+      "lat": 39.7594544,
+      "lng": -105.0110846,
+      "link": "https://www.eventbrite.com/e/freaky-friday-fright-night-flicks-free-halloween-movies-at-the-can-tickets-2001983855604",
+      "drive_note": "~20 min from the 64th & Ward base",
+      "source": "Days.in.denver IG Oct 22 post (https://www.instagram.com/p/DezQS1jB3Do/); Little Man Ice Cream Eventbrite",
+      "note": "Free outdoor Halloween movie night with free popcorn, no tickets needed. The opening short is Room on the Broom, a great toddler pick, before Hocus Pocus (better to leave after the short). Starts at 7pm and it's outside, so bring coats and blankets."
     }
   ]
 }

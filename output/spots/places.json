@@ -38,11 +38,11 @@
         "instagram": "https://www.instagram.com/littleradadventure/",
         "facebook": "https://www.facebook.com/LittleRadAdventure",
         "site": "https://littleradadventure.com/",
-        "note": "Facebook page Littleradadventure, also posted as Must Do In Colorado. Added from Chanel FB share 2026-10-03 (reel 1738726840765924 → Tiny Town & Railroad, Morrison). Park is seasonal and closed after Labor Day, so no pin until it reopens. IG scrubbed through 2026-10-21."
+        "note": "Facebook page Littleradadventure, also posted as Must Do In Colorado. Added from Chanel FB share 2026-10-03 (reel 1738726840765924 → Tiny Town & Railroad, Morrison). Park is seasonal and closed after Labor Day, so no pin until it reopens. IG scrubbed through 2026-10-23."
       }
     ],
-    "updated": "2026-10-21",
-    "scrub_window": "2026-10-21 Mon/Wed/Fri pass: Instagram Oct 18–21 posts read on all five accounts via the public profile API. New pins: Space DNVR (CKAR Oct 19) and Junkyard Social Club, Boulder (Days.in.denver Oct 20). New event: Space DNVR Halloween Paint + Potions, Oct 31. Updated Clear Creek Trail Gateway (Little Rad Oct 21) and Apex Center (Colorado Mama Life Oct 19 free rainy-day list). Prior scrubs retained.",
+    "updated": "2026-10-23",
+    "scrub_window": "2026-10-23 Mon/Wed/Fri pass: Instagram Oct 21–23 posts read on all five accounts via the public profile embed (profile API rate-limited). New pins: Westminster Station Nature Play Park, Big Dry Creek Park, McKay Lake Park (CKAR Oct 22 fall playgrounds list). New events: Little Man Ice Cream Freaky Friday Fright Night Flicks Oct 23 and Oct 30 (Days.in.denver Oct 22). Prior scrubs retained.",
     "notes": "Why-notes paraphrased/quoted from source captions and newsletters. Drive times are rough estimates from Arvada 80004; verify in Google Maps. Do not invent venues — every pin cites a named source. Seasonal spots kept if still relevant for fall 2026 or evergreen otherwise. Home base updated to W 64th Ave & Ward Rd; drive times refreshed via public OSRM routing on 2026-10-02."
   },
   "places": [
@@ -3954,6 +3954,118 @@
       "farther_than_30min": true,
       "approx_drive_minutes": 32,
       "straight_line_miles": 15.7
+    },
+    {
+      "id": "westminster-station-nature-play-park",
+      "name": "Westminster Station Nature Play Park",
+      "lat": 39.8208766,
+      "lng": -105.0290103,
+      "address": "3501 Creekside Dr, Westminster, CO 80221",
+      "why": "Colorado Kids Are Rad Oct 22 post listed it among their 6 favorite playgrounds that 'POP OFF for fall': a nature-style playground by Little Dry Creek next to the Westminster Station commuter-rail stop.",
+      "source": "Colorado Kids Are Rad (@coloradokidsarerad) Instagram post 2026-10-22 (6 favorite fall playgrounds); city park pages",
+      "source_accounts": [
+        "@coloradokidsarerad"
+      ],
+      "links": [
+        {
+          "label": "CKAR fall playgrounds post (Oct 22)",
+          "url": "https://www.instagram.com/p/De0Vi5rRnhj/"
+        },
+        {
+          "label": "Westminster park page",
+          "url": "https://www.westminsterco.gov/facilities/facility/details/Westminster-Station-Park-Nature-Playgrou-67"
+        }
+      ],
+      "hours": "Park hours 5am–9pm (per listing; verify)",
+      "cost": "Free",
+      "toddler_notes": "Nature play pieces for climbing and exploring; restrooms with changing tables under the big pavilion (per Slides and Sunshine). Close by, so it works for a quick post-nap outing.",
+      "tags": [
+        "park",
+        "playground",
+        "outdoor",
+        "free",
+        "westminster"
+      ],
+      "drive_note": "~13 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~5.9 mi straight-line)",
+      "farther_than_30min": false,
+      "approx_drive_minutes": 13,
+      "straight_line_miles": 5.9
+    },
+    {
+      "id": "big-dry-creek-park",
+      "name": "Big Dry Creek Park",
+      "lat": 39.9279435,
+      "lng": -105.0079571,
+      "address": "1700 W 128th Ave, Westminster, CO 80234",
+      "why": "Colorado Kids Are Rad Oct 22 post listed it among their 6 favorite fall playgrounds. 18-acre regional park (Westminster + Hyland Hills) with playgrounds, a sandbox, trails, pavilion, and a dog park.",
+      "source": "Colorado Kids Are Rad (@coloradokidsarerad) Instagram post 2026-10-22 (6 favorite fall playgrounds); city park pages",
+      "source_accounts": [
+        "@coloradokidsarerad"
+      ],
+      "links": [
+        {
+          "label": "CKAR fall playgrounds post (Oct 22)",
+          "url": "https://www.instagram.com/p/De0Vi5rRnhj/"
+        },
+        {
+          "label": "Westminster park page",
+          "url": "https://www.westminsterco.gov/facilities/facility/details/Big-Dry-Creek-Park-10"
+        },
+        {
+          "label": "Hyland Hills park page",
+          "url": "https://www.hylandhills.gov/location/big-dry-creek-park-3/"
+        }
+      ],
+      "hours": "Dawn–dusk (verify)",
+      "cost": "Free",
+      "toddler_notes": "Sandbox plus playgrounds is a good combo at his age. Restrooms are porta-potties per Hyland Hills, so bring changing supplies.",
+      "tags": [
+        "park",
+        "playground",
+        "outdoor",
+        "free",
+        "westminster"
+      ],
+      "drive_note": "~26 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~10.6 mi straight-line)",
+      "farther_than_30min": false,
+      "approx_drive_minutes": 26,
+      "straight_line_miles": 10.6
+    },
+    {
+      "id": "mckay-lake-park",
+      "name": "McKay Lake Park (nature play area)",
+      "lat": 39.9456488,
+      "lng": -105.0088302,
+      "address": "2301 W 138th Ave, Broomfield, CO 80023",
+      "why": "Colorado Kids Are Rad Oct 22 post listed it among their 6 favorite fall playgrounds. Nature play area with tunnels to crawl through, slides, a tiny stream, and bike ramps near McKay Lake.",
+      "source": "Colorado Kids Are Rad (@coloradokidsarerad) Instagram post 2026-10-22 (6 favorite fall playgrounds); city park pages",
+      "source_accounts": [
+        "@coloradokidsarerad"
+      ],
+      "links": [
+        {
+          "label": "CKAR fall playgrounds post (Oct 22)",
+          "url": "https://www.instagram.com/p/De0Vi5rRnhj/"
+        },
+        {
+          "label": "Slides and Sunshine review",
+          "url": "https://slidesandsunshine.com/mckaylakepark/"
+        }
+      ],
+      "hours": "Open daily (verify with Broomfield)",
+      "cost": "Free",
+      "toddler_notes": "Tunnels and the shallow stream are fun for little ones; big hills and slides are more for older kids, so stay close. Very little shade and only porta-potties (per reviews).",
+      "tags": [
+        "park",
+        "playground",
+        "outdoor",
+        "free",
+        "broomfield"
+      ],
+      "drive_note": "~28 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~11.5 mi straight-line)",
+      "farther_than_30min": false,
+      "approx_drive_minutes": 28,
+      "straight_line_miles": 11.5
     }
   ]
 }
