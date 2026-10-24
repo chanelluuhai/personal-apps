@@ -2331,6 +2331,103 @@
 },
 "yield": "10"
 },
+"hlf-banana-greek-yogurt-pancakes": {
+"account": "",
+"account_name": "Healthy Little Foodies",
+"account_url": "https://www.healthylittlefoodies.com/",
+"category": "sweet",
+"color": "#dec7a9",
+"creator": null,
+"date": "2026-10-22",
+"extraction": "recipe-page",
+"fetched_at": "2026-10-24T14:48:04+00:00",
+"id": "hlf-banana-greek-yogurt-pancakes",
+"ingredients": [
+"1 cup (125g) all-purpose flour (plain flour)",
+"1½ tsp baking powder",
+"¼ tsp baking soda",
+"½ tsp cinnamon (,optional)",
+"1 cup (240 g) plain Greek yogurt",
+"1 medium ripe banana",
+"2 large eggs",
+"1 tsp vanilla extract",
+"Unsalted butter or oil (,for cooking)"
+],
+"kind": "site",
+"mealPrep": false,
+"mealPrep_basis": [],
+"minutes": 20,
+"notes": [],
+"platform": "web",
+"recipePage": "r/hlf-banana-greek-yogurt-pancakes.html",
+"recipeSourceUrl": "https://www.healthylittlefoodies.com/banana-greek-yogurt-pancakes/",
+"recipe_from": "recipe page",
+"site": "Healthy Little Foodies",
+"site_url": "https://www.healthylittlefoodies.com/",
+"status": "ok",
+"steps": [
+"In a large mixing bowl, whisk together the flour, baking powder, baking soda and cinnamon.",
+"Mash the banana with a fork, leaving a few small lumps rather than mashing until completely smooth. I find over-mashing or puréeing the banana can make the pancakes denser rather than light and fluffy.",
+"In a seperate bowl or jug, add the mashed banana, yogurt, eggs and vanilla and mix until combined.",
+"Pour the wet ingredients into the dry ingredients and gently stir until just combined. Don't overmix; a few lumps are fine.",
+"Heat a non-stick frying pan or skillet over medium heat. Lightly grease with a small amount of butter or oil, wiping away the excess with a paper towel.",
+"Use an ice-cream scoop (about ¼ cup) to add the batter to the pan and form a circle. The size of pan will determine how many you can fit in. You can make smaller tablespoon pancakes if you prefer.",
+"Transfer cooked pancakes to cooling rack or plate. Repeat with the remaining batter, lightly greasing the pan and wiping again as needed."
+],
+"summary": "Light and fluffy banana Greek yogurt pancakes made with simple ingredients and naturally sweetened with ripe banana.",
+"tags": [
+"breakfast",
+"snack"
+],
+"thumb": "thumbs/hlf-banana-greek-yogurt-pancakes.webp",
+"thumb_h": 400,
+"thumb_w": 400,
+"time": "quick",
+"time_basis": "recipe says 20 min total",
+"title": "Banana Greek Yogurt Pancakes",
+"url": "https://www.healthylittlefoodies.com/banana-greek-yogurt-pancakes/",
+"web": {
+"author": null,
+"cuisine": [
+"Western"
+],
+"date": "2026-10-22",
+"description": "Light and fluffy banana Greek yogurt pancakes made with simple ingredients and naturally sweetened with ripe banana.",
+"image": "https://www.healthylittlefoodies.com/wp-content/uploads/2026/10/banana-yogurt-pancakes-stack.jpg",
+"ingredients": [
+"1 cup (125g) all-purpose flour (plain flour)",
+"1½ tsp baking powder",
+"¼ tsp baking soda",
+"½ tsp cinnamon (,optional)",
+"1 cup (240 g) plain Greek yogurt",
+"1 medium ripe banana",
+"2 large eggs",
+"1 tsp vanilla extract",
+"Unsalted butter or oil (,for cooking)"
+],
+"keywords": [
+"banana yogurt pancakes",
+"healthier pancakes"
+],
+"minutes": 20,
+"name": "Banana Greek Yogurt Pancakes",
+"recipeCategory": [
+"Breakfast",
+"Snack"
+],
+"steps": [
+"In a large mixing bowl, whisk together the flour, baking powder, baking soda and cinnamon.",
+"Mash the banana with a fork, leaving a few small lumps rather than mashing until completely smooth. I find over-mashing or puréeing the banana can make the pancakes denser rather than light and fluffy.",
+"In a seperate bowl or jug, add the mashed banana, yogurt, eggs and vanilla and mix until combined.",
+"Pour the wet ingredients into the dry ingredients and gently stir until just combined. Don't overmix; a few lumps are fine.",
+"Heat a non-stick frying pan or skillet over medium heat. Lightly grease with a small amount of butter or oil, wiping away the excess with a paper towel.",
+"Use an ice-cream scoop (about ¼ cup) to add the batter to the pan and form a circle. The size of pan will determine how many you can fit in. You can make smaller tablespoon pancakes if you prefer.",
+"Transfer cooked pancakes to cooling rack or plate. Repeat with the remaining batter, lightly greasing the pan and wiping again as needed."
+],
+"yield": "9"
+},
+"yield": "9"
+},
 "hlf-blueberry-yogurt-muffins": {
 "account": "",
 "account_name": "Healthy Little Foodies",
@@ -12059,6 +12156,98 @@
 "yield": "12"
 },
 "yield": "12"
+},
+"mj-protein-chia-pudding": {
+"account": "kidfriendly.meals",
+"account_name": "Min Kwon · Kidfriendly Meals",
+"account_url": "https://www.mjandhungryman.com/",
+"category": "sweet",
+"color": "#d2bcb9",
+"creator": "kidfriendly.meals",
+"date": "2026-10-22",
+"extraction": "recipe-page",
+"fetched_at": "2026-10-24T14:47:59+00:00",
+"id": "mj-protein-chia-pudding",
+"ingredients": [
+"1/2 cup red lentils, rinsed (90g)",
+"1 1/2 cups water (to cook the lentils)",
+"1 overripe medium banana",
+"2-3 tablespoons maple syrup (optional)",
+"1 cup milk of choice",
+"1/2 cup plain Greek yogurt",
+"1 teaspoon ground cinnamon",
+"1 teaspoon vanilla extract",
+"1/4 cup chia seeds, whole or ground (see note)"
+],
+"kind": "creator",
+"mealPrep": false,
+"mealPrep_basis": [],
+"minutes": 265,
+"notes": [],
+"platform": "web",
+"recipePage": "r/mj-protein-chia-pudding.html",
+"recipeSourceUrl": "https://www.mjandhungryman.com/protein-chia-pudding/",
+"recipe_from": "recipe page",
+"site": "MJ and Hungryman",
+"site_url": "https://www.mjandhungryman.com/",
+"status": "ok",
+"steps": [
+"Cook the lentils. Add the rinsed red lentils and water to a small saucepan. Bring to a boil, then reduce the heat to low and simmer, uncovered, for 12–15 minutes, or until the lentils are very soft and most of the water has been absorbed. Remove from the heat and let cool slightly.",
+"Blend. Add the cooked lentils, banana, milk, Greek yogurt, cinnamon, maple syrup (if using), and vanilla to a blender. Blend until completely smooth and creamy.",
+"Add the chia seeds. Pour the mixture into a bowl or airtight container. Stir in the chia seeds until evenly combined.",
+"Chill. Cover and refrigerate for at least 4 hours, preferably overnight, until thickened.",
+"Serve. Give the pudding a good stir before serving. If it's thicker than you prefer, stir in a splash of milk until it reaches your desired consistency."
+],
+"summary": "Make high protein chia pudding without protein powder! This creamy, naturally sweetened recipe uses Greek yogurt, banana, and a surprising secret ingredient.",
+"tags": [
+"breakfast",
+"snack"
+],
+"thumb": "thumbs/mj-protein-chia-pudding.webp",
+"thumb_h": 400,
+"thumb_w": 400,
+"time": "long",
+"time_basis": "recipe says 265 min total",
+"title": "Protein chia pudding",
+"url": "https://www.mjandhungryman.com/protein-chia-pudding/",
+"web": {
+"author": null,
+"cuisine": [
+"American"
+],
+"date": "2026-10-22",
+"description": "Make high protein chia pudding without protein powder! This creamy, naturally sweetened recipe uses Greek yogurt, banana, and a surprising secret ingredient.",
+"image": "https://www.mjandhungryman.com/wp-content/uploads/2026/10/Protein-chia-pudding-recipe.jpg",
+"ingredients": [
+"1/2 cup red lentils, rinsed (90g)",
+"1 1/2 cups water (to cook the lentils)",
+"1 overripe medium banana",
+"2-3 tablespoons maple syrup (optional)",
+"1 cup milk of choice",
+"1/2 cup plain Greek yogurt",
+"1 teaspoon ground cinnamon",
+"1 teaspoon vanilla extract",
+"1/4 cup chia seeds, whole or ground (see note)"
+],
+"keywords": [
+"protein chia pudding"
+],
+"minutes": 265,
+"name": "Protein chia pudding",
+"recipeCategory": [
+"Breakfast",
+"Snack"
+],
+"steps": [
+"Cook the lentils. Add the rinsed red lentils and water to a small saucepan. Bring to a boil, then reduce the heat to low and simmer, uncovered, for 12–15 minutes, or until the lentils are very soft and most of the water has been absorbed. Remove from the heat and let cool slightly.",
+"Blend. Add the cooked lentils, banana, milk, Greek yogurt, cinnamon, maple syrup (if using), and vanilla to a blender. Blend until completely smooth and creamy.",
+"Add the chia seeds. Pour the mixture into a bowl or airtight container. Stir in the chia seeds until evenly combined.",
+"Chill. Cover and refrigerate for at least 4 hours, preferably overnight, until thickened.",
+"Serve. Give the pudding a good stir before serving. If it's thicker than you prefer, stir in a splash of milk until it reaches your desired consistency."
+],
+"yield": "4"
+},
+"yield": "4"
 },
 "mj-pumpkin-baked-oatmeal": {
 "account": "kidfriendly.meals",
@@ -51681,13 +51870,14 @@
 "links": [],
 "mealPrep": false,
 "mealPrep_basis": [],
+"merged_into": "tt-7559682176229313847",
 "minutes": null,
 "notes": [],
 "page_minutes": null,
 "platform": "tiktok",
 "recipeSourceUrl": null,
 "recipe_from": "caption",
-"status": "ok",
+"status": "merged",
 "steps": [],
 "summary": "",
 "tags": [
@@ -51700,6 +51890,18 @@
 "time_basis": "",
 "title": "Healthy Zucchini Pizza recipe that even picky eaters LOVE",
 "url": "https://www.tiktok.com/@soniamazri/video/7554129068510252301",
+"video": {
+"checked_at": "2026-10-24T14:50:24+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "Bye with my little tight eye Tiny as a firefly A couple that we picked up last July Down deep inside your pocket We almost forgot it Does it ever miss? We're close sometimes",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7554500906570485005": {
@@ -51711,10 +51913,13 @@
 "color": "#b79e8d",
 "creator": "soniamazri_",
 "date": "2025-09-26",
-"extraction": "none",
+"extraction": "video-partial",
 "fetched_at": "2026-10-11T02:23:27+00:00",
 "id": "tt-7554500906570485005",
-"ingredients": [],
+"ingredients": [
+"banana",
+"peanut butter"
+],
 "kind": "creator",
 "links": [],
 "mealPrep": false,
@@ -51724,7 +51929,7 @@
 "page_minutes": null,
 "platform": "tiktok",
 "recipeSourceUrl": null,
-"recipe_from": "caption",
+"recipe_from": "video",
 "status": "ok",
 "steps": [],
 "summary": "Moist, fluffy & toddler approved Perfect healthy-ish treat for the whole family! -2bananas -1cup peanut butter -2 eggs -1/2cup dark chocolate chips",
@@ -51738,6 +51943,21 @@
 "time_basis": "",
 "title": "This Banana Peanut Butter Cake is a game changer",
 "url": "https://www.tiktok.com/@soniamazri/video/7554500906570485005",
+"video": {
+"checked_at": "2026-10-24T14:50:20+00:00",
+"ingredients": [
+"banana",
+"peanut butter"
+],
+"kind": "video-partial",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7554850335597120823": {
@@ -51860,6 +52080,18 @@
 "time_basis": "",
 "title": "Let’s make lunch for my 1 year old",
 "url": "https://www.tiktok.com/@soniamazri/video/7556367532119133454",
+"video": {
+"checked_at": "2026-10-24T14:50:17+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7556686620037008672": {
@@ -51871,10 +52103,15 @@
 "color": "#9d745d",
 "creator": "toddler.snack.therapy",
 "date": "2025-10-02",
-"extraction": "none",
+"extraction": "video",
 "fetched_at": "2026-10-15T02:47:02+00:00",
 "id": "tt-7556686620037008672",
-"ingredients": [],
+"ingredients": [
+"lentils",
+"pumpkin puree",
+"yogurt",
+"oat flour"
+],
 "kind": "creator",
 "links": [],
 "mealPrep": false,
@@ -51883,11 +52120,14 @@
 "notes": [],
 "page_minutes": null,
 "platform": "tiktok",
+"recipePage": "r/tt-7556686620037008672.html",
 "recipeSourceUrl": null,
-"recipe_from": "caption",
+"recipe_from": "video",
 "since": "2025-01-01",
 "status": "ok",
-"steps": [],
+"steps": [
+"Did you know if you blend soaked lentils, pumpkin puree, yogurt, a few basics and oat flour, shape them into mini pumpkin bagels, bake for 20 minutes, and boom, you're sneaking in protein fiber and veggies in one bite."
+],
 "strict_food": true,
 "summary": "Do not forget to save this recipe for Halloween week & share with another mama who needs healthy snack inspo. @bella.healthytinytummies These Halloween pumpkin bagels are fun , nutritious, and picky-eater friendly.",
 "tags": [
@@ -51901,6 +52141,25 @@
 "time_basis": "says 20 min",
 "title": "These Halloween pumpkin bagels are fun , nutritious, and picky-eater friendly",
 "url": "https://www.tiktok.com/@toddler.snack.therapy/video/7556686620037008672",
+"video": {
+"checked_at": "2026-10-24T14:50:13+00:00",
+"ingredients": [
+"lentils",
+"pumpkin puree",
+"yogurt",
+"oat flour"
+],
+"kind": "video",
+"narration": "Did you know if you blend soaked lentils, pumpkin puree, yogurt, a few basics and oat flour, shape them into mini pumpkin bagels, bake for 20 minutes, and boom, you're sneaking in protein fiber and veggies in one bite. Healthy, fun Halloween bagels toddlers bag four.",
+"onscreen": [],
+"steps": [
+"Did you know if you blend soaked lentils, pumpkin puree, yogurt, a few basics and oat flour, shape them into mini pumpkin bagels, bake for 20 minutes, and boom, you're sneaking in protein fiber and veggies in one bite."
+],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7556951965863775521": {
@@ -51988,6 +52247,18 @@
 "time_basis": "",
 "title": "Lunch made simple for my 1 year old busy little bee",
 "url": "https://www.tiktok.com/@soniamazri/video/7557363007559404814",
+"video": {
+"checked_at": "2026-10-24T14:50:05+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7557440881783999777": {
@@ -51999,10 +52270,13 @@
 "color": "#906961",
 "creator": "toddler.snack.therapy",
 "date": "2025-10-04",
-"extraction": "none",
+"extraction": "video",
 "fetched_at": "2026-10-15T02:47:00+00:00",
 "id": "tt-7557440881783999777",
-"ingredients": [],
+"ingredients": [
+"greek yogurt",
+"pumpkin"
+],
 "kind": "creator",
 "links": [],
 "mealPrep": true,
@@ -52013,11 +52287,15 @@
 "notes": [],
 "page_minutes": null,
 "platform": "tiktok",
+"recipePage": "r/tt-7557440881783999777.html",
 "recipeSourceUrl": null,
-"recipe_from": "caption",
+"recipe_from": "video",
 "since": "2025-01-01",
 "status": "ok",
-"steps": [],
+"steps": [
+"Did you know if you make pumpkin puree, applesauce, blended dates, and a few basics, then bake at 180 degrees Celsius, you get the ultimate healthy Halloween muffin.",
+"Add a swirl of Greek yogurt and decorate with fighters, which had poor monster eye, boogie, fun, and perfect for busy mums who want Halloween snacks without the sugar crap."
+],
 "strict_food": true,
 "summary": "Do not forget to follow me for more toddler-friendly snacks recipes Looking for a fun Halloween snack that’s both spooky and healthy? These muffins are naturally sweetened with dates, packed with pumpkin and oats, and de…",
 "tags": [
@@ -52032,6 +52310,24 @@
 "time_basis": "says 20 min",
 "title": "Healthy Halloween Pumpkin Muffins for Toddlers",
 "url": "https://www.tiktok.com/@toddler.snack.therapy/video/7557440881783999777",
+"video": {
+"checked_at": "2026-10-24T14:50:09+00:00",
+"ingredients": [
+"greek yogurt",
+"pumpkin"
+],
+"kind": "video",
+"narration": "Did you know if you make pumpkin puree, applesauce, blended dates, and a few basics, then bake at 180 degrees Celsius, you get the ultimate healthy Halloween muffin. Fiber rich, naturally sweet, and totally toddler approved. Add a swirl of Greek yogurt and decorate with fighters, which had poor monster eye, boogie, fun, and perfect for busy mums who want Halloween snacks without the sugar crap. Do not forget to follow me for more toddler friendly recipes.",
+"onscreen": [],
+"steps": [
+"Did you know if you make pumpkin puree, applesauce, blended dates, and a few basics, then bake at 180 degrees Celsius, you get the ultimate healthy Halloween muffin.",
+"Add a swirl of Greek yogurt and decorate with fighters, which had poor monster eye, boogie, fun, and perfect for busy mums who want Halloween snacks without the sugar crap."
+],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7558913509103291681": {
@@ -52043,10 +52339,13 @@
 "color": "#a3866e",
 "creator": "toddler.snack.therapy",
 "date": "2025-10-08",
-"extraction": "none",
+"extraction": "video-partial",
 "fetched_at": "2026-10-15T02:46:59+00:00",
 "id": "tt-7558913509103291681",
-"ingredients": [],
+"ingredients": [
+"apple",
+"pear"
+],
 "kind": "creator",
 "links": [],
 "mealPrep": false,
@@ -52056,7 +52355,7 @@
 "page_minutes": null,
 "platform": "tiktok",
 "recipeSourceUrl": null,
-"recipe_from": "caption",
+"recipe_from": "video",
 "since": "2025-01-01",
 "status": "ok",
 "steps": [],
@@ -52074,6 +52373,21 @@
 "time_basis": "says 25 min",
 "title": "4-ingredient Apple & Pear Slice This is why I stopped buying packaged toddler…",
 "url": "https://www.tiktok.com/@toddler.snack.therapy/video/7558913509103291681",
+"video": {
+"checked_at": "2026-10-24T14:50:01+00:00",
+"ingredients": [
+"apple",
+"pear"
+],
+"kind": "video-partial",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7559276438814297377": {
@@ -52085,10 +52399,13 @@
 "color": "#998f7c",
 "creator": "toddler.snack.therapy",
 "date": "2025-10-09",
-"extraction": "none",
+"extraction": "video-partial",
 "fetched_at": "2026-10-15T02:46:59+00:00",
 "id": "tt-7559276438814297377",
-"ingredients": [],
+"ingredients": [
+"pear",
+"crackers"
+],
 "kind": "creator",
 "links": [],
 "mealPrep": false,
@@ -52098,7 +52415,7 @@
 "page_minutes": null,
 "platform": "tiktok",
 "recipeSourceUrl": null,
-"recipe_from": "caption",
+"recipe_from": "video",
 "since": "2025-01-01",
 "status": "ok",
 "steps": [],
@@ -52115,6 +52432,21 @@
 "time_basis": "says 18 min",
 "title": "Homemade Pear & Spelt Crackers with 6 ingredients, no junk",
 "url": "https://www.tiktok.com/@toddler.snack.therapy/video/7559276438814297377",
+"video": {
+"checked_at": "2026-10-24T14:49:58+00:00",
+"ingredients": [
+"pear",
+"crackers"
+],
+"kind": "video-partial",
+"narration": "Thank you for watching!",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7559673875114528033": {
@@ -52155,6 +52487,18 @@
 "time_basis": "",
 "title": "Do not forget to tap FOLLOW Snack time chaos with 2 toddlers",
 "url": "https://www.tiktok.com/@toddler.snack.therapy/video/7559673875114528033",
+"video": {
+"checked_at": "2026-10-24T14:49:45+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7559682176229313847": {
@@ -52175,6 +52519,12 @@
 "mealPrep": false,
 "mealPrep_basis": [],
 "minutes": null,
+"mirror": {
+"caption": "Toddler approved 🍕✨ Healthy Zucchini Pizza recipe that even picky eaters LOVE! 👶💚 #toddlermeals #healthypizza #easyrecipes #momlife #kidfriendlyfood   ",
+"id": "tt-7554129068510252301",
+"platform": "tiktok",
+"url": "https://www.tiktok.com/@soniamazri/video/7554129068510252301"
+},
 "notes": [],
 "page_minutes": null,
 "platform": "tiktok",
@@ -52187,7 +52537,8 @@
 "breakfast",
 "lunch",
 "dinner",
-"snack"
+"snack",
+"veggies"
 ],
 "thumb": "thumbs/tt-7559682176229313847.webp",
 "thumb_h": 711,
@@ -52196,6 +52547,18 @@
 "time_basis": "",
 "title": "Here is everything my 1 year old ate today (Breakfast, Lunch, Snack and Dinner)",
 "url": "https://www.tiktok.com/@soniamazri/video/7559682176229313847",
+"video": {
+"checked_at": "2026-10-24T14:49:51+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "Bye with my little tight eye, tiny as a firefly, How careful that we picked up last July, Down deep inside your pocket, we almost forgot it, Does it ever miss with glows sometimes?",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7560074300602977591": {
@@ -52215,7 +52578,7 @@
 "links": [],
 "mealPrep": false,
 "mealPrep_basis": [],
-"minutes": null,
+"minutes": 10,
 "notes": [],
 "page_minutes": null,
 "platform": "tiktok",
@@ -52231,10 +52594,22 @@
 "thumb": "thumbs/tt-7560074300602977591.webp",
 "thumb_h": 711,
 "thumb_w": 400,
-"time": "unknown",
-"time_basis": "",
+"time": "quick",
+"time_basis": "says 10 min",
 "title": "My kids think it’s pasta night",
 "url": "https://www.tiktok.com/@soniamazri/video/7560074300602977591",
+"video": {
+"checked_at": "2026-10-24T14:49:41+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "My secret to getting veggies in without complaint is in this jar. Alright moms, let's make my go-to veggie pasta sauce. Sauce in some onion, carrot, broccoli and celery, all the good stuff they'd normally say no to. Then pour in one can of organic tomato sauce and fill the same can with water and chicken stock. Season it up with salt, black pepper, onion powder, garlic powder, paprika and some herbs. You can be creative and add whatever seasonings you like. I also add some chickpea for extra protein, totally optional but so good. Let it cook for 5-10 minutes until the veggies soften, then let it cool down completely. Remove celery and blend it smooth. And that's it, a super creamy sauce that's perfect for pasta, rice or even pizza if you like.",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7560716256979062048": {
@@ -52277,6 +52652,18 @@
 "time_basis": "says 20 min",
 "title": "Why I no longer buy store-bought snacks for my toddler",
 "url": "https://www.tiktok.com/@toddler.snack.therapy/video/7560716256979062048",
+"video": {
+"checked_at": "2026-10-24T14:49:35+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7561131627070426401": {
@@ -52321,6 +52708,18 @@
 "time_basis": "says 25 min",
 "title": "Do not forget to SAVE for your next calm toddler snack",
 "url": "https://www.tiktok.com/@toddler.snack.therapy/video/7561131627070426401",
+"video": {
+"checked_at": "2026-10-24T14:49:30+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "Thank you for watching!",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7561506160788999456": {
@@ -52332,10 +52731,14 @@
 "color": "#937f78",
 "creator": "toddler.snack.therapy",
 "date": "2025-10-15",
-"extraction": "none",
+"extraction": "video-partial",
 "fetched_at": "2026-10-15T02:46:57+00:00",
 "id": "tt-7561506160788999456",
-"ingredients": [],
+"ingredients": [
+"1 egg",
+"flour",
+"1 tbsp honey"
+],
 "kind": "creator",
 "links": [],
 "mealPrep": false,
@@ -52345,7 +52748,7 @@
 "page_minutes": null,
 "platform": "tiktok",
 "recipeSourceUrl": null,
-"recipe_from": "caption",
+"recipe_from": "video",
 "since": "2025-01-01",
 "status": "ok",
 "steps": [],
@@ -52361,6 +52764,22 @@
 "time_basis": "",
 "title": "1 egg 1/2 cup (60g) spelt flour 1 tbsp honey not for under one year old baby…",
 "url": "https://www.tiktok.com/@toddler.snack.therapy/video/7561506160788999456",
+"video": {
+"checked_at": "2026-10-24T14:49:17+00:00",
+"ingredients": [
+"1 egg",
+"flour",
+"1 tbsp honey"
+],
+"kind": "video-partial",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7561554086600936717": {
@@ -52399,6 +52818,18 @@
 "time_basis": "",
 "title": "The one who smiles at breakfast, dances in the kitchen, and takes a breath…",
 "url": "https://www.tiktok.com/@soniamazri/video/7561554086600936717",
+"video": {
+"checked_at": "2026-10-24T14:49:24+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7561873812829097249": {
@@ -52443,6 +52874,18 @@
 "time_basis": "says 45 min",
 "title": "I wish I never gave toast full of labels",
 "url": "https://www.tiktok.com/@toddler.snack.therapy/video/7561873812829097249",
+"video": {
+"checked_at": "2026-10-24T14:49:10+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7561924395611081997": {
@@ -52479,6 +52922,18 @@
 "time_basis": "",
 "title": "Everything my 1-year-old ate today",
 "url": "https://www.tiktok.com/@soniamazri/video/7561924395611081997",
+"video": {
+"checked_at": "2026-10-24T14:49:13+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7562254663966346529": {
@@ -52523,6 +52978,18 @@
 "time_basis": "says 18 min",
 "title": "Do not forget to SAVE for calm, stress-free snack Share with a mama who needs…",
 "url": "https://www.tiktok.com/@toddler.snack.therapy/video/7562254663966346529",
+"video": {
+"checked_at": "2026-10-24T14:48:59+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7562306498055900471": {
@@ -52561,6 +53028,18 @@
 "time_basis": "",
 "title": "Planning my baby’s meals for the week so I’m not scrambling every day",
 "url": "https://www.tiktok.com/@soniamazri/video/7562306498055900471",
+"video": {
+"checked_at": "2026-10-24T14:49:07+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "Let me show you how easy it is to plan your baby's weekly meals. Planning baby or toddler meals doesn't have to be complicated. I actually keep it really simple. Every Sunday I go over this little table I've created where I list all the food groups the baby need every day, like dairy, proteins, grains, healthy fats, etc. Then I fill in ingredients for each one for each day just to make sure I'm covering all the nutrition throughout the week. I start with whatever I have already at home and add the rest to my grocery shopping list. After that I either look for new recipes I want to try or stick to the ones I have or just keep it simple and steam those vegetables. Honestly babies don't need fancy meals unless that's what you want to do. Now when I make my baby's meals I don't force him to eat everything I just make sure I offer a good variety. This has made my week so much easier and it takes away all the stress of figuring out what to cook every single day. Trust me, plan by ingredients not by recipes it changes everything.",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7562543289224760590": {
@@ -52599,6 +53078,18 @@
 "time_basis": "",
 "title": "You want s’mores and you have an air fryer",
 "url": "https://www.tiktok.com/@soniamazri/video/7562543289224760590",
+"video": {
+"checked_at": "2026-10-24T14:48:51+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "I love all of you",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7562629954903608609": {
@@ -52606,7 +53097,7 @@
 "account_name": "Bolla.toddler.snack.therapy",
 "account_url": "https://www.tiktok.com/@toddler.snack.therapy",
 "caption": "💌 SHARE with a mama who needs calm snack moments 💛 Toddler snack struggles? You’re not alone!🍎 Many moms make these 3 mistakes: dry snacks, too sweet treats, or constant snacking. All leading to tantrums, fussiness, and picky eating. ✅Follow my tips for calm, nutritious, toddler-approved snacks that make snack time peaceful and enjoyable. #ToddlerSnacks #HealthyToddler #MomLife #SnackTime  #NovoDoveCabelos",
-"category": "sweet",
+"category": "finger",
 "color": "#c6b8af",
 "creator": "toddler.snack.therapy",
 "date": "2025-10-18",
@@ -52631,7 +53122,8 @@
 "summary": "SHARE with a mama who needs calm snack moments Toddler snack struggles? You’re not alone!",
 "tags": [
 "snack",
-"sweet"
+"sweet",
+"finger food"
 ],
 "thumb": "thumbs/tt-7562629954903608609.webp",
 "thumb_h": 501,
@@ -52640,6 +53132,18 @@
 "time_basis": "",
 "title": "Toddler snack struggles?",
 "url": "https://www.tiktok.com/@toddler.snack.therapy/video/7562629954903608609",
+"video": {
+"checked_at": "2026-10-24T14:48:54+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "Baby girl, you are so pretty, pretty, you are so pretty, pretty I just touch you, you touch me, you are so The only reason that I can't hold on to life The only reason that this dress is can't hide Is cause I thought that you would like it And I'm only comfortable inside Because I want you to like it The only reason that I can't hold on to life",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7563741620919684384": {
@@ -52678,6 +53182,18 @@
 "time_basis": "",
 "title": "This is your sign to bake viral pumpkin stuffed buns",
 "url": "https://www.tiktok.com/@toddler.snack.therapy/video/7563741620919684384",
+"video": {
+"checked_at": "2026-10-24T14:48:47+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7564101990377196832": {
@@ -65946,6 +66462,323 @@
 },
 "yield": null
 },
+"tt-7697827334098799885": {
+"account": "mountain_mothering",
+"account_name": "Mountain Mothering",
+"account_url": "https://www.tiktok.com/@mountain_mothering",
+"caption": "Full recipe here! Always in caption :) Roasted Veggie & Bacon Pasta Salad Ingredients •  1 box (16 oz) pasta •  3 whole bell peppers, chopped •  1 large red onion, chopped •  1–2 cups halved Brussels sprouts •  Olive oil, paprika, garlic powder, salt, and pepper •  3–4 slices bacon, chopped Cook the pasta according to package directions; drain and cool. Toss the peppers, onion, and Brussels sprouts with olive oil, paprika, garlic powder, salt, and pepper, top with the chopped bacon, and roast at 350°F for about 30 minutes until tender. Combine the cooled pasta with the roasted veggies and bacon, then toss with the pumpkin vinaigrette. Add shaved Parmesan (about a cup)  Storage Keeps well in the fridge for 3–4 days in an airtight container—great for meal prep. Pumpkin Vinaigrette Ingredients •  ½ cup pumpkin puree •  ½ cup olive oil •  ¼ cup apple cider vinegar •  3 tablespoons maple syrup •  1 tablespoon grainy mustard •  1 teaspoon thyme •  1–2 teaspoons chili pepper flakes •  1–2 teaspoons salt and pepper Wisk pumpkin puree, oil and vinegar, maple syrup, mustard, thyme, chili flakes, salt, and pepper until smooth. Taste and adjust seasoning; thin with a splash of water if needed.#momof3 #healthycooking #dinnerideas #recipesoftiktok ",
+"category": "pasta",
+"color": "#b49e83",
+"creator": "mountain_mothering",
+"date": "2026-10-18",
+"extraction": "caption",
+"fetched_at": "2026-10-24T14:46:50+00:00",
+"id": "tt-7697827334098799885",
+"ingredients": [
+"1 box (16 oz) pasta",
+"3 whole bell peppers, chopped",
+"1 large red onion, chopped",
+"1–2 cups halved Brussels sprouts",
+"Olive oil, paprika, garlic powder, salt, and pepper",
+"3–4 slices bacon, chopped Cook the pasta according to package"
+],
+"kind": "creator",
+"links": [],
+"mealPrep": true,
+"mealPrep_basis": [
+"meal prep",
+"storage"
+],
+"minutes": 30,
+"notes": [],
+"page_minutes": null,
+"platform": "tiktok",
+"recipePage": "r/tt-7697827334098799885.html",
+"recipeSourceUrl": null,
+"recipe_from": "caption",
+"status": "ok",
+"steps": [
+"; drain and cool.",
+"Toss the peppers, onion, and Brussels sprouts with olive oil, paprika, garlic powder, salt, and pepper, top with the chopped bacon, and roast at 350°F for about 30 minutes until tender.",
+"Combine the cooled pasta with the roasted veggies and bacon, then toss with the pumpkin vinaigrette.",
+"Add shaved Parmesan (about a cup) Storage Keeps well in the fridge for 3–4 days in an airtight container—great for meal prep.",
+"Pumpkin Vinaigrette Ingredients • ½ cup pumpkin puree • ½ cup olive oil • ¼ cup apple cider vinegar • 3 tablespoons maple syrup • 1 tablespoon grainy mustard • 1 teaspoon thyme • 1–2 teaspoons chili pepper flakes • 1–2 teaspoons salt and pepper Wisk pumpkin puree, oil and vinegar, maple syrup, mustard, thyme, chili flakes, salt, and pepper until smooth.",
+"Taste and adjust seasoning; thin with a splash of water if needed."
+],
+"summary": "Full recipe here! Always in caption :) Roasted Veggie & Bacon Pasta Salad Ingredients • 1 box (16 oz) pasta • 3 whole bell peppers, chopped • 1 large red onion, chopped • 1–2 cups halved Brussels sprouts • Olive oil, pap…",
+"tags": [
+"pasta & noodles",
+"veggies"
+],
+"thumb": "thumbs/tt-7697827334098799885.webp",
+"thumb_h": 711,
+"thumb_w": 400,
+"time": "long",
+"time_basis": "says 30 min",
+"title": "Always in caption :) Roasted Veggie & Bacon Pasta Salad",
+"url": "https://www.tiktok.com/@mountain_mothering/video/7697827334098799885",
+"yield": null
+},
+"tt-7698421552458566942": {
+"account": "mini.tiger.zen",
+"account_name": "mini.tiger.zen",
+"account_url": "https://www.tiktok.com/@mini.tiger.zen",
+"caption": "#ad | Starting school has been a big adjustment for both of us.  Some days, comfort looks like leftover rice from home and an after-school snack she thinks is a tropical punch treat.  Zero Sugar Children’s DHA Gummy Chews from @NORDIC NATURALS provide 600 mg of total omega-3s (with 355 mg of DHA) to support how kids think, learn, and grow.*  They’re zero sugar and individually wrapped— two things I appreciate as a parent.  Discover the Power of Omega-3 at nordic.com, or tap the link in my bio to shop.  #powerofomega3 #nordicnaturals #NYCMom #lunchboxideas Lunchbox for kids, School lunch, toddler meals, easy lunch for kids *These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure or prevent any disease.",
+"category": "sweet",
+"color": "#9d8378",
+"creator": "mini.tiger.zen",
+"date": "2026-10-19",
+"extraction": "none",
+"fetched_at": "2026-10-24T14:46:44+00:00",
+"id": "tt-7698421552458566942",
+"ingredients": [],
+"kind": "creator",
+"links": [],
+"mealPrep": true,
+"mealPrep_basis": [
+"lunchbox"
+],
+"minutes": null,
+"notes": [],
+"page_minutes": null,
+"platform": "tiktok",
+"recipeSourceUrl": null,
+"recipe_from": "caption",
+"status": "ok",
+"steps": [],
+"summary": "| Starting school has been a big adjustment for both of us. Some days, comfort looks like leftover rice from home and an after-school snack she thinks is a tropical punch treat.",
+"tags": [
+"breakfast",
+"lunch",
+"snack"
+],
+"thumb": "thumbs/tt-7698421552458566942.webp",
+"thumb_h": 711,
+"thumb_w": 400,
+"time": "unknown",
+"time_basis": "",
+"title": "Some days, comfort looks like leftover rice from home and an after-school…",
+"url": "https://www.tiktok.com/@mini.tiger.zen/video/7698421552458566942",
+"video": {
+"checked_at": "2026-10-24T14:48:39+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "I really love that New York City public schools offer breakfast and lunch for my four-year-old, but some days I pack her lunch so that she feels more comfortable and connected. Nothing fancy, just leftover rice with ground beef, extra protein, and a few veggies I know she loves. And when I pick her up, I give her one zero sugar children's DHE gummichew thanks to Nordic Naturals. It's a fun, reliable source of total omega-3s to support her brain development and learning. She thinks it's a tropical punch treat and I appreciate that it's zero sugar and travel friendly.",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
+"yield": null
+},
+"tt-7698562708655967501": {
+"account": "mountain_mothering",
+"account_name": "Mountain Mothering",
+"account_url": "https://www.tiktok.com/@mountain_mothering",
+"caption": "Full recipe! It’s so incredibly easy and quick.  •  300 g ground beef (or half beef / half lamb) •  1 onion, chopped •  3 garlic clove, minced •  150 g tomato purée or crushed tomatoes •  3 tsp tomato concentrate (paste) •  1 pinch of nutmeg (optional) • 3 tablespoons of each oregano and paprika  Fresh parsley 🌿 added before finishing  For the béchamel: •   3 tablespoons butter •  2.5 tablespoons flour •  2 cups of milk a dash of nutmeg, garlic powder and s&p (optional but recommended)  Layer and bake at 350 for 30 minutes!  This used 3 large russet potatoes, 2 cups of shredded cheese.  Cut the potatoes into slices about 0.5 cm thick. Spread them on a baking sheet, brush with olive oil and bake at 350 for 20-30 minutes until golden brown.  Layer and bake at 350 for 30 minutes! #momof3 #healthycooking #dinnerideas ",
+"category": "meal",
+"color": "#b1a394",
+"creator": "mountain_mothering",
+"date": "2026-10-20",
+"extraction": "caption",
+"fetched_at": "2026-10-24T14:46:49+00:00",
+"id": "tt-7698562708655967501",
+"ingredients": [
+"300 g ground beef (or half beef / half lamb)",
+"1 onion, chopped",
+"3 garlic clove, minced",
+"150 g tomato purée or crushed tomatoes",
+"3 tsp tomato concentrate (paste)",
+"1 pinch of nutmeg (optional)",
+"3 tablespoons of each oregano and paprika Fresh parsley added before finishing For the béchamel",
+"3 tablespoons butter",
+"2.5 tablespoons flour"
+],
+"kind": "creator",
+"links": [],
+"mealPrep": false,
+"mealPrep_basis": [],
+"minutes": 30,
+"notes": [],
+"page_minutes": null,
+"platform": "tiktok",
+"recipePage": "r/tt-7698562708655967501.html",
+"recipeSourceUrl": null,
+"recipe_from": "caption",
+"status": "ok",
+"steps": [
+"Cut the potatoes into slices about 0.5 cm thick.",
+"Spread them on a baking sheet, brush with olive oil and bake at 350 for 20-30 minutes until golden brown.",
+"Layer and bake at 350 for 30 minutes!"
+],
+"summary": "Full recipe! It’s so incredibly easy and quick.",
+"tags": [
+"dip & spread"
+],
+"thumb": "thumbs/tt-7698562708655967501.webp",
+"thumb_h": 711,
+"thumb_w": 400,
+"time": "long",
+"time_basis": "says 30 min",
+"title": "It’s so incredibly easy and quick",
+"url": "https://www.tiktok.com/@mountain_mothering/video/7698562708655967501",
+"yield": null
+},
+"tt-7699341759779736863": {
+"account": "mini.tiger.zen",
+"account_name": "mini.tiger.zen",
+"account_url": "https://www.tiktok.com/@mini.tiger.zen",
+"caption": "crunchy, guilt-free late night snack ✌🏼  all you need is rice paper, and dried seaweed (make sure you get the korean ones, they are the BEST) for these crunchy chips 💚  #nycmom #koreanmom #koreansnacks #healthysnackideas #toddlersnacks momlife easy recipes",
+"category": "sweet",
+"color": "#8f7c6c",
+"creator": "mini.tiger.zen",
+"date": "2026-10-22",
+"extraction": "none",
+"fetched_at": "2026-10-24T14:46:43+00:00",
+"id": "tt-7699341759779736863",
+"ingredients": [],
+"kind": "creator",
+"links": [],
+"mealPrep": false,
+"mealPrep_basis": [],
+"merged_into": "tt-7699351466191998238",
+"minutes": null,
+"notes": [],
+"page_minutes": null,
+"platform": "tiktok",
+"recipeSourceUrl": null,
+"recipe_from": "caption",
+"status": "merged",
+"steps": [],
+"summary": "crunchy, guilt-free late night snack all you need is rice paper, and dried seaweed (make sure you get the korean ones, they are the BEST) for these crunchy chips momlife easy recipes",
+"tags": [
+"snack"
+],
+"thumb": "thumbs/tt-7699341759779736863.webp",
+"thumb_h": 711,
+"thumb_w": 400,
+"time": "unknown",
+"time_basis": "",
+"title": "Crunchy, guilt-free late night snack all you need is rice paper, and dried…",
+"url": "https://www.tiktok.com/@mini.tiger.zen/video/7699341759779736863",
+"video": {
+"checked_at": "2026-10-24T14:48:31+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
+"yield": null
+},
+"tt-7699346863043955981": {
+"account": "busymamaeasybites",
+"account_name": "Busymamaeasybites",
+"account_url": "https://www.tiktok.com/@busymamaeasybites",
+"caption": "#MyGerberPartner 🍂🎃 Fall adventures are even sweeter with my little girl! We spent the day exploring a 500-acre farm, picking out pumpkins, enjoying tractor rides, and making the sweetest fall memories! 🧡 And if you’re a toddler mom, you know snacks are a MUST! 😂 We packed our @Gerber fall-inspired Puffs to keep our little adventurer happy and fueled for all the fun. Her favorite? Sweet Potato Puffs! 🍠 From pumpkin patches to snack breaks, these are the little moments I never want to forget. 🥹🤎 What’s your favorite fall activity to do with your little ones? 🍁 #Gerber #FallFamilyFun #ToddlerMom #FallActivities  ",
+"category": "sweet",
+"color": "#746459",
+"creator": "busymamaeasybites",
+"date": "2026-10-22",
+"extraction": "none",
+"fetched_at": "2026-10-24T14:46:36+00:00",
+"id": "tt-7699346863043955981",
+"ingredients": [],
+"kind": "creator",
+"links": [],
+"mealPrep": false,
+"mealPrep_basis": [],
+"minutes": null,
+"notes": [],
+"page_minutes": null,
+"platform": "tiktok",
+"recipeSourceUrl": null,
+"recipe_from": "caption",
+"status": "ok",
+"steps": [],
+"summary": "Fall adventures are even sweeter with my little girl! We spent the day exploring a 500-acre farm, picking out pumpkins, enjoying tractor rides, and making the sweetest fall memories!",
+"tags": [
+"lunch",
+"snack",
+"sweet"
+],
+"thumb": "thumbs/tt-7699346863043955981.webp",
+"thumb_h": 572,
+"thumb_w": 400,
+"time": "unknown",
+"time_basis": "",
+"title": "And if you’re a toddler mom, you know snacks are a MUST",
+"url": "https://www.tiktok.com/@busymamaeasybites/video/7699346863043955981",
+"video": {
+"checked_at": "2026-10-24T14:48:24+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "Come spend the fall day with us at a 500 acre farm and partnering with Gerber So of course we brought along their fall inspired puffs for our adventure We started by checking out all the cute pumpkins and fall decorations and with the toddler snack breaks are a must She was loving her sweet potato puffs Next we hopped on a tractor ride and had way too much fun getting pulled around through the apple orchard After all that excitement we grabbed some lunch and explored the pumpkin patch And apparently I wasn't refilling her puffs fast enough We wrapped up with a little picnic more snacks and one happy toddler",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
+"yield": null
+},
+"tt-7699351466191998238": {
+"account": "mini.tiger.zen",
+"account_name": "mini.tiger.zen",
+"account_url": "https://www.tiktok.com/@mini.tiger.zen",
+"caption": "crunchy, guilt-free late night snack ✌🏼  all you need is rice paper, and dried seaweed (make sure you get the korean ones, they are the BEST) for these crunchy chips 💚  #nycmom #koreanmom #koreansnacks #healthysnackideas #toddlersnacks momlife easy recipes",
+"category": "sweet",
+"color": "#8f7c6c",
+"creator": "mini.tiger.zen",
+"date": "2026-10-22",
+"extraction": "none",
+"fetched_at": "2026-10-24T14:46:43+00:00",
+"id": "tt-7699351466191998238",
+"ingredients": [],
+"kind": "creator",
+"links": [],
+"mealPrep": false,
+"mealPrep_basis": [],
+"minutes": null,
+"notes": [],
+"page_minutes": null,
+"platform": "tiktok",
+"recipeSourceUrl": null,
+"recipe_from": "caption",
+"status": "ok",
+"steps": [],
+"summary": "crunchy, guilt-free late night snack all you need is rice paper, and dried seaweed (make sure you get the korean ones, they are the BEST) for these crunchy chips momlife easy recipes",
+"tags": [
+"snack"
+],
+"thumb": "thumbs/tt-7699351466191998238.webp",
+"thumb_h": 711,
+"thumb_w": 400,
+"time": "unknown",
+"time_basis": "",
+"title": "Crunchy, guilt-free late night snack all you need is rice paper, and dried…",
+"url": "https://www.tiktok.com/@mini.tiger.zen/video/7699351466191998238",
+"video": {
+"checked_at": "2026-10-24T14:48:27+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
+"yield": null
+},
 "wee-apple-sausage-stuffing-bites": {
 "account": "",
 "account_name": "Weelicious",
@@ -68914,6 +69747,53 @@
 "url": "https://www.youtube.com/shorts/Dk2-q9T97so",
 "yield": null
 },
+"yt-E-6FrK4BxL4": {
+"account": "Mountain_Mothering",
+"account_name": "Mountain Mothering ",
+"account_url": "https://www.youtube.com/channel/UCq16tPgNuGoaISwMmnZOrBg",
+"caption": "A cracker recipe so versatile and easy! #momof3 #busyfamilies\nFull recipes always in caption! Follow for more :) \n\nRecipe: \n\n2 cups of flour \n1/2 teaspoon baking powder \n1 1/4 cup of ripe avocado \n4 tablespoons of melted butter \n1/2 cup grated cheese (I use raw mild cheddar) \n\nBake at 375 for 15 minutes \n\nStore in air tight container for 4-5 days. Ours never last longer than 24 hours 😋#healthysnacks #toddlerrecipe #momlife #outdoorkids #snackprep",
+"category": "meal",
+"color": "#52453b",
+"creator": "mountain_mothering",
+"date": "2026-10-20",
+"extraction": "caption",
+"fetched_at": "2026-10-24T14:47:32+00:00",
+"id": "yt-E-6FrK4BxL4",
+"ingredients": [
+"2 cups of flour",
+"1/2 teaspoon baking powder",
+"1 1/4 cup of ripe avocado",
+"4 tablespoons of melted butter",
+"1/2 cup grated cheese (I use raw mild cheddar)"
+],
+"kind": "creator",
+"links": [],
+"mealPrep": false,
+"mealPrep_basis": [],
+"minutes": 1440,
+"notes": [],
+"page_minutes": null,
+"platform": "youtube",
+"recipePage": "r/yt-E-6FrK4BxL4.html",
+"recipeSourceUrl": null,
+"recipe_from": "caption",
+"status": "ok",
+"steps": [
+"Bake at 375 for 15 minutes"
+],
+"summary": "Full recipes always in caption! Follow for more :)",
+"tags": [
+"veggies"
+],
+"thumb": "thumbs/yt-E-6FrK4BxL4.webp",
+"thumb_h": 225,
+"thumb_w": 400,
+"time": "long",
+"time_basis": "says 1440 min",
+"title": "A cracker recipe so versatile and easy",
+"url": "https://www.youtube.com/shorts/E-6FrK4BxL4",
+"yield": null
+},
 "yt-Ed3zV_xeZO4": {
 "account": "thepickyeater",
 "account_name": "Anjali Shah",
@@ -69218,6 +70098,50 @@
 "time_basis": "quick",
 "title": "A quick mom lunch idea for you",
 "url": "https://www.youtube.com/shorts/Fgp7oYbFLWU",
+"yield": null
+},
+"yt-G39xaHish9o": {
+"account": "Mountain_Mothering",
+"account_name": "Mountain Mothering ",
+"account_url": "https://www.youtube.com/channel/UCq16tPgNuGoaISwMmnZOrBg",
+"caption": "Soup season! The more often you make soup the more often your kids will want it #parenthack #momof3\nThe apple in here makes it so unique and delicious and adds just a hint of sweetness. \n\n1 butternut squash \n2 apples\n1 large sweet onion \n1 head of garlic \n2-3 carrots \n\nRoast together for 45 minutes at 375. Take apple out after 30. \n\nAdd to stock pot and add 2-3 cups of bone broth, salt and pepper. Simmer for 15 minutes. Blend with immersion blender. \n\nTop with cream and maple syrup for a very lovely little addition!  #souprecipe #dinnerideas #lunch #toddlerrecipes",
+"category": "sweet",
+"color": "#75524a",
+"creator": "mountain_mothering",
+"date": "2026-10-18",
+"extraction": "none",
+"fetched_at": "2026-10-24T14:47:39+00:00",
+"id": "yt-G39xaHish9o",
+"ingredients": [],
+"kind": "creator",
+"links": [],
+"mealPrep": false,
+"mealPrep_basis": [],
+"minutes": 45,
+"notes": [],
+"page_minutes": null,
+"platform": "youtube",
+"recipeSourceUrl": null,
+"recipe_from": "caption",
+"status": "ok",
+"steps": [],
+"summary": "! The more often you make soup the more often your kids will want it The apple in here makes it so unique and delicious and adds just a hint of sweetness.",
+"tags": [
+"lunch",
+"sweet"
+],
+"thumb": "thumbs/yt-G39xaHish9o.webp",
+"thumb_h": 225,
+"thumb_w": 400,
+"time": "long",
+"time_basis": "says 45 min",
+"title": "Soup season",
+"url": "https://www.youtube.com/shorts/G39xaHish9o",
+"video": {
+"checked_at": "2026-10-24T14:48:41+00:00",
+"error": "ERROR: [youtube] G39xaHish9o: Requested format is not available. Use --list-formats for a list of available formats",
+"kind": "none"
+},
 "yield": null
 },
 "yt-GB0PdnwNPdc": {
@@ -72870,6 +73794,54 @@
 "time_basis": "",
 "title": "Sweet and Spicy Mexican Fruit Salad Recipe",
 "url": "https://www.youtube.com/shorts/hznw4sa8QB4",
+"video": {
+"checked_at": "2026-10-24T14:49:32+00:00",
+"error": "ERROR: [youtube] hznw4sa8QB4: Requested format is not available. Use --list-formats for a list of available formats",
+"kind": "none"
+},
+"yield": null
+},
+"yt-i2gZSEeaWDM": {
+"account": "Mountain_Mothering",
+"account_name": "Mountain Mothering ",
+"account_url": "https://www.youtube.com/channel/UCq16tPgNuGoaISwMmnZOrBg",
+"caption": "Sharing healthy, easy family recipes so you have more time with your kids!\nFull recipe here! I share content to help families have healthy happy memories together! Eat well and spend more time outdoors together! Follow for me ❤️\n\nFull recipe! It’s so incredibly easy and quick. \n\n•  300 g ground beef (or half beef / half lamb)\n•  1 onion, chopped\n•  3 garlic clove, minced\n•  150 g tomato purée or crushed tomatoes\n•  3 tsp tomato concentrate (paste)\n•  1 pinch of nutmeg (optional)\n• 3 tablespoons of each oregano and paprika \nFresh parsley 🌿 added before finishing \n\nFor the béchamel:\n•   3 tablespoons butter\n•  2.5 tablespoons flour\n•  2 cups of milk\na dash of nutmeg, garlic powder and s&p (optional but recommended) \n\n\nLayer and bake at 350 for 30 minutes! \n\nThis used 3 large russet potatoes, 2 cups of shredded cheese. \n\nCut the potatoes into slices about 0.5 cm thick.\nSpread them on a baking sheet, brush with olive oil and bake at 350 for 20-30 minutes until golden brown. \n\nLayer and bake at 350 for 30 minutes! #healthyrecipes #dinnerideas #easydinner #momof3 #familytime #outdoorkids",
+"category": "meal",
+"color": "#61544d",
+"creator": "mountain_mothering",
+"date": "2026-10-20",
+"extraction": "none",
+"fetched_at": "2026-10-24T14:47:34+00:00",
+"id": "yt-i2gZSEeaWDM",
+"ingredients": [],
+"kind": "creator",
+"links": [],
+"mealPrep": false,
+"mealPrep_basis": [],
+"minutes": 30,
+"notes": [],
+"page_minutes": null,
+"platform": "youtube",
+"recipeSourceUrl": null,
+"recipe_from": "caption",
+"status": "ok",
+"steps": [],
+"summary": "Full recipe here! I share content to help families have healthy happy memories together!",
+"tags": [
+"dip & spread"
+],
+"thumb": "thumbs/yt-i2gZSEeaWDM.webp",
+"thumb_h": 225,
+"thumb_w": 400,
+"time": "long",
+"time_basis": "says 30 min",
+"title": "Sharing healthy, easy family recipes so you have more time with your kids",
+"url": "https://www.youtube.com/shorts/i2gZSEeaWDM",
+"video": {
+"checked_at": "2026-10-24T14:48:33+00:00",
+"error": "ERROR: [youtube] i2gZSEeaWDM: Requested format is not available. Use --list-formats for a list of available formats",
+"kind": "none"
+},
 "yield": null
 },
 "yt-i6Vk-c48_eA": {
@@ -73534,6 +74506,51 @@
 "time_basis": "",
 "title": "Vegetarian Egg Roll In A Bowl Recipe",
 "url": "https://www.youtube.com/shorts/p8JX7fIyoGQ",
+"yield": null
+},
+"yt-pA4zrHB82jo": {
+"account": "Mountain_Mothering",
+"account_name": "Mountain Mothering ",
+"account_url": "https://www.youtube.com/channel/UCq16tPgNuGoaISwMmnZOrBg",
+"caption": "Fudgey Roasted Banana Granola Bars! Perfect for meal prep and busy families! #granolabar\nFull recipe here! Always in caption :) \n\nBanana hazelnut chocolate granola bars \n\nAdding a banana and roasting it with your granola makes the loveliest flavor! \n\n1 ripe banana\n3/4 cup of oats\n2.5 cups of chopped almonds and hazelnuts\n1 cups of pumpkin seed\n1/2 cup raisins or dried cranberries\n2/3 cup nut butter\n1/3 cup maple syrup\n1/2 cup coconut oil\nSalt to taste\n\nCombine all and bake at 350 degrees Fahrenheit for 20 minutes or until golden brown\nCover with chocolate and cut! That’s it!\n\nChocolate topping (optiona)l:\n1.5 cups of chocolate\n.5 cips coconut oil\n\nThese have a great shelf life if you don’t eat them all up right away :)  #momof3 #healthyrecipes #healthysnacks #hikingwithkids",
+"category": "meal",
+"color": "#805f46",
+"creator": "mountain_mothering",
+"date": "2026-10-18",
+"extraction": "none",
+"fetched_at": "2026-10-24T14:47:40+00:00",
+"id": "yt-pA4zrHB82jo",
+"ingredients": [],
+"kind": "creator",
+"links": [],
+"mealPrep": true,
+"mealPrep_basis": [
+"meal prep"
+],
+"minutes": 20,
+"notes": [],
+"page_minutes": null,
+"platform": "youtube",
+"recipeSourceUrl": null,
+"recipe_from": "caption",
+"status": "ok",
+"steps": [],
+"summary": "! Perfect for meal prep and busy families!",
+"tags": [
+"breakfast"
+],
+"thumb": "thumbs/yt-pA4zrHB82jo.webp",
+"thumb_h": 225,
+"thumb_w": 400,
+"time": "quick",
+"time_basis": "says 20 min",
+"title": "Fudgey Roasted Banana Granola Bars",
+"url": "https://www.youtube.com/shorts/pA4zrHB82jo",
+"video": {
+"checked_at": "2026-10-24T14:48:44+00:00",
+"error": "ERROR: [youtube] pA4zrHB82jo: Requested format is not available. Use --list-formats for a list of available formats",
+"kind": "none"
+},
 "yield": null
 },
 "yt-pBb72OKX6mY": {
@@ -75332,6 +76349,8 @@
 "tt-7696273867437804831": "not a food post",
 "tt-7696637815030910221": "not a food post",
 "tt-7697040623852997919": "not a food post",
+"tt-7697855139587083533": "not a food post",
+"tt-7699865173137427742": "not a food post",
 "yt--5sP4x2l_K0": "not a food post",
 "yt--63or12q_A0": "not a food post",
 "yt--W0uEvpIAUU": "not a food post",
@@ -75345,6 +76364,7 @@
 "yt-1Tgg0td1o1I": "not a food post",
 "yt-1n-JFL3TS24": "not a food post",
 "yt-29a5SjaVcbM": "not a food post",
+"yt-2Wyq2F2JoHI": "not a food post",
 "yt-2muEIrmTo-U": "not a food post",
 "yt-2qWTZ6VBLqI": "not a food post",
 "yt-4HelJixwbDQ": "not a food post",
@@ -75404,6 +76424,7 @@
 "yt-ND5jTiUeRcE": "not a food post",
 "yt-NGmy62BVL4k": "not a food post",
 "yt-OFR1qoaafL8": "not a food post",
+"yt-ORzfpBOkOq4": "not a food post",
 "yt-OjHPt1LvXz0": "not a food post",
 "yt-OreovNuLwtw": "not a food post",
 "yt-PH2P4GHZw50": "not a food post",
@@ -75445,6 +76466,7 @@
 "yt-Zbf_wcBVcGw": "not a food post",
 "yt-ZiNXdCww4rc": "not a food post",
 "yt-ZkpdbuzOTKI": "not a food post",
+"yt-_KWok2VFCgg": "not a food post",
 "yt-_Mqck9BwiW0": "not a food post",
 "yt-_Zm4lyAY2aM": "not a food post",
 "yt-_fot6b1wsT0": "not a food post",
@@ -75544,207 +76566,207 @@
 },
 "sources": {
 "instagram_profile https://www.instagram.com/babymealsfreezer/": {
-"checked_at": "2026-10-17T14:47:50+00:00",
+"checked_at": "2026-10-24T14:46:07+00:00",
 "status": "skipped",
 "why": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists"
 },
 "instagram_profile https://www.instagram.com/busymamaeasybites/": {
-"checked_at": "2026-10-17T14:47:50+00:00",
+"checked_at": "2026-10-24T14:46:07+00:00",
 "status": "skipped",
 "why": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists"
 },
 "instagram_profile https://www.instagram.com/kidfriendly.meals/": {
-"checked_at": "2026-10-17T14:47:50+00:00",
+"checked_at": "2026-10-24T14:46:07+00:00",
 "status": "skipped",
 "why": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists"
 },
 "instagram_profile https://www.instagram.com/mini.tiger.zen/": {
-"checked_at": "2026-10-17T14:47:50+00:00",
+"checked_at": "2026-10-24T14:46:07+00:00",
 "status": "skipped",
 "why": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists"
 },
 "instagram_profile https://www.instagram.com/mountain_mothering/": {
-"checked_at": "2026-10-17T14:47:50+00:00",
+"checked_at": "2026-10-24T14:46:07+00:00",
 "status": "skipped",
 "why": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists"
 },
 "instagram_profile https://www.instagram.com/soniamazri_/": {
-"checked_at": "2026-10-17T14:47:50+00:00",
+"checked_at": "2026-10-24T14:46:07+00:00",
 "status": "skipped",
 "why": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists"
 },
 "instagram_profile https://www.instagram.com/thepickyeater/": {
-"checked_at": "2026-10-17T14:47:50+00:00",
+"checked_at": "2026-10-24T14:46:07+00:00",
 "status": "skipped",
 "why": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists"
 },
 "instagram_profile https://www.instagram.com/toddler.snack.therapy/": {
-"checked_at": "2026-10-17T14:47:50+00:00",
+"checked_at": "2026-10-24T14:46:07+00:00",
 "status": "skipped",
 "why": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists"
 },
 "instagram_profile https://www.instagram.com/tuankil28/": {
-"checked_at": "2026-10-17T14:47:50+00:00",
+"checked_at": "2026-10-24T14:46:07+00:00",
 "status": "skipped",
 "why": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists. No public TikTok, YouTube or blog found for this account (Oct 2026)"
 },
 "instagram_reel https://www.instagram.com/reel/DYM-EdVRv5w/": {
 "added": 0,
-"checked_at": "2026-10-17T14:47:49+00:00",
+"checked_at": "2026-10-24T14:46:06+00:00",
 "detail": "kept",
 "status": "ok"
 },
 "instagram_reel https://www.instagram.com/reel/DZNgOJWxKeb/": {
 "added": 0,
-"checked_at": "2026-10-17T14:47:50+00:00",
+"checked_at": "2026-10-24T14:46:06+00:00",
 "detail": "kept",
 "status": "ok"
 },
 "instagram_reel https://www.instagram.com/reel/DbL8lkyxo5u/": {
 "added": 0,
-"checked_at": "2026-10-17T14:47:49+00:00",
+"checked_at": "2026-10-24T14:46:06+00:00",
 "detail": "kept",
 "status": "ok"
 },
 "instagram_reel https://www.instagram.com/reel/DbbXt7wpuIX/": {
 "added": 0,
-"checked_at": "2026-10-17T14:47:50+00:00",
+"checked_at": "2026-10-24T14:46:07+00:00",
 "detail": "kept",
 "status": "ok"
 },
 "instagram_reel https://www.instagram.com/reel/Dbq5xTqNN8Y/": {
 "added": 0,
-"checked_at": "2026-10-17T14:47:50+00:00",
+"checked_at": "2026-10-24T14:46:07+00:00",
 "detail": "kept",
 "status": "ok"
 },
 "instagram_reel https://www.instagram.com/reel/DcFDtQDv_7p/": {
 "added": 0,
-"checked_at": "2026-10-17T14:47:50+00:00",
+"checked_at": "2026-10-24T14:46:07+00:00",
 "detail": "kept",
 "status": "ok"
 },
 "instagram_reel https://www.instagram.com/reel/DcbRdMQoCC2/": {
 "added": 0,
-"checked_at": "2026-10-17T14:47:50+00:00",
+"checked_at": "2026-10-24T14:46:06+00:00",
 "detail": "kept",
 "status": "ok"
 },
 "instagram_reel https://www.instagram.com/reel/DdObMJ6SGYA/": {
 "added": 0,
-"checked_at": "2026-10-17T14:47:49+00:00",
+"checked_at": "2026-10-24T14:46:06+00:00",
 "detail": "kept",
 "status": "ok"
 },
 "instagram_reel https://www.instagram.com/reel/DdnIx7EugPm/": {
 "added": 0,
-"checked_at": "2026-10-17T14:47:49+00:00",
+"checked_at": "2026-10-24T14:46:06+00:00",
 "detail": "kept",
 "status": "ok"
 },
 "instagram_reel https://www.instagram.com/reel/DeQGbyevSm9/": {
 "added": 0,
-"checked_at": "2026-10-17T14:47:49+00:00",
+"checked_at": "2026-10-24T14:46:06+00:00",
 "detail": "kept",
 "status": "ok"
 },
 "tiktok_profile https://www.tiktok.com/@babymealsfreezer": {
 "added": 0,
-"checked_at": "2026-10-17T14:48:12+00:00",
+"checked_at": "2026-10-24T14:46:47+00:00",
 "detail": "listed 31 posts (oldest 2026-03-10)",
 "status": "ok"
 },
 "tiktok_profile https://www.tiktok.com/@busymamaeasybites": {
-"added": 0,
-"checked_at": "2026-10-17T14:48:07+00:00",
-"detail": "listed 68 posts (oldest 2026-04-14)",
+"added": 1,
+"checked_at": "2026-10-24T14:46:36+00:00",
+"detail": "listed 69 posts (oldest 2026-04-14)",
 "status": "ok"
 },
 "tiktok_profile https://www.tiktok.com/@mini.tiger.zen": {
-"added": 1,
-"checked_at": "2026-10-17T14:48:11+00:00",
-"detail": "listed 77 posts (oldest 2023-04-08)",
+"added": 3,
+"checked_at": "2026-10-24T14:46:44+00:00",
+"detail": "listed 81 posts (oldest 2023-04-08)",
 "status": "ok"
 },
 "tiktok_profile https://www.tiktok.com/@mountain_mothering": {
-"added": 1,
-"checked_at": "2026-10-17T14:48:14+00:00",
-"detail": "listed 13 posts (oldest 2026-09-23)",
+"added": 2,
+"checked_at": "2026-10-24T14:46:50+00:00",
+"detail": "listed 15 posts (oldest 2026-09-23)",
 "status": "ok"
 },
 "tiktok_profile https://www.tiktok.com/@pickyeaterblog": {
 "added": 0,
-"checked_at": "2026-10-17T14:48:32+00:00",
-"detail": "listed 606 posts (oldest 2022-01-02)",
+"checked_at": "2026-10-24T14:47:23+00:00",
+"detail": "listed 607 posts (oldest 2022-01-02)",
 "status": "ok"
 },
 "tiktok_profile https://www.tiktok.com/@soniamazri": {
 "added": 0,
-"checked_at": "2026-10-17T14:48:04+00:00",
+"checked_at": "2026-10-24T14:46:30+00:00",
 "detail": "listed 385 posts (oldest 2022-11-14)",
 "status": "ok"
 },
 "tiktok_profile https://www.tiktok.com/@toddler.snack.therapy": {
 "added": 0,
-"checked_at": "2026-10-17T14:48:34+00:00",
+"checked_at": "2026-10-24T14:47:26+00:00",
 "detail": "listed 34 posts (oldest 2025-09-24)",
 "status": "ok"
 },
 "website_category https://pickyeaterblog.com/category/kid-friendly-recipes/": {
-"added": 1,
-"checked_at": "2026-10-17T14:51:24+00:00",
+"added": 0,
+"checked_at": "2026-10-24T14:48:02+00:00",
 "detail": "listed 114 pages, considered newest 114",
 "status": "ok"
 },
 "website_category https://www.mjandhungryman.com/category/baby-kid-friendly-recipes/": {
-"added": 2,
-"checked_at": "2026-10-17T14:51:20+00:00",
+"added": 1,
+"checked_at": "2026-10-24T14:47:59+00:00",
 "detail": "listed 178 pages, considered newest 150",
 "status": "ok"
 },
 "website_sitemap https://babyfoode.com/post-sitemap.xml": {
-"added": 1,
-"checked_at": "2026-10-17T14:51:27+00:00",
+"added": 0,
+"checked_at": "2026-10-24T14:48:05+00:00",
 "detail": "listed 115 pages, considered newest 15",
 "status": "ok"
 },
 "website_sitemap https://weelicious.com/post-sitemap.xml": {
 "added": 0,
-"checked_at": "2026-10-17T14:51:29+00:00",
+"checked_at": "2026-10-24T14:48:08+00:00",
 "detail": "listed 109 pages, considered newest 15",
 "status": "ok"
 },
 "website_sitemap https://www.healthylittlefoodies.com/post-sitemap.xml": {
-"added": 0,
-"checked_at": "2026-10-17T14:51:25+00:00",
-"detail": "listed 84 pages, considered newest 18",
+"added": 1,
+"checked_at": "2026-10-24T14:48:04+00:00",
+"detail": "listed 85 pages, considered newest 18",
 "status": "ok"
 },
 "youtube_channel https://www.youtube.com/@busymamaeasybites/shorts": {
 "added": 0,
-"checked_at": "2026-10-17T14:51:05+00:00",
+"checked_at": "2026-10-24T14:47:45+00:00",
 "detail": "listed 2 videos",
 "status": "ok"
 },
 "youtube_channel https://www.youtube.com/@kidfriendlymeals/shorts": {
 "added": 0,
-"checked_at": "2026-10-17T14:51:04+00:00",
+"checked_at": "2026-10-24T14:47:45+00:00",
 "detail": "listed 8 videos",
 "status": "ok"
 },
 "youtube_channel https://www.youtube.com/@mountain_mothering/shorts": {
-"added": 2,
-"checked_at": "2026-10-17T14:48:41+00:00",
-"detail": "listed 20 videos",
+"added": 4,
+"checked_at": "2026-10-24T14:47:40+00:00",
+"detail": "listed 27 videos",
 "status": "ok"
 },
 "youtube_channel https://www.youtube.com/@thepickyeater/shorts": {
-"added": 2,
-"checked_at": "2026-10-17T14:51:02+00:00",
+"added": 0,
+"checked_at": "2026-10-24T14:47:44+00:00",
 "detail": "listed 291 videos",
 "status": "ok"
 }
 },
-"updated_at": "2026-10-17T14:59:06+00:00",
-"video_pending": 556
+"updated_at": "2026-10-24T14:50:34+00:00",
+"video_pending": 533
 }
