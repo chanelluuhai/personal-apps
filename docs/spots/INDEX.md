@@ -1,9 +1,9 @@
 # Denver/Arvada Toddler Outing Spots
 
-Updated: 2026-10-23  
+Updated: 2026-10-26  
 Base: W 64th Ave & Ward Rd, Arvada, CO 80004  
 Audience: Toddler ~20 months; prefer ~30 min drive  
-Places: 97
+Places: 99
 
 Each pin has a why-note from a named social/newsletter source. Drive times are rough estimates.
 
@@ -1119,6 +1119,20 @@ Each pin has a why-note from a named social/newsletter source. Drive times are r
 - [Instagram @coloradomamalife](https://www.instagram.com/coloradomamalife/)
 - [Boulder County — Boulder Canyon Trail](https://bouldercounty.gov/open-space/parks-and-trails/boulder-canyon-trail/)
 
+## Crest View Park (Boulder) (FARTHER)
+
+- **Address:** 1897 Sumac Ave, Boulder, CO 80304
+- **Drive:** ~35 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~18.0 mi straight-line)
+- **Why:** Colorado Kids Are Rad Oct 25 Boulder 3-stop post: check out 'The Nest' and the toddler-friendly playground. Also on their Oct 22 six favorite fall playgrounds list. City lists a playground and nature play.
+- **Source:** Colorado Kids Are Rad (@coloradokidsarerad) Instagram posts 2026-10-25 and 2026-10-22; bouldercolorado.gov; Slides and Sunshine
+- **Hours:** Open daily (school-side playground is for public use outside school hours)
+- **Cost:** Free
+- **Toddler tip:** Treehouse-style playground, sandbox, and nature play. Reviews say little shade and no restroom, so pair it with the NoBo Library (about 0.5 mi away) for bathrooms.
+- [CKAR Boulder 3-stop post (Oct 25)](https://www.instagram.com/p/De8FqiHxZWP/)
+- [City of Boulder: Crest View Park](https://bouldercolorado.gov/locations/crest-view-park)
+- [Slides and Sunshine review](https://slidesandsunshine.com/hidden-boulder-playgrounds/)
+- [CKAR fall playgrounds post (Oct 22)](https://www.instagram.com/p/De0Vi5rRnhj/)
+
 ## Cheyenne-Arapaho (Tsistsistas-Hinono'ei) Park (FARTHER)
 
 - **Address:** 9200 E Iowa Ave, Denver, CO 80247
@@ -1156,6 +1170,20 @@ Each pin has a why-note from a named social/newsletter source. Drive times are r
 - [Colorado Mama Life Carson reel (Oct 5)](https://www.instagram.com/coloradomamalife/reel/DeHjDTgzPBY/)
 - [South Suburban — Carson Nature Center](https://www.ssprd.org/nature)
 - [Instagram @coloradomamalife](https://www.instagram.com/coloradomamalife/)
+
+## NoBo Library + Playground (North Boulder) (FARTHER)
+
+- **Address:** 4500 13th St, Boulder, CO 80304
+- **Drive:** ~36 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~18.4 mi straight-line)
+- **Why:** Colorado Kids Are Rad Oct 25 Boulder 3-stop post (and their Oct 22 fall playgrounds list): an outdoor playground with a slide coming out of the library building, plus the motion-activated musical ramp (the 'Nuages' sound art on the ramp to the upper entrance).
+- **Source:** Colorado Kids Are Rad (@coloradokidsarerad) Instagram posts 2026-10-25 and 2026-10-22; boulderlibrary.org; bouldercolorado.gov (Nuages)
+- **Hours:** Library Mon–Thu 9am–7pm, Fri 9am–5pm, Sat 10am–5pm, Sun 12–5pm; playground dawn to dusk
+- **Cost:** Free
+- **Toddler tip:** Indoor plus outdoor, so it works on a chilly day. Let him stomp the musical ramp, grab books, then play outside. CKAR pairs it with Crest View Park and Big Daddy Bagels nearby. Good with a Boulder friend meetup.
+- [CKAR Boulder 3-stop post (Oct 25)](https://www.instagram.com/p/De8FqiHxZWP/)
+- [NoBo Library hours](https://boulderlibrary.org/locations/nobo/)
+- [Nuages musical ramp](https://bouldercolorado.gov/projects/nuages)
+- [CKAR fall playgrounds post (Oct 22)](https://www.instagram.com/p/De0Vi5rRnhj/)
 
 ## Civic Green Park Splash Pad (FARTHER)
 

@@ -10,6 +10,27 @@
 | Colorado Mama Life (Angelica) | https://www.instagram.com/coloradomamalife/ | https://www.facebook.com/profile.php?id=61577651781310 | https://www.tiktok.com/@coloradomamalife |
 | Little Rad Adventure | https://www.instagram.com/littleradadventure/ | https://www.facebook.com/LittleRadAdventure | https://littleradadventure.com/ |
 
+## Scrub window (2026-10-26 Mon/Wed/Fri pass)
+
+**Checked**
+- Instagram: public profile embed pages returned recent posts for all five accounts. Read Oct 23–25 posts:
+  - @days.in.denver: Oct 24 Steuben's Uptown Halloween patio + kid's meals (restaurant, not pinned); Oct 23 Denver Climate Project ad (skipped).
+  - @colorado.kids.explore: Oct 25 Jaxleigh Jewelry small-business post (no venue); Oct 23 MoodSwing Denver game-day venue (sports/entertainment, not pinned for a toddler); Oct 22 Rocky Mountain Pumpkin Ranch (handled Oct 23, too far).
+  - @coloradokidsarerad: Oct 25 Boulder 3-stop (NoBo Library + Playground, Crest View Park "The Nest", Big Daddy Bagels); Oct 24 Lily Lake Trail, RMNP + Kind Coffee Estes Park (stroller-friendly 0.8-mi loop but well over an hour away, park pass needed; not pinned).
+  - @coloradomamalife: no new posts since Oct 19.
+  - @littleradadventure: Oct 25 Boo at the Zoo, Cheyenne Mountain Zoo (Colorado Springs, too far); Oct 24 North Pole Colorado (sponsored, too far); Oct 23 Rollins Pass off-roading (skipped); Oct 23 Snake River, Montezuma (mountain creek stop, too far).
+- Days.in.denver beehiiv: sitemap still tops out at the October newsletter and Fall guide; nothing new.
+- Little Rad Adventure site feed: newest post still Chief Mountain Trail (2026-06-12).
+- Facebook: not re-tried (login-walled on earlier passes; IG covered the same accounts). No captions guessed.
+- TikTok: profile meta only (unchanged).
+
+**New pins (2)**
+- NoBo Library + Playground, Boulder: slide out of the library, musical "Nuages" ramp; library Mon–Thu 9–7, Fri 9–5, Sat 10–5, Sun 12–5 (CKAR Oct 25 and Oct 22; boulderlibrary.org) (~36 min, marked farther than 30 min)
+- Crest View Park, Boulder: "The Nest" and toddler-friendly playground, sandbox, nature play; little shade, no restroom (CKAR Oct 25 and Oct 22; bouldercolorado.gov, Slides and Sunshine) (~35 min, marked farther than 30 min)
+- Still not pinned from the Oct 22 list: Grange Creek Park (Thornton).
+
+**New events:** none.
+
 ## Scrub window (2026-10-23 Mon/Wed/Fri pass)
 
 **Checked**
