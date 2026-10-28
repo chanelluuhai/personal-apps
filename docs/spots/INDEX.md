@@ -1,9 +1,9 @@
 # Denver/Arvada Toddler Outing Spots
 
-Updated: 2026-10-26  
+Updated: 2026-10-28  
 Base: W 64th Ave & Ward Rd, Arvada, CO 80004  
 Audience: Toddler ~20 months; prefer ~30 min drive  
-Places: 99
+Places: 100
 
 Each pin has a why-note from a named social/newsletter source. Drive times are rough estimates.
 
@@ -996,6 +996,21 @@ Each pin has a why-note from a named social/newsletter source. Drive times are r
 - **Toddler tip:** He's under 2, so he gets in free. Adventure-playground style with bigger-kid climbing, so stay close. Cafe on site for a coffee. Pairs with a Boulder friend meetup.
 - [Days.in.denver Junkyard post (Oct 20)](https://www.instagram.com/p/Det2Hemh_5F/)
 - [Junkyard Social Club](https://junkyardsocialclub.org/)
+
+## Coyote Song + Prairie Falcon Loop, South Valley Park (FARTHER)
+
+- **Address:** South Valley Park South Trailhead, 12447 Deer Creek Canyon Rd, Littleton, CO 80127 (North Trailhead: 8354 S Valley Rd)
+- **Drive:** ~32 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~18.1 mi straight-line)
+- **Why:** Colorado Kids Are Rad Oct 26 post: a kid-friendly hike about 30 minutes from Denver, with red rock formations along the hogback. AllTrails lists the Coyote Song + Prairie Falcon loop at about 1.2 miles, 137 ft gain, easy. CKAR didn't finish the loop; they walked to the section near the road and turned back.
+- **Source:** Colorado Kids Are Rad (@coloradokidsarerad) Instagram post 2026-10-26; Jefferson County Open Space; AllTrails
+- **Hours:** Jeffco Open Space parks open 1 hour before sunrise to 1 hour after sunset
+- **Cost:** Free
+- **Toddler tip:** Short, mostly gentle dirt loop, so a carrier is easier than a stroller. On-trail only: no climbing on the sandstone. Little shade. Prairie Falcon was closed for boardwalk repairs in September and reopened Oct 7, 2026.
+- **Trail:** ~1.2-mile loop · ~137 ft gain · easy (CKAR / AllTrails)
+- [CKAR Coyote Song + Prairie Falcon post (Oct 26)](https://www.instagram.com/p/De-naQJRqB6/)
+- [Jeffco Open Space: South Valley Park](https://www.jeffco.us/1431/South-Valley-Park)
+- [AllTrails: Coyote Song and Prairie Falcon Loop](https://www.alltrails.com/trail/us/colorado/coyote-song-and-prairie-falcon-loop)
+- [Jeffco alert: Prairie Falcon Trail reopened Oct 7](https://www.jeffco.us/AlertCenter.aspx?AID=REOPENED-Prairie-Falcon-Trail-at-South-V-2116)
 
 ## Clement Park (+ Columbine Library) (FARTHER)
 

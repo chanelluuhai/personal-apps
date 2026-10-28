@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated": "2026-10-23",
-    "as_of": "2026-10-23",
+    "updated": "2026-10-28",
+    "as_of": "2026-10-28",
     "timezone": "America/Denver",
     "notes": "Upcoming, dated family events kept separate from map pins. Confirm times, access, and weather with the linked organizer before heading out."
   },
@@ -506,6 +506,87 @@
       "drive_note": "~20 min from the 64th & Ward base",
       "source": "Days.in.denver IG Oct 22 post (https://www.instagram.com/p/DezQS1jB3Do/); Little Man Ice Cream Eventbrite",
       "note": "Free outdoor Halloween movie night with free popcorn, no tickets needed. The opening short is Room on the Broom, a great toddler pick, before Hocus Pocus (better to leave after the short). Starts at 7pm and it's outside, so bring coats and blankets."
+    },
+    {
+      "id": "lakewood-library-halloween-parade-2026",
+      "title": "Halloween Parade at Lakewood Library",
+      "date": "2026-10-30",
+      "end_date": "2026-10-30",
+      "time": "11:00–11:45 AM",
+      "place": "Lakewood Library, 10200 W 20th Ave, Lakewood",
+      "lat": 39.747044,
+      "lng": -105.1132609,
+      "link": "https://jeffcolibrary.bibliocommons.com/v2/events/6a96ffac36204e08fbb8c66b",
+      "drive_note": "~15 min from the 64th & Ward base",
+      "source": "Colorado Mama Life IG Oct 26 Halloween week post (https://www.instagram.com/p/De-mL9eT0Rf/); Jefferson County Public Library",
+      "note": "Free costume parade and trick-or-treat walk around the library, listed for babies, toddlers, and preschoolers. Toddler Time runs at 10:15 the same morning."
+    },
+    {
+      "id": "denver-zoo-free-day-2026-11-11",
+      "title": "Denver Zoo Community Free Day",
+      "date": "2026-11-11",
+      "end_date": "2026-11-11",
+      "time": "Timed entry; free tickets released online Oct 28",
+      "place_id": "denver-zoo",
+      "place": "Denver Zoo, 2300 Steele St, Denver",
+      "link": "https://denverzoo.org/free-days/",
+      "drive_note": "~24 min from the 64th & Ward base",
+      "source": "Colorado Mama Life IG Oct 27 free November list (https://www.instagram.com/p/DfBUIK2z1Gi/); denverzoo.org",
+      "note": "Free, but online tickets only, first-come first-served, no walk-ups. Everyone needs a timed ticket, babies included; up to 5 per registration. Tickets went live Oct 28 and can go fast."
+    },
+    {
+      "id": "denver-zoo-free-day-2026-11-14",
+      "title": "Denver Zoo Community Free Day (Saturday)",
+      "date": "2026-11-14",
+      "end_date": "2026-11-14",
+      "time": "Timed entry; free tickets released online Oct 31",
+      "place_id": "denver-zoo",
+      "place": "Denver Zoo, 2300 Steele St, Denver",
+      "link": "https://denverzoo.org/free-days/",
+      "drive_note": "~24 min from the 64th & Ward base",
+      "source": "Colorado Mama Life IG Oct 27 free November list (https://www.instagram.com/p/DfBUIK2z1Gi/); denverzoo.org",
+      "note": "Free, but online tickets only, released Sat Oct 31 (around 9am per Mile High on the Cheap). Everyone needs a timed ticket, babies included; up to 5 per registration. Another free day is Sun Nov 22 (tickets Nov 8)."
+    },
+    {
+      "id": "dinosaur-ridge-free-day-2026-11-15",
+      "title": "SCFD Free Day at Dinosaur Ridge",
+      "date": "2026-11-15",
+      "end_date": "2026-11-15",
+      "time": "9:00 AM–4:00 PM",
+      "place": "Dinosaur Ridge Main Visitor Center, 16831 W Alameda Pkwy, Morrison",
+      "lat": 39.6888409,
+      "lng": -105.1904971,
+      "link": "https://dinoridge.org/event/scfd-free-day-celebrate-colorados-sesquicentennial-dino-ridge-style-4/",
+      "drive_note": "~20 min from the 64th & Ward base",
+      "source": "Colorado Mama Life IG Oct 27 free November list (https://www.instagram.com/p/DfBUIK2z1Gi/); dinoridge.org",
+      "note": "Free entry to the visitor center Exhibit Hall and the Deep Time Detour exhibit, plus $5 off guided bus tours. Indoor and outdoor, good for a dinosaur-loving toddler."
+    },
+    {
+      "id": "dmns-free-day-2026-11-16",
+      "title": "SCFD Free Day at the Museum of Nature & Science",
+      "date": "2026-11-16",
+      "end_date": "2026-11-16",
+      "time": "9:00 AM–5:00 PM",
+      "place_id": "dmns-nature-play",
+      "place": "Denver Museum of Nature & Science",
+      "link": "https://www.dmns.org/programs-and-events/freedays/",
+      "drive_note": "~24 min from the 64th & Ward base",
+      "source": "Colorado Mama Life IG Oct 27 free November list (https://www.instagram.com/p/DfBUIK2z1Gi/); dmns.org",
+      "note": "Free general admission, no tickets needed; walk up. Planetarium, theater, and temporary exhibits cost extra. It's a Monday, so likely calmer than a weekend free day. There's also a free evening Sat Nov 7, 5–10pm."
+    },
+    {
+      "id": "georgetown-christmas-market-2026",
+      "title": "Georgetown Christmas Market",
+      "date": "2026-12-05",
+      "end_date": "2026-12-13",
+      "time": "Dec 5–6 and Dec 12–13, 10:00 AM–5:00 PM",
+      "place": "Historic 6th Street, Georgetown",
+      "lat": 39.7066568,
+      "lng": -105.698802,
+      "link": "https://historicgeorgetown.org/georgetown-christmas-market-2/",
+      "drive_note": "~55 min from the 64th & Ward base (farther than 30 min)",
+      "source": "Little Rad Adventure IG Oct 28 Georgetown post (https://www.instagram.com/p/DfCgeiTJVln/); Historic Georgetown, Inc.",
+      "note": "Free admission, parking, and shuttle. Victorian carolers, roasted chestnuts, horse-drawn wagon rides, and Saint Nicholas. Two weekends only; it's a mountain town in December, so dress warm and check I-70 conditions."
     }
   ]
 }

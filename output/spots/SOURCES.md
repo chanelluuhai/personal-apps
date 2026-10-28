@@ -10,6 +10,33 @@
 | Colorado Mama Life (Angelica) | https://www.instagram.com/coloradomamalife/ | https://www.facebook.com/profile.php?id=61577651781310 | https://www.tiktok.com/@coloradomamalife |
 | Little Rad Adventure | https://www.instagram.com/littleradadventure/ | https://www.facebook.com/LittleRadAdventure | https://littleradadventure.com/ |
 
+## Scrub window (2026-10-28 Mon/Wed/Fri pass)
+
+**Checked**
+- Instagram: public profile embed pages returned recent posts for all five accounts. Read Oct 25–28 posts:
+  - @days.in.denver: no new posts since Oct 24.
+  - @colorado.kids.explore: Oct 26 post about quitting AI tools (no venue); Oct 25 Jaxleigh Jewelry small-business post (no venue, read last pass).
+  - @coloradokidsarerad: Oct 27 child abuse hotline ad (no venue); Oct 26 Coyote Song + Prairie Falcon Loop, Littleton; Oct 25 Boulder 3-stop (handled Oct 26).
+  - @coloradomamalife: Oct 27 free November days list (Molly Brown House Nov 5; DAM, Clyfford Still, DMNS evening Nov 7; Denver Zoo Nov 11, 14, 22; Plains Conservation Center Nov 14; Dinosaur Ridge Nov 15; DMNS Nov 16; Museum of Outdoor Arts Nov 18; Four Mile Nov 20; Botanic Gardens and Chatfield Farms Nov 27); Oct 26 Halloween week lineup (BOOnion Station and Olde Town Trick or Treat Street already listed; Lakewood Library parade added; Fort Collins, Castle Rock, Bennett, Parker, Georgetown, Colorado Springs items too far or paid).
+  - @littleradadventure: Oct 28 Georgetown holiday town guide + Georgetown Christmas Market; Oct 27 paid Mainstream Colorado post (skipped); Oct 26 Cañon City holiday guide (~2 hr, not added); Oct 25 Boo at the Zoo, Cheyenne Mountain Zoo (handled Oct 26).
+- Days.in.denver beehiiv: not re-checked this pass (sitemap topped out at the October newsletter on the last three passes).
+- Little Rad Adventure site feed: not re-checked (newest post was still Chief Mountain Trail, 2026-06-12).
+- Facebook: not re-tried (login-walled on earlier passes; IG covered the same accounts). No captions guessed.
+- TikTok: profile meta only (unchanged).
+- Event details confirmed on denverzoo.org, dmns.org, dinoridge.org, jeffcolibrary.bibliocommons.com, historicgeorgetown.org; trail details on jeffco.us (Prairie Falcon reopened Oct 7 after boardwalk repairs) and AllTrails.
+
+**New pins (1)**
+- Coyote Song + Prairie Falcon Loop, South Valley Park, Littleton: ~1.2-mi easy loop, 137 ft gain, red rock views, on-trail only (CKAR Oct 26; Jeffco Open Space, AllTrails) (~32 min, marked farther than 30 min; tagged toddler-hike)
+
+**New events (6)**
+- Fri Oct 30, 11–11:45am Halloween Parade at Lakewood Library, ages 0–5, free (CML Oct 26; JCPL)
+- Wed Nov 11 Denver Zoo Community Free Day, online tickets released Oct 28 (CML Oct 27; denverzoo.org)
+- Sat Nov 14 Denver Zoo Community Free Day, online tickets released Oct 31 (CML Oct 27; denverzoo.org)
+- Sun Nov 15, 9am–4pm SCFD Free Day at Dinosaur Ridge (CML Oct 27; dinoridge.org)
+- Mon Nov 16, 9am–5pm SCFD Free Day at DMNS (CML Oct 27; dmns.org)
+- Dec 5–6 and 12–13, 10am–5pm Georgetown Christmas Market, free (Little Rad Adventure Oct 28; historicgeorgetown.org) (~55 min)
+- Not added from the CML November list this pass: Molly Brown House, DAM/Clyfford Still evening, Plains Conservation Center, Museum of Outdoor Arts, Four Mile, Botanic Gardens Nov 27, Denver Zoo Nov 22 (noted on the Nov 14 event).
+
 ## Scrub window (2026-10-26 Mon/Wed/Fri pass)
 
 **Checked**
