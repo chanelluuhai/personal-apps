@@ -1,9 +1,9 @@
 # Denver/Arvada Toddler Outing Spots
 
-Updated: 2026-10-28  
+Updated: 2026-10-30  
 Base: W 64th Ave & Ward Rd, Arvada, CO 80004  
 Audience: Toddler ~20 months; prefer ~30 min drive  
-Places: 100
+Places: 103
 
 Each pin has a why-note from a named social/newsletter source. Drive times are rough estimates.
 
@@ -450,6 +450,19 @@ Each pin has a why-note from a named social/newsletter source. Drive times are r
 - [City of Lakewood — Belmar Park](https://www.lakewood.org/Government/Departments/Community-Resources/Parks/Parks-and-Facilities/Belmar-Park)
 - [Instagram @days.in.denver](https://www.instagram.com/days.in.denver/)
 
+## North Midway Park (Girl Scout Shelter playground) (near)
+
+- **Address:** 1279 W Midway Blvd, Broomfield, CO 80020 (Midway Blvd & Kohl St)
+- **Drive:** ~19 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~8.1 mi straight-line)
+- **Why:** Colorado Kids Are Rad Oct 28 'Playground Lowdown': big slides, inclusive play, a mini pump track, and plenty of room for little legs. Broomfield lists a playground, Girl Scout Shelter with permanent restrooms, picnic tables, and a small pond.
+- **Source:** Colorado Kids Are Rad (@coloradokidsarerad) Instagram post 2026-10-28; City & County of Broomfield
+- **Hours:** Broomfield parks open 5 AM–11 PM daily
+- **Cost:** Free
+- **Toddler tip:** Real restrooms at the Girl Scout Shelter (it's a reservable shelter, so it may be booked). Some shade from older trees but mostly sun. On-street parking along Midway Blvd.
+- [CKAR North Midway Park post (Oct 28)](https://www.instagram.com/p/DfDxL7okcp_/)
+- [Broomfield Open Space: North Midway Park](https://ospt.broomfield.org/parks/north-midway-park)
+- [Broomfield: Midway Park facility](https://www.broomfield.org/facilities/facility/details/Midway-Park-38)
+
 ## Joseph P. Martinez Park (near)
 
 - **Address:** 900 N Raleigh St, Denver, CO 80204
@@ -613,6 +626,21 @@ Each pin has a why-note from a named social/newsletter source. Drive times are r
 - [CKAR Ridgeview Heights reel (Oct 18)](https://www.instagram.com/coloradokidsarerad/reel/Deo8zRgx35C/)
 - [Broomfield park page](https://www.broomfield.org/Facilities/Facility/Details/31)
 - [Broomfield 2026 Playground Replacement Program](https://www.broomfield.org/4484/2026-Playground-Replacement-Program)
+
+## Flatirons Vista Trail (Boulder OSMP) (near)
+
+- **Address:** Flatirons Vista Trailhead, 3663 CO-93, Boulder, CO (west side of Hwy 93, 0.3 mi south of Hwy 128)
+- **Drive:** ~23 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~9.1 mi straight-line)
+- **Why:** Colorado Kids Are Rad Oct 29 Halloween hike in costumes on Flatirons Vista Trail. City of Boulder rates Flatirons Vista North easy (1.2 mi, wide doubletrack); the full loop is about 3.3–3.5 mi, so with a toddler just walk part of the north side and turn back.
+- **Source:** Colorado Kids Are Rad (@coloradokidsarerad) Instagram post 2026-10-29; City of Boulder OSMP; AllTrails
+- **Hours:** Trailhead open 5 AM–11 PM daily; closed when too muddy (check OSMP muddy-trail closures)
+- **Cost:** Free trail; parking fee for vehicles not registered in Boulder County
+- **Toddler tip:** Restroom at the trailhead. Wide, mostly flat north section; the west part of the south loop is rocky, so a carrier is easier than a stroller. Very little shade and often windy. Small lot (29 spaces), no parking on Hwy 93. Pin is approximate at the trailhead.
+- **Trail:** North side 1.2 mi, easy, wide doubletrack; full loop ~3.3–3.5 mi, ~280 ft gain (City of Boulder / AllTrails)
+- [CKAR Flatirons Vista Halloween hike (Oct 29)](https://www.instagram.com/p/DfGZQATxi0k/)
+- [City of Boulder: Flatirons Vista Trailhead](https://bouldercolorado.gov/trailhead/flatirons-vista)
+- [City of Boulder: Flatirons Vista North](https://bouldercolorado.gov/trail/flatirons-vista-north)
+- [AllTrails: Flatirons Vista Trail](https://www.alltrails.com/trail/us/colorado/flatirons-vista-trail)
 
 ## DMNS Nature Play Park + Museum (near)
 
@@ -984,6 +1012,19 @@ Each pin has a why-note from a named social/newsletter source. Drive times are r
 - [Days.in.denver Star K / hikes reel (Oct 13)](https://www.instagram.com/days.in.denver/reel/Deb02B6hKEQ/)
 - [Aurora — Morrison Nature Center](https://www.auroragov.org/things_to_do/parks__open_space___trails/nature___open_space/nature_centers/morrison_nature_center)
 - [Colorado Mama Life Morrison Nature Center reel (Oct 18)](https://www.instagram.com/coloradomamalife/reel/DeqDv8ST6Aw/)
+
+## Little Monkey Bizness (Westminster) (FARTHER)
+
+- **Address:** 14693 Orchard Pkwy, Westminster, CO 80023 (The Orchard Town Center)
+- **Drive:** ~31 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~13.0 mi straight-line)
+- **Why:** Colorado Mama Life Oct 28 mom-owned playdate spots list. Indoor soft play with slides, bounce house, a crawler area, an art room, and a coffee bar. Drop-in open play, no reservation.
+- **Source:** Colorado Mama Life (@coloradomamalife) Instagram post 2026-10-28; Little Monkey Bizness website
+- **Hours:** Open play Mon 9 AM–5 PM, Tue–Thu and Sat–Sun 9 AM–1 PM, Fri 9 AM–4 PM (per website; call 303-252-9999 to confirm)
+- **Cost:** 9–23 months $14, ages 2–10 $17, adults $5; $12 kids on Tuesdays
+- **Toddler tip:** Socks required for kids and adults; fill out the waiver online first. Morning-only most days, so it fits before his ~2pm nap wake-up window best as a morning outing. Same-day re-entry allowed.
+- [Colorado Mama Life mom-owned playdates post (Oct 28)](https://www.instagram.com/p/DfDz8UHxBwB/)
+- [Little Monkey Bizness Westminster](https://www.littlemonkeybizness.com/location/westminster)
+- [Open play rules & prices](https://westminster.monkeybizness.com/open-play/)
 
 ## Junkyard Social Club (Boulder) (FARTHER)
 

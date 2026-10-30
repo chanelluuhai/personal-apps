@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated": "2026-10-28",
-    "as_of": "2026-10-28",
+    "updated": "2026-10-30",
+    "as_of": "2026-10-30",
     "timezone": "America/Denver",
     "notes": "Upcoming, dated family events kept separate from map pins. Confirm times, access, and weather with the linked organizer before heading out."
   },
@@ -587,6 +587,32 @@
       "drive_note": "~55 min from the 64th & Ward base (farther than 30 min)",
       "source": "Little Rad Adventure IG Oct 28 Georgetown post (https://www.instagram.com/p/DfCgeiTJVln/); Historic Georgetown, Inc.",
       "note": "Free admission, parking, and shuttle. Victorian carolers, roasted chestnuts, horse-drawn wagon rides, and Saint Nicholas. Two weekends only; it's a mountain town in December, so dress warm and check I-70 conditions."
+    },
+    {
+      "id": "indiana-business-park-trunk-or-treat-2026",
+      "title": "Trunk-or-Treat at Indiana Business Park",
+      "date": "2026-10-30",
+      "time": "5:00–7:00 PM",
+      "place": "Indiana Business Park, 14701 W 65th Way, Arvada, CO 80004",
+      "lat": 39.815304,
+      "lng": -105.163016,
+      "link": "https://www.eventbrite.com/e/trunk-or-treat-tickets-2003314834598",
+      "drive_note": "~3 min from the 64th & Ward base",
+      "source": "Colorado Mama Life IG Oct 29 Halloween plans post (https://www.instagram.com/p/DfFdku4zD3s/); Eventbrite listing by Fade It Golf and Social Club",
+      "note": "Free. Costumes, candy, local businesses, MaMa D's Deli, and a treat at Fade It. Free Eventbrite registration listed."
+    },
+    {
+      "id": "little-monkey-parker-spooky-bizness-2026",
+      "title": "Spooky Bizness at Little Monkey Bizness Parker",
+      "date": "2026-10-31",
+      "time": "Sessions at 9:30 AM and 11:00 AM (90 min)",
+      "place": "Little Monkey Bizness, 10430 S Progress Way, Parker, CO",
+      "lat": 39.5292185,
+      "lng": -104.7692769,
+      "link": "https://www.instagram.com/littlemonkeybiznessparker/",
+      "drive_note": "~48 min from the 64th & Ward base (farther than 30 min)",
+      "source": "Colorado Mama Life IG Oct 29 Halloween plans post (https://www.instagram.com/p/DfFdku4zD3s/)",
+      "note": "$19 per child, up to 2 adults free per reservation. Indoor play, cookie decorating, a Halloween craft, scavenger hunt, costume contest, and a treat bag. Advance reservations required for every guest; bring socks."
     }
   ]
 }

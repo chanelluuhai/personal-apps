@@ -10,6 +10,30 @@
 | Colorado Mama Life (Angelica) | https://www.instagram.com/coloradomamalife/ | https://www.facebook.com/profile.php?id=61577651781310 | https://www.tiktok.com/@coloradomamalife |
 | Little Rad Adventure | https://www.instagram.com/littleradadventure/ | https://www.facebook.com/LittleRadAdventure | https://littleradadventure.com/ |
 
+## Scrub window (2026-10-30 Mon/Wed/Fri pass)
+
+**Checked**
+- Instagram: public profile embed pages returned recent posts for all five accounts. Read Oct 28–30 posts:
+  - @days.in.denver: Oct 29 November calendar teaser + Mile High United Way Turkey Trot giveaway (calendar items are in the images, not the caption; Turkey Trot not toddler-focused, not added).
+  - @colorado.kids.explore: Oct 30 small-business haunted list (Baby University, Trinity Acres, Little Haven Play Studio, Coyote Song loop, Mile High Farms, Giggling Life; mostly already pinned or no address in caption); Oct 28 Nick's Garden Center free fall fest through Oct 31 (already pinned).
+  - @coloradokidsarerad: Oct 29 Flatirons Vista Trail Halloween hike, Boulder; Oct 28 North Midway Park, Broomfield.
+  - @coloradomamalife: Oct 29 three-day Halloween plans (DSST College View Trunk-or-Treat Oct 29, already past; Indiana Business Park Trunk-or-Treat Oct 30; Spooky Bizness at Little Monkey Bizness Parker Oct 31); Oct 28 mom-owned playdate spots (Little Monkey Bizness Westminster and Parker, Tumble Haus (already pinned), Raising Parents Co, Lil Monsters Playground; the last two had no address in the caption, not pinned).
+  - @littleradadventure: Oct 29 sponsored 10 fall things list (general, no new specific toddler venue); Oct 28 A-Basin opening (ski, not toddler).
+- Days.in.denver beehiiv: homepage behind a Cloudflare check; sitemap still tops out at the October newsletter.
+- Little Rad Adventure site feed: newest post still Chief Mountain Trail (2026-06-12).
+- Facebook: not re-tried (login-walled on earlier passes; IG covered the same accounts). No captions guessed.
+- TikTok: profile meta only (unchanged).
+- Details confirmed on broomfield.org / ospt.broomfield.org, bouldercolorado.gov (OSMP), AllTrails, littlemonkeybizness.com, and Eventbrite. Drive times via public OSRM routing.
+
+**New pins (3)**
+- North Midway Park, Broomfield: big slides, inclusive play, mini pump track, restrooms at the Girl Scout Shelter (CKAR Oct 28; Broomfield) (~19 min)
+- Flatirons Vista Trail, Boulder OSMP: easy 1.2-mi north side, full loop ~3.3–3.5 mi, trailhead restroom, little shade, parking fee for non-Boulder-County cars (CKAR Oct 29; City of Boulder, AllTrails) (~23 min; tagged toddler-hike)
+- Little Monkey Bizness, Westminster: indoor soft play with crawler area, drop-in open play, $14 under 2 (Colorado Mama Life Oct 28; littlemonkeybizness.com) (~31 min, marked farther than 30 min)
+
+**New events (2)**
+- Fri Oct 30, 5–7pm Trunk-or-Treat at Indiana Business Park, 14701 W 65th Way, Arvada, free (CML Oct 29; Eventbrite) (~3 min)
+- Sat Oct 31, 9:30am and 11am Spooky Bizness at Little Monkey Bizness Parker, $19 per child, reservations required (CML Oct 29) (~48 min)
+
 ## Scrub window (2026-10-28 Mon/Wed/Fri pass)
 
 **Checked**

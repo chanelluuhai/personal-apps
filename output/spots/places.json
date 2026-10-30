@@ -41,8 +41,8 @@
         "note": "Facebook page Littleradadventure, also posted as Must Do In Colorado. Added from Chanel FB share 2026-10-03 (reel 1738726840765924 → Tiny Town & Railroad, Morrison). Park is seasonal and closed after Labor Day, so no pin until it reopens. IG scrubbed through 2026-10-23."
       }
     ],
-    "updated": "2026-10-28",
-    "scrub_window": "2026-10-28 Mon/Wed/Fri pass: Instagram Oct 25–28 posts read on all five accounts via the public profile embed. New pin: Coyote Song + Prairie Falcon Loop, South Valley Park (CKAR Oct 26). New events: Lakewood Library Halloween Parade Oct 30; Denver Zoo free days Nov 11 and Nov 14; Dinosaur Ridge free day Nov 15; DMNS free day Nov 16 (Colorado Mama Life Oct 26–27); Georgetown Christmas Market Dec 5–6 and 12–13 (Little Rad Adventure Oct 28). Prior scrubs retained.",
+    "updated": "2026-10-30",
+    "scrub_window": "2026-10-30 Mon/Wed/Fri pass: Instagram Oct 28–30 posts read on all five accounts via the public profile embed. New pins: North Midway Park, Broomfield (CKAR Oct 28); Flatirons Vista Trail, Boulder (CKAR Oct 29, toddler hike); Little Monkey Bizness Westminster (Colorado Mama Life Oct 28). New events: Indiana Business Park Trunk-or-Treat Oct 30 (Arvada) and Spooky Bizness at Little Monkey Bizness Parker Oct 31 (Colorado Mama Life Oct 29). Prior scrubs retained.",
     "notes": "Why-notes paraphrased/quoted from source captions and newsletters. Drive times are rough estimates from Arvada 80004; verify in Google Maps. Do not invent venues — every pin cites a named source. Seasonal spots kept if still relevant for fall 2026 or evergreen otherwise. Home base updated to W 64th Ave & Ward Rd; drive times refreshed via public OSRM routing on 2026-10-02."
   },
   "places": [
@@ -4203,6 +4203,133 @@
       "farther_than_30min": true,
       "approx_drive_minutes": 32,
       "straight_line_miles": 18.1
+    },
+    {
+      "id": "north-midway-park",
+      "name": "North Midway Park (Girl Scout Shelter playground)",
+      "lat": 39.9223486,
+      "lng": -105.08473,
+      "address": "1279 W Midway Blvd, Broomfield, CO 80020 (Midway Blvd & Kohl St)",
+      "why": "Colorado Kids Are Rad Oct 28 'Playground Lowdown': big slides, inclusive play, a mini pump track, and plenty of room for little legs. Broomfield lists a playground, Girl Scout Shelter with permanent restrooms, picnic tables, and a small pond.",
+      "source": "Colorado Kids Are Rad (@coloradokidsarerad) Instagram post 2026-10-28; City & County of Broomfield",
+      "source_accounts": [
+        "@coloradokidsarerad"
+      ],
+      "links": [
+        {
+          "label": "CKAR North Midway Park post (Oct 28)",
+          "url": "https://www.instagram.com/p/DfDxL7okcp_/"
+        },
+        {
+          "label": "Broomfield Open Space: North Midway Park",
+          "url": "https://ospt.broomfield.org/parks/north-midway-park"
+        },
+        {
+          "label": "Broomfield: Midway Park facility",
+          "url": "https://www.broomfield.org/facilities/facility/details/Midway-Park-38"
+        }
+      ],
+      "hours": "Broomfield parks open 5 AM–11 PM daily",
+      "cost": "Free",
+      "toddler_notes": "Real restrooms at the Girl Scout Shelter (it's a reservable shelter, so it may be booked). Some shade from older trees but mostly sun. On-street parking along Midway Blvd.",
+      "tags": [
+        "playground",
+        "park",
+        "outdoor",
+        "free",
+        "restrooms",
+        "broomfield"
+      ],
+      "drive_note": "~19 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~8.1 mi straight-line)",
+      "farther_than_30min": false,
+      "approx_drive_minutes": 19,
+      "straight_line_miles": 8.1
+    },
+    {
+      "id": "flatirons-vista-trail",
+      "name": "Flatirons Vista Trail (Boulder OSMP)",
+      "lat": 39.9248,
+      "lng": -105.2312,
+      "address": "Flatirons Vista Trailhead, 3663 CO-93, Boulder, CO (west side of Hwy 93, 0.3 mi south of Hwy 128)",
+      "why": "Colorado Kids Are Rad Oct 29 Halloween hike in costumes on Flatirons Vista Trail. City of Boulder rates Flatirons Vista North easy (1.2 mi, wide doubletrack); the full loop is about 3.3–3.5 mi, so with a toddler just walk part of the north side and turn back.",
+      "source": "Colorado Kids Are Rad (@coloradokidsarerad) Instagram post 2026-10-29; City of Boulder OSMP; AllTrails",
+      "source_accounts": [
+        "@coloradokidsarerad"
+      ],
+      "links": [
+        {
+          "label": "CKAR Flatirons Vista Halloween hike (Oct 29)",
+          "url": "https://www.instagram.com/p/DfGZQATxi0k/"
+        },
+        {
+          "label": "City of Boulder: Flatirons Vista Trailhead",
+          "url": "https://bouldercolorado.gov/trailhead/flatirons-vista"
+        },
+        {
+          "label": "City of Boulder: Flatirons Vista North",
+          "url": "https://bouldercolorado.gov/trail/flatirons-vista-north"
+        },
+        {
+          "label": "AllTrails: Flatirons Vista Trail",
+          "url": "https://www.alltrails.com/trail/us/colorado/flatirons-vista-trail"
+        }
+      ],
+      "hours": "Trailhead open 5 AM–11 PM daily; closed when too muddy (check OSMP muddy-trail closures)",
+      "cost": "Free trail; parking fee for vehicles not registered in Boulder County",
+      "toddler_notes": "Restroom at the trailhead. Wide, mostly flat north section; the west part of the south loop is rocky, so a carrier is easier than a stroller. Very little shade and often windy. Small lot (29 spaces), no parking on Hwy 93. Pin is approximate at the trailhead.",
+      "hike": "North side 1.2 mi, easy, wide doubletrack; full loop ~3.3–3.5 mi, ~280 ft gain (City of Boulder / AllTrails)",
+      "tags": [
+        "hike",
+        "trail",
+        "nature",
+        "outdoor",
+        "restrooms",
+        "boulder",
+        "toddler-hike"
+      ],
+      "drive_note": "~23 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~9.1 mi straight-line)",
+      "farther_than_30min": false,
+      "approx_drive_minutes": 23,
+      "straight_line_miles": 9.1
+    },
+    {
+      "id": "little-monkey-bizness-westminster",
+      "name": "Little Monkey Bizness (Westminster)",
+      "lat": 39.962894,
+      "lng": -104.993923,
+      "address": "14693 Orchard Pkwy, Westminster, CO 80023 (The Orchard Town Center)",
+      "why": "Colorado Mama Life Oct 28 mom-owned playdate spots list. Indoor soft play with slides, bounce house, a crawler area, an art room, and a coffee bar. Drop-in open play, no reservation.",
+      "source": "Colorado Mama Life (@coloradomamalife) Instagram post 2026-10-28; Little Monkey Bizness website",
+      "source_accounts": [
+        "@coloradomamalife"
+      ],
+      "links": [
+        {
+          "label": "Colorado Mama Life mom-owned playdates post (Oct 28)",
+          "url": "https://www.instagram.com/p/DfDz8UHxBwB/"
+        },
+        {
+          "label": "Little Monkey Bizness Westminster",
+          "url": "https://www.littlemonkeybizness.com/location/westminster"
+        },
+        {
+          "label": "Open play rules & prices",
+          "url": "https://westminster.monkeybizness.com/open-play/"
+        }
+      ],
+      "hours": "Open play Mon 9 AM–5 PM, Tue–Thu and Sat–Sun 9 AM–1 PM, Fri 9 AM–4 PM (per website; call 303-252-9999 to confirm)",
+      "cost": "9–23 months $14, ages 2–10 $17, adults $5; $12 kids on Tuesdays",
+      "toddler_notes": "Socks required for kids and adults; fill out the waiver online first. Morning-only most days, so it fits before his ~2pm nap wake-up window best as a morning outing. Same-day re-entry allowed.",
+      "tags": [
+        "indoor",
+        "indoor-play",
+        "playground",
+        "westminster"
+      ],
+      "drive_note": "~31 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~13.0 mi straight-line)",
+      "farther_than_30min": true,
+      "approx_drive_minutes": 31,
+      "straight_line_miles": 13.0
     }
   ]
 }
