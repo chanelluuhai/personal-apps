@@ -54,7 +54,7 @@ def words_to_digits(t):
 
 def download(url, ytdlp, tmp):
     out = os.path.join(tmp, "v.%(ext)s")
-    r = subprocess.run([ytdlp, "-q", "--no-warnings", "--no-playlist", "-f", "best[height<=720]/best", "-o", out, url],
+    r = subprocess.run([ytdlp, "-q", "--no-warnings", "--no-playlist", "-f", "best[height<=720]/bv*[height<=720]+ba/b", "--merge-output-format", "mp4", "-o", out, url],
                        capture_output=True, text=True, timeout=300)
     files = [f for f in os.listdir(tmp) if f.startswith("v.")]
     if r.returncode or not files:

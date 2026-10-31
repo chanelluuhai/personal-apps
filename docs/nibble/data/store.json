@@ -7327,6 +7327,106 @@
 },
 "yield": "12"
 },
+"mj-cottage-cheese-pasta-with-pumpkin": {
+"account": "kidfriendly.meals",
+"account_name": "Min Kwon · Kidfriendly Meals",
+"account_url": "https://www.mjandhungryman.com/",
+"category": "pasta",
+"color": "#aa6c2a",
+"creator": "kidfriendly.meals",
+"date": "2026-10-30",
+"extraction": "recipe-page",
+"fetched_at": "2026-10-31T14:41:32+00:00",
+"id": "mj-cottage-cheese-pasta-with-pumpkin",
+"ingredients": [
+"1 teaspoon olive oil",
+"1 pound ground beef",
+"1 small yellow onion (finely chopped)",
+"1 green bell pepper (finely chopped)",
+"1 tablespoon minced garlic (can add less)",
+"3 tablespoons tomato paste",
+"1 teaspoon smoked paprika",
+"1/2 teaspoon cumin",
+"4 cups low sodium beef broth",
+"1 (15 ounce) can tomato sauce",
+"16 ounce medium shell pasta or macaroni",
+"1 (15 ounce) can pumpkin puree",
+"1 cup cottage cheese (can add more)"
+],
+"kind": "creator",
+"mealPrep": false,
+"mealPrep_basis": [],
+"minutes": 30,
+"notes": [],
+"platform": "web",
+"recipePage": "r/mj-cottage-cheese-pasta-with-pumpkin.html",
+"recipeSourceUrl": "https://www.mjandhungryman.com/cottage-cheese-pasta-with-pumpkin/",
+"recipe_from": "recipe page",
+"site": "MJ and Hungryman",
+"site_url": "https://www.mjandhungryman.com/",
+"status": "ok",
+"steps": [
+"Cook the beef - Heat oil in a large, deep skillet or Dutch oven over medium heat. Add the ground beef and cook, breaking it apart with a spoon, until browned. Drain any excess fat.",
+"Add the vegetables and seasonings - Stir in the chopped onion, bell peppers, and minced garlic. Cook for 3–4 minutes, until softened and fragrant. Add the tomato paste, smoked paprika, and cumin, stirring well to coat the beef and veggies.",
+"Add liquids and pasta - Pour in the beef broth and tomato sauce, stirring to combine. Bring the mixture to a boil, then add the uncooked pasta. Reduce the heat to medium-low, cover, and simmer for 10–12 minutes, stirring occasionally, until the pasta is cooked and most of the liquid is absorbed.",
+"Finish with pumpkin and cottage cheese - Stir in the pumpkin puree and cottage cheese until well combined and creamy. Let it cook for another 1–2 minutes to heat through.",
+"Serve and enjoy - Taste and adjust seasoning as needed. Serve warm, topped with freshly cracked black pepper or a sprinkle of parmesan if desired."
+],
+"summary": "This creamy cottage cheese with pumpkin combines ground beef, veggies and pasta in a savory sauce for an easy, protein-packed one-pot dinner.",
+"tags": [
+"dinner",
+"pasta & noodles",
+"one pot"
+],
+"thumb": "thumbs/mj-cottage-cheese-pasta-with-pumpkin.webp",
+"thumb_h": 400,
+"thumb_w": 400,
+"time": "long",
+"time_basis": "recipe says 30 min total",
+"title": "Cottage Cheese Pasta with Pumpkin",
+"url": "https://www.mjandhungryman.com/cottage-cheese-pasta-with-pumpkin/",
+"web": {
+"author": null,
+"cuisine": [
+"American"
+],
+"date": "2026-10-30",
+"description": "This creamy cottage cheese with pumpkin combines ground beef, veggies and pasta in a savory sauce for an easy, protein-packed one-pot dinner.",
+"image": "https://www.mjandhungryman.com/wp-content/uploads/2026/10/cottage-cheese-pasta-2-1.jpg",
+"ingredients": [
+"1 teaspoon olive oil",
+"1 pound ground beef",
+"1 small yellow onion (finely chopped)",
+"1 green bell pepper (finely chopped)",
+"1 tablespoon minced garlic (can add less)",
+"3 tablespoons tomato paste",
+"1 teaspoon smoked paprika",
+"1/2 teaspoon cumin",
+"4 cups low sodium beef broth",
+"1 (15 ounce) can tomato sauce",
+"16 ounce medium shell pasta or macaroni",
+"1 (15 ounce) can pumpkin puree",
+"1 cup cottage cheese (can add more)"
+],
+"keywords": [
+"pumpkin pasta"
+],
+"minutes": 30,
+"name": "Cottage Cheese Pasta with Pumpkin",
+"recipeCategory": [
+"Dinner"
+],
+"steps": [
+"Cook the beef - Heat oil in a large, deep skillet or Dutch oven over medium heat. Add the ground beef and cook, breaking it apart with a spoon, until browned. Drain any excess fat.",
+"Add the vegetables and seasonings - Stir in the chopped onion, bell peppers, and minced garlic. Cook for 3–4 minutes, until softened and fragrant. Add the tomato paste, smoked paprika, and cumin, stirring well to coat the beef and veggies.",
+"Add liquids and pasta - Pour in the beef broth and tomato sauce, stirring to combine. Bring the mixture to a boil, then add the uncooked pasta. Reduce the heat to medium-low, cover, and simmer for 10–12 minutes, stirring occasionally, until the pasta is cooked and most of the liquid is absorbed.",
+"Finish with pumpkin and cottage cheese - Stir in the pumpkin puree and cottage cheese until well combined and creamy. Let it cook for another 1–2 minutes to heat through.",
+"Serve and enjoy - Taste and adjust seasoning as needed. Serve warm, topped with freshly cracked black pepper or a sprinkle of parmesan if desired."
+],
+"yield": "6"
+},
+"yield": "6"
+},
 "mj-cottage-cheese-protein-wraps": {
 "account": "kidfriendly.meals",
 "account_name": "Min Kwon · Kidfriendly Meals",
@@ -19439,6 +19539,104 @@
 },
 "yield": "5"
 },
+"pe-graveyard-pudding-cups": {
+"account": "thepickyeater",
+"account_name": "Anjali Shah · The Picky Eater",
+"account_url": "https://pickyeaterblog.com/",
+"category": "sweet",
+"color": "#363335",
+"creator": "thepickyeater",
+"date": "2026-10-28",
+"extraction": "recipe-page",
+"fetched_at": "2026-10-31T14:41:45+00:00",
+"id": "pe-graveyard-pudding-cups",
+"ingredients": [
+"1/2 cup corn starch",
+"1/4 cup water",
+"4 1/2 cups unsweetened soy milk",
+"1 tsp vanilla extract",
+"3/4 cup raw sugar",
+"3/4 cup cacao powder",
+"2 vegan graham crackers (broken into quarters)",
+"black decorating gel (or dairy free chocolate melted)",
+"12 Oreo cookies"
+],
+"kind": "creator",
+"mealPrep": false,
+"mealPrep_basis": [],
+"minutes": 40,
+"notes": [],
+"platform": "web",
+"recipePage": "r/pe-graveyard-pudding-cups.html",
+"recipeSourceUrl": "https://pickyeaterblog.com/graveyard-pudding-cups/",
+"recipe_from": "recipe page",
+"site": "The Picky Eater",
+"site_url": "https://pickyeaterblog.com/",
+"status": "ok",
+"steps": [
+"Whisk together the cornstarch and water to form a paste in a small bowl.",
+"In a large saucepan over medium heat, combine the cornstarch slurry, soy milk, vanilla extract, sugar, and cacao powder. Stir consistently until it comes to a boil.",
+"Reduce the heat and continue to cook and stir until the pudding thickens.",
+"Remove the pan from the heat. Pudding will continue to thicken as it cools. Allow it to cool to room temperature for 5 minutes, then place it in the refrigerator to cool completely.",
+"While the pudding is cooling, remove the cream filling from the chocolate Oreo cookies. Place it in the food processor and pulse until crumbly.",
+"Break each large vegan graham crackers into four separate pieces. Shave off the top using a butter knife to round the edges. With a black gel decorating pen, carefully write the letters RIP, or whatever other message you like.",
+"Once the pudding has cooled, transfer it to individual cups or jars. Top it with the chocolate cookie dirt, graham cracker tombstone, and any other additional decorations you'd like."
+],
+"summary": "Halloween celebrations become even more memorable when these vegan graveyard pudding cups make a spooky appearance on the dessert table. Creamy chocolate pudding, crunchy chocolate cookie crumbs, and …",
+"tags": [
+"snack",
+"sweet"
+],
+"thumb": "thumbs/pe-graveyard-pudding-cups.webp",
+"thumb_h": 400,
+"thumb_w": 400,
+"time": "long",
+"time_basis": "recipe says 40 min total",
+"title": "Vegan Graveyard Pudding Cups",
+"url": "https://pickyeaterblog.com/graveyard-pudding-cups/",
+"web": {
+"author": "Anjali Shah",
+"cuisine": [
+"American"
+],
+"date": "2026-10-28",
+"description": "Halloween celebrations become even more memorable when these vegan graveyard pudding cups make a spooky appearance on the dessert table. Creamy chocolate pudding, crunchy chocolate cookie crumbs, and playful graham cracker headstones create a festive treat that takes just 40 minutes to make with no baking required!",
+"image": "https://pickyeaterblog.com/wp-content/uploads/2020/07/graveyard-pudding-8.jpg",
+"ingredients": [
+"1/2 cup corn starch",
+"1/4 cup water",
+"4 1/2 cups unsweetened soy milk",
+"1 tsp vanilla extract",
+"3/4 cup raw sugar",
+"3/4 cup cacao powder",
+"2 vegan graham crackers (broken into quarters)",
+"black decorating gel (or dairy free chocolate melted)",
+"12 Oreo cookies"
+],
+"keywords": [
+"graveyard pudding cups",
+"halloween dirt cups",
+"vegan graveyeard pudding cups",
+"vegan pudding cups"
+],
+"minutes": 40,
+"name": "Vegan Graveyard Pudding Cups",
+"recipeCategory": [
+"Dessert"
+],
+"steps": [
+"Whisk together the cornstarch and water to form a paste in a small bowl.",
+"In a large saucepan over medium heat, combine the cornstarch slurry, soy milk, vanilla extract, sugar, and cacao powder. Stir consistently until it comes to a boil.",
+"Reduce the heat and continue to cook and stir until the pudding thickens.",
+"Remove the pan from the heat. Pudding will continue to thicken as it cools. Allow it to cool to room temperature for 5 minutes, then place it in the refrigerator to cool completely.",
+"While the pudding is cooling, remove the cream filling from the chocolate Oreo cookies. Place it in the food processor and pulse until crumbly.",
+"Break each large vegan graham crackers into four separate pieces. Shave off the top using a butter knife to round the edges. With a black gel decorating pen, carefully write the letters RIP, or whatever other message you like.",
+"Once the pudding has cooled, transfer it to individual cups or jars. Top it with the chocolate cookie dirt, graham cracker tombstone, and any other additional decorations you'd like."
+],
+"yield": "8"
+},
+"yield": "8"
+},
 "pe-greek-lentil-soup-fakes": {
 "account": "thepickyeater",
 "account_name": "Anjali Shah · The Picky Eater",
@@ -19557,6 +19755,172 @@
 "yield": "5"
 },
 "yield": "5"
+},
+"pe-halloween-chocolate-apples": {
+"account": "thepickyeater",
+"account_name": "Anjali Shah · The Picky Eater",
+"account_url": "https://pickyeaterblog.com/",
+"category": "sweet",
+"color": "#50504c",
+"creator": "thepickyeater",
+"date": "2026-10-30",
+"extraction": "recipe-page",
+"fetched_at": "2026-10-31T14:41:40+00:00",
+"id": "pe-halloween-chocolate-apples",
+"ingredients": [
+"2 large apples",
+"10 ounces semi-sweet chocolate chips",
+"16 candy eyes",
+"Sprinkles"
+],
+"kind": "creator",
+"mealPrep": false,
+"mealPrep_basis": [],
+"minutes": 20,
+"notes": [],
+"platform": "web",
+"recipePage": "r/pe-halloween-chocolate-apples.html",
+"recipeSourceUrl": "https://pickyeaterblog.com/halloween-chocolate-apples/",
+"recipe_from": "recipe page",
+"site": "The Picky Eater",
+"site_url": "https://pickyeaterblog.com/",
+"status": "ok",
+"steps": [
+"Slice your large apples into thin slices. To avoid the core, I make two slices on each side of the apples.",
+"Melt your chocolate chips in a glass bowl in the microwave in 30-second increments, stirring with a spatula between each increment until the chocolate is melted and smooth.",
+"Add your apple slices one at a time to the bowl of melted chocolate. Using a spoon or spatula coat the apple slice with chocolate.",
+"Using your fingers or tongs, place the apple slices on a baking sheet lined with parchment paper. Immediately add the candy eyes, and sprinkles before the chocolate has a chance to set.",
+"Place a popsicle stick under the chocolate apple slice so that the melted chocolate covers the stick. Alternatively, you can cut a small hole in the bottom of the apple slice to make room for the popsicle stick to glide it into place.",
+"Transfer the chocolate apple slices to the refrigerator for 10 minutes to set. Serve and enjoy!"
+],
+"summary": "If you want an easy and festive treat for your next Halloween party, look no further. Crisp apples, rich dark chocolate, and colorful Halloween sprinkles make these Halloween chocolate apples a fan fa…",
+"tags": [
+"snack",
+"sweet"
+],
+"thumb": "thumbs/pe-halloween-chocolate-apples.webp",
+"thumb_h": 400,
+"thumb_w": 400,
+"time": "quick",
+"time_basis": "recipe says 20 min total",
+"title": "Halloween Chocolate Apples",
+"url": "https://pickyeaterblog.com/halloween-chocolate-apples/",
+"web": {
+"author": null,
+"cuisine": [
+"American"
+],
+"date": "2026-10-30",
+"description": "If you want an easy and festive treat for your next Halloween party, look no further. Crisp apples, rich dark chocolate, and colorful Halloween sprinkles make these Halloween chocolate apples a fan favorite every year. I prepare them in just 20 minutes and turn simple ingredients into a showstopping dessert that is much healthier than most commercial candies.",
+"image": "https://pickyeaterblog.com/wp-content/uploads/2022/10/chocolate-apple-slices-9.jpg",
+"ingredients": [
+"2 large apples",
+"10 ounces semi-sweet chocolate chips",
+"16 candy eyes",
+"Sprinkles"
+],
+"keywords": [
+"halloween chocolate apples"
+],
+"minutes": 20,
+"name": "Halloween Chocolate Apples",
+"recipeCategory": [
+"Dessert"
+],
+"steps": [
+"Slice your large apples into thin slices. To avoid the core, I make two slices on each side of the apples.",
+"Melt your chocolate chips in a glass bowl in the microwave in 30-second increments, stirring with a spatula between each increment until the chocolate is melted and smooth.",
+"Add your apple slices one at a time to the bowl of melted chocolate. Using a spoon or spatula coat the apple slice with chocolate.",
+"Using your fingers or tongs, place the apple slices on a baking sheet lined with parchment paper. Immediately add the candy eyes, and sprinkles before the chocolate has a chance to set.",
+"Place a popsicle stick under the chocolate apple slice so that the melted chocolate covers the stick. Alternatively, you can cut a small hole in the bottom of the apple slice to make room for the popsicle stick to glide it into place.",
+"Transfer the chocolate apple slices to the refrigerator for 10 minutes to set. Serve and enjoy!"
+],
+"yield": "8"
+},
+"yield": "8"
+},
+"pe-halloween-fruit-tray": {
+"account": "thepickyeater",
+"account_name": "Anjali Shah · The Picky Eater",
+"account_url": "https://pickyeaterblog.com/",
+"category": "sweet",
+"color": "#8b5f39",
+"creator": "thepickyeater",
+"date": "2026-10-29",
+"extraction": "recipe-page",
+"fetched_at": "2026-10-31T14:41:42+00:00",
+"id": "pe-halloween-fruit-tray",
+"ingredients": [
+"12 clementines (peeled and separated)",
+"1 cup red grapes (washed and picked off the vine)",
+"1/4 cup blueberries",
+"4 strawberries (halved)",
+"4 slices granny smith apple"
+],
+"kind": "creator",
+"mealPrep": false,
+"mealPrep_basis": [],
+"minutes": 10,
+"notes": [],
+"platform": "web",
+"recipePage": "r/pe-halloween-fruit-tray.html",
+"recipeSourceUrl": "https://pickyeaterblog.com/halloween-fruit-tray/",
+"recipe_from": "recipe page",
+"site": "The Picky Eater",
+"site_url": "https://pickyeaterblog.com/",
+"status": "ok",
+"steps": [
+"Peel clementines and separate them into wedges. Cover tray completely with wedges.",
+"Slice strawberries in half. Arrange into a smile.",
+"Place washed blueberries into the center. Arrange into a circle or triangle for the nose.",
+"Wash grapes. Arrange into two equal circles to make the eyes.",
+"Slice green apple into wedges. Arrange at the top to create the pumpkin stem."
+],
+"summary": "I make basic fruits instantly more festive with a Halloween fruit tray. I arrange clementines, strawberries, grapes, blueberries, and green apple slices into a jack-o'-lantern face that is the perfect…",
+"tags": [
+"snack"
+],
+"thumb": "thumbs/pe-halloween-fruit-tray.webp",
+"thumb_h": 556,
+"thumb_w": 400,
+"time": "quick",
+"time_basis": "recipe says 10 min total",
+"title": "Halloween Fruit Tray",
+"url": "https://pickyeaterblog.com/halloween-fruit-tray/",
+"web": {
+"author": null,
+"cuisine": [
+"American"
+],
+"date": "2026-10-29",
+"description": "I make basic fruits instantly more festive with a Halloween fruit tray. I arrange clementines, strawberries, grapes, blueberries, and green apple slices into a jack-o'-lantern face that is the perfect healthy snack for Halloween parties. It takes just 10 minutes to make and will have everyone intrigued and reaching for fruit.",
+"image": "https://pickyeaterblog.com/wp-content/uploads/2020/07/pumpkin-fruit-tray-8.jpg",
+"ingredients": [
+"12 clementines (peeled and separated)",
+"1 cup red grapes (washed and picked off the vine)",
+"1/4 cup blueberries",
+"4 strawberries (halved)",
+"4 slices granny smith apple"
+],
+"keywords": [
+"halloween fruit tray",
+"pumpkin fruit tray"
+],
+"minutes": 10,
+"name": "Halloween Fruit Tray",
+"recipeCategory": [
+"Appetizer"
+],
+"steps": [
+"Peel clementines and separate them into wedges. Cover tray completely with wedges.",
+"Slice strawberries in half. Arrange into a smile.",
+"Place washed blueberries into the center. Arrange into a circle or triangle for the nose.",
+"Wash grapes. Arrange into two equal circles to make the eyes.",
+"Slice green apple into wedges. Arrange at the top to create the pumpkin stem."
+],
+"yield": "12"
+},
+"yield": "12"
 },
 "pe-halloween-pumpkin-quesadillas": {
 "account": "thepickyeater",
@@ -20658,6 +21022,187 @@
 "Sprinkle 1 cup of the Parmesan cheese (Or Italian Cheese blend) all over the top.",
 "Cover with foil and bake at 350 degrees for 30 min.",
 "Uncover and bake for 5 min. longer until the cheese has melted."
+],
+"yield": "12"
+},
+"yield": "12"
+},
+"pe-hocus-pocus-punch": {
+"account": "thepickyeater",
+"account_name": "Anjali Shah · The Picky Eater",
+"account_url": "https://pickyeaterblog.com/",
+"category": "meal",
+"color": "#984a38",
+"creator": "thepickyeater",
+"date": "2026-10-30",
+"extraction": "recipe-page",
+"fetched_at": "2026-10-31T14:41:38+00:00",
+"id": "pe-hocus-pocus-punch",
+"ingredients": [
+"4 cups orange juice",
+"2 cups pineapple juice",
+"1 liter lemon lime soda (or ginger ale)",
+"1/2 cup grenadine syrup",
+"1 cup coconut milk",
+"1 cup ice",
+"orange slices (for garnish)"
+],
+"kind": "creator",
+"mealPrep": true,
+"mealPrep_basis": [
+"steps mention freezing / make-ahead"
+],
+"minutes": 7,
+"notes": [],
+"platform": "web",
+"recipePage": "r/pe-hocus-pocus-punch.html",
+"recipeSourceUrl": "https://pickyeaterblog.com/hocus-pocus-punch/",
+"recipe_from": "recipe page",
+"site": "The Picky Eater",
+"site_url": "https://pickyeaterblog.com/",
+"status": "ok",
+"steps": [
+"Combine the orange juice and pineapple juice in a large punch bowl.",
+"Slowly pour in the lemon-lime soda.",
+"Gently pour the grenadine syrup into the punch.",
+"Carefully open a can of coconut milk (don't shake it). Scoop out a few spoonfuls of the thick cream from the top and place them on a plate. Put the plate in the freezer for 15 minutes to firm up the coconut cream. Once the coconut cream is slightly firm, fluff it up with a fork. This will create a cloud-like texture. Gently place the fluffed coconut cream on top of the punch to create a foggy appearance.",
+"Add plastic spiders or worms to the side of the punch bowl for a creepy touch. You can also float orange or lime slices on the surface for a colorful and eerie garnish.",
+"Add ice to the punch to keep it cool and refreshing."
+],
+"summary": "My Hocus Pocus Punch is a spooky Halloween drink made with orange juice, pineapple juice, and grenadine for a bright and fruity punch with a creepy look. I top each glass with a little coconut cream f…",
+"tags": [],
+"thumb": "thumbs/pe-hocus-pocus-punch.webp",
+"thumb_h": 400,
+"thumb_w": 400,
+"time": "quick",
+"time_basis": "recipe says 7 min total",
+"title": "Hocus Pocus Punch",
+"url": "https://pickyeaterblog.com/hocus-pocus-punch/",
+"web": {
+"author": "Anjali Shah",
+"cuisine": [
+"American"
+],
+"date": "2026-10-30",
+"description": "My Hocus Pocus Punch is a spooky Halloween drink made with orange juice, pineapple juice, and grenadine for a bright and fruity punch with a creepy look. I top each glass with a little coconut cream fog and add orange slices for a festive drink that takes just 15 minutes to make.",
+"image": "https://pickyeaterblog.com/wp-content/uploads/2023/09/hocus-pocus-punch-FI.jpg",
+"ingredients": [
+"4 cups orange juice",
+"2 cups pineapple juice",
+"1 liter lemon lime soda (or ginger ale)",
+"1/2 cup grenadine syrup",
+"1 cup coconut milk",
+"1 cup ice",
+"orange slices (for garnish)"
+],
+"keywords": [
+"hocus pocus punch"
+],
+"minutes": 7,
+"name": "Hocus Pocus Punch",
+"recipeCategory": [
+"Drinks"
+],
+"steps": [
+"Combine the orange juice and pineapple juice in a large punch bowl.",
+"Slowly pour in the lemon-lime soda.",
+"Gently pour the grenadine syrup into the punch.",
+"Carefully open a can of coconut milk (don't shake it). Scoop out a few spoonfuls of the thick cream from the top and place them on a plate. Put the plate in the freezer for 15 minutes to firm up the coconut cream. Once the coconut cream is slightly firm, fluff it up with a fork. This will create a cloud-like texture. Gently place the fluffed coconut cream on top of the punch to create a foggy appearance.",
+"Add plastic spiders or worms to the side of the punch bowl for a creepy touch. You can also float orange or lime slices on the surface for a colorful and eerie garnish.",
+"Add ice to the punch to keep it cool and refreshing."
+],
+"yield": "16"
+},
+"yield": "16"
+},
+"pe-hocus-pocus-snack-board": {
+"account": "thepickyeater",
+"account_name": "Anjali Shah · The Picky Eater",
+"account_url": "https://pickyeaterblog.com/",
+"category": "sweet",
+"color": "#867262",
+"creator": "thepickyeater",
+"date": "2026-10-29",
+"extraction": "recipe-page",
+"fetched_at": "2026-10-31T14:41:41+00:00",
+"id": "pe-hocus-pocus-snack-board",
+"ingredients": [
+"3 rice cakes (plain)",
+"6 blueberries (for the eyes)",
+"3 cashews (for the noses)",
+"3 pepper slices (for the mouth)",
+"1 white peach (cut into thin slices)",
+"1 pint raspberries",
+"1 pint blackberries",
+"1 1/2 cups concord grapes",
+"1 1/2 cups green grapes",
+"1 1/2 cups red grapes"
+],
+"kind": "creator",
+"mealPrep": false,
+"mealPrep_basis": [],
+"minutes": 15,
+"notes": [],
+"platform": "web",
+"recipePage": "r/pe-hocus-pocus-snack-board.html",
+"recipeSourceUrl": "https://pickyeaterblog.com/hocus-pocus-snack-board/",
+"recipe_from": "recipe page",
+"site": "The Picky Eater",
+"site_url": "https://pickyeaterblog.com/",
+"status": "ok",
+"steps": [
+"Wash and dry all of your fruit before beginning. Pull the grapes from their stems.",
+"Make the Faces: This is the most important part! Arrange the three rice cakes on your board. I like to stagger them. Place two blueberries for eyes on each of the rice cakes. Add the cashew for the nose, the sliced pepper for the mouth, and the olive slices for the eyebrows.",
+"Add the Hair: Place the thin peach slices in a cascade from the top of the first rice cake to the middle to create Sarah's hair. Layer the peach slices for a better effect. Now, arrange the raspberries in two cone shapes on top of the third rice cake. I start with four raspberries on each side, followed by three, two, and one. For Mary's hair, use the blackberries to shape a swirling cone on the third rice cake. Add some blueberries or concord grapes to add texture and fill any holes.",
+"Add the Bodies/Dress: First, add the concord grapes for Sarah's dress. Add as many as you like in a triangular shape trying to fill in any gaps or holes. Next, add the green grapes for Winifred's dress in the same manor, followed my using the red grapes for Mary's dress.",
+"Filling in the Background: If you have space on your platter, you can fill it with other ingredients. I suggest black olives on the top of the platter for a night sky and pretzels on the bottom for the ground. This is optional. You could add some small pumpkins to the platter to give it an autumn vibe. Serve and enjoy!"
+],
+"summary": "If you love all things Halloween, you are going to love this Hocus Pocus snack board. I pay tribute to the Sanderson sisters and recreate their likeness using rice cakes and colorful fruits like blueb…",
+"tags": [
+"snack"
+],
+"thumb": "thumbs/pe-hocus-pocus-snack-board.webp",
+"thumb_h": 400,
+"thumb_w": 400,
+"time": "quick",
+"time_basis": "recipe says 15 min total",
+"title": "Hocus Pocus Snack Board",
+"url": "https://pickyeaterblog.com/hocus-pocus-snack-board/",
+"web": {
+"author": null,
+"cuisine": [
+"American"
+],
+"date": "2026-10-29",
+"description": "If you love all things Halloween, you are going to love this Hocus Pocus snack board. I pay tribute to the Sanderson sisters and recreate their likeness using rice cakes and colorful fruits like blueberries, raspberries, blackberries, and peaches. In just 15 minutes, I have a healthy and fun snack that looks like it was made with a touch of sorcery.",
+"image": "https://pickyeaterblog.com/wp-content/uploads/2023/09/hocus-pocus-snack-board-2.jpg",
+"ingredients": [
+"3 rice cakes (plain)",
+"6 blueberries (for the eyes)",
+"3 cashews (for the noses)",
+"3 pepper slices (for the mouth)",
+"1 white peach (cut into thin slices)",
+"1 pint raspberries",
+"1 pint blackberries",
+"1 1/2 cups concord grapes",
+"1 1/2 cups green grapes",
+"1 1/2 cups red grapes"
+],
+"keywords": [
+"hocus pocus snack board",
+"hocus pocus snack ideas"
+],
+"minutes": 15,
+"name": "Hocus Pocus Snack Board",
+"recipeCategory": [
+"Appetizer"
+],
+"steps": [
+"Wash and dry all of your fruit before beginning. Pull the grapes from their stems.",
+"Make the Faces: This is the most important part! Arrange the three rice cakes on your board. I like to stagger them. Place two blueberries for eyes on each of the rice cakes. Add the cashew for the nose, the sliced pepper for the mouth, and the olive slices for the eyebrows.",
+"Add the Hair: Place the thin peach slices in a cascade from the top of the first rice cake to the middle to create Sarah's hair. Layer the peach slices for a better effect. Now, arrange the raspberries in two cone shapes on top of the third rice cake. I start with four raspberries on each side, followed by three, two, and one. For Mary's hair, use the blackberries to shape a swirling cone on the third rice cake. Add some blueberries or concord grapes to add texture and fill any holes.",
+"Add the Bodies/Dress: First, add the concord grapes for Sarah's dress. Add as many as you like in a triangular shape trying to fill in any gaps or holes. Next, add the green grapes for Winifred's dress in the same manor, followed my using the red grapes for Mary's dress.",
+"Filling in the Background: If you have space on your platter, you can fill it with other ingredients. I suggest black olives on the top of the platter for a night sky and pretzels on the bottom for the ground. This is optional. You could add some small pumpkins to the platter to give it an autumn vibe. Serve and enjoy!"
 ],
 "yield": "12"
 },
@@ -26814,6 +27359,154 @@
 "yield": "36"
 },
 "yield": "36"
+},
+"pe-vegan-halloween-cupcakes": {
+"account": "thepickyeater",
+"account_name": "Anjali Shah · The Picky Eater",
+"account_url": "https://pickyeaterblog.com/",
+"category": "sweet",
+"color": "#716359",
+"creator": "thepickyeater",
+"date": "2026-10-28",
+"extraction": "recipe-page",
+"fetched_at": "2026-10-31T14:41:44+00:00",
+"id": "pe-vegan-halloween-cupcakes",
+"ingredients": [
+"1 cup non-dairy milk",
+"1 tsp apple cider vinegar",
+"1 cup all purpose flour",
+"1/3 cup cocoa powder",
+"1 tsp baking soda",
+"1/2 tsp baking powder",
+"1/4 tsp salt",
+"3/4 cup cane sugar",
+"1/2 cup vegetable oil",
+"1 tsp vanilla extract",
+"1 cup vegan butter (Earth Balance or similar brand)",
+"3 cups powdered sugar",
+"2 tbsp non-dairy milk",
+"1 tsp vanilla extract",
+"black decorating gel",
+"green food coloring",
+"8 candy eyes",
+"8 dairy free chocolate chips",
+"8 mini dairy free chocolate chips",
+"4 dairy free chocolate chips",
+"4 Oreo cookies (or similar brand)",
+"8 candy eyes",
+"black decorating gel"
+],
+"kind": "creator",
+"mealPrep": false,
+"mealPrep_basis": [],
+"minutes": 78,
+"notes": [],
+"platform": "web",
+"recipePage": "r/pe-vegan-halloween-cupcakes.html",
+"recipeSourceUrl": "https://pickyeaterblog.com/vegan-halloween-cupcakes/",
+"recipe_from": "recipe page",
+"site": "The Picky Eater",
+"site_url": "https://pickyeaterblog.com/",
+"status": "ok",
+"steps": [
+"Preheat oven to 350° F. Combine the non-dairy milk and apple cider vinegar in a bowl. Whisk together and set aside for 10 minutes. This creates vegan buttermilk.",
+"Combine the all-purpose flour, cacao powder, baking soda, baking powder, and salt in a medium bowl. Whisk together to combine.",
+"Combine the vegetable oil, sugar, and vanilla extract in a large bowl. Whisk together to combine. Add the vegan buttermilk. Whisk together until completely combined.",
+"Pour the dry ingredients into the bowl with the wet ingredients. Stir until combined. Don't overmix.",
+"Line the muffin tin with cupcake liners. Fill the liners 3/4 of the way full. Bake for 18-20 minutes or until a toothpick inserted comes out clean. Allow the cupcakes to cool in the tin for 10 minutes, then transfer them to a wire rack to cool completely.",
+"Bring the vegan butter to room temperature. Do not melt the butter. It must be at room temperature.",
+"Whip the butter with a mixer at medium speed until creamy.",
+"Add the powdered sugar 1/2 a cup at a time until it is absorbed before adding the next cup until all of the sugar has been added.",
+"Add the non-dairy milk one tablespoon at a time, whipping as you go. Add the vanilla extract. and continue to whip until the buttercream is light and fluffy.",
+"Transfer 1/3 of the frosting to another bowl. Add the green food coloring and stir until the desired color is achieved.",
+"Top the cupcakes with the green frosting. Smooth the top with a knife so that the frosting is flat on the top. Add black sugar sprinkles to a shallow bowl. Dip the top of the cupcakes in the black sprinkles.",
+"Add two candy eyes to the front and two chocolate chips, flat side out, to the sides. With the black gel pen, draw a line with two lines crossing over to create a scar.",
+"Transfer 1/3 of the vanilla buttercream frosting to a piping bag. Pipe the frosting into a swirl. Add two mini chocolate chips to the center for the eyes and one regular chocolate chip to the center for the mouth.",
+"Twist to separate the Oreo cookies from the cream center. Usually, the cream will stick more to one side. Scrape any extra cream off the side of the cookie with the least amount of cream. Break that cookie in half. Press the two halves to the back of the cookie with the cream.",
+"With the black food gel make two dots for the eyes. Press the candy eyes on the black food gel. This will help them stick.",
+"Draw a smile under the eyes with the black food gel pen.",
+"Frost the cupcake with vanilla frosting so that it's about 3/4 of an inch high. Gently place Oreo bat at the center. The frosting will hold the bat in place.",
+"Using the cream center from the Oreo, roll into small balls. Press mini chocolate chip into the center."
+],
+"summary": "Halloween baking is something I look forward to from the beginning of the year, and these vegan Halloween cupcakes are a huge favorite in my house. I make chocolate cupcakes with a vegan buttercream f…",
+"tags": [
+"snack",
+"sweet"
+],
+"thumb": "thumbs/pe-vegan-halloween-cupcakes.webp",
+"thumb_h": 400,
+"thumb_w": 400,
+"time": "long",
+"time_basis": "recipe says 78 min total",
+"title": "Vegan Halloween Cupcakes",
+"url": "https://pickyeaterblog.com/vegan-halloween-cupcakes/",
+"web": {
+"author": null,
+"cuisine": [
+"American"
+],
+"date": "2026-10-28",
+"description": "Halloween baking is something I look forward to from the beginning of the year, and these vegan Halloween cupcakes are a huge favorite in my house. I make chocolate cupcakes with a vegan buttercream frosting and turn them into spooky ghosts, silly monsters, or adorable Oreo bats. They are light, fluffy, completely vegan, and perfect for a festive Halloween dessert table.",
+"image": "https://pickyeaterblog.com/wp-content/uploads/2020/07/vegan-halloween-cupcakes-FI.jpg",
+"ingredients": [
+"1 cup non-dairy milk",
+"1 tsp apple cider vinegar",
+"1 cup all purpose flour",
+"1/3 cup cocoa powder",
+"1 tsp baking soda",
+"1/2 tsp baking powder",
+"1/4 tsp salt",
+"3/4 cup cane sugar",
+"1/2 cup vegetable oil",
+"1 tsp vanilla extract",
+"1 cup vegan butter (Earth Balance or similar brand)",
+"3 cups powdered sugar",
+"2 tbsp non-dairy milk",
+"1 tsp vanilla extract",
+"black decorating gel",
+"green food coloring",
+"8 candy eyes",
+"8 dairy free chocolate chips",
+"8 mini dairy free chocolate chips",
+"4 dairy free chocolate chips",
+"4 Oreo cookies (or similar brand)",
+"8 candy eyes",
+"black decorating gel"
+],
+"keywords": [
+"bat cupcakes",
+"ghost cupcakes",
+"monster cupcakes",
+"vegan halloween cupcakes"
+],
+"minutes": 78,
+"name": "Vegan Halloween Cupcakes",
+"recipeCategory": [
+"Dessert"
+],
+"steps": [
+"Preheat oven to 350° F. Combine the non-dairy milk and apple cider vinegar in a bowl. Whisk together and set aside for 10 minutes. This creates vegan buttermilk.",
+"Combine the all-purpose flour, cacao powder, baking soda, baking powder, and salt in a medium bowl. Whisk together to combine.",
+"Combine the vegetable oil, sugar, and vanilla extract in a large bowl. Whisk together to combine. Add the vegan buttermilk. Whisk together until completely combined.",
+"Pour the dry ingredients into the bowl with the wet ingredients. Stir until combined. Don't overmix.",
+"Line the muffin tin with cupcake liners. Fill the liners 3/4 of the way full. Bake for 18-20 minutes or until a toothpick inserted comes out clean. Allow the cupcakes to cool in the tin for 10 minutes, then transfer them to a wire rack to cool completely.",
+"Bring the vegan butter to room temperature. Do not melt the butter. It must be at room temperature.",
+"Whip the butter with a mixer at medium speed until creamy.",
+"Add the powdered sugar 1/2 a cup at a time until it is absorbed before adding the next cup until all of the sugar has been added.",
+"Add the non-dairy milk one tablespoon at a time, whipping as you go. Add the vanilla extract. and continue to whip until the buttercream is light and fluffy.",
+"Transfer 1/3 of the frosting to another bowl. Add the green food coloring and stir until the desired color is achieved.",
+"Top the cupcakes with the green frosting. Smooth the top with a knife so that the frosting is flat on the top. Add black sugar sprinkles to a shallow bowl. Dip the top of the cupcakes in the black sprinkles.",
+"Add two candy eyes to the front and two chocolate chips, flat side out, to the sides. With the black gel pen, draw a line with two lines crossing over to create a scar.",
+"Transfer 1/3 of the vanilla buttercream frosting to a piping bag. Pipe the frosting into a swirl. Add two mini chocolate chips to the center for the eyes and one regular chocolate chip to the center for the mouth.",
+"Twist to separate the Oreo cookies from the cream center. Usually, the cream will stick more to one side. Scrape any extra cream off the side of the cookie with the least amount of cream. Break that cookie in half. Press the two halves to the back of the cookie with the cream.",
+"With the black food gel make two dots for the eyes. Press the candy eyes on the black food gel. This will help them stick.",
+"Draw a smile under the eyes with the black food gel pen.",
+"Frost the cupcake with vanilla frosting so that it's about 3/4 of an inch high. Gently place Oreo bat at the center. The frosting will hold the bat in place.",
+"Using the cream center from the Oreo, roll into small balls. Press mini chocolate chip into the center."
+],
+"yield": "12"
+},
+"yield": "12"
 },
 "pe-vegan-lemon-pancakes": {
 "account": "thepickyeater",
@@ -51086,6 +51779,18 @@
 "time_basis": "",
 "title": "This is a place for anyone who’s tired of extreme food rules or complicated…",
 "url": "https://www.tiktok.com/@pickyeaterblog/video/7516654831507885354",
+"video": {
+"checked_at": "2026-10-31T14:50:13+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7516936678385159437": {
@@ -51133,10 +51838,14 @@
 "color": "#7d6563",
 "creator": "thepickyeater",
 "date": "2025-06-19",
-"extraction": "none",
+"extraction": "video-partial",
 "fetched_at": "2026-10-11T21:20:33+00:00",
 "id": "tt-7517712447889771831",
-"ingredients": [],
+"ingredients": [
+"water",
+"milk",
+"seaweed"
+],
 "kind": "creator",
 "links": [],
 "mealPrep": false,
@@ -51146,7 +51855,7 @@
 "page_minutes": null,
 "platform": "tiktok",
 "recipeSourceUrl": null,
-"recipe_from": "caption",
+"recipe_from": "video",
 "status": "ok",
 "steps": [],
 "strict_food": true,
@@ -51159,6 +51868,22 @@
 "time_basis": "",
 "title": "Did any of these ingredients surprise you?",
 "url": "https://www.tiktok.com/@pickyeaterblog/video/7517712447889771831",
+"video": {
+"checked_at": "2026-10-31T14:50:02+00:00",
+"ingredients": [
+"water",
+"milk",
+"seaweed"
+],
+"kind": "video-partial",
+"narration": "Let's see what's inside coffee mate coffee creamer It starts with water sugar and soybean oil and those are the first three ingredients and then dive potassium phosphate Which is a stabilizer that keeps the ingredients from separating myceler case in which is a protein derived from milk That's used to add a creamy texture mono-anti-glycerides and emulsifier to keep the oil and water from separating cellulose gel a thickener cellulose gum another Thickner or stabilizer karygene in which is a thickener that comes from seaweed natural and artificial flavor sucralose and a sulfane potassium which are both artificial sweeteners I'm not sure I'd go to coffee mate coffee creamer as a source of actual coffee creamer",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7517729037066816823": {
@@ -51197,6 +51922,18 @@
 "time_basis": "",
 "title": "Lunch idea for my 10months old in",
 "url": "https://www.tiktok.com/@soniamazri/video/7517729037066816823",
+"video": {
+"checked_at": "2026-10-31T14:50:10+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7518068089183882510": {
@@ -51216,13 +51953,14 @@
 "links": [],
 "mealPrep": false,
 "mealPrep_basis": [],
+"merged_into": "tt-7517712447889771831",
 "minutes": null,
 "notes": [],
 "page_minutes": null,
 "platform": "tiktok",
 "recipeSourceUrl": null,
 "recipe_from": "caption",
-"status": "ok",
+"status": "merged",
 "steps": [],
 "strict_food": true,
 "summary": "What do you use to get your electrolytes?",
@@ -51234,6 +51972,18 @@
 "time_basis": "",
 "title": "Did any of these ingredients surprise you?",
 "url": "https://www.tiktok.com/@pickyeaterblog/video/7518068089183882510",
+"video": {
+"checked_at": "2026-10-31T14:49:56+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "Let's see what's inside orange Gatorade. It starts with water, sugar, and then dextrose, which is another type of processed sugar, and those are the first three ingredients. And then citric acid and sodium citrate, which are types of preservatives derived from citrus fruits. Salt for electrolytes. Monopotassium phosphate, which is adds potassium, another electrolyte. Gum arabic, which is used as a stabilizer and an emulsifier to keep the ingredients from separating. Natural flavors. Sucrose acetate isobuterate, which is also used as an emulsifier to keep the ingredients from separating. Glycerol ester of rosin, another stabilizer and emulsifier. And yellow six, which is artificial food coloring. I'm not sure I would go to Gatorade as a source of electrolytes.",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7519214464986582286": {
@@ -51272,6 +52022,18 @@
 "time_basis": "",
 "title": "10months old dinner recipe idea",
 "url": "https://www.tiktok.com/@soniamazri/video/7519214464986582286",
+"video": {
+"checked_at": "2026-10-31T14:49:50+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7519954887963102519": {
@@ -51291,13 +52053,14 @@
 "links": [],
 "mealPrep": false,
 "mealPrep_basis": [],
+"merged_into": "tt-7554129068510252301",
 "minutes": null,
 "notes": [],
 "page_minutes": null,
 "platform": "tiktok",
 "recipeSourceUrl": null,
 "recipe_from": "caption",
-"status": "ok",
+"status": "merged",
 "steps": [],
 "summary": "",
 "tags": [],
@@ -51308,6 +52071,18 @@
 "time_basis": "",
 "title": "Everything my 10months old ate today",
 "url": "https://www.tiktok.com/@soniamazri/video/7519954887963102519",
+"video": {
+"checked_at": "2026-10-31T14:43:53+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "I spy with my little tight eye, tiny as a firefly, a pebble that we picked up last July. Down deep inside your pocket, we almost forgot it, does it ever miss with glows sometimes?",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7523300988233518350": {
@@ -51346,6 +52121,18 @@
 "time_basis": "",
 "title": "Let’s make my lunch for my 11 months old",
 "url": "https://www.tiktok.com/@soniamazri/video/7523300988233518350",
+"video": {
+"checked_at": "2026-10-31T14:43:41+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7528394612453412127": {
@@ -51376,6 +52163,7 @@
 "summary": "Those extra hours of sunshine make everything sweeter, from a (totally unfair) basketball game to sharing mini Blue Bunny treats @Blue Bunny Our go-to is the Mini Swirls: a convenient, snack-sized cone that’s just the ri…",
 "tags": [
 "snack",
+"sweet",
 "finger food"
 ],
 "thumb": "thumbs/tt-7528394612453412127.webp",
@@ -51385,6 +52173,18 @@
 "time_basis": "",
 "title": "As working parents, we cherish these summer evenings with our little one",
 "url": "https://www.tiktok.com/@mini.tiger.zen/video/7528394612453412127",
+"video": {
+"checked_at": "2026-10-31T14:43:30+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "My husband and I both finished work around six so these summer evenings are extra special to us. We get to enjoy the sun a little longer with our three-year-old and make time for some fun like a totally unfair game of basketball and a mini blue bunny treat outside. These frozen treats are perfectly sized for little hands, full of flavor and just the right amount of sweet.",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7528872509832285471": {
@@ -51425,6 +52225,18 @@
 "time_basis": "",
 "title": "Toddler cookie challenge",
 "url": "https://www.tiktok.com/@mini.tiger.zen/video/7528872509832285471",
+"video": {
+"checked_at": "2026-10-31T14:43:26+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "Oh Well, I have one Should we eat why not wait for what?",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7531833114037898510": {
@@ -51462,6 +52274,18 @@
 "time_basis": "",
 "title": "Did any of these ingredients surprise you?",
 "url": "https://www.tiktok.com/@pickyeaterblog/video/7531833114037898510",
+"video": {
+"checked_at": "2026-10-31T14:43:12+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "Let's see what's inside White Monster. It starts with carbonated water, then citric acid, which is a preservative, then erythritol, which is a sugar, alcohol, and artificial sweetener made by fermenting corn or wheat, then torene, which is an amino acid added for mental alertness, sodium citrate, which is a preservative, natural and artificial flavors, Panix ginseng flavor, which comes from the ginseng root, L-carnitine L-tartrate, which is used for energy production, caffeine, sucralose, which is basically Splenda, sorbic acid, which is a preservative, benzoic acid, another preservative, niacinamide, which is a form of vitamin B3, decalcium pantothenate, which is a form of vitamin B5, aculfame potassium, which is an artificial sweetener, inostitol, which is a sugar, alcohol, and sometimes called vitamin B8, pyrodoxine hydrochloride, which is a form of vitamin B6, and cyanobalamin, which is a synthetic form of vitamin B12. If I want caffeine, I think I'll just drink coffee.",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7535184911322352951": {
@@ -51613,6 +52437,18 @@
 "time_basis": "",
 "title": "Lunch idea for 8months+",
 "url": "https://www.tiktok.com/@soniamazri/video/7548940294448876855",
+"video": {
+"checked_at": "2026-10-31T14:42:30+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7549302741449886989": {
@@ -51651,6 +52487,18 @@
 "time_basis": "",
 "title": "I call this immunity snack",
 "url": "https://www.tiktok.com/@soniamazri/video/7549302741449886989",
+"video": {
+"checked_at": "2026-10-31T14:42:26+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7550058172371717390": {
@@ -51687,6 +52535,18 @@
 "time_basis": "",
 "title": "Find more tips in my ebook if you’re about to start solids with your baby",
 "url": "https://www.tiktok.com/@soniamazri/video/7550058172371717390",
+"video": {
+"checked_at": "2026-10-31T14:42:23+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7551595260091141431": {
@@ -51698,10 +52558,13 @@
 "color": "#958c76",
 "creator": "soniamazri_",
 "date": "2025-09-19",
-"extraction": "none",
+"extraction": "video-partial",
 "fetched_at": "2026-10-11T02:23:30+00:00",
 "id": "tt-7551595260091141431",
-"ingredients": [],
+"ingredients": [
+"2cups pasta",
+"1 cup broccoli"
+],
 "kind": "creator",
 "links": [],
 "mealPrep": false,
@@ -51711,7 +52574,7 @@
 "page_minutes": null,
 "platform": "tiktok",
 "recipeSourceUrl": null,
-"recipe_from": "caption",
+"recipe_from": "video",
 "status": "ok",
 "steps": [],
 "summary": "",
@@ -51726,6 +52589,21 @@
 "time_basis": "",
 "title": "You’ll need -2cups pasta of your choice -1 cup broccoli -1 avocado -1tsp flax…",
 "url": "https://www.tiktok.com/@soniamazri/video/7551595260091141431",
+"video": {
+"checked_at": "2026-10-31T14:42:13+00:00",
+"ingredients": [
+"2cups pasta",
+"1 cup broccoli"
+],
+"kind": "video-partial",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7551769972347899149": {
@@ -51764,6 +52642,18 @@
 "time_basis": "",
 "title": "Healthiest blueberries flaxseeds muffin for toddlers",
 "url": "https://www.tiktok.com/@soniamazri/video/7551769972347899149",
+"video": {
+"checked_at": "2026-10-31T14:42:18+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7552289444645145911": {
@@ -51800,6 +52690,18 @@
 "time_basis": "",
 "title": "6 first foods ideas you can try when starting baby led weaning",
 "url": "https://www.tiktok.com/@soniamazri/video/7552289444645145911",
+"video": {
+"checked_at": "2026-10-31T14:42:08+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7553712989090696481": {
@@ -51872,6 +52774,12 @@
 "mealPrep_basis": [],
 "merged_into": "tt-7559682176229313847",
 "minutes": null,
+"mirror": {
+"caption": "Everything my 10months old ate today #babyledweaning #baby #blw #blwideas #babyrecipes #10monthsold #startingsolids ",
+"id": "tt-7519954887963102519",
+"platform": "tiktok",
+"url": "https://www.tiktok.com/@soniamazri/video/7519954887963102519"
+},
 "notes": [],
 "page_minutes": null,
 "platform": "tiktok",
@@ -66643,14 +67551,13 @@
 "links": [],
 "mealPrep": false,
 "mealPrep_basis": [],
-"merged_into": "tt-7699351466191998238",
 "minutes": null,
 "notes": [],
 "page_minutes": null,
 "platform": "tiktok",
 "recipeSourceUrl": null,
 "recipe_from": "caption",
-"status": "merged",
+"status": "ok",
 "steps": [],
 "summary": "crunchy, guilt-free late night snack all you need is rice paper, and dried seaweed (make sure you get the korean ones, they are the BEST) for these crunchy chips momlife easy recipes",
 "tags": [
@@ -66746,13 +67653,14 @@
 "links": [],
 "mealPrep": false,
 "mealPrep_basis": [],
+"merged_into": "tt-7699341759779736863",
 "minutes": null,
 "notes": [],
 "page_minutes": null,
 "platform": "tiktok",
 "recipeSourceUrl": null,
 "recipe_from": "caption",
-"status": "ok",
+"status": "merged",
 "steps": [],
 "summary": "crunchy, guilt-free late night snack all you need is rice paper, and dried seaweed (make sure you get the korean ones, they are the BEST) for these crunchy chips momlife easy recipes",
 "tags": [
@@ -66770,6 +67678,57 @@
 "ingredients": [],
 "kind": "none",
 "narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
+"yield": null
+},
+"tt-7702652540185234701": {
+"account": "busymamaeasybites",
+"account_name": "Busymamaeasybites",
+"account_url": "https://www.tiktok.com/@busymamaeasybites",
+"caption": "#MyGerberPartner 🎃👻 My first time putting together Halloween boo bags for my toddler’s daycare class, and I couldn’t be more excited! 🥹🧡 Since our little ones aren’t quite ready for all the Halloween candy, I wanted to make something festive, fun, and toddler-friendly! We filled their boo bags with @Gerber fall-inspired Puffs and yummy grain bars for a little Halloween treat! 🍂 Here’s to sweet memories, happy little tummies, and lots of Halloween fun! 🧡 #GerberPartner #Ad #ToddlerHalloween #BooBags ",
+"category": "sweet",
+"color": "#8d8379",
+"creator": "busymamaeasybites",
+"date": "2026-10-31",
+"extraction": "none",
+"fetched_at": "2026-10-31T14:40:02+00:00",
+"id": "tt-7702652540185234701",
+"ingredients": [],
+"kind": "creator",
+"links": [],
+"mealPrep": false,
+"mealPrep_basis": [],
+"minutes": null,
+"notes": [],
+"page_minutes": null,
+"platform": "tiktok",
+"recipeSourceUrl": null,
+"recipe_from": "caption",
+"status": "ok",
+"steps": [],
+"summary": "My first time putting together Halloween boo bags for my toddler’s daycare class, and I couldn’t be more excited! Since our little ones aren’t quite ready for all the Halloween candy, I wanted to make something festive, …",
+"tags": [
+"snack",
+"sweet"
+],
+"thumb": "thumbs/tt-7702652540185234701.webp",
+"thumb_h": 711,
+"thumb_w": 400,
+"time": "unknown",
+"time_basis": "",
+"title": "We filled their boo bags with @Gerber fall-inspired Puffs and yummy grain…",
+"url": "https://www.tiktok.com/@busymamaeasybites/video/7702652540185234701",
+"video": {
+"checked_at": "2026-10-31T14:42:04+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "Come make some Halloween boo bags with me for my toddler's daycare fall party. I'm partnering with Gerber to put together some goodies for all her classmates. I'm including some fun toys with Gerber's fall-inspired puffs and grain bars. As a first-time mom, I was so excited to make these baggies for my toddler's daycare class since they're too young for candy and I wanted to fill them with toddler-friendly treats. I know all of these Gerber snacks will be a hit because my toddler crushes them every time. And just like that, our boo bags are ready. A few surprises, some yummy Gerber snacks, and lots of Halloween excitement.",
 "onscreen": [],
 "steps": [],
 "tools": [
@@ -68492,6 +69451,18 @@
 "time_basis": "",
 "title": "The easiest peach simple syrup - perfect for summer",
 "url": "https://www.youtube.com/shorts/1uvZiG4VkKU",
+"video": {
+"checked_at": "2026-10-31T14:48:42+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "yt-23-iVQ20pwc": {
@@ -68530,6 +69501,18 @@
 "time_basis": "says 5 min",
 "title": "5 Minute Biscoff Mug Cake",
 "url": "https://www.youtube.com/shorts/23-iVQ20pwc",
+"video": {
+"checked_at": "2026-10-31T14:48:30+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "yt-29a5SjaVcbM": {
@@ -68794,6 +69777,18 @@
 "time_basis": "",
 "title": "The creamiest dreamiest lavender honey latte",
 "url": "https://www.youtube.com/shorts/3xtYbDQ5V90",
+"video": {
+"checked_at": "2026-10-31T14:49:47+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "yt-4HelJixwbDQ": {
@@ -69264,10 +70259,13 @@
 "color": "#948c87",
 "creator": "thepickyeater",
 "date": "2025-08-12",
-"extraction": "none",
+"extraction": "video-partial",
 "fetched_at": "2026-10-11T21:12:33+00:00",
 "id": "yt-8jjSoAHHdsk",
-"ingredients": [],
+"ingredients": [
+"chocolate",
+"oats"
+],
 "kind": "creator",
 "links": [],
 "mealPrep": false,
@@ -69277,7 +70275,7 @@
 "page_minutes": null,
 "platform": "youtube",
 "recipeSourceUrl": null,
-"recipe_from": "caption",
+"recipe_from": "video",
 "status": "ok",
 "steps": [],
 "summary": "!! Dessert for breakfast!",
@@ -69293,6 +70291,21 @@
 "time_basis": "",
 "title": "Chocolate Chip Baked Oats",
 "url": "https://www.youtube.com/shorts/8jjSoAHHdsk",
+"video": {
+"checked_at": "2026-10-31T14:48:25+00:00",
+"ingredients": [
+"chocolate",
+"oats"
+],
+"kind": "video-partial",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "yt-8wYJ9f21i-I": {
@@ -69376,10 +70389,15 @@
 "color": "#7a6d6c",
 "creator": "thepickyeater",
 "date": "2025-06-16",
-"extraction": "none",
+"extraction": "video",
 "fetched_at": "2026-10-11T21:14:06+00:00",
 "id": "yt-9uJh7ZXmlEc",
-"ingredients": [],
+"ingredients": [
+"flour",
+"salt",
+"butter",
+"water"
+],
 "kind": "creator",
 "links": [],
 "mealPrep": false,
@@ -69388,10 +70406,18 @@
 "notes": [],
 "page_minutes": null,
 "platform": "youtube",
+"recipePage": "r/yt-9uJh7ZXmlEc.html",
 "recipeSourceUrl": null,
-"recipe_from": "caption",
+"recipe_from": "video",
 "status": "ok",
-"steps": [],
+"steps": [
+"Mix it together, then chill.",
+"The dough for at least an hour so it's easier to roll out, for the filling, simmer frozen cherries with sugar, lemon zest, and a touch of almond extract until it thickens into a sweet, jammy mixture, time to assemble.",
+"Roll out the dough, fill your pie with that luscious cherry filling, and dot it with butter.",
+"Then, create a beautiful lattice top using strips of dough.",
+"Brush it with an egg wash and sprinkle with sugar for a perfectly golden finish, bake until.",
+"Golden brown, and just like that, you have a gorgeous, bakery-worthy cherry pie ready to serve."
+],
 "summary": "This Cherry Pie made with frozen cherries is the perfect dessert any time of the year! With a flaky crust and sweet, vibrant filling, it’s simple to make, and absolutely delicious.",
 "tags": [
 "snack",
@@ -69404,6 +70430,30 @@
 "time_basis": "",
 "title": "Easy Cherry Pie Made With Frozen Cherries",
 "url": "https://www.youtube.com/shorts/9uJh7ZXmlEc",
+"video": {
+"checked_at": "2026-10-31T14:50:21+00:00",
+"ingredients": [
+"flour",
+"salt",
+"butter",
+"water"
+],
+"kind": "video",
+"narration": "No cherries in season? No worries. You can still enjoy a delicious homemade cherry pie using frozen cherries. Let's start with the crust. All you need is flour, sugar, salt, cold butter, and a splash of cold water. Mix it together, then chill. The dough for at least an hour so it's easier to roll out, for the filling, simmer frozen cherries with sugar, lemon zest, and a touch of almond extract until it thickens into a sweet, jammy mixture, time to assemble. Roll out the dough, fill your pie with that luscious cherry filling, and dot it with butter. Then, create a beautiful lattice top using strips of dough. Brush it with an egg wash and sprinkle with sugar for a perfectly golden finish, bake until. Golden brown, and just like that, you have a gorgeous, bakery-worthy cherry pie ready to serve. Grab the full recipe now at pickheaterblog.com.",
+"onscreen": [],
+"steps": [
+"Mix it together, then chill.",
+"The dough for at least an hour so it's easier to roll out, for the filling, simmer frozen cherries with sugar, lemon zest, and a touch of almond extract until it thickens into a sweet, jammy mixture, time to assemble.",
+"Roll out the dough, fill your pie with that luscious cherry filling, and dot it with butter.",
+"Then, create a beautiful lattice top using strips of dough.",
+"Brush it with an egg wash and sprinkle with sugar for a perfectly golden finish, bake until.",
+"Golden brown, and just like that, you have a gorgeous, bakery-worthy cherry pie ready to serve."
+],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "yt-9x4yPWOOxDI": {
@@ -69595,6 +70645,18 @@
 "time_basis": "",
 "title": "Lemon Popsicles: Refreshing & Perfect For Summer",
 "url": "https://www.youtube.com/shorts/CCijquMyXKc",
+"video": {
+"checked_at": "2026-10-31T14:49:04+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "yt-DJM_q4a4Hbo": {
@@ -69900,6 +70962,7 @@
 "summary": "And when you are hungry? Snack smart with simple whole-food pairings Hydration = your secret superpower!",
 "tags": [
 "snack",
+"veggies",
 "dip & spread"
 ],
 "thumb": "thumbs/yt-En5mA4ZYuqY.webp",
@@ -69910,9 +70973,16 @@
 "title": "Veggies + hummus",
 "url": "https://www.youtube.com/shorts/En5mA4ZYuqY",
 "video": {
-"checked_at": "2026-10-17T14:51:43+00:00",
-"error": "ERROR: [youtube] En5mA4ZYuqY: Requested format is not available. Use --list-formats for a list of available formats",
-"kind": "none"
+"checked_at": "2026-10-31T14:47:39+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "Hydrate and snack smart. Now, I think everybody is staying pretty well hydrated. I mean, everyone has a water bottle these days, but really hydration is the key to knowing when you're actually hungry because sometimes when you're feeling hungry, you're actually thirsty. So I always recommend just if you're not already carrying around a water bottle, sticking small sips throughout the day and aiming for at least 64 ounces of water a day. So that's like eight cups of water a day. Drinking water not only provides the benefit of being hydrated, but it helps support energy and digestion. And when it comes to snacks, my biggest tip is to pick something that basically is like one word, like a fruit or a vegetable and then pairing that with something that's a protein. So veggies and hummus, fruit and nuts, or apples and peanut butter, Greek yogurt and fruit. These are all whole food protein pairings that will help keep you full and are healthy options that require no prep.",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
 },
 "yield": null
 },
@@ -70138,9 +71208,16 @@
 "title": "Soup season",
 "url": "https://www.youtube.com/shorts/G39xaHish9o",
 "video": {
-"checked_at": "2026-10-24T14:48:41+00:00",
-"error": "ERROR: [youtube] G39xaHish9o: Requested format is not available. Use --list-formats for a list of available formats",
-"kind": "none"
+"checked_at": "2026-10-31T14:47:22+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
 },
 "yield": null
 },
@@ -70201,7 +71278,7 @@
 "mealPrep_basis": [
 "meal prep"
 ],
-"minutes": null,
+"minutes": 30,
 "notes": [],
 "page_minutes": null,
 "platform": "youtube",
@@ -70212,15 +71289,66 @@
 "summary": "Copycat Chick-Fil-A Kale Salad Recipe! Make Chick-Fil-A’s famous Kale Salad at home in just a few minutes!",
 "tags": [
 "lunch",
-"snack"
+"snack",
+"sweet"
 ],
 "thumb": "thumbs/yt-Gu_FfXMz0nQ.webp",
 "thumb_h": 225,
 "thumb_w": 400,
-"time": "quick",
-"time_basis": "quick",
+"time": "long",
+"time_basis": "says 30 min",
 "title": "Step-by-step easy homemade kale salad",
 "url": "https://www.youtube.com/shorts/Gu_FfXMz0nQ",
+"video": {
+"checked_at": "2026-10-31T14:47:59+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "Did you know you can make Chick-fil-A's kale salad at home? Whisk together apple cider vinegar, lemon juice, maple syrup, Dijon mustard, olive oil, spices for a tangy sweet dressing, chopped kale, shred cabbage, toss with half the dressing, and massage to soften. Chill for 30 minutes. Top with roasted almonds and enjoy a fresh, crunchy, delicious salad. Full recipe in the caption.",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
+"yield": null
+},
+"yt-HIJxqf9l5ro": {
+"account": "Mountain_Mothering",
+"account_name": "Mountain Mothering ",
+"account_url": "https://www.youtube.com/channel/UCq16tPgNuGoaISwMmnZOrBg",
+"caption": "Crunchy brie cheese! Waffle makers are not just for waffles friends! #momof3\nSharing quick, healthy recipes and our time spent outdoors to inspire you to enjoy more toen together with your famiky :)  #outdoorkids #healthrecipe #familytime #stayathomemom",
+"category": "meal",
+"color": "#906a56",
+"creator": "mountain_mothering",
+"date": null,
+"extraction": "none",
+"fetched_at": "2026-10-31T14:41:05+00:00",
+"id": "yt-HIJxqf9l5ro",
+"ingredients": [],
+"kind": "creator",
+"links": [],
+"mealPrep": false,
+"mealPrep_basis": [],
+"minutes": null,
+"notes": [],
+"page_minutes": null,
+"platform": "youtube",
+"recipeSourceUrl": null,
+"recipe_from": "caption",
+"status": "ok",
+"steps": [],
+"summary": "! Waffle makers are not just for waffles friends!",
+"tags": [
+"breakfast"
+],
+"thumb": "thumbs/yt-HIJxqf9l5ro.webp",
+"thumb_h": 225,
+"thumb_w": 400,
+"time": "quick",
+"time_basis": "quick",
+"title": "Crunchy brie cheese",
+"url": "https://www.youtube.com/shorts/HIJxqf9l5ro",
 "yield": null
 },
 "yt-HL8kQND5V5o": {
@@ -70966,6 +72094,45 @@
 "url": "https://www.youtube.com/shorts/MDZZ1usl19s",
 "yield": null
 },
+"yt-MHbtdRUtSHw": {
+"account": "Mountain_Mothering",
+"account_name": "Mountain Mothering ",
+"account_url": "https://www.youtube.com/channel/UCq16tPgNuGoaISwMmnZOrBg",
+"caption": "Welcome to my series of “What my kids actually eat!” This week we made sweet potato gingerbread!\nThese are so delicious and how nourishing to have the fiber and nutrients from the sweet potatoes! \n\nFull recipe below.. always in captjion! \n\nSweet Potato Brown Sugar and Cinnamon Graham Crackers ✨❤️😋   200 g all-purpose flour (about 1⅔ cups) + 2 tablespoons  •  170 g whole wheat flour (about 1½ cups) •  1 tsp baking soda •  1½ tsp cinnamon •  ¼ tsp nutmeg (optional) •  ½ tsp kosher salt •  8 oz (226 g / 2 sticks) unsalted butter, softened •  5 oz (142 g) dark brown sugar, packed •  2 Tbsp maple syrup  •  150 g cooked, mashed sweet potato (about ⅔ cup), cooled and fairly dry(roast or steam, then mash; blot with paper towel if watery) •  Optional topping: 2 Tbsp butter + dark brown sugar + 1½ tsp cinnamon  1.  Heat oven to 350°F. 2.  Whisk both flours, baking soda, cinnamon,, and salt. 3.  Cream butter, brown sugar, and syrup until smooth (not fluffy). 4.  Mix in the mashed sweet potato until even. 5.  Add dry ingredients on low speed. The dough will look crumbly at first, then darken. Squeeze a handful: it should hold like pie dough.  •  Too dry / won’t clump: add 1 Tbsp very soft butter.  •  Too sticky: add 1–2 Tbsp AP flour.Don’t add water or milk. 6.  Divide onto 2 sheets of parchment. Shape each into a compact rectangle. If sticky, chill 30–60 minutes. 7.  Cover with more parchment and roll to about ⅛ inch (3 mm). Peel and smooth the top paper as it wrinkles.  Bake 15-20 minutes - \n\n#sweetpotato #healthyfood #healthyrecipes #momof3 #toddlermom",
+"category": "finger",
+"color": "#806151",
+"creator": "mountain_mothering",
+"date": null,
+"extraction": "none",
+"fetched_at": "2026-10-31T14:40:58+00:00",
+"id": "yt-MHbtdRUtSHw",
+"ingredients": [],
+"kind": "creator",
+"links": [],
+"mealPrep": false,
+"mealPrep_basis": [],
+"minutes": 60,
+"notes": [],
+"page_minutes": null,
+"platform": "youtube",
+"recipeSourceUrl": null,
+"recipe_from": "caption",
+"status": "ok",
+"steps": [],
+"summary": "Welcome to my series of “What my kids actually eat!” This week we made sweet potato gingerbread! These are so delicious and how nourishing to have the fiber and nutrients from the sweet potatoes!",
+"tags": [
+"sweet",
+"finger food"
+],
+"thumb": "thumbs/yt-MHbtdRUtSHw.webp",
+"thumb_h": 225,
+"thumb_w": 400,
+"time": "long",
+"time_basis": "says 60 min",
+"title": "Welcome to my series of “What my kids actually eat!” This week we made sweet…",
+"url": "https://www.youtube.com/shorts/MHbtdRUtSHw",
+"yield": null
+},
 "yt-MWBoRqYZXA4": {
 "account": "thepickyeater",
 "account_name": "Anjali Shah",
@@ -71158,6 +72325,18 @@
 "time_basis": "",
 "title": "The Best Healthy Flapjacks (great snack or dessert!)",
 "url": "https://www.youtube.com/shorts/Nr58AS8H5gA",
+"video": {
+"checked_at": "2026-10-31T14:48:19+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "yt-O-VT-zQjp88": {
@@ -71549,7 +72728,7 @@
 "account_name": "Anjali Shah",
 "account_url": "https://www.youtube.com/channel/UC6rFxJxXqjnmfKb4NlVf8Yg",
 "caption": "Easy Berry Simple Syrup! Great for pancakes, waffles and more! #shorts",
-"category": "meal",
+"category": "sweet",
 "color": "#694e4f",
 "creator": "thepickyeater",
 "date": "2025-07-18",
@@ -71570,7 +72749,9 @@
 "status": "ok",
 "steps": [],
 "summary": "Easy Berry Simple Syrup! Great for pancakes, waffles and more!",
-"tags": [],
+"tags": [
+"sweet"
+],
 "thumb": "thumbs/yt-QRuuElHrQIM.webp",
 "thumb_h": 225,
 "thumb_w": 400,
@@ -71578,6 +72759,18 @@
 "time_basis": "",
 "title": "Great for pancakes, waffles and more",
 "url": "https://www.youtube.com/shorts/QRuuElHrQIM",
+"video": {
+"checked_at": "2026-10-31T14:49:16+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "Did you know if you boil water, sugar, blackberries, and lemon juice, then simmer, mash, and strain? You'll get a sweet blackberry syrup that's perfect for pancakes, drinks, or anything in between. Save this for later.",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "yt-QS3a6dYsryc": {
@@ -71773,22 +72966,39 @@
 "color": "#877255",
 "creator": "thepickyeater",
 "date": "2025-08-07",
-"extraction": "none",
+"extraction": "video",
 "fetched_at": "2026-10-11T21:12:42+00:00",
 "id": "yt-RI4eQC5lytw",
-"ingredients": [],
+"ingredients": [
+"flour",
+"baking powder",
+"baking soda",
+"cinnamon",
+"salt",
+"banana",
+"vanilla",
+"milk",
+"bread",
+"butter"
+],
 "kind": "creator",
 "links": [],
 "mealPrep": false,
 "mealPrep_basis": [],
-"minutes": null,
+"minutes": 50,
 "notes": [],
 "page_minutes": null,
 "platform": "youtube",
+"recipePage": "r/yt-RI4eQC5lytw.html",
 "recipeSourceUrl": null,
-"recipe_from": "caption",
+"recipe_from": "video",
 "status": "ok",
-"steps": [],
+"steps": [
+"Did you know if you mix flour, baking powder, baking soda, coconut sugar, cinnamon, nutmeg, and salt?",
+"Then mix mashed banana, oil, vanilla and almond milk.",
+"Fold it all together with chopped walnuts.",
+"Bake for 50 minutes until golden and fluffy."
+],
 "summary": "You have to try this banana bread!",
 "tags": [
 "sweet"
@@ -71796,10 +73006,38 @@
 "thumb": "thumbs/yt-RI4eQC5lytw.webp",
 "thumb_h": 225,
 "thumb_w": 400,
-"time": "unknown",
-"time_basis": "",
+"time": "long",
+"time_basis": "says 50 min",
 "title": "The most moist, sweet, fluffy banana bread ever (and it has no butter!)",
 "url": "https://www.youtube.com/shorts/RI4eQC5lytw",
+"video": {
+"checked_at": "2026-10-31T14:48:49+00:00",
+"ingredients": [
+"flour",
+"baking powder",
+"baking soda",
+"cinnamon",
+"salt",
+"banana",
+"vanilla",
+"milk",
+"bread",
+"butter"
+],
+"kind": "video",
+"narration": "Did you know if you mix flour, baking powder, baking soda, coconut sugar, cinnamon, nutmeg, and salt? Then mix mashed banana, oil, vanilla and almond milk. Fold it all together with chopped walnuts. Bake for 50 minutes until golden and fluffy. You'll have this super moist plant-based banana bread without butter.",
+"onscreen": [],
+"steps": [
+"Did you know if you mix flour, baking powder, baking soda, coconut sugar, cinnamon, nutmeg, and salt?",
+"Then mix mashed banana, oil, vanilla and almond milk.",
+"Fold it all together with chopped walnuts.",
+"Bake for 50 minutes until golden and fluffy."
+],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "yt-S47aZS10DG4": {
@@ -71908,6 +73146,18 @@
 "time_basis": "",
 "title": "McDonald's Hash Browns Copycat Recipe",
 "url": "https://www.youtube.com/shorts/SZ6F74PMja4",
+"video": {
+"checked_at": "2026-10-31T14:48:12+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "yt-T7INcyy_uXw": {
@@ -71927,7 +73177,7 @@
 "links": [],
 "mealPrep": false,
 "mealPrep_basis": [],
-"minutes": 5,
+"minutes": 15,
 "notes": [],
 "page_minutes": null,
 "platform": "youtube",
@@ -71943,9 +73193,21 @@
 "thumb_h": 225,
 "thumb_w": 400,
 "time": "quick",
-"time_basis": "says 5 min",
+"time_basis": "says 15 min",
 "title": "5 Minute Breakfast",
 "url": "https://www.youtube.com/shorts/T7INcyy_uXw",
+"video": {
+"checked_at": "2026-10-31T14:49:24+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "Let's make creamy bananas and cream oatmeal. Start with rolled oats and cook them in water until they're soft and fluffy. Top with bananas, walnuts, spices, salt, coconut sugar, and almond milk. Then stir to bring it all together. It's cozy. Banana bread inspired breakfast. Ready in just 15 minutes? Save this for your next busy morning.",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "yt-T9qrBaDHKug": {
@@ -72065,34 +73327,80 @@
 "color": "#9e6d3a",
 "creator": "thepickyeater",
 "date": "2025-07-20",
-"extraction": "none",
+"extraction": "video",
 "fetched_at": "2026-10-11T21:13:03+00:00",
 "id": "yt-UIC5KEZJF-c",
-"ingredients": [],
+"ingredients": [
+"nut butter",
+"maple syrup",
+"coconut oil",
+"vanilla",
+"rolled oats",
+"flax seeds",
+"dates",
+"bananas",
+"apples",
+"cinnamon",
+"salt"
+],
 "kind": "creator",
 "links": [],
 "mealPrep": false,
 "mealPrep_basis": [],
-"minutes": null,
+"minutes": 15,
 "notes": [],
 "page_minutes": null,
 "platform": "youtube",
+"recipePage": "r/yt-UIC5KEZJF-c.html",
 "recipeSourceUrl": null,
-"recipe_from": "caption",
+"recipe_from": "video",
 "status": "ok",
-"steps": [],
+"steps": [
+"Stir those until smooth.",
+"Then add rolled oats, ground flax seeds, dates, bananas, apples, cinnamon, nutmeg, salt, crushed nuts and mixed seeds.",
+"Mix everything together, bake for 15 minutes and your grab-and-go breakfast is ready."
+],
 "summary": "",
 "tags": [
+"breakfast",
 "snack",
 "sweet"
 ],
 "thumb": "thumbs/yt-UIC5KEZJF-c.webp",
 "thumb_h": 225,
 "thumb_w": 400,
-"time": "unknown",
-"time_basis": "",
+"time": "quick",
+"time_basis": "says 15 min",
 "title": "Healthy Flapjacks (a great snack or dessert!)",
 "url": "https://www.youtube.com/shorts/UIC5KEZJF-c",
+"video": {
+"checked_at": "2026-10-31T14:49:10+00:00",
+"ingredients": [
+"nut butter",
+"maple syrup",
+"coconut oil",
+"vanilla",
+"rolled oats",
+"flax seeds",
+"dates",
+"bananas",
+"apples",
+"cinnamon",
+"salt"
+],
+"kind": "video",
+"narration": "I love making these healthy flapjacks because they are easy, vegan and gluten-free. You need nut butter, maple syrup, coconut oil and vanilla extract. Stir those until smooth. Then add rolled oats, ground flax seeds, dates, bananas, apples, cinnamon, nutmeg, salt, crushed nuts and mixed seeds. Mix everything together, bake for 15 minutes and your grab-and-go breakfast is ready.",
+"onscreen": [],
+"steps": [
+"Stir those until smooth.",
+"Then add rolled oats, ground flax seeds, dates, bananas, apples, cinnamon, nutmeg, salt, crushed nuts and mixed seeds.",
+"Mix everything together, bake for 15 minutes and your grab-and-go breakfast is ready."
+],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "yt-UQaqSinAn6M": {
@@ -72387,6 +73695,45 @@
 "time_basis": "says 2 min",
 "title": "POV: You need a toddler snack in 2 minutes",
 "url": "https://www.youtube.com/shorts/Xjvp3Xhtprc",
+"yield": null
+},
+"yt-XqxqqEeaQEg": {
+"account": "Mountain_Mothering",
+"account_name": "Mountain Mothering ",
+"account_url": "https://www.youtube.com/channel/UCq16tPgNuGoaISwMmnZOrBg",
+"caption": "One quickest breakfast you can make without skipping nutrition!\nThis is another video in my series on What my kids actually eat. It’s about easy, nutrient dense foods that help us spend more time outside and less time worrying about what to cook. \n\nThis is just 5 eggs, whatever cheese you have and veggies. Add bacon, tuna or salmon for extra protein! \n\n#healthymeals #breakfastideas #momof3 #stayathomemom",
+"category": "meal",
+"color": "#856a5c",
+"creator": "mountain_mothering",
+"date": null,
+"extraction": "none",
+"fetched_at": "2026-10-31T14:40:55+00:00",
+"id": "yt-XqxqqEeaQEg",
+"ingredients": [],
+"kind": "creator",
+"links": [],
+"mealPrep": false,
+"mealPrep_basis": [],
+"minutes": null,
+"notes": [],
+"page_minutes": null,
+"platform": "youtube",
+"recipeSourceUrl": null,
+"recipe_from": "caption",
+"status": "ok",
+"steps": [],
+"summary": "This is another video in my series on What my kids actually eat. It’s about easy, nutrient dense foods that help us spend more time outside and less time worrying about what to cook.",
+"tags": [
+"breakfast",
+"seafood"
+],
+"thumb": "thumbs/yt-XqxqqEeaQEg.webp",
+"thumb_h": 225,
+"thumb_w": 400,
+"time": "unknown",
+"time_basis": "",
+"title": "One quickest breakfast you can make without skipping nutrition",
+"url": "https://www.youtube.com/shorts/XqxqqEeaQEg",
 "yield": null
 },
 "yt-YJ0tVrUXytU": {
@@ -73462,7 +74809,7 @@
 "account_name": "Anjali Shah",
 "account_url": "https://www.youtube.com/channel/UC6rFxJxXqjnmfKb4NlVf8Yg",
 "caption": "Healthy French Fries Made With A Secret Ingredient! #shorts\nYou won't believe that these fries are made from Yuca, instead of potatoes!",
-"category": "meal",
+"category": "finger",
 "color": "#9b8651",
 "creator": "thepickyeater",
 "date": "2025-07-16",
@@ -73474,7 +74821,7 @@
 "links": [],
 "mealPrep": false,
 "mealPrep_basis": [],
-"minutes": null,
+"minutes": 30,
 "notes": [],
 "page_minutes": null,
 "platform": "youtube",
@@ -73483,14 +74830,28 @@
 "status": "ok",
 "steps": [],
 "summary": "You won't believe that these fries are made from Yuca, instead of potatoes!",
-"tags": [],
+"tags": [
+"finger food"
+],
 "thumb": "thumbs/yt-ezAiNL9TrcQ.webp",
 "thumb_h": 225,
 "thumb_w": 400,
-"time": "unknown",
-"time_basis": "",
+"time": "long",
+"time_basis": "says 30 min",
 "title": "Healthy French Fries Made With A Secret Ingredient",
 "url": "https://www.youtube.com/shorts/ezAiNL9TrcQ",
+"video": {
+"checked_at": "2026-10-31T14:49:31+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "Let's make crispy yucca fries that are even better than regular fries. Soak the cut yucca sticks in cold water for 15 to 30 minutes. Then boil in salted water until tender. Drain and pat dry. Toss with olive oil and spices. Then air fry at 350 degrees Fahrenheit. For 10 to 15 minutes until golden and crispy. Serve with your favorite dip. Crispy outside, soft inside.",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "yt-f1AiYHs11jU": {
@@ -73502,10 +74863,18 @@
 "color": "#847a72",
 "creator": "thepickyeater",
 "date": "2025-07-24",
-"extraction": "none",
+"extraction": "video",
 "fetched_at": "2026-10-11T21:12:53+00:00",
 "id": "yt-f1AiYHs11jU",
-"ingredients": [],
+"ingredients": [
+"cucumber",
+"spinach",
+"kale",
+"banana",
+"milk",
+"chia seeds",
+"lime"
+],
 "kind": "creator",
 "links": [],
 "mealPrep": false,
@@ -73514,19 +74883,48 @@
 "notes": [],
 "page_minutes": null,
 "platform": "youtube",
+"recipePage": "r/yt-f1AiYHs11jU.html",
 "recipeSourceUrl": null,
-"recipe_from": "caption",
+"recipe_from": "video",
 "status": "ok",
-"steps": [],
+"steps": [
+"Add pineapple, cucumber, spinach, kale, banana, coconut milk, chia seeds, lime, and mint to a blender.",
+"Blend until smooth."
+],
 "summary": "",
-"tags": [],
+"tags": [
+"veggies"
+],
 "thumb": "thumbs/yt-f1AiYHs11jU.webp",
 "thumb_h": 225,
 "thumb_w": 400,
-"time": "unknown",
-"time_basis": "",
+"time": "quick",
+"time_basis": "quick",
 "title": "Refreshing & Easy: Pineapple Cucumber Smoothie",
 "url": "https://www.youtube.com/shorts/f1AiYHs11jU",
+"video": {
+"checked_at": "2026-10-31T14:48:58+00:00",
+"ingredients": [
+"cucumber",
+"spinach",
+"kale",
+"banana",
+"milk",
+"chia seeds",
+"lime"
+],
+"kind": "video",
+"narration": "Let's make a refreshing pineapple cucumber smoothie. Add pineapple, cucumber, spinach, kale, banana, coconut milk, chia seeds, lime, and mint to a blender. Blend until smooth. That's it! Super quick, fresh, and perfect for a healthy boost.",
+"onscreen": [],
+"steps": [
+"Add pineapple, cucumber, spinach, kale, banana, coconut milk, chia seeds, lime, and mint to a blender.",
+"Blend until smooth."
+],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "yt-fCgoM_g0_vg": {
@@ -73795,9 +75193,16 @@
 "title": "Sweet and Spicy Mexican Fruit Salad Recipe",
 "url": "https://www.youtube.com/shorts/hznw4sa8QB4",
 "video": {
-"checked_at": "2026-10-24T14:49:32+00:00",
-"error": "ERROR: [youtube] hznw4sa8QB4: Requested format is not available. Use --list-formats for a list of available formats",
-"kind": "none"
+"checked_at": "2026-10-31T14:47:45+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
 },
 "yield": null
 },
@@ -73838,9 +75243,16 @@
 "title": "Sharing healthy, easy family recipes so you have more time with your kids",
 "url": "https://www.youtube.com/shorts/i2gZSEeaWDM",
 "video": {
-"checked_at": "2026-10-24T14:48:33+00:00",
-"error": "ERROR: [youtube] i2gZSEeaWDM: Requested format is not available. Use --list-formats for a list of available formats",
-"kind": "none"
+"checked_at": "2026-10-31T14:47:17+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "どんぐりを辿ってもつきません 森の小さなレストラン カラーボンのポケットをまっさく打って忘れて",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
 },
 "yield": null
 },
@@ -74396,6 +75808,44 @@
 "url": "https://www.youtube.com/shorts/nKVgJbjb4Bw",
 "yield": null
 },
+"yt-ngPvHDZ47hY": {
+"account": "Mountain_Mothering",
+"account_name": "Mountain Mothering ",
+"account_url": "https://www.youtube.com/channel/UCq16tPgNuGoaISwMmnZOrBg",
+"caption": "More like frozen yogurt but to kids it’s ice cream!\nThis is so quick and easy. \n\nSlice and freeze 3-4 peaches, blend and then add frozen yogurt and maple syrup. That’s it! \n\n#dessertideas #healthysnackideas #healthykids #momof3",
+"category": "meal",
+"color": "#926549",
+"creator": "mountain_mothering",
+"date": null,
+"extraction": "none",
+"fetched_at": "2026-10-31T14:41:08+00:00",
+"id": "yt-ngPvHDZ47hY",
+"ingredients": [],
+"kind": "creator",
+"links": [],
+"mealPrep": true,
+"mealPrep_basis": [
+"freeze"
+],
+"minutes": null,
+"notes": [],
+"page_minutes": null,
+"platform": "youtube",
+"recipeSourceUrl": null,
+"recipe_from": "caption",
+"status": "ok",
+"steps": [],
+"summary": "This is so quick and easy.",
+"tags": [],
+"thumb": "thumbs/yt-ngPvHDZ47hY.webp",
+"thumb_h": 225,
+"thumb_w": 400,
+"time": "quick",
+"time_basis": "quick",
+"title": "More like frozen yogurt but to kids it’s ice cream",
+"url": "https://www.youtube.com/shorts/ngPvHDZ47hY",
+"yield": null
+},
 "yt-oQOGB6Zl9zc": {
 "account": "thepickyeater",
 "account_name": "Anjali Shah",
@@ -74547,9 +75997,16 @@
 "title": "Fudgey Roasted Banana Granola Bars",
 "url": "https://www.youtube.com/shorts/pA4zrHB82jo",
 "video": {
-"checked_at": "2026-10-24T14:48:44+00:00",
-"error": "ERROR: [youtube] pA4zrHB82jo: Requested format is not available. Use --list-formats for a list of available formats",
-"kind": "none"
+"checked_at": "2026-10-31T14:47:28+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
 },
 "yield": null
 },
@@ -74623,6 +76080,18 @@
 "time_basis": "",
 "title": "Creamy, Dreamy Banana Smoothie Bowl",
 "url": "https://www.youtube.com/shorts/pF-iM0EiLpc",
+"video": {
+"checked_at": "2026-10-31T14:48:37+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "yt-pFwEk9kWIe0": {
@@ -74659,6 +76128,18 @@
 "time_basis": "",
 "title": "Chick Fil A Kale Salad Copycat Recipe",
 "url": "https://www.youtube.com/shorts/pFwEk9kWIe0",
+"video": {
+"checked_at": "2026-10-31T14:48:04+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "yt-pT8k0U_i2RI": {
@@ -75310,35 +76791,78 @@
 "account_name": "Anjali Shah",
 "account_url": "https://www.youtube.com/channel/UC6rFxJxXqjnmfKb4NlVf8Yg",
 "caption": "High protein vegan flaxseed pudding #shorts",
-"category": "meal",
+"category": "sweet",
 "color": "#9c846c",
 "creator": "thepickyeater",
 "date": "2025-07-02",
-"extraction": "none",
+"extraction": "video",
 "fetched_at": "2026-10-11T21:13:34+00:00",
 "id": "yt-vqZ4qXrheU8",
-"ingredients": [],
+"ingredients": [
+"flax seeds",
+"cinnamon",
+"milk",
+"1 tablespoon of maple syrup",
+"1 teaspoon of vanilla",
+"berries",
+"bananas",
+"yogurt"
+],
 "kind": "creator",
 "links": [],
 "mealPrep": false,
 "mealPrep_basis": [],
-"minutes": null,
+"minutes": 180,
 "notes": [],
 "page_minutes": null,
 "platform": "youtube",
+"recipePage": "r/yt-vqZ4qXrheU8.html",
 "recipeSourceUrl": null,
-"recipe_from": "caption",
+"recipe_from": "video",
 "status": "ok",
-"steps": [],
+"steps": [
+"Just mix 3 fourths cup of ground flax seeds, 1 fourth double spoon cinnamon, 1 and 1 fourth cups of unsweetened almond milk, 1 tablespoon of maple syrup, and 1 teaspoon of vanilla extract.",
+"In a bowl, whisk it all up until smooth, refrigerate it for at least 3 hours, or overnight.",
+"When it's ready, you can add your favorite toppings like fresh berries, crushed nuts, bananas, maple syrup, or coconut yogurt that you'll have a fiber packed."
+],
 "summary": "",
-"tags": [],
+"tags": [
+"breakfast",
+"snack",
+"sweet"
+],
 "thumb": "thumbs/yt-vqZ4qXrheU8.webp",
 "thumb_h": 225,
 "thumb_w": 400,
-"time": "unknown",
-"time_basis": "",
+"time": "long",
+"time_basis": "says 180 min",
 "title": "High protein vegan flaxseed pudding",
 "url": "https://www.youtube.com/shorts/vqZ4qXrheU8",
+"video": {
+"checked_at": "2026-10-31T14:49:41+00:00",
+"ingredients": [
+"flax seeds",
+"cinnamon",
+"milk",
+"1 tablespoon of maple syrup",
+"1 teaspoon of vanilla",
+"berries",
+"bananas",
+"yogurt"
+],
+"kind": "video",
+"narration": "Did you know you can make a high-fiber pudding using flax seeds? Just mix 3 fourths cup of ground flax seeds, 1 fourth double spoon cinnamon, 1 and 1 fourth cups of unsweetened almond milk, 1 tablespoon of maple syrup, and 1 teaspoon of vanilla extract. In a bowl, whisk it all up until smooth, refrigerate it for at least 3 hours, or overnight. When it's ready, you can add your favorite toppings like fresh berries, crushed nuts, bananas, maple syrup, or coconut yogurt that you'll have a fiber packed. Pudding that's perfect for breakfast, snacks, or dessert.",
+"onscreen": [],
+"steps": [
+"Just mix 3 fourths cup of ground flax seeds, 1 fourth double spoon cinnamon, 1 and 1 fourth cups of unsweetened almond milk, 1 tablespoon of maple syrup, and 1 teaspoon of vanilla extract.",
+"In a bowl, whisk it all up until smooth, refrigerate it for at least 3 hours, or overnight.",
+"When it's ready, you can add your favorite toppings like fresh berries, crushed nuts, bananas, maple syrup, or coconut yogurt that you'll have a fiber packed."
+],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "yt-wVTuVyuL1Ng": {
@@ -75459,6 +76983,18 @@
 "time_basis": "quick",
 "title": "Full Recipe: https://pickyeaterblog.com/",
 "url": "https://www.youtube.com/shorts/wu_SoD-Sya4",
+"video": {
+"checked_at": "2026-10-31T14:47:51+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "yt-x6NG1TWFKUY": {
@@ -75690,22 +77226,32 @@
 "color": "#9d7537",
 "creator": "thepickyeater",
 "date": "2025-06-15",
-"extraction": "none",
+"extraction": "video",
 "fetched_at": "2026-10-11T21:14:07+00:00",
 "id": "yt-ygwQlXTwKac",
-"ingredients": [],
+"ingredients": [
+"broth",
+"carrot",
+"potato"
+],
 "kind": "creator",
 "links": [],
 "mealPrep": false,
 "mealPrep_basis": [],
-"minutes": null,
+"minutes": 45,
 "notes": [],
 "page_minutes": null,
 "platform": "youtube",
+"recipePage": "r/yt-ygwQlXTwKac.html",
 "recipeSourceUrl": null,
-"recipe_from": "caption",
+"recipe_from": "video",
 "status": "ok",
-"steps": [],
+"steps": [
+"Start by sautéing onions and garlic, then toss in carrots, potatoes, celery, and a sprinkle of Italian herbs.",
+"Add veggie broth and bay leaves, then let it simmer for 15 to 20 minutes.",
+"Blend half for that creamy texture, stir it back in, season to taste, and let it simmer a few more minutes.",
+"Serve it warm and enjoy every cozy, comforting spoonful."
+],
 "summary": "Nothing says cozy like a warm bowl of this creamy Carrot Potato Soup! It's hearty, comforting, and incredibly easy to make, perfect when you need a nourishing pick-me-up.",
 "tags": [
 "veggies"
@@ -75713,10 +77259,31 @@
 "thumb": "thumbs/yt-ygwQlXTwKac.webp",
 "thumb_h": 225,
 "thumb_w": 400,
-"time": "unknown",
-"time_basis": "",
+"time": "long",
+"time_basis": "says 45 min",
 "title": "Creamy, Comforting Carrot Potato Soup",
 "url": "https://www.youtube.com/shorts/ygwQlXTwKac",
+"video": {
+"checked_at": "2026-10-31T14:50:29+00:00",
+"ingredients": [
+"broth",
+"carrot",
+"potato"
+],
+"kind": "video",
+"narration": "Craving comfort food? Let's make creamy carrot potato soup in under 45 minutes. Start by sautéing onions and garlic, then toss in carrots, potatoes, celery, and a sprinkle of Italian herbs. Add veggie broth and bay leaves, then let it simmer for 15 to 20 minutes. Blend half for that creamy texture, stir it back in, season to taste, and let it simmer a few more minutes. Serve it warm and enjoy every cozy, comforting spoonful. Grab the full recipe",
+"onscreen": [],
+"steps": [
+"Start by sautéing onions and garlic, then toss in carrots, potatoes, celery, and a sprinkle of Italian herbs.",
+"Add veggie broth and bay leaves, then let it simmer for 15 to 20 minutes.",
+"Blend half for that creamy texture, stir it back in, season to taste, and let it simmer a few more minutes.",
+"Serve it warm and enjoy every cozy, comforting spoonful."
+],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "yt-yle_KzWmoXg": {
@@ -76351,6 +77918,8 @@
 "tt-7697040623852997919": "not a food post",
 "tt-7697855139587083533": "not a food post",
 "tt-7699865173137427742": "not a food post",
+"tt-7700505192277478686": "not a food post",
+"tt-7702449566506962207": "not a food post",
 "yt--5sP4x2l_K0": "not a food post",
 "yt--63or12q_A0": "not a food post",
 "yt--W0uEvpIAUU": "not a food post",
@@ -76413,6 +77982,7 @@
 "yt-Ia63MHNrI4I": "not a food post",
 "yt-IvB4K-Jyol0": "not a food post",
 "yt-JEd-snovssA": "not a food post",
+"yt-KFhKSzvs9ck": "not a food post",
 "yt-KayMWrO9oVc": "not a food post",
 "yt-KhYIqmlwPiQ": "not a food post",
 "yt-KpGiWSUGJ_M": "not a food post",
@@ -76518,6 +78088,7 @@
 "yt-mSYcxyfa-qg": "not a food post",
 "yt-m_RyvhkGWnY": "not a food post",
 "yt-nKVgJbjb4Bw": "not a food post",
+"yt-ntDGre2A1TM": "not a food post",
 "yt-o9tiksKotdY": "not a food post",
 "yt-ouExKnJY-J4": "not a food post",
 "yt-pBb72OKX6mY": "not a food post",
@@ -76566,207 +78137,207 @@
 },
 "sources": {
 "instagram_profile https://www.instagram.com/babymealsfreezer/": {
-"checked_at": "2026-10-24T14:46:07+00:00",
+"checked_at": "2026-10-31T14:45:25+00:00",
 "status": "skipped",
 "why": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists"
 },
 "instagram_profile https://www.instagram.com/busymamaeasybites/": {
-"checked_at": "2026-10-24T14:46:07+00:00",
+"checked_at": "2026-10-31T14:45:25+00:00",
 "status": "skipped",
 "why": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists"
 },
 "instagram_profile https://www.instagram.com/kidfriendly.meals/": {
-"checked_at": "2026-10-24T14:46:07+00:00",
+"checked_at": "2026-10-31T14:45:25+00:00",
 "status": "skipped",
 "why": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists"
 },
 "instagram_profile https://www.instagram.com/mini.tiger.zen/": {
-"checked_at": "2026-10-24T14:46:07+00:00",
+"checked_at": "2026-10-31T14:45:25+00:00",
 "status": "skipped",
 "why": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists"
 },
 "instagram_profile https://www.instagram.com/mountain_mothering/": {
-"checked_at": "2026-10-24T14:46:07+00:00",
+"checked_at": "2026-10-31T14:45:25+00:00",
 "status": "skipped",
 "why": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists"
 },
 "instagram_profile https://www.instagram.com/soniamazri_/": {
-"checked_at": "2026-10-24T14:46:07+00:00",
+"checked_at": "2026-10-31T14:45:25+00:00",
 "status": "skipped",
 "why": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists"
 },
 "instagram_profile https://www.instagram.com/thepickyeater/": {
-"checked_at": "2026-10-24T14:46:07+00:00",
+"checked_at": "2026-10-31T14:45:25+00:00",
 "status": "skipped",
 "why": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists"
 },
 "instagram_profile https://www.instagram.com/toddler.snack.therapy/": {
-"checked_at": "2026-10-24T14:46:07+00:00",
+"checked_at": "2026-10-31T14:45:25+00:00",
 "status": "skipped",
 "why": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists"
 },
 "instagram_profile https://www.instagram.com/tuankil28/": {
-"checked_at": "2026-10-24T14:46:07+00:00",
+"checked_at": "2026-10-31T14:45:25+00:00",
 "status": "skipped",
 "why": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists. No public TikTok, YouTube or blog found for this account (Oct 2026)"
 },
 "instagram_reel https://www.instagram.com/reel/DYM-EdVRv5w/": {
 "added": 0,
-"checked_at": "2026-10-24T14:46:06+00:00",
+"checked_at": "2026-10-31T14:45:25+00:00",
 "detail": "kept",
 "status": "ok"
 },
 "instagram_reel https://www.instagram.com/reel/DZNgOJWxKeb/": {
 "added": 0,
-"checked_at": "2026-10-24T14:46:06+00:00",
+"checked_at": "2026-10-31T14:45:25+00:00",
 "detail": "kept",
 "status": "ok"
 },
 "instagram_reel https://www.instagram.com/reel/DbL8lkyxo5u/": {
 "added": 0,
-"checked_at": "2026-10-24T14:46:06+00:00",
+"checked_at": "2026-10-31T14:45:25+00:00",
 "detail": "kept",
 "status": "ok"
 },
 "instagram_reel https://www.instagram.com/reel/DbbXt7wpuIX/": {
 "added": 0,
-"checked_at": "2026-10-24T14:46:07+00:00",
+"checked_at": "2026-10-31T14:45:25+00:00",
 "detail": "kept",
 "status": "ok"
 },
 "instagram_reel https://www.instagram.com/reel/Dbq5xTqNN8Y/": {
 "added": 0,
-"checked_at": "2026-10-24T14:46:07+00:00",
+"checked_at": "2026-10-31T14:45:25+00:00",
 "detail": "kept",
 "status": "ok"
 },
 "instagram_reel https://www.instagram.com/reel/DcFDtQDv_7p/": {
 "added": 0,
-"checked_at": "2026-10-24T14:46:07+00:00",
+"checked_at": "2026-10-31T14:45:25+00:00",
 "detail": "kept",
 "status": "ok"
 },
 "instagram_reel https://www.instagram.com/reel/DcbRdMQoCC2/": {
 "added": 0,
-"checked_at": "2026-10-24T14:46:06+00:00",
+"checked_at": "2026-10-31T14:45:25+00:00",
 "detail": "kept",
 "status": "ok"
 },
 "instagram_reel https://www.instagram.com/reel/DdObMJ6SGYA/": {
 "added": 0,
-"checked_at": "2026-10-24T14:46:06+00:00",
+"checked_at": "2026-10-31T14:45:25+00:00",
 "detail": "kept",
 "status": "ok"
 },
 "instagram_reel https://www.instagram.com/reel/DdnIx7EugPm/": {
 "added": 0,
-"checked_at": "2026-10-24T14:46:06+00:00",
+"checked_at": "2026-10-31T14:45:25+00:00",
 "detail": "kept",
 "status": "ok"
 },
 "instagram_reel https://www.instagram.com/reel/DeQGbyevSm9/": {
 "added": 0,
-"checked_at": "2026-10-24T14:46:06+00:00",
+"checked_at": "2026-10-31T14:45:25+00:00",
 "detail": "kept",
 "status": "ok"
 },
 "tiktok_profile https://www.tiktok.com/@babymealsfreezer": {
 "added": 0,
-"checked_at": "2026-10-24T14:46:47+00:00",
+"checked_at": "2026-10-31T14:45:59+00:00",
 "detail": "listed 31 posts (oldest 2026-03-10)",
 "status": "ok"
 },
 "tiktok_profile https://www.tiktok.com/@busymamaeasybites": {
-"added": 1,
-"checked_at": "2026-10-24T14:46:36+00:00",
-"detail": "listed 69 posts (oldest 2026-04-14)",
+"added": 0,
+"checked_at": "2026-10-31T14:45:51+00:00",
+"detail": "listed 70 posts (oldest 2026-04-14)",
 "status": "ok"
 },
 "tiktok_profile https://www.tiktok.com/@mini.tiger.zen": {
-"added": 3,
-"checked_at": "2026-10-24T14:46:44+00:00",
-"detail": "listed 81 posts (oldest 2023-04-08)",
+"added": 0,
+"checked_at": "2026-10-31T14:45:56+00:00",
+"detail": "listed 83 posts (oldest 2023-04-08)",
 "status": "ok"
 },
 "tiktok_profile https://www.tiktok.com/@mountain_mothering": {
-"added": 2,
-"checked_at": "2026-10-24T14:46:50+00:00",
+"added": 0,
+"checked_at": "2026-10-31T14:46:02+00:00",
 "detail": "listed 15 posts (oldest 2026-09-23)",
 "status": "ok"
 },
 "tiktok_profile https://www.tiktok.com/@pickyeaterblog": {
 "added": 0,
-"checked_at": "2026-10-24T14:47:23+00:00",
+"checked_at": "2026-10-31T14:46:31+00:00",
 "detail": "listed 607 posts (oldest 2022-01-02)",
 "status": "ok"
 },
 "tiktok_profile https://www.tiktok.com/@soniamazri": {
 "added": 0,
-"checked_at": "2026-10-24T14:46:30+00:00",
+"checked_at": "2026-10-31T14:45:45+00:00",
 "detail": "listed 385 posts (oldest 2022-11-14)",
 "status": "ok"
 },
 "tiktok_profile https://www.tiktok.com/@toddler.snack.therapy": {
 "added": 0,
-"checked_at": "2026-10-24T14:47:26+00:00",
+"checked_at": "2026-10-31T14:46:34+00:00",
 "detail": "listed 34 posts (oldest 2025-09-24)",
 "status": "ok"
 },
 "website_category https://pickyeaterblog.com/category/kid-friendly-recipes/": {
 "added": 0,
-"checked_at": "2026-10-24T14:48:02+00:00",
-"detail": "listed 114 pages, considered newest 114",
+"checked_at": "2026-10-31T14:47:01+00:00",
+"detail": "listed 110 pages, considered newest 110",
 "status": "ok"
 },
 "website_category https://www.mjandhungryman.com/category/baby-kid-friendly-recipes/": {
-"added": 1,
-"checked_at": "2026-10-24T14:47:59+00:00",
+"added": 0,
+"checked_at": "2026-10-31T14:46:57+00:00",
 "detail": "listed 178 pages, considered newest 150",
 "status": "ok"
 },
 "website_sitemap https://babyfoode.com/post-sitemap.xml": {
 "added": 0,
-"checked_at": "2026-10-24T14:48:05+00:00",
+"checked_at": "2026-10-31T14:47:05+00:00",
 "detail": "listed 115 pages, considered newest 15",
 "status": "ok"
 },
 "website_sitemap https://weelicious.com/post-sitemap.xml": {
 "added": 0,
-"checked_at": "2026-10-24T14:48:08+00:00",
-"detail": "listed 109 pages, considered newest 15",
+"checked_at": "2026-10-31T14:47:06+00:00",
+"detail": "listed 108 pages, considered newest 15",
 "status": "ok"
 },
 "website_sitemap https://www.healthylittlefoodies.com/post-sitemap.xml": {
-"added": 1,
-"checked_at": "2026-10-24T14:48:04+00:00",
+"added": 0,
+"checked_at": "2026-10-31T14:47:03+00:00",
 "detail": "listed 85 pages, considered newest 18",
 "status": "ok"
 },
 "youtube_channel https://www.youtube.com/@busymamaeasybites/shorts": {
 "added": 0,
-"checked_at": "2026-10-24T14:47:45+00:00",
+"checked_at": "2026-10-31T14:46:44+00:00",
 "detail": "listed 2 videos",
 "status": "ok"
 },
 "youtube_channel https://www.youtube.com/@kidfriendlymeals/shorts": {
 "added": 0,
-"checked_at": "2026-10-24T14:47:45+00:00",
+"checked_at": "2026-10-31T14:46:43+00:00",
 "detail": "listed 8 videos",
 "status": "ok"
 },
 "youtube_channel https://www.youtube.com/@mountain_mothering/shorts": {
-"added": 4,
-"checked_at": "2026-10-24T14:47:40+00:00",
-"detail": "listed 27 videos",
+"added": 0,
+"checked_at": "2026-10-31T14:46:36+00:00",
+"detail": "listed 33 videos",
 "status": "ok"
 },
 "youtube_channel https://www.youtube.com/@thepickyeater/shorts": {
 "added": 0,
-"checked_at": "2026-10-24T14:47:44+00:00",
+"checked_at": "2026-10-31T14:46:42+00:00",
 "detail": "listed 291 videos",
 "status": "ok"
 }
 },
-"updated_at": "2026-10-24T14:50:34+00:00",
-"video_pending": 533
+"updated_at": "2026-10-31T14:50:37+00:00",
+"video_pending": 501
 }
