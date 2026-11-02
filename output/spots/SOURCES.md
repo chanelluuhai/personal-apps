@@ -10,6 +10,39 @@
 | Colorado Mama Life (Angelica) | https://www.instagram.com/coloradomamalife/ | https://www.facebook.com/profile.php?id=61577651781310 | https://www.tiktok.com/@coloradomamalife |
 | Little Rad Adventure | https://www.instagram.com/littleradadventure/ | https://www.facebook.com/LittleRadAdventure | https://littleradadventure.com/ |
 
+## Scrub window (2026-11-02 Mon/Wed/Fri pass)
+
+**Checked**
+- Instagram: public profile embed pages returned recent posts for all five accounts. Read Oct 30–Nov 1 posts:
+  - @days.in.denver: Nov 1 Halloween-weekend recap (no venue named).
+  - @colorado.kids.explore: Nov 1 Small Business Sunday for Little Haven Play Studio (a traveling children's museum you book for events; no public location, not pinned).
+  - @coloradokidsarerad: Oct 30 Memory Square Park, Louisville (new pin); Oct 31 and Nov 1 mom-life posts (no venue).
+  - @coloradomamalife: Nov 1 ICE! featuring The Nightmare Before Christmas at Gaylord Rockies, Nov 20–Jan 3 (new event).
+  - @littleradadventure: Nov 1 Isak Heartstone troll, Breckenridge; Oct 31 Royal Gorge Santa Express, Cañon City; Oct 30 Cheyenne Mountain Zoo (Electric Safari Dec 4–Jan 1). All well past the 30-minute radius, not added.
+- Days.in.denver beehiiv: **November newsletter is out** (Nov 1) and was readable via the sitemap URL. Pulled toddler-relevant items and verified each with the organizer.
+- Little Rad Adventure site feed: newest post still Chief Mountain Trail (2026-06-12).
+- Facebook: not re-tried (login-walled on earlier passes; IG covered the same accounts). No captions guessed.
+- TikTok: profile meta only (unchanged).
+- Details confirmed on louisvilleco.gov, broomfield.sweetplay.fun, mychildsmuseum.org, dinoridge.org, aurariacampus.edu / christkindlmarketdenver.com, tickets.gaylordrockies.com, and visitlittleton.org. Drive times via public OSRM routing.
+
+**New pins (2)**
+- Memory Square Park, Louisville: new playground (reopened Oct 2026) with a toddler structure, sand pit, swings (CKAR Oct 30; City of Louisville) (~28 min)
+- SweetPlay Broomfield: indoor play at Flatiron Crossing, Toddler Tuesdays $12 for 3 and under (Days.in.denver Nov newsletter; SweetPlay) (~22 min)
+
+**New events (5)**
+- Sun Nov 8, 9am–4pm National STEAM Day at the Children's Museum of Denver, $2 off admission (Days Nov newsletter) (~20 min)
+- Fri Nov 13 and Sat Nov 14, 9am and 10am TriceraTOTs at Dinosaur Ridge, $5 per child, register ahead (Days Nov newsletter) (~15 min)
+- Nov 20–Dec 23 Denver Christkindlmarket, Tivoli Quad on Auraria Campus (Days Nov newsletter) (~21 min)
+- Nov 20–Jan 3 ICE! featuring The Nightmare Before Christmas, Gaylord Rockies, 3 and under free, no strollers (CML Nov 1) (~43 min)
+- Fri Nov 27, 5–8pm Littleton Candlelight Walk (Days Nov newsletter says Saturday; Visit Littleton lists Friday) (~33 min)
+
+**Newsletter items not added**
+- Play Street Museum Lowry "Night at the Museum" (newsletter says Thu Nov 17, but Nov 17 is a Tuesday and Play Street's booking calendar showed no Lowry date): not added until a date is confirmed.
+- Cherry Creek Holiday Tree Lighting (newsletter says Sat Nov 21; Cherry Creek North lists no tree lighting that day and another listing has Cherry Creek Shopping Center on Nov 14): conflicting dates, not added.
+- Don't Let the Pigeon Drive the Bus! musical (DCPA, Oct 23–Dec 20): recommended Pre-K and up, skipped for a ~21-month-old.
+- Home Depot Kids Workshops (ages 5–12), Christmas Llama Painting (ages 7+), Kickin' It Kids Gym Mommy & Me (up to 18 months): age mismatch.
+- Tap & Burger kids-eat-free Tuesdays, Table Public House sing-along (Wed 10:30, Overland), The Perfect Landing (Centennial), Evergreen Nature Center weekends, and story-time + park pairings: noted as ideas, not pinned this pass.
+
 ## Scrub window (2026-10-30 Mon/Wed/Fri pass)
 
 **Checked**

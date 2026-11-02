@@ -1,9 +1,9 @@
 # Denver/Arvada Toddler Outing Spots
 
-Updated: 2026-10-30  
+Updated: 2026-11-02  
 Base: W 64th Ave & Ward Rd, Arvada, CO 80004  
 Audience: Toddler ~20 months; prefer ~30 min drive  
-Places: 103
+Places: 105
 
 Each pin has a why-note from a named social/newsletter source. Drive times are rough estimates.
 
@@ -565,6 +565,19 @@ Each pin has a why-note from a named social/newsletter source. Drive times are r
 - [Denver Firefighters Museum](https://www.denverfirefightersmuseum.org/)
 - [Instagram @days.in.denver](https://www.instagram.com/days.in.denver/)
 
+## SweetPlay Broomfield (Toddler Tuesdays) (near)
+
+- **Address:** 1 W Flatiron Crossing Dr, Suite 2132, Broomfield, CO 80021 (Flatiron Crossing mall)
+- **Drive:** ~22 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~8.3 mi straight-line)
+- **Why:** Days.in.denver November newsletter weekly favorite: Toddler Tuesdays, a quieter play day for little ones. SweetPlay lists Tuesday pricing of $12 for kids 3 and under, and has a dedicated toddler area.
+- **Source:** Days.in.denver November 2026 newsletter; SweetPlay Broomfield
+- **Hours:** Check SweetPlay's site for daily hours; Toddler Tuesday pricing on Tuesdays
+- **Cost:** Toddler Tuesday $12 (3 and under); otherwise $16 per hour or $22 all day; adults $1; grip socks required ($3)
+- **Toddler tip:** Indoor, good for cold or snowy days. Grip socks required for kids, no shoes or bare feet in play areas. In the mall, so parking is easy.
+- [Days.in.denver November newsletter](https://days-in-denver.beehiiv.com/p/days-in-denver-november-newsletter)
+- [SweetPlay Broomfield hours & pricing](https://broomfield.sweetplay.fun/hours-pricing/)
+- [SweetPlay toddler area](https://broomfield.sweetplay.fun/activities/toddler-area/)
+
 ## City View Park (near)
 
 - **Address:** Welby / North Metro (City View Park), Adams County, CO
@@ -865,6 +878,19 @@ Each pin has a why-note from a named social/newsletter source. Drive times are r
 - **Toddler tip:** Tunnels and the shallow stream are fun for little ones; big hills and slides are more for older kids, so stay close. Very little shade and only porta-potties (per reviews).
 - [CKAR fall playgrounds post (Oct 22)](https://www.instagram.com/p/De0Vi5rRnhj/)
 - [Slides and Sunshine review](https://slidesandsunshine.com/mckaylakepark/)
+
+## Memory Square Park (new playground) (near)
+
+- **Address:** 801 Grant Ave, Louisville, CO 80027
+- **Drive:** ~28 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~11.4 mi straight-line)
+- **Why:** Colorado Kids Are Rad Oct 30: brand-new playground with a unique design, lots of climbing, a designated toddler play structure, a dinosaur you 'feed' wood chips, a huge sand pit, and swings for all ages. City of Louisville finished the replacement and reopened it Oct 2026.
+- **Source:** Colorado Kids Are Rad (@coloradokidsarerad) Instagram post 2026-10-30; City of Louisville
+- **Hours:** City park; check Louisville Parks for hours
+- **Cost:** Free
+- **Toddler tip:** Separate toddler structure plus a big sand pit, so bring a change of clothes. Brand new (reopened Oct 2026), so expect it to be busy on nice weekends.
+- [CKAR Memory Square Park post (Oct 30)](https://www.instagram.com/p/DfI8recxaJb/)
+- [Louisville: two new playgrounds open](https://www.louisvilleco.gov/news/posts/two-new-playgrounds-are-open-come-celebrate-with-ribbon-cuttings/)
+- [Louisville: Memory Square playground replacement](https://www.louisvilleco.gov/news/posts/memory-square-park-playground-replacement/)
 
 ## Bates-Logan Park (near)
 

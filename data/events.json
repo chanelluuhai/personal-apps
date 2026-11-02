@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated": "2026-10-30",
-    "as_of": "2026-10-30",
+    "updated": "2026-11-02",
+    "as_of": "2026-11-02",
     "timezone": "America/Denver",
     "notes": "Upcoming, dated family events kept separate from map pins. Confirm times, access, and weather with the linked organizer before heading out."
   },
@@ -613,6 +613,75 @@
       "drive_note": "~48 min from the 64th & Ward base (farther than 30 min)",
       "source": "Colorado Mama Life IG Oct 29 Halloween plans post (https://www.instagram.com/p/DfFdku4zD3s/)",
       "note": "$19 per child, up to 2 adults free per reservation. Indoor play, cookie decorating, a Halloween craft, scavenger hunt, costume contest, and a treat bag. Advance reservations required for every guest; bring socks."
+    },
+    {
+      "id": "cmd-national-steam-day-2026",
+      "title": "National STEAM Day at the Children's Museum",
+      "date": "2026-11-08",
+      "time": "9:00 AM–4:00 PM",
+      "place": "Children's Museum of Denver at Marsico Campus, 2121 Children's Museum Dr, Denver",
+      "place_id": "childrens-museum-denver",
+      "lat": 39.7658,
+      "lng": -105.0026,
+      "link": "https://www.mychildsmuseum.org/whats-happening",
+      "drive_note": "~20 min from the 64th & Ward base",
+      "source": "Days.in.denver November 2026 newsletter (https://days-in-denver.beehiiv.com/p/days-in-denver-november-newsletter); Children's Museum of Denver calendar",
+      "note": "STEAM activities across the museum and $2 off regular admission that day (age 1 $17.75, ages 2–59 $19.75, under 1 free). Tickets are sold at the door, not online."
+    },
+    {
+      "id": "dinosaur-ridge-triceratots-2026-11",
+      "title": "TriceraTOTs at Dinosaur Ridge: Dino-Bird in the Hand",
+      "date": "2026-11-13",
+      "end_date": "2026-11-14",
+      "time": "Fri Nov 13 and Sat Nov 14, sessions at 9:00 AM and 10:00 AM (30 min)",
+      "place": "Martin G. Lockley Discovery Center, 17681 W Alameda Pkwy (Red Rocks Entrance #1), Golden",
+      "lat": 39.6845,
+      "lng": -105.1922,
+      "link": "https://dinoridge.org/programs-and-events/triceratots-preschool-program/",
+      "drive_note": "~15 min from the 64th & Ward base",
+      "source": "Days.in.denver November 2026 newsletter; Dinosaur Ridge",
+      "note": "Craft and story time making hand-turkey dinosaurs. Billed as Pre-K (ages 2–5), $5 per participating child, adults free; register online ahead, capped at 20 kids. Held downstairs with no elevator, so carry rather than stroll."
+    },
+    {
+      "id": "denver-christkindlmarket-2026",
+      "title": "Denver Christkindlmarket",
+      "date": "2026-11-20",
+      "end_date": "2026-12-23",
+      "time": "Mon–Thu 1–9 PM; Fri–Sun 11 AM–9 PM (daily 11–9 Dec 17–23); Thanksgiving 11 AM–4 PM",
+      "place": "Tivoli Quad, Auraria Campus, 1000 Larimer St, Denver",
+      "lat": 39.7457,
+      "lng": -105.0064,
+      "link": "https://www.christkindlmarketdenver.com/",
+      "drive_note": "~21 min from the 64th & Ward base",
+      "source": "Days.in.denver November 2026 newsletter; Auraria Campus announcement",
+      "note": "German-style holiday market with vendors, food, and lawn games. It's on the Auraria Campus this year, not Civic Center Park. Weekend mornings are the easiest with a toddler."
+    },
+    {
+      "id": "ice-nightmare-before-christmas-gaylord-2026",
+      "title": "ice! featuring The Nightmare Before Christmas",
+      "date": "2026-11-20",
+      "end_date": "2027-01-03",
+      "time": "Timed entry daily; buy tickets online in advance",
+      "place": "Gaylord Rockies Resort, 6700 N Gaylord Rockies Blvd, Aurora",
+      "lat": 39.8187986,
+      "lng": -104.7511333,
+      "link": "https://tickets.gaylordrockies.com/eventperformances.asp?evt=105",
+      "drive_note": "~43 min from the 64th & Ward base (farther than 30 min)",
+      "source": "Colorado Mama Life IG Nov 1 post (https://www.instagram.com/p/DfOJ9GLz-s3/); Gaylord Rockies",
+      "note": "Kids 3 and under free with a paid adult. Kept at 9°F (parkas provided); no strollers or wagons inside, so bring a carrier; no restrooms inside. Kids under 4 use the children's slide only. Most visits take 20–40 minutes; arrive on time for your slot."
+    },
+    {
+      "id": "littleton-candlelight-walk-2026",
+      "title": "Littleton Candlelight Walk",
+      "date": "2026-11-27",
+      "time": "5:00–8:00 PM",
+      "place": "Main Street, downtown Littleton",
+      "lat": 39.6133,
+      "lng": -105.0166,
+      "link": "https://visitlittleton.org/events-and-programs/candlelight-walk/",
+      "drive_note": "~33 min from the 64th & Ward base (farther than 30 min)",
+      "source": "Days.in.denver November 2026 newsletter; Visit Littleton",
+      "note": "Friday after Thanksgiving (the newsletter says Saturday, but Visit Littleton lists Fri Nov 27). Holiday parade, tree lighting, drone show, Santa photos, and free hot cocoa and cider. Evening and cold, so bundle up."
     }
   ]
 }

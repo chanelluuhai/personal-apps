@@ -41,7 +41,7 @@
         "note": "Facebook page Littleradadventure, also posted as Must Do In Colorado. Added from Chanel FB share 2026-10-03 (reel 1738726840765924 → Tiny Town & Railroad, Morrison). Park is seasonal and closed after Labor Day, so no pin until it reopens. IG scrubbed through 2026-10-23."
       }
     ],
-    "updated": "2026-10-30",
+    "updated": "2026-11-02",
     "scrub_window": "2026-10-30 Mon/Wed/Fri pass: Instagram Oct 28–30 posts read on all five accounts via the public profile embed. New pins: North Midway Park, Broomfield (CKAR Oct 28); Flatirons Vista Trail, Boulder (CKAR Oct 29, toddler hike); Little Monkey Bizness Westminster (Colorado Mama Life Oct 28). New events: Indiana Business Park Trunk-or-Treat Oct 30 (Arvada) and Spooky Bizness at Little Monkey Bizness Parker Oct 31 (Colorado Mama Life Oct 29). Prior scrubs retained.",
     "notes": "Why-notes paraphrased/quoted from source captions and newsletters. Drive times are rough estimates from Arvada 80004; verify in Google Maps. Do not invent venues — every pin cites a named source. Seasonal spots kept if still relevant for fall 2026 or evergreen otherwise. Home base updated to W 64th Ave & Ward Rd; drive times refreshed via public OSRM routing on 2026-10-02."
   },
@@ -4330,6 +4330,86 @@
       "farther_than_30min": true,
       "approx_drive_minutes": 31,
       "straight_line_miles": 13.0
+    },
+    {
+      "id": "memory-square-park-louisville",
+      "name": "Memory Square Park (new playground)",
+      "lat": 39.9780395,
+      "lng": -105.1355071,
+      "address": "801 Grant Ave, Louisville, CO 80027",
+      "why": "Colorado Kids Are Rad Oct 30: brand-new playground with a unique design, lots of climbing, a designated toddler play structure, a dinosaur you 'feed' wood chips, a huge sand pit, and swings for all ages. City of Louisville finished the replacement and reopened it Oct 2026.",
+      "source": "Colorado Kids Are Rad (@coloradokidsarerad) Instagram post 2026-10-30; City of Louisville",
+      "source_accounts": [
+        "@coloradokidsarerad"
+      ],
+      "links": [
+        {
+          "label": "CKAR Memory Square Park post (Oct 30)",
+          "url": "https://www.instagram.com/p/DfI8recxaJb/"
+        },
+        {
+          "label": "Louisville: two new playgrounds open",
+          "url": "https://www.louisvilleco.gov/news/posts/two-new-playgrounds-are-open-come-celebrate-with-ribbon-cuttings/"
+        },
+        {
+          "label": "Louisville: Memory Square playground replacement",
+          "url": "https://www.louisvilleco.gov/news/posts/memory-square-park-playground-replacement/"
+        }
+      ],
+      "hours": "City park; check Louisville Parks for hours",
+      "cost": "Free",
+      "toddler_notes": "Separate toddler structure plus a big sand pit, so bring a change of clothes. Brand new (reopened Oct 2026), so expect it to be busy on nice weekends.",
+      "tags": [
+        "playground",
+        "park",
+        "outdoor",
+        "free",
+        "louisville",
+        "new"
+      ],
+      "drive_note": "~28 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~11.4 mi straight-line)",
+      "farther_than_30min": false,
+      "approx_drive_minutes": 28,
+      "straight_line_miles": 11.4
+    },
+    {
+      "id": "sweetplay-broomfield",
+      "name": "SweetPlay Broomfield (Toddler Tuesdays)",
+      "lat": 39.9331161,
+      "lng": -105.1331831,
+      "address": "1 W Flatiron Crossing Dr, Suite 2132, Broomfield, CO 80021 (Flatiron Crossing mall)",
+      "why": "Days.in.denver November newsletter weekly favorite: Toddler Tuesdays, a quieter play day for little ones. SweetPlay lists Tuesday pricing of $12 for kids 3 and under, and has a dedicated toddler area.",
+      "source": "Days.in.denver November 2026 newsletter; SweetPlay Broomfield",
+      "source_accounts": [
+        "Days.in.denver newsletter"
+      ],
+      "links": [
+        {
+          "label": "Days.in.denver November newsletter",
+          "url": "https://days-in-denver.beehiiv.com/p/days-in-denver-november-newsletter"
+        },
+        {
+          "label": "SweetPlay Broomfield hours & pricing",
+          "url": "https://broomfield.sweetplay.fun/hours-pricing/"
+        },
+        {
+          "label": "SweetPlay toddler area",
+          "url": "https://broomfield.sweetplay.fun/activities/toddler-area/"
+        }
+      ],
+      "hours": "Check SweetPlay's site for daily hours; Toddler Tuesday pricing on Tuesdays",
+      "cost": "Toddler Tuesday $12 (3 and under); otherwise $16 per hour or $22 all day; adults $1; grip socks required ($3)",
+      "toddler_notes": "Indoor, good for cold or snowy days. Grip socks required for kids, no shoes or bare feet in play areas. In the mall, so parking is easy.",
+      "tags": [
+        "indoor",
+        "play",
+        "toddler",
+        "broomfield"
+      ],
+      "drive_note": "~22 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~8.3 mi straight-line)",
+      "farther_than_30min": false,
+      "approx_drive_minutes": 22,
+      "straight_line_miles": 8.3
     }
   ]
 }
