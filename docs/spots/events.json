@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated": "2026-11-02",
-    "as_of": "2026-11-02",
+    "updated": "2026-11-04",
+    "as_of": "2026-11-04",
     "timezone": "America/Denver",
     "notes": "Upcoming, dated family events kept separate from map pins. Confirm times, access, and weather with the linked organizer before heading out."
   },
@@ -682,6 +682,62 @@
       "drive_note": "~33 min from the 64th & Ward base (farther than 30 min)",
       "source": "Days.in.denver November 2026 newsletter; Visit Littleton",
       "note": "Friday after Thanksgiving (the newsletter says Saturday, but Visit Littleton lists Fri Nov 27). Holiday parade, tree lighting, drone show, Santa photos, and free hot cocoa and cider. Evening and cold, so bundle up."
+    },
+    {
+      "id": "mile-high-drone-shows-2026",
+      "title": "Mile High Drone Shows",
+      "date": "2026-11-20",
+      "end_date": "2026-12-31",
+      "time": "Nightly at 7:00 PM (~10–15 min); check Visit Denver after 4 PM for weather cancels",
+      "place": "Tivoli Quad, Auraria Campus, 1000 Larimer St, Denver (closest viewing)",
+      "lat": 39.7457,
+      "lng": -105.0064,
+      "link": "https://visitdenver.com/milehighholidays/drone-shows/",
+      "drive_note": "~21 min from the 64th & Ward base",
+      "source": "Little Rad Adventure IG Nov 4 (https://www.instagram.com/p/DfUtr4Zp_Kf/); Visit Denver Mile High Holidays",
+      "note": "Free nightly holiday drone show (~600 drones). Best family viewing at Tivoli Quad alongside Christkindlmarket and the Mile High Tree; restrooms on campus. Subject to weather cancelation—check the Visit Denver page after 4pm that day."
+    },
+    {
+      "id": "golden-holiday-parade-2026",
+      "title": "Golden Holiday Parade (Western Winter Wonderland)",
+      "date": "2026-12-12",
+      "end_date": "2026-12-12",
+      "time": "10:30–11:30 AM; free carriage rides noon–2:00 PM after",
+      "place": "Washington Avenue (10th–13th St), downtown Golden",
+      "lat": 39.7555,
+      "lng": -105.2211,
+      "link": "https://www.visitgolden.com/events/holiday-events/olde-golden-holidays/event-calendar/holiday-parades/",
+      "drive_note": "~14 min from the 64th & Ward base",
+      "source": "Little Rad Adventure IG Nov 3 holiday parades (https://www.instagram.com/p/DfSc1HdpUnR/); Visit Golden",
+      "note": "Free daytime parade with floats, marching bands, Victorian carolers, and Santa. Arrive early for parking; organizers ask you to skip chairs and pets. Free carriage rides after on 12th St west of Washington; toy drive drop-off at Parfet Park 11am–4pm."
+    },
+    {
+      "id": "rock-and-roll-playhouse-dolly-bluebird-2026",
+      "title": "Rock and Roll Playhouse: Music of Dolly Parton for Kids",
+      "date": "2026-11-21",
+      "end_date": "2026-11-21",
+      "time": "Doors 10:30 AM · Show 11:00 AM",
+      "place": "Bluebird Theater, 3317 E Colfax Ave, Denver",
+      "lat": 39.7404282,
+      "lng": -104.9483729,
+      "link": "https://www.axs.com/events/1644063",
+      "drive_note": "~25 min from the 64th & Ward base",
+      "source": "Colorado Kids Are Rad IG Nov 2 (https://www.instagram.com/p/DfQwVY8RIFN/); Bluebird Theater / AXS",
+      "note": "All-ages family concert (aimed at kids 10 and under) with movement and singing; volume is turned down for little ears. Ticketed via AXS—kids under 1 free, ages 1+ need a ticket; adult must accompany. Short morning show, good toddler length if nap timing works."
+    },
+    {
+      "id": "louisville-parade-of-lights-2026",
+      "title": "Louisville Parade of Lights",
+      "date": "2026-12-04",
+      "end_date": "2026-12-04",
+      "time": "Santa/performances from ~5:30 PM; parade starts 7:00 PM",
+      "place": "Historic Main Street, Louisville (901 Main St area)",
+      "lat": 39.9788938,
+      "lng": -105.1323811,
+      "link": "https://www.louisvillechamber.com/parade-of-lights/",
+      "drive_note": "~27 min from the 64th & Ward base",
+      "source": "Little Rad Adventure IG Nov 3 holiday parades (https://www.instagram.com/p/DfSc1HdpUnR/); Louisville Chamber of Commerce",
+      "note": "Free evening lighted parade on Main Street plus Santa visits, performances, and hot chocolate beforehand. Bundle up—it's a 7pm start in December."
     }
   ]
 }

@@ -10,6 +10,32 @@
 | Colorado Mama Life (Angelica) | https://www.instagram.com/coloradomamalife/ | https://www.facebook.com/profile.php?id=61577651781310 | https://www.tiktok.com/@coloradomamalife |
 | Little Rad Adventure | https://www.instagram.com/littleradadventure/ | https://www.facebook.com/LittleRadAdventure | https://littleradadventure.com/ |
 
+## Scrub window (2026-11-04 Mon/Wed/Fri pass)
+
+**Checked**
+- Instagram: public profile embed pages returned recent posts for all five accounts (HTTP 200). Used the same-morning Days.in.denver ideas-run findings (cutoff Nov 2 00:00 MT) and re-verified organizers:
+  - @days.in.denver: Nov 3 Bluff Lake Nature Center (already pinned as bluff-lake; no pin change). Nov 2 free-spots carousel names venues only in images — did **not** guess captions from images.
+  - @colorado.kids.explore: no posts on/after Nov 2.
+  - @coloradokidsarerad: Nov 3 Foss Swim School #ad (skipped); Nov 2 Rock and Roll Playhouse Dolly Parton for Kids → verified Bluebird Theater Sat Nov 21 (new event).
+  - @coloradomamalife: Nov 3 Cat in the Hat theater listings Nov 6 — soft/skipped for a ~20-month outing map (not a venue pin).
+  - @littleradadventure: Nov 4 Mile High Drone Shows (new event); Nov 3 holiday parades — Golden Dec 12 daytime and Louisville Dec 4 evening added after verify; Erie Dec 4 / Denver Dec 5 evening / mountain & COS parades skipped as far or lower priority. Apparel, Surefoot, Manitou Incline skipped.
+- Days.in.denver beehiiv: November newsletter still the latest (Nov 1; already scrubbed 2026-11-02). Did not re-add newsletter items.
+- Little Rad Adventure site feed: newest post still Chief Mountain Trail (2026-06-12).
+- Facebook: login-walled historically — not re-tried; no captions guessed.
+- TikTok: profile meta only (unchanged).
+- Details confirmed on visitdenver.com (drone shows), visitgolden.com (Holiday Parade), axs.com / 303.show / Bluebird Theater (Rock and Roll Playhouse), and louisvillechamber.com (Parade of Lights). Drive times via public OSRM from the 64th & Ward base.
+
+**New pins:** none (Bluff Lake already on the map).
+
+**New events (4)**
+- Nov 20–Dec 31, nightly 7pm Mile High Drone Shows, free, best at Tivoli Quad / Auraria with Christkindlmarket (LRA Nov 4; Visit Denver) (~21 min)
+- Sat Dec 12, 10:30–11:30am Golden Holiday Parade on Washington Ave (LRA Nov 3; Visit Golden) (~14 min)
+- Sat Nov 21, doors 10:30 / show 11am Rock and Roll Playhouse: Music of Dolly Parton for Kids at Bluebird Theater, ticketed (CKAR Nov 2; AXS) (~25 min)
+- Fri Dec 4, parade 7pm Louisville Parade of Lights on Main Street (LRA Nov 3; Louisville Chamber) (~27 min)
+
+**Skipped**
+- Foss Swim School ad; Cat in the Hat movie theaters; Lyons / Winter Park / Colorado Springs / mountain holiday items; Denver Parade of Lights Dec 5 6pm and Erie Dec 4 (evening/farther priority vs Golden daytime); image-only free-spots carousel venues without named captions.
+
 ## Scrub window (2026-11-02 Mon/Wed/Fri pass)
 
 **Checked**
