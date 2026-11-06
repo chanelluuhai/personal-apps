@@ -10,6 +10,33 @@
 | Colorado Mama Life (Angelica) | https://www.instagram.com/coloradomamalife/ | https://www.facebook.com/profile.php?id=61577651781310 | https://www.tiktok.com/@coloradomamalife |
 | Little Rad Adventure | https://www.instagram.com/littleradadventure/ | https://www.facebook.com/LittleRadAdventure | https://littleradadventure.com/ |
 
+## Scrub window (2026-11-06 Mon/Wed/Fri pass)
+
+**Checked**
+- Instagram: public profile embed pages returned recent posts for all five accounts (HTTP 200). Cutoff Nov 4 00:00 America/Denver; re-read Nov 4+ carefully and only added items not already on the map:
+  - @days.in.denver: no posts on/after Nov 4 (last was Nov 3 Bluff Lake — already pinned).
+  - @colorado.kids.explore: Nov 4 foster-family clothing/Venmo drive (deadline Sat Nov 14) — not an outing venue; skipped.
+  - @coloradokidsarerad: Nov 5 Anythink Nature Library + Barr Lake State Park free-ish day; Nov 4 Wonderland Lake Trail, Boulder (new pin). Anythink already on the map — corrected address/coords/hours this pass. Barr Lake (~41 min) skipped: COTREX lists Niedrach Nature Trail closed for berm maintenance (July 28 until further notice) and Lake Loop has dam-rehab weekday closures.
+  - @coloradomamalife: Nov 5 Learning with Kelsey activity-plan #ad — skipped.
+  - @littleradadventure: Nov 6 Ford Bronco winter bucket-list #ad (no named toddler venue); Nov 5 THE POLAR EXPRESS at Colorado Railroad Museum Golden Nov 6–Dec 23 (new event; museum already pinned); Nov 4 GoPro #ad; Nov 4 drone-shows list — Mile High Drone Shows and Littleton Candlelight Walk already on the map; Lyons / Winter Park / Cheyenne Mountain Zoo Electric Safari skipped as far.
+- Days.in.denver beehiiv: sitemap still tops out at the October newsletter URL; `…/p/days-in-denver-november-newsletter` returns 404 this pass (November issue was scrubbed 2026-11-02). No newer issue found. Homepage/archive behind a Cloudflare-style wall in curl.
+- Little Rad Adventure site feed: newest post is a Pennsylvania Wilds travel piece (2026-11-05); newest Colorado post still Chief Mountain Trail (2026-06-12).
+- Facebook: login-walled historically — not re-tried; no captions guessed.
+- TikTok: profile meta only (unchanged).
+- Details confirmed on anythinklibraries.org (Nature Library), bouldercolorado.gov / AllTrails (Wonderland Lake), coloradorailroadmuseum.org/polar-express/, and cpw / COTREX (Barr Lake closures). Drive times via public OSRM from the 64th & Ward base.
+
+**New pins (1)**
+- Wonderland Lake Trail + Park, Boulder: easy ~2-mi stroller-friendly lake loop with playground on the Poplar Ave side (CKAR Nov 4; City of Boulder, AllTrails) (~39 min, marked farther than 30 min; tagged toddler-hike)
+
+**Updated pins (1)**
+- Anythink Nature Library, Thornton: corrected from approximate coords to 6811 E 136th Ave; hours Mon–Thu 9–8 / Fri–Sat 9–5 / Sun closed; café + outdoor trail loop (CKAR Nov 5 rediscovery; Anythink) (~34 min, now marked farther than 30 min)
+
+**New events (1)**
+- Nov 6–Dec 23, evening shows 5 / 6:30 / 8pm THE POLAR EXPRESS™ Train Ride at Colorado Railroad Museum, Golden; under 2 free as lap riders; ticketed (LRA Nov 5; CRM) (~11 min)
+
+**Skipped**
+- CKE foster clothing drive; CML Learning with Kelsey ad; LRA Bronco winter list / GoPro ad / Pennsylvania site post; Barr Lake (trail closure + ~41 min); Lyons/Winter Park/COS drone & safari items already deprioritized Nov 4.
+
 ## Scrub window (2026-11-04 Mon/Wed/Fri pass)
 
 **Checked**

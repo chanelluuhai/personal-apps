@@ -41,8 +41,8 @@
         "note": "Facebook page Littleradadventure, also posted as Must Do In Colorado. Added from Chanel FB share 2026-10-03 (reel 1738726840765924 → Tiny Town & Railroad, Morrison). Park is seasonal and closed after Labor Day, so no pin until it reopens. IG scrubbed through 2026-10-23."
       }
     ],
-    "updated": "2026-11-04",
-    "scrub_window": "2026-11-04 Mon/Wed/Fri pass: Instagram Nov 2–4 posts via public profile embeds (all five accounts). No new pins. New events: Mile High Drone Shows Nov 20–Dec 31 (LRA/Visit Denver); Golden Holiday Parade Dec 12 (LRA/Visit Golden); Rock and Roll Playhouse Dolly Parton for Kids at Bluebird Nov 21 (CKAR/AXS); Louisville Parade of Lights Dec 4 (LRA/Louisville Chamber). Prior scrubs retained.",
+    "updated": "2026-11-06",
+    "scrub_window": "2026-11-06 Mon/Wed/Fri pass: Instagram Nov 4–6 posts via public profile embeds (all five accounts). New pin: Wonderland Lake Trail + Park, Boulder (CKAR Nov 4 toddler hike). Corrected Anythink Nature Library address/coords/hours (CKAR Nov 5 rediscovery). New event: THE POLAR EXPRESS Train Ride at Colorado Railroad Museum Nov 6–Dec 23 (LRA Nov 5). Barr Lake skipped (Niedrach berm closure + ~41 min). Prior scrubs retained.",
     "notes": "Why-notes paraphrased/quoted from source captions and newsletters. Drive times are rough estimates from Arvada 80004; verify in Google Maps. Do not invent venues — every pin cites a named source. Seasonal spots kept if still relevant for fall 2026 or evergreen otherwise. Home base updated to W 64th Ave & Ward Rd; drive times refreshed via public OSRM routing on 2026-10-02."
   },
   "places": [
@@ -1699,12 +1699,13 @@
     {
       "id": "anythink-nature-library",
       "name": "Anythink Nature Library",
-      "lat": 39.9145,
-      "lng": -105.0555,
-      "address": "Anythink Nature Library Thornton (approx)",
-      "why": "Days.in.denver August: grand opening of 15-acre nature library — trails, interactive outdoor spaces, connect with nature. Ongoing visit destination.",
-      "source": "Days.in.denver (@days.in.denver)",
+      "lat": 39.943216,
+      "lng": -104.907506,
+      "address": "6811 E 136th Ave, Thornton, CO 80602",
+      "why": "Colorado Kids Are Rad Nov 5 free-ish day stop: indoor Nature Library plus outdoor space for little legs to run, with LatinA Flavor Café inside. Already on the map from Days.in.denver August grand-opening coverage; this pass corrected the pin from an approximate location to the official address and hours.",
+      "source": "Colorado Kids Are Rad (@coloradokidsarerad) Instagram post 2026-11-05; Days.in.denver August newsletter; Anythink Libraries",
       "source_accounts": [
+        "@coloradokidsarerad",
         "@days.in.denver",
         "Facebook: Days.in.denver"
       ],
@@ -1720,21 +1721,32 @@
         {
           "label": "Anythink Libraries",
           "url": "https://www.anythinklibraries.org/"
+        },
+        {
+          "label": "CKAR free-ish day: Anythink Nature + Barr Lake (Nov 5)",
+          "url": "https://www.instagram.com/p/DfYe7_Ax-xM/"
+        },
+        {
+          "label": "Anythink Nature Library",
+          "url": "https://www.anythinklibraries.org/anythink-nature-library/"
         }
       ],
-      "hours": "Library hours vary",
+      "hours": "Mon–Thu 9am–8pm, Fri–Sat 9am–5pm, Sun closed",
       "cost": "Free",
-      "toddler_notes": "Nature + library combo; outdoor toddling on trails.",
+      "toddler_notes": "Kid Space indoors, outdoor gardens and a trail loop on the property, plus a trailhead connection to the Aylor trail system. Café with indoor/outdoor seating. Good chilly-day combo: books + toddle outside.",
       "tags": [
+        "cafe",
+        "free",
+        "indoor",
         "library",
         "nature",
-        "free",
+        "outdoor",
         "thornton"
       ],
-      "drive_note": "~21 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~8.3 mi straight-line)",
-      "farther_than_30min": false,
-      "approx_drive_minutes": 21,
-      "straight_line_miles": 8.3
+      "drive_note": "~34 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~15.3 mi straight-line)",
+      "farther_than_30min": true,
+      "approx_drive_minutes": 34,
+      "straight_line_miles": 15.3
     },
     {
       "id": "denver-central-library",
@@ -4410,6 +4422,55 @@
       "farther_than_30min": false,
       "approx_drive_minutes": 22,
       "straight_line_miles": 8.3
+    },
+    {
+      "id": "wonderland-lake-trail",
+      "name": "Wonderland Lake Trail + Park (Boulder)",
+      "lat": 40.0508758,
+      "lng": -105.2825096,
+      "address": "Wonderland Lake Trailhead, 4201 N Broadway, Boulder, CO 80304 (playground at Wonderland Lake Park, 601 Poplar Ave)",
+      "why": "Colorado Kids Are Rad Nov 4: kid-friendly ~2-mile lake loop (~98 ft gain, easy) that is toddler- and stroller-friendly, with a playground on the opposite side of the lake for a hike + play combo.",
+      "source": "Colorado Kids Are Rad (@coloradokidsarerad) Instagram post 2026-11-04; City of Boulder OSMP / Wonderland Lake Park; AllTrails",
+      "source_accounts": [
+        "@coloradokidsarerad"
+      ],
+      "links": [
+        {
+          "label": "CKAR Wonderland Lake hike + playground (Nov 4)",
+          "url": "https://www.instagram.com/p/DfV6UfuRG64/"
+        },
+        {
+          "label": "City of Boulder: Wonderland Lake trailhead",
+          "url": "https://bouldercolorado.gov/trailhead/wonderland-lake"
+        },
+        {
+          "label": "City of Boulder: Wonderland Lake Park",
+          "url": "https://bouldercolorado.gov/locations/wonderland-lake-park"
+        },
+        {
+          "label": "AllTrails: Wonderland Lake Trail",
+          "url": "https://www.alltrails.com/trail/us/colorado/wonderland-lake-trail"
+        }
+      ],
+      "hours": "Trailhead open 5 AM–11 PM daily; park playground dawn to dusk",
+      "cost": "Free; no parking fee",
+      "toddler_notes": "Mostly flat paved/gravel loop around the wildlife sanctuary; stroller-friendly. Playground at Wonderland Lake Park (Poplar Ave side) is geared younger (sandbox, tunnel, swings). No restrooms at the Broadway trailhead—go before you arrive. Little shade; go earlier on warm days. Small trailhead lot (19 spaces). Good Boulder-friend meetup.",
+      "hike": "~2 mi / 3.2 km loop, ~98 ft / 30 m gain, easy, stroller-friendly (AllTrails / CKAR)",
+      "tags": [
+        "hike",
+        "trail",
+        "nature",
+        "outdoor",
+        "playground",
+        "free",
+        "boulder",
+        "toddler-hike",
+        "stroller-friendly"
+      ],
+      "drive_note": "~39 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~18.1 mi straight-line)",
+      "farther_than_30min": true,
+      "approx_drive_minutes": 39,
+      "straight_line_miles": 18.1
     }
   ]
 }

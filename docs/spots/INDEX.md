@@ -1,9 +1,9 @@
 # Denver/Arvada Toddler Outing Spots
 
-Updated: 2026-11-04  
+Updated: 2026-11-06  
 Base: W 64th Ave & Ward Rd, Arvada, CO 80004  
 Audience: Toddler ~20 months; prefer ~30 min drive  
-Places: 105
+Places: 106
 
 Each pin has a why-note from a named social/newsletter source. Drive times are rough estimates.
 
@@ -511,19 +511,6 @@ Each pin has a why-note from a named social/newsletter source. Drive times are r
 - **Cost:** Free
 - **Toddler tip:** Park is HUGE — stay in toddler-friendly zones; bring a second adult if possible.
 - [Instagram @coloradokidsarerad](https://www.instagram.com/coloradokidsarerad/)
-
-## Anythink Nature Library (near)
-
-- **Address:** Anythink Nature Library Thornton (approx)
-- **Drive:** ~21 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~8.3 mi straight-line)
-- **Why:** Days.in.denver August: grand opening of 15-acre nature library — trails, interactive outdoor spaces, connect with nature. Ongoing visit destination.
-- **Source:** Days.in.denver (@days.in.denver)
-- **Hours:** Library hours vary
-- **Cost:** Free
-- **Toddler tip:** Nature + library combo; outdoor toddling on trails.
-- [Instagram @days.in.denver](https://www.instagram.com/days.in.denver/)
-- [Days in Denver Aug newsletter](https://days-in-denver.beehiiv.com/p/days-in-denver-august-newsletter)
-- [Anythink Libraries](https://www.anythinklibraries.org/)
 
 ## Denver Central Library (near)
 
@@ -1159,6 +1146,21 @@ Each pin has a why-note from a named social/newsletter source. Drive times are r
 - [Hudson Gardens](https://hudsongardens.org/)
 - [Days in Denver Fall guide](https://days-in-denver.beehiiv.com/p/days-in-denver-the-best-of-fall-b1520ba52a91735b)
 
+## Anythink Nature Library (FARTHER)
+
+- **Address:** 6811 E 136th Ave, Thornton, CO 80602
+- **Drive:** ~34 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~15.3 mi straight-line)
+- **Why:** Colorado Kids Are Rad Nov 5 free-ish day stop: indoor Nature Library plus outdoor space for little legs to run, with LatinA Flavor Café inside. Already on the map from Days.in.denver August grand-opening coverage; this pass corrected the pin from an approximate location to the official address and hours.
+- **Source:** Colorado Kids Are Rad (@coloradokidsarerad) Instagram post 2026-11-05; Days.in.denver August newsletter; Anythink Libraries
+- **Hours:** Mon–Thu 9am–8pm, Fri–Sat 9am–5pm, Sun closed
+- **Cost:** Free
+- **Toddler tip:** Kid Space indoors, outdoor gardens and a trail loop on the property, plus a trailhead connection to the Aylor trail system. Café with indoor/outdoor seating. Good chilly-day combo: books + toddle outside.
+- [Instagram @days.in.denver](https://www.instagram.com/days.in.denver/)
+- [Days in Denver Aug newsletter](https://days-in-denver.beehiiv.com/p/days-in-denver-august-newsletter)
+- [Anythink Libraries](https://www.anythinklibraries.org/)
+- [CKAR free-ish day: Anythink Nature + Barr Lake (Nov 5)](https://www.instagram.com/p/DfYe7_Ax-xM/)
+- [Anythink Nature Library](https://www.anythinklibraries.org/anythink-nature-library/)
+
 ## Eloise May Library (Arapahoe Libraries) (FARTHER)
 
 - **Address:** 1471 S Parker Rd, Denver, CO 80231
@@ -1333,6 +1335,21 @@ Each pin has a why-note from a named social/newsletter source. Drive times are r
 - [Days.in.denver Castle Trail / hikes reel (Oct 13)](https://www.instagram.com/days.in.denver/reel/Deb02B6hKEQ/)
 - [Little Rad Adventure reel](https://www.instagram.com/littleradadventure/reel/DWNuX_4iVjj/)
 - [Jeffco Open Space — Mount Falcon Park](https://www.jeffco.us/1332/Mount-Falcon-Park/)
+
+## Wonderland Lake Trail + Park (Boulder) (FARTHER)
+
+- **Address:** Wonderland Lake Trailhead, 4201 N Broadway, Boulder, CO 80304 (playground at Wonderland Lake Park, 601 Poplar Ave)
+- **Drive:** ~39 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~18.1 mi straight-line)
+- **Why:** Colorado Kids Are Rad Nov 4: kid-friendly ~2-mile lake loop (~98 ft gain, easy) that is toddler- and stroller-friendly, with a playground on the opposite side of the lake for a hike + play combo.
+- **Source:** Colorado Kids Are Rad (@coloradokidsarerad) Instagram post 2026-11-04; City of Boulder OSMP / Wonderland Lake Park; AllTrails
+- **Hours:** Trailhead open 5 AM–11 PM daily; park playground dawn to dusk
+- **Cost:** Free; no parking fee
+- **Toddler tip:** Mostly flat paved/gravel loop around the wildlife sanctuary; stroller-friendly. Playground at Wonderland Lake Park (Poplar Ave side) is geared younger (sandbox, tunnel, swings). No restrooms at the Broadway trailhead—go before you arrive. Little shade; go earlier on warm days. Small trailhead lot (19 spaces). Good Boulder-friend meetup.
+- **Trail:** ~2 mi / 3.2 km loop, ~98 ft / 30 m gain, easy, stroller-friendly (AllTrails / CKAR)
+- [CKAR Wonderland Lake hike + playground (Nov 4)](https://www.instagram.com/p/DfV6UfuRG64/)
+- [City of Boulder: Wonderland Lake trailhead](https://bouldercolorado.gov/trailhead/wonderland-lake)
+- [City of Boulder: Wonderland Lake Park](https://bouldercolorado.gov/locations/wonderland-lake-park)
+- [AllTrails: Wonderland Lake Trail](https://www.alltrails.com/trail/us/colorado/wonderland-lake-trail)
 
 ## Coot Lake Trail (Boulder) (FARTHER)
 

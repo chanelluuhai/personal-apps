@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated": "2026-11-04",
-    "as_of": "2026-11-04",
+    "updated": "2026-11-06",
+    "as_of": "2026-11-06",
     "timezone": "America/Denver",
     "notes": "Upcoming, dated family events kept separate from map pins. Confirm times, access, and weather with the linked organizer before heading out."
   },
@@ -738,6 +738,20 @@
       "drive_note": "~27 min from the 64th & Ward base",
       "source": "Little Rad Adventure IG Nov 3 holiday parades (https://www.instagram.com/p/DfSc1HdpUnR/); Louisville Chamber of Commerce",
       "note": "Free evening lighted parade on Main Street plus Santa visits, performances, and hot chocolate beforehand. Bundle up—it's a 7pm start in December."
+    },
+    {
+      "id": "polar-express-crm-2026",
+      "title": "THE POLAR EXPRESS™ Train Ride",
+      "date": "2026-11-06",
+      "end_date": "2026-12-23",
+      "time": "Main shows 5:00, 6:30, or 8:00 PM (arrive ~30 min early for pavilion pre-show); select evenings before Thanksgiving, then daily after",
+      "place": "Colorado Railroad Museum, 17155 W 44th Ave, Golden, CO 80403",
+      "lat": 39.7705,
+      "lng": -105.1925,
+      "link": "https://coloradorailroadmuseum.org/polar-express/",
+      "drive_note": "~11 min from the 64th & Ward base",
+      "source": "Little Rad Adventure IG Nov 5 (https://www.instagram.com/p/DfXVx5GJB55/); Colorado Railroad Museum",
+      "note": "Ticketed evening steam-train + heated pavilion show (hot cocoa, cookies, Silver Bell, Santa). Lap riders under age 2 free; Standard Seating about $80 ages 2–15 / $100 ages 16+ (10% off before Thanksgiving)—sells out yearly. Long multi-part evening for a ~20-month-old; earliest 5pm show is the most realistic if nap timing works. Museum already pinned."
     }
   ]
 }
