@@ -725,6 +725,117 @@
 },
 "yield": null
 },
+"bf-30-minute-skillet-lasagna-with-hidden-veggies": {
+"account": "",
+"account_name": "Baby Foode",
+"account_url": "https://babyfoode.com/",
+"category": "pasta",
+"color": "#caa678",
+"creator": null,
+"date": "2026-11-06",
+"extraction": "recipe-page",
+"fetched_at": "2026-11-07T15:49:26+00:00",
+"id": "bf-30-minute-skillet-lasagna-with-hidden-veggies",
+"ingredients": [
+"9 large lasagna noodles, (or 8oz of other big-shaped pasta)",
+"1 tbsp olive oil",
+"1/2 lb ground beef, (can also use ground turkey )",
+"1 tsp Italian Seasoning",
+"1/2 tsp garlic powder",
+"1/2 tsp onion powder",
+"1/2 tsp salt",
+"1 24 oz jar of pasta sauce, (I used the Trader Joe’s Tomato Basil Marinara sauce)",
+"1 cup carrots, (peeled and roughly chopped)",
+"1 cup zucchini, (roughly chopped)",
+"1 cup water",
+"3/4 cup mozzarella or Italian cheese blend, (shredded)",
+"3/4 cup ricotta cheese",
+"1/4 cup Parmesan, (plus more for serving)",
+"1 tbsp fresh basil, (finely chopped (optional)"
+],
+"kind": "site",
+"mealPrep": false,
+"mealPrep_basis": [],
+"minutes": 25,
+"notes": [],
+"platform": "web",
+"recipePage": "r/bf-30-minute-skillet-lasagna-with-hidden-veggies.html",
+"recipeSourceUrl": "https://babyfoode.com/blog/30-minute-skillet-lasagna-with-hidden-veggies/",
+"recipe_from": "recipe page",
+"site": "Baby Foode",
+"site_url": "https://babyfoode.com/",
+"status": "ok",
+"steps": [
+"Cook Pasta: Bring a medium saucepan full of water to a boil. Break the lasagna noodles into small 2-3-inch pieces (they don’t have to be even) and cook for the shortest time listed on the package directions. Drain.",
+"Brown Beef: While the pasta is cooking, heat a medium oven-safe skillet over medium heat and add olive oil. Add the ground beef and cook until browned, about 5-6 minutes. Drain any excess grease, then add the Italian seasoning, garlic powder, onion powder, and salt, and stir to combine. Turn the heat to medium-low.",
+"Blend Sauce: While the meat browns, add the tomato sauce, carrots, zucchini, and water to a blender and blend for 60 seconds, or until smooth.",
+"Combine Sauce/Meat: When the meat is browned, add the tomato/veggie sauce and bring to a slight boil, it will be slightly liquidy, but the noodles will absorb the excess liquid.Note: Since all jarred pasta sauces have different spices, this is the time to taste the sauce in case you need to add more seasoning.",
+"Add Noodles: Add the cooked pasta and stir, then simmer for 2-3 minutes while you make the ricotta.",
+"Preheat the oven to Broil.",
+"Make Ricotta: In a small bowl, stir together the ricotta and Parmesan. Spoon the ricotta over the noodles and sprinkle with mozzarella.",
+"Broil: Place the skillet on the top rack of the oven and broil for 3-4 minutes, or until the cheese is bubbly and browned.",
+"Eat: Let cool for a few minutes. Then sprinkle with basil (if using) and Parmesan before serving."
+],
+"summary": "This reader-created skillet lasagna comes together in less than 30 minutes with ground beef, cozy lasagna noodles, and a simple store-bought pasta sauce blended with carrots and zucchini for a little …",
+"tags": [
+"dinner",
+"pasta & noodles",
+"veggies"
+],
+"thumb": "thumbs/bf-30-minute-skillet-lasagna-with-hidden-veggies.webp",
+"thumb_h": 400,
+"thumb_w": 400,
+"time": "long",
+"time_basis": "recipe says 25 min total",
+"title": "30-Minute Skillet Lasagna with Hidden Veggies",
+"url": "https://babyfoode.com/blog/30-minute-skillet-lasagna-with-hidden-veggies/",
+"web": {
+"author": null,
+"cuisine": [],
+"date": "2026-11-06",
+"description": "This reader-created skillet lasagna comes together in less than 30 minutes with ground beef, cozy lasagna noodles, and a simple store-bought pasta sauce blended with carrots and zucchini for a little hidden-veggie magic. Then we pile on the ricotta and melty cheese for a cheesy, family-friendly dinner my kids ask for every week!",
+"image": "https://babyfoode.com/wp-content/uploads/2026/10/skillet-lasagna-family-favorite-14.png",
+"ingredients": [
+"9 large lasagna noodles, (or 8oz of other big-shaped pasta)",
+"1 tbsp olive oil",
+"1/2 lb ground beef, (can also use ground turkey )",
+"1 tsp Italian Seasoning",
+"1/2 tsp garlic powder",
+"1/2 tsp onion powder",
+"1/2 tsp salt",
+"1 24 oz jar of pasta sauce, (I used the Trader Joe’s Tomato Basil Marinara sauce)",
+"1 cup carrots, (peeled and roughly chopped)",
+"1 cup zucchini, (roughly chopped)",
+"1 cup water",
+"3/4 cup mozzarella or Italian cheese blend, (shredded)",
+"3/4 cup ricotta cheese",
+"1/4 cup Parmesan, (plus more for serving)",
+"1 tbsp fresh basil, (finely chopped (optional)"
+],
+"keywords": [
+"family dinner",
+"toddler dinner"
+],
+"minutes": 25,
+"name": "30-Minute Skillet Lasagna with Hidden Veggies",
+"recipeCategory": [
+"Main Course"
+],
+"steps": [
+"Cook Pasta: Bring a medium saucepan full of water to a boil. Break the lasagna noodles into small 2-3-inch pieces (they don’t have to be even) and cook for the shortest time listed on the package directions. Drain.",
+"Brown Beef: While the pasta is cooking, heat a medium oven-safe skillet over medium heat and add olive oil. Add the ground beef and cook until browned, about 5-6 minutes. Drain any excess grease, then add the Italian seasoning, garlic powder, onion powder, and salt, and stir to combine. Turn the heat to medium-low.",
+"Blend Sauce: While the meat browns, add the tomato sauce, carrots, zucchini, and water to a blender and blend for 60 seconds, or until smooth.",
+"Combine Sauce/Meat: When the meat is browned, add the tomato/veggie sauce and bring to a slight boil, it will be slightly liquidy, but the noodles will absorb the excess liquid.Note: Since all jarred pasta sauces have different spices, this is the time to taste the sauce in case you need to add more seasoning.",
+"Add Noodles: Add the cooked pasta and stir, then simmer for 2-3 minutes while you make the ricotta.",
+"Preheat the oven to Broil.",
+"Make Ricotta: In a small bowl, stir together the ricotta and Parmesan. Spoon the ricotta over the noodles and sprinkle with mozzarella.",
+"Broil: Place the skillet on the top rack of the oven and broil for 3-4 minutes, or until the cheese is bubbly and browned.",
+"Eat: Let cool for a few minutes. Then sprinkle with basil (if using) and Parmesan before serving."
+],
+"yield": "6"
+},
+"yield": "6"
+},
 "bf-banana-muffins": {
 "account": "",
 "account_name": "Baby Foode",
@@ -5549,6 +5660,100 @@
 "yield": "24"
 },
 "yield": "24"
+},
+"mj-blueberry-french-toast-roll-ups": {
+"account": "kidfriendly.meals",
+"account_name": "Min Kwon · Kidfriendly Meals",
+"account_url": "https://www.mjandhungryman.com/",
+"category": "sweet",
+"color": "#b0a197",
+"creator": "kidfriendly.meals",
+"date": "2026-11-03",
+"extraction": "recipe-page",
+"fetched_at": "2026-11-07T15:49:13+00:00",
+"id": "mj-blueberry-french-toast-roll-ups",
+"ingredients": [
+"1/2 cup mascarpone cheese (softened, see note)",
+"1/2 cup blueberries",
+"1 tablespoon lemon zest (optional)",
+"8 slices soft sandwich bread",
+"2 eggs",
+"2 tablespoons milk",
+"1/2 teaspoon cinnamon",
+"1-2 tablespoons butter (for cooking)"
+],
+"kind": "creator",
+"mealPrep": false,
+"mealPrep_basis": [],
+"minutes": 15,
+"notes": [],
+"platform": "web",
+"recipePage": "r/mj-blueberry-french-toast-roll-ups.html",
+"recipeSourceUrl": "https://www.mjandhungryman.com/blueberry-french-toast-roll-ups/",
+"recipe_from": "recipe page",
+"site": "MJ and Hungryman",
+"site_url": "https://www.mjandhungryman.com/",
+"status": "ok",
+"steps": [
+"Prepare the blueberry filling. Blend the blueberries until smooth. Gradually stir the blueberry purée (and lemon zest if using) into the softened mascarpone until thick, creamy, and spreadable. You may not need all the purée. See note",
+"Flatten the bread. Trim the crusts, if desired. Using a rolling pin, gently flatten each slice of bread to about ⅛–¼ inch thick.",
+"Fill and roll. Spread about 1–2 tablespoons of the blueberry mascarpone filling onto each slice, leaving a small border around the edges. Roll tightly into a log.",
+"Prepare the egg mixture. In a shallow dish, whisk together the eggs, milk, and cinnamon until well combined.",
+"Dip the roll-ups. Dip each roll-up into the egg mixture, turning to coat all sides. Avoid soaking for too long to prevent sogginess.",
+"Cook until golden. Melt butter in a large nonstick skillet over medium-low heat. Place the roll-ups seam-side down and cook, turning occasionally, until golden brown on all sides and the egg coating is fully cooked.",
+"Serve. Enjoy warm with any leftover blueberry mascarpone filling for dipping!"
+],
+"summary": "These easy blueberry French toast roll-ups have a creamy blueberry filling and golden cinnamon coating. Made with just 7 ingredients in 20 minutes!",
+"tags": [
+"breakfast",
+"snack"
+],
+"thumb": "thumbs/mj-blueberry-french-toast-roll-ups.webp",
+"thumb_h": 400,
+"thumb_w": 400,
+"time": "quick",
+"time_basis": "recipe says 15 min total",
+"title": "Blueberry French Toast Roll Ups",
+"url": "https://www.mjandhungryman.com/blueberry-french-toast-roll-ups/",
+"web": {
+"author": null,
+"cuisine": [
+"American"
+],
+"date": "2026-11-03",
+"description": "These easy blueberry French toast roll-ups have a creamy blueberry filling and golden cinnamon coating. Made with just 7 ingredients in 20 minutes!",
+"image": "https://www.mjandhungryman.com/wp-content/uploads/2026/10/Blueberry-French-toast-roll-ups-recipe.jpg",
+"ingredients": [
+"1/2 cup mascarpone cheese (softened, see note)",
+"1/2 cup blueberries",
+"1 tablespoon lemon zest (optional)",
+"8 slices soft sandwich bread",
+"2 eggs",
+"2 tablespoons milk",
+"1/2 teaspoon cinnamon",
+"1-2 tablespoons butter (for cooking)"
+],
+"keywords": [
+"french toast roll ups"
+],
+"minutes": 15,
+"name": "Blueberry French Toast Roll Ups",
+"recipeCategory": [
+"Breakfast",
+"Snack"
+],
+"steps": [
+"Prepare the blueberry filling. Blend the blueberries until smooth. Gradually stir the blueberry purée (and lemon zest if using) into the softened mascarpone until thick, creamy, and spreadable. You may not need all the purée. See note",
+"Flatten the bread. Trim the crusts, if desired. Using a rolling pin, gently flatten each slice of bread to about ⅛–¼ inch thick.",
+"Fill and roll. Spread about 1–2 tablespoons of the blueberry mascarpone filling onto each slice, leaving a small border around the edges. Roll tightly into a log.",
+"Prepare the egg mixture. In a shallow dish, whisk together the eggs, milk, and cinnamon until well combined.",
+"Dip the roll-ups. Dip each roll-up into the egg mixture, turning to coat all sides. Avoid soaking for too long to prevent sogginess.",
+"Cook until golden. Melt butter in a large nonstick skillet over medium-low heat. Place the roll-ups seam-side down and cook, turning occasionally, until golden brown on all sides and the egg coating is fully cooked.",
+"Serve. Enjoy warm with any leftover blueberry mascarpone filling for dipping!"
+],
+"yield": "8"
+},
+"yield": "8"
 },
 "mj-boursin-pasta": {
 "account": "kidfriendly.meals",
@@ -11866,6 +12071,88 @@
 "In a mini food chopper or processor combine the peas, avocado, and hard-boiled egg.",
 "Pulse until you reach your desired texture—smooth for younger babies, or leave it a little chunky for older babies and toddlers.",
 "Add lemon juice and olive oil if using, and pulse once or twice more to combine."
+],
+"yield": "4"
+},
+"yield": "4"
+},
+"mj-peanut-butter-protein-dip": {
+"account": "kidfriendly.meals",
+"account_name": "Min Kwon · Kidfriendly Meals",
+"account_url": "https://www.mjandhungryman.com/",
+"category": "finger",
+"color": "#aa9993",
+"creator": "kidfriendly.meals",
+"date": "2026-11-04",
+"extraction": "recipe-page",
+"fetched_at": "2026-11-07T15:49:12+00:00",
+"id": "mj-peanut-butter-protein-dip",
+"ingredients": [
+"1/2 cup white beans",
+"1/4 cup creamy peanut butter",
+"1/2 ripe banana",
+"1-2 tablespoons water or unsweetened almond milk",
+"1/4 cup raspberries"
+],
+"kind": "creator",
+"mealPrep": false,
+"mealPrep_basis": [],
+"minutes": 5,
+"notes": [],
+"platform": "web",
+"recipePage": "r/mj-peanut-butter-protein-dip.html",
+"recipeSourceUrl": "https://www.mjandhungryman.com/peanut-butter-protein-dip/",
+"recipe_from": "recipe page",
+"site": "MJ and Hungryman",
+"site_url": "https://www.mjandhungryman.com/",
+"status": "ok",
+"steps": [
+"Add the white beans, peanut butter, banana, and 1 tablespoon water or unsweetened almond milk to a food processor. Blend until completely smooth and creamy, stopping to scrape down the sides as needed.",
+"If the mixture is too thick, add additional liquid 1 teaspoon at a time and continue blending until it reaches a thick, smooth, spreadable consistency.",
+"Add the raspberries to a small bowl and mash thoroughly with a fork.",
+"Spoon the peanut butter mixture into a serving bowl and gently swirl the mashed raspberries through the top."
+],
+"summary": "This protein peanut butter dip is creamy, naturally sweet and made with white beans, banana and raspberries for an easy, filling snack for kids.",
+"tags": [
+"snack",
+"sweet",
+"finger food"
+],
+"thumb": "thumbs/mj-peanut-butter-protein-dip.webp",
+"thumb_h": 400,
+"thumb_w": 400,
+"time": "quick",
+"time_basis": "recipe says 5 min total",
+"title": "Protein Peanut Butter Dip",
+"url": "https://www.mjandhungryman.com/peanut-butter-protein-dip/",
+"web": {
+"author": null,
+"cuisine": [
+"American"
+],
+"date": "2026-11-04",
+"description": "This protein peanut butter dip is creamy, naturally sweet and made with white beans, banana and raspberries for an easy, filling snack for kids.",
+"image": "https://www.mjandhungryman.com/wp-content/uploads/2026/10/Peanut-butter-protein-dip-recipe.jpg",
+"ingredients": [
+"1/2 cup white beans",
+"1/4 cup creamy peanut butter",
+"1/2 ripe banana",
+"1-2 tablespoons water or unsweetened almond milk",
+"1/4 cup raspberries"
+],
+"keywords": [
+"peanut butter dip"
+],
+"minutes": 5,
+"name": "Protein Peanut Butter Dip",
+"recipeCategory": [
+"Snack"
+],
+"steps": [
+"Add the white beans, peanut butter, banana, and 1 tablespoon water or unsweetened almond milk to a food processor. Blend until completely smooth and creamy, stopping to scrape down the sides as needed.",
+"If the mixture is too thick, add additional liquid 1 teaspoon at a time and continue blending until it reaches a thick, smooth, spreadable consistency.",
+"Add the raspberries to a small bowl and mash thoroughly with a fork.",
+"Spoon the peanut butter mixture into a serving bowl and gently swirl the mashed raspberries through the top."
 ],
 "yield": "4"
 },
@@ -19222,6 +19509,113 @@
 },
 "yield": "2"
 },
+"pe-fall-kale-salad-with-butternut-squash": {
+"account": "thepickyeater",
+"account_name": "Anjali Shah · The Picky Eater",
+"account_url": "https://pickyeaterblog.com/",
+"category": "meal",
+"color": "#635036",
+"creator": "thepickyeater",
+"date": "2026-11-06",
+"extraction": "recipe-page",
+"fetched_at": "2026-11-07T15:49:22+00:00",
+"id": "pe-fall-kale-salad-with-butternut-squash",
+"ingredients": [
+"4 cups chopped kale",
+"4 cups fresh spinach",
+"1 medium butternut squash",
+"1 tsp cinnamon",
+"1/4 tsp pepper",
+"1/2 tsp salt",
+"2 Honeycrisp Apples (thinly sliced)",
+"1/2 cup dried cranberries (sugar free)",
+"1/4 cup pecans",
+"3 tbsp vegetable broth",
+"2 tbsp apple cider vinegar",
+"1 tbsp pure maple syrup",
+"2 tsp dijon mustard",
+"1 tsp minced garlic",
+"1/2 tsp thyme"
+],
+"kind": "creator",
+"mealPrep": false,
+"mealPrep_basis": [],
+"minutes": 50,
+"notes": [],
+"platform": "web",
+"recipePage": "r/pe-fall-kale-salad-with-butternut-squash.html",
+"recipeSourceUrl": "https://pickyeaterblog.com/fall-kale-salad-with-butternut-squash/",
+"recipe_from": "recipe page",
+"site": "The Picky Eater",
+"site_url": "https://pickyeaterblog.com/",
+"status": "ok",
+"steps": [
+"Preheat oven to 400 F. Chop butternut squash into one inch pieces.",
+"Evenly spread the squash on a sheet pan and sprinkle with salt and pepper. Place in preheated oven and roast for 25-30 minutes, flipping once.",
+"Wash, de-stem, and finely chop 1 bunch of kale while butternut squash is roasting.",
+"Whisk together vegetable broth, apple cider vinegar, dijon mustard, maple syrup, thyme, and pepper.",
+"Pour dressing over the kale. Massage the kale by squeezing and rubbing the kale for 2-5 minutes or until the kale darkens and softens. Add spinach and toss.",
+"Thinly slice apples.",
+"Place greens on the bottom of a serving tray or salad bowl. Top with roasted butternut squash, cranberries, apple slices, and walnuts. Serve immediately."
+],
+"summary": "Cooler weather does not mean going without fresh salads, and my fall kale salad with butternut squash is perfect for autumn weather. I pack it with roasted squash, crisp apples, dried cranberries, and…",
+"tags": [
+"veggies"
+],
+"thumb": "thumbs/pe-fall-kale-salad-with-butternut-squash.webp",
+"thumb_h": 400,
+"thumb_w": 400,
+"time": "long",
+"time_basis": "recipe says 50 min total",
+"title": "Fall Kale Salad with Butternut Squash",
+"url": "https://pickyeaterblog.com/fall-kale-salad-with-butternut-squash/",
+"web": {
+"author": null,
+"cuisine": [
+"American"
+],
+"date": "2026-11-06",
+"description": "Cooler weather does not mean going without fresh salads, and my fall kale salad with butternut squash is perfect for autumn weather. I pack it with roasted squash, crisp apples, dried cranberries, and crunchy pecans over a bed of tender kale and spinach. The maple Dijon dressing brings all those fall flavors together to create a hearty side dish that is ready in 50 minutes.",
+"image": "https://pickyeaterblog.com/wp-content/uploads/2022/10/fall-kale-salad-4.jpg",
+"ingredients": [
+"4 cups chopped kale",
+"4 cups fresh spinach",
+"1 medium butternut squash",
+"1 tsp cinnamon",
+"1/4 tsp pepper",
+"1/2 tsp salt",
+"2 Honeycrisp Apples (thinly sliced)",
+"1/2 cup dried cranberries (sugar free)",
+"1/4 cup pecans",
+"3 tbsp vegetable broth",
+"2 tbsp apple cider vinegar",
+"1 tbsp pure maple syrup",
+"2 tsp dijon mustard",
+"1 tsp minced garlic",
+"1/2 tsp thyme"
+],
+"keywords": [
+"autumn salad",
+"fall kale salad"
+],
+"minutes": 50,
+"name": "Fall Kale Salad with Butternut Squash",
+"recipeCategory": [
+"Salad"
+],
+"steps": [
+"Preheat oven to 400 F. Chop butternut squash into one inch pieces.",
+"Evenly spread the squash on a sheet pan and sprinkle with salt and pepper. Place in preheated oven and roast for 25-30 minutes, flipping once.",
+"Wash, de-stem, and finely chop 1 bunch of kale while butternut squash is roasting.",
+"Whisk together vegetable broth, apple cider vinegar, dijon mustard, maple syrup, thyme, and pepper.",
+"Pour dressing over the kale. Massage the kale by squeezing and rubbing the kale for 2-5 minutes or until the kale darkens and softens. Add spinach and toss.",
+"Thinly slice apples.",
+"Place greens on the bottom of a serving tray or salad bowl. Top with roasted butternut squash, cranberries, apple slices, and walnuts. Serve immediately."
+],
+"yield": "6"
+},
+"yield": "6"
+},
 "pe-garlic-bread-grilled-cheese-with-french-onions": {
 "account": "thepickyeater",
 "account_name": "Anjali Shah · The Picky Eater",
@@ -20005,6 +20399,90 @@
 "yield": "4"
 },
 "yield": "4"
+},
+"pe-halloween-veggie-tray": {
+"account": "thepickyeater",
+"account_name": "Anjali Shah · The Picky Eater",
+"account_url": "https://pickyeaterblog.com/",
+"category": "meal",
+"color": "#a46a38",
+"creator": "thepickyeater",
+"date": "2026-10-31",
+"extraction": "recipe-page",
+"fetched_at": "2026-11-07T15:49:20+00:00",
+"id": "pe-halloween-veggie-tray",
+"ingredients": [
+"2 lbs baby carrots",
+"1 celery stalk",
+"1 mini bell pepper",
+"1 English cucumber (cut into thin slices)",
+"1/2 cup gluten-free hummus"
+],
+"kind": "creator",
+"mealPrep": false,
+"mealPrep_basis": [],
+"minutes": 10,
+"notes": [],
+"platform": "web",
+"recipePage": "r/pe-halloween-veggie-tray.html",
+"recipeSourceUrl": "https://pickyeaterblog.com/halloween-veggie-tray/",
+"recipe_from": "recipe page",
+"site": "The Picky Eater",
+"site_url": "https://pickyeaterblog.com/",
+"status": "ok",
+"steps": [
+"Spread baby carrots over the tray so that the entire tray is covered in orange carrots. It doesn't matter if they're a little haphazard, as long as the tray is covered in orange.",
+"Thinly slice English cucumber. Place over the carrots in the shape of a mouth.",
+"Prepare Gluten-Free Hummus or use store bought hummus, and place in small bowls, centering them for the eyes.",
+"Slice one celery stalk into three separate pieces. Arrange at the top of the tray to look like a stem.",
+"Place mini bell pepper in the center of the tray for the nose. Serve and enjoy!"
+],
+"summary": "When I need my guests to get excited about fresh produce, I make this Halloween veggie tray. I use baby carrots, cucumber slices, and hummus to create a cheerful pumpkin face.",
+"tags": [
+"veggies",
+"dip & spread"
+],
+"thumb": "thumbs/pe-halloween-veggie-tray.webp",
+"thumb_h": 556,
+"thumb_w": 400,
+"time": "quick",
+"time_basis": "recipe says 10 min total",
+"title": "Halloween Veggie Tray",
+"url": "https://pickyeaterblog.com/halloween-veggie-tray/",
+"web": {
+"author": null,
+"cuisine": [
+"American"
+],
+"date": "2026-10-31",
+"description": "When I need my guests to get excited about fresh produce, I make this Halloween veggie tray. I use baby carrots, cucumber slices, and hummus to create a cheerful pumpkin face. It takes me just 10 minutes to have this tray ready and on the table, and it is a colorful way to add crunchy vegetables to a Halloween spread.",
+"image": "https://pickyeaterblog.com/wp-content/uploads/2020/07/pumpkin-veggie-tray-1.jpg",
+"ingredients": [
+"2 lbs baby carrots",
+"1 celery stalk",
+"1 mini bell pepper",
+"1 English cucumber (cut into thin slices)",
+"1/2 cup gluten-free hummus"
+],
+"keywords": [
+"halloween veggie tray",
+"pumpkin veggie tray"
+],
+"minutes": 10,
+"name": "Halloween Veggie Tray",
+"recipeCategory": [
+"Appetizer"
+],
+"steps": [
+"Spread baby carrots over the tray so that the entire tray is covered in orange carrots. It doesn't matter if they're a little haphazard, as long as the tray is covered in orange.",
+"Thinly slice English cucumber. Place over the carrots in the shape of a mouth.",
+"Prepare Gluten-Free Hummus or use store bought hummus, and place in small bowls, centering them for the eyes.",
+"Slice one celery stalk into three separate pieces. Arrange at the top of the tray to look like a stem.",
+"Place mini bell pepper in the center of the tray for the nose. Serve and enjoy!"
+],
+"yield": "12"
+},
+"yield": "12"
 },
 "pe-healthy-apple-nachos": {
 "account": "thepickyeater",
@@ -23167,6 +23645,87 @@
 },
 "yield": "20"
 },
+"pe-oreo-bats-halloween-cookie": {
+"account": "thepickyeater",
+"account_name": "Anjali Shah · The Picky Eater",
+"account_url": "https://pickyeaterblog.com/",
+"category": "sweet",
+"color": "#978a88",
+"creator": "thepickyeater",
+"date": "2026-10-31",
+"extraction": "recipe-page",
+"fetched_at": "2026-11-07T15:49:19+00:00",
+"id": "pe-oreo-bats-halloween-cookie",
+"ingredients": [
+"12 Oreo Cookies",
+"24 mini chocolate chips",
+"black or white decorating gel"
+],
+"kind": "creator",
+"mealPrep": false,
+"mealPrep_basis": [],
+"minutes": 10,
+"notes": [],
+"platform": "web",
+"recipePage": "r/pe-oreo-bats-halloween-cookie.html",
+"recipeSourceUrl": "https://pickyeaterblog.com/oreo-bats-halloween-cookie/",
+"recipe_from": "recipe page",
+"site": "The Picky Eater",
+"site_url": "https://pickyeaterblog.com/",
+"status": "ok",
+"steps": [
+"Twist the cookie so that the two chocolate cookies are separated. The cream will usually stick mostly to one side.",
+"With a butter knife, scrape half of the cream off of the cookie. Divide that cream into two, and roll into two small balls. Gently flatten with your finger. These two rounds will become the white of the google eyes.",
+"Place a mini chocolate chip in the center of the two white rounds. Now you have two google eyes!",
+"With the chocolate cookie that doesn't have any cream, carefully break in half. This can be a bit tricky to get the perfect break. If it's not quite the perfect break halfway down use the butter knife to scrape a little cookie off the center to try to even them out.",
+"With the decorating gel draw a smile and two dots where you will place the eyes.",
+"Press the google eyes on the center of the unbroken cookie. Using the cream on the other side of the cookie as glue press the broken cookie on either side to create the wings, rounded end up."
+],
+"summary": "I bet you did not know your plain chocolate sandwich cookies could turn into these adorably spooky Oreo bats! I take cookies, mini chocolate chips, and decorating gel and make the cutest little Hallow…",
+"tags": [
+"snack",
+"sweet"
+],
+"thumb": "thumbs/pe-oreo-bats-halloween-cookie.webp",
+"thumb_h": 400,
+"thumb_w": 400,
+"time": "quick",
+"time_basis": "recipe says 10 min total",
+"title": "Oreo Bats Halloween Cookie",
+"url": "https://pickyeaterblog.com/oreo-bats-halloween-cookie/",
+"web": {
+"author": null,
+"cuisine": [
+"American"
+],
+"date": "2026-10-31",
+"description": "I bet you did not know your plain chocolate sandwich cookies could turn into these adorably spooky Oreo bats! I take cookies, mini chocolate chips, and decorating gel and make the cutest little Halloween bats in as little as 10 minutes. They are a fun and festive no-bake treat that brings a smile to everybody's face.",
+"image": "https://pickyeaterblog.com/wp-content/uploads/2020/08/oreo-bats-15.jpg",
+"ingredients": [
+"12 Oreo Cookies",
+"24 mini chocolate chips",
+"black or white decorating gel"
+],
+"keywords": [
+"Oreo Bats"
+],
+"minutes": 10,
+"name": "Oreo Bats Halloween Cookie",
+"recipeCategory": [
+"Dessert"
+],
+"steps": [
+"Twist the cookie so that the two chocolate cookies are separated. The cream will usually stick mostly to one side.",
+"With a butter knife, scrape half of the cream off of the cookie. Divide that cream into two, and roll into two small balls. Gently flatten with your finger. These two rounds will become the white of the google eyes.",
+"Place a mini chocolate chip in the center of the two white rounds. Now you have two google eyes!",
+"With the chocolate cookie that doesn't have any cream, carefully break in half. This can be a bit tricky to get the perfect break. If it's not quite the perfect break halfway down use the butter knife to scrape a little cookie off the center to try to even them out.",
+"With the decorating gel draw a smile and two dots where you will place the eyes.",
+"Press the google eyes on the center of the unbroken cookie. Using the cream on the other side of the cookie as glue press the broken cookie on either side to create the wings, rounded end up."
+],
+"yield": "12"
+},
+"yield": "12"
+},
 "pe-passion-fruit-syrup-recipe": {
 "account": "thepickyeater",
 "account_name": "Anjali Shah · The Picky Eater",
@@ -25421,6 +25980,112 @@
 "yield": "1"
 },
 "yield": "1"
+},
+"pe-vegan-apple-bread": {
+"account": "thepickyeater",
+"account_name": "Anjali Shah · The Picky Eater",
+"account_url": "https://pickyeaterblog.com/",
+"category": "meal",
+"color": "#a4764e",
+"creator": "thepickyeater",
+"date": "2026-11-06",
+"extraction": "recipe-page",
+"fetched_at": "2026-11-07T15:49:21+00:00",
+"id": "pe-vegan-apple-bread",
+"ingredients": [
+"1 1/2 cups all-purpose flour",
+"1 tsp baking soda",
+"1/2 tsp baking powder",
+"1 tsp ground cinnamon",
+"1/4 tsp ground nutmeg",
+"1/4 tsp kosher salt",
+"1/2 cup coconut sugar",
+"1/4 cup maple syrup",
+"1/3 cup avocado oil (or other neutral oil)",
+"1/4 cup unsweetened non-dairy milk",
+"1 tsp vanilla extract",
+"3/4 cup unsweetened applesauce",
+"1 cup apples (peeled, cored, and finely chopped)",
+"1/4 cup chopped nuts (pecans or almonds)"
+],
+"kind": "creator",
+"mealPrep": false,
+"mealPrep_basis": [],
+"minutes": 75,
+"notes": [],
+"platform": "web",
+"recipePage": "r/pe-vegan-apple-bread.html",
+"recipeSourceUrl": "https://pickyeaterblog.com/vegan-apple-bread/",
+"recipe_from": "recipe page",
+"site": "The Picky Eater",
+"site_url": "https://pickyeaterblog.com/",
+"status": "ok",
+"steps": [
+"Preheat the oven to 350°F (175°C). Grease or line a 9x5-inch loaf pan with parchment paper.",
+"In a large bowl, whisk together the flour, baking soda, baking powder, cinnamon, nutmeg, and salt.",
+"In another bowl, whisk together the coconut sugar, maple syrup, oil, vanilla extract, applesauce, and non-dairy milk.",
+"Pour the wet mixture into the dry ingredients and stir until just combined. Do not overmix. Gently fold in the chopped apples and nuts (if using).",
+"Pour the batter into the prepared loaf pan and smooth the top.",
+"Bake for 50-60 minutes or until a toothpick inserted into the center comes out clean.",
+"Let the apple bread cool in the pan for about 10 minutes, then transfer to a wire rack to cool completely before slicing."
+],
+"summary": "Apple season always makes me want to bake something warm and fragrant, and this vegan apple bread is one of my favorite ways to use fresh apples. I combine finely chopped apples and applesauce with ma…",
+"tags": [
+"breakfast"
+],
+"thumb": "thumbs/pe-vegan-apple-bread.webp",
+"thumb_h": 400,
+"thumb_w": 400,
+"time": "long",
+"time_basis": "recipe says 75 min total",
+"title": "Vegan Apple Bread",
+"url": "https://pickyeaterblog.com/vegan-apple-bread/",
+"web": {
+"author": null,
+"cuisine": [
+"American"
+],
+"date": "2026-11-06",
+"description": "Apple season always makes me want to bake something warm and fragrant, and this vegan apple bread is one of my favorite ways to use fresh apples. I combine finely chopped apples and applesauce with maple syrup and warm cinnamon for a tender loaf filled with comforting fall flavors.",
+"image": "https://pickyeaterblog.com/wp-content/uploads/2024/10/apple-bread-11.jpg",
+"ingredients": [
+"1 1/2 cups all-purpose flour",
+"1 tsp baking soda",
+"1/2 tsp baking powder",
+"1 tsp ground cinnamon",
+"1/4 tsp ground nutmeg",
+"1/4 tsp kosher salt",
+"1/2 cup coconut sugar",
+"1/4 cup maple syrup",
+"1/3 cup avocado oil (or other neutral oil)",
+"1/4 cup unsweetened non-dairy milk",
+"1 tsp vanilla extract",
+"3/4 cup unsweetened applesauce",
+"1 cup apples (peeled, cored, and finely chopped)",
+"1/4 cup chopped nuts (pecans or almonds)"
+],
+"keywords": [
+"vegan apple bread"
+],
+"minutes": 75,
+"name": "Vegan Apple Bread",
+"recipeCategory": [
+"Baking",
+"Bread",
+"Breakfast"
+],
+"steps": [
+"Preheat the oven to 350°F (175°C). Grease or line a 9x5-inch loaf pan with parchment paper.",
+"In a large bowl, whisk together the flour, baking soda, baking powder, cinnamon, nutmeg, and salt.",
+"In another bowl, whisk together the coconut sugar, maple syrup, oil, vanilla extract, applesauce, and non-dairy milk.",
+"Pour the wet mixture into the dry ingredients and stir until just combined. Do not overmix. Gently fold in the chopped apples and nuts (if using).",
+"Pour the batter into the prepared loaf pan and smooth the top.",
+"Bake for 50-60 minutes or until a toothpick inserted into the center comes out clean.",
+"Let the apple bread cool in the pan for about 10 minutes, then transfer to a wire rack to cool completely before slicing."
+],
+"yield": "9"
+},
+"yield": "9"
 },
 "pe-vegan-baked-potato-soup": {
 "account": "thepickyeater",
@@ -28529,6 +29194,107 @@
 },
 "yield": "4"
 },
+"pe-vegan-pumpkin-brownie": {
+"account": "thepickyeater",
+"account_name": "Anjali Shah · The Picky Eater",
+"account_url": "https://pickyeaterblog.com/",
+"category": "sweet",
+"color": "#806040",
+"creator": "thepickyeater",
+"date": "2026-11-04",
+"extraction": "recipe-page",
+"fetched_at": "2026-11-07T15:49:17+00:00",
+"id": "pe-vegan-pumpkin-brownie",
+"ingredients": [
+"15 oz pumpkin purée",
+"1/4 cup unsweetened applesauce",
+"2 tbsp pumpkin pie spice",
+"3/4 cup unsweetened applesauce",
+"3/4 cup unsweetened almond milk",
+"1 cup organic cane sugar",
+"1/2 cup organic brown sugar",
+"1 tsp vanilla extract",
+"1 1/2 cup whole wheat flour",
+"1/2 cup unsweetened cacao powder",
+"1 tsp baking powder",
+"1/2 tsp salt"
+],
+"kind": "creator",
+"mealPrep": true,
+"mealPrep_basis": [
+"batch"
+],
+"minutes": 70,
+"notes": [],
+"platform": "web",
+"recipePage": "r/pe-vegan-pumpkin-brownie.html",
+"recipeSourceUrl": "https://pickyeaterblog.com/vegan-pumpkin-brownie/",
+"recipe_from": "recipe page",
+"site": "The Picky Eater",
+"site_url": "https://pickyeaterblog.com/",
+"status": "ok",
+"steps": [
+"Preheat oven to 350 F. Combine pumpkin purée, 1/4 cup of applesauce, and pumpkin pie spice. Whisk together, and set aside.",
+"Combine almond milk, applesauce, vanilla extract, organic cane sugar, and organic brown sugar. Whisk together until combined.",
+"Combine whole wheat flour, cacao powder, baking powder, and salt. Whisk together to combine.",
+"Add wet ingredients to dry ingredients. Stir to combine.",
+"Pour brownie batter into 8x8 inch baking pan lined with parchment paper. Top the brownie batter with the pumpkin pie mixture.",
+"Bake for 45-55 minutes. Insert toothpick in center to ensure they are fully cooked. Allow to cool completely before removing from the pan and cutting into 9 equal squares."
+],
+"summary": "I take a traditional recipe and combine it with a seasonal makeover when I bake a batch of these vegan pumpkin brownies. I make them with rich cacao powder, pumpkin puree, and warm pumpkin pie spice t…",
+"tags": [
+"snack",
+"sweet"
+],
+"thumb": "thumbs/pe-vegan-pumpkin-brownie.webp",
+"thumb_h": 400,
+"thumb_w": 400,
+"time": "long",
+"time_basis": "recipe says 70 min total",
+"title": "Vegan Pumpkin Brownies",
+"url": "https://pickyeaterblog.com/vegan-pumpkin-brownie/",
+"web": {
+"author": null,
+"cuisine": [
+"American"
+],
+"date": "2026-11-04",
+"description": "I take a traditional recipe and combine it with a seasonal makeover when I bake a batch of these vegan pumpkin brownies. I make them with rich cacao powder, pumpkin puree, and warm pumpkin pie spice to create a dessert that combines fudgy chocolate with all the flavors of fall.",
+"image": "https://pickyeaterblog.com/wp-content/uploads/2020/07/vegan-pumpkin-brownies-16.jpg",
+"ingredients": [
+"15 oz pumpkin purée",
+"1/4 cup unsweetened applesauce",
+"2 tbsp pumpkin pie spice",
+"3/4 cup unsweetened applesauce",
+"3/4 cup unsweetened almond milk",
+"1 cup organic cane sugar",
+"1/2 cup organic brown sugar",
+"1 tsp vanilla extract",
+"1 1/2 cup whole wheat flour",
+"1/2 cup unsweetened cacao powder",
+"1 tsp baking powder",
+"1/2 tsp salt"
+],
+"keywords": [
+"vegan pumpkin brownies"
+],
+"minutes": 70,
+"name": "Vegan Pumpkin Brownies",
+"recipeCategory": [
+"Dessert"
+],
+"steps": [
+"Preheat oven to 350 F. Combine pumpkin purée, 1/4 cup of applesauce, and pumpkin pie spice. Whisk together, and set aside.",
+"Combine almond milk, applesauce, vanilla extract, organic cane sugar, and organic brown sugar. Whisk together until combined.",
+"Combine whole wheat flour, cacao powder, baking powder, and salt. Whisk together to combine.",
+"Add wet ingredients to dry ingredients. Stir to combine.",
+"Pour brownie batter into 8x8 inch baking pan lined with parchment paper. Top the brownie batter with the pumpkin pie mixture.",
+"Bake for 45-55 minutes. Insert toothpick in center to ensure they are fully cooked. Allow to cool completely before removing from the pan and cutting into 9 equal squares."
+],
+"yield": "9"
+},
+"yield": "9"
+},
 "pe-vegan-pumpkin-cupcakes": {
 "account": "thepickyeater",
 "account_name": "Anjali Shah · The Picky Eater",
@@ -28628,6 +29394,92 @@
 "yield": "10"
 },
 "yield": "10"
+},
+"pe-vegan-pumpkin-pancakes": {
+"account": "thepickyeater",
+"account_name": "Anjali Shah · The Picky Eater",
+"account_url": "https://pickyeaterblog.com/",
+"category": "meal",
+"color": "#9a7446",
+"creator": "thepickyeater",
+"date": "2026-11-04",
+"extraction": "recipe-page",
+"fetched_at": "2026-11-07T15:49:23+00:00",
+"id": "pe-vegan-pumpkin-pancakes",
+"ingredients": [
+"1 cup whole wheat flour",
+"1 tbsp baking powder",
+"1/2 tsp pumpkin pie spice",
+"1/4 tsp salt",
+"4 tbsp pumpkin puree",
+"1 cup unsweetened almond milk (or other dairy free milk)",
+"1/2 tsp vanilla extract",
+"chopped nuts (optional)"
+],
+"kind": "creator",
+"mealPrep": false,
+"mealPrep_basis": [],
+"minutes": 25,
+"notes": [],
+"platform": "web",
+"recipePage": "r/pe-vegan-pumpkin-pancakes.html",
+"recipeSourceUrl": "https://pickyeaterblog.com/vegan-pumpkin-pancakes/",
+"recipe_from": "recipe page",
+"site": "The Picky Eater",
+"site_url": "https://pickyeaterblog.com/",
+"status": "ok",
+"steps": [
+"Whisk together whole wheat flour, baking powder, pumpkin pie spice, and salt. Set aside.",
+"In a separate bowl, whisk together almond milk, pumpkin puree, and vanilla extract. Add to the dry ingredients. Fold together until combined. Don't over mix. Allow the batter to rest for 15 minutes.",
+"While batter is resting, preheat your skillet to medium heat. Use a non-stick skillet to avoid the need to add oil or vegan butter to the pan. If you use a non-stick skillet you will have no problem flipping the pancakes without oil. However, if you prefer to use something, I recommend using a coconut oil cooking spray. When skillet is hot, add batter, about 1/4 cup.",
+"Wait for batter to bubble about 3-4 minutes, then flip, and cook the other side an additional 2-3 minutes. Serve with maple syrup! Enjoy!"
+],
+"summary": "There is nothing quite like waking up to a stack of vegan pumpkin pancakes when the weather starts getting cooler. I mix pumpkin puree and pumpkin pie spice into a whole wheat batter for thick and flu…",
+"tags": [
+"breakfast"
+],
+"thumb": "thumbs/pe-vegan-pumpkin-pancakes.webp",
+"thumb_h": 400,
+"thumb_w": 400,
+"time": "long",
+"time_basis": "recipe says 25 min total",
+"title": "Vegan Pumpkin Pancakes",
+"url": "https://pickyeaterblog.com/vegan-pumpkin-pancakes/",
+"web": {
+"author": "Anjali Shah",
+"cuisine": [
+"American"
+],
+"date": "2026-11-04",
+"description": "There is nothing quite like waking up to a stack of vegan pumpkin pancakes when the weather starts getting cooler. I mix pumpkin puree and pumpkin pie spice into a whole wheat batter for thick and fluffy pancakes that are ready in just 25 minutes and taste like fall.",
+"image": "https://pickyeaterblog.com/wp-content/uploads/2020/07/vegan-pumpkin-pancakes-13.jpg",
+"ingredients": [
+"1 cup whole wheat flour",
+"1 tbsp baking powder",
+"1/2 tsp pumpkin pie spice",
+"1/4 tsp salt",
+"4 tbsp pumpkin puree",
+"1 cup unsweetened almond milk (or other dairy free milk)",
+"1/2 tsp vanilla extract",
+"chopped nuts (optional)"
+],
+"keywords": [
+"vegan pumpkin pancakes"
+],
+"minutes": 25,
+"name": "Vegan Pumpkin Pancakes",
+"recipeCategory": [
+"Breakfast"
+],
+"steps": [
+"Whisk together whole wheat flour, baking powder, pumpkin pie spice, and salt. Set aside.",
+"In a separate bowl, whisk together almond milk, pumpkin puree, and vanilla extract. Add to the dry ingredients. Fold together until combined. Don't over mix. Allow the batter to rest for 15 minutes.",
+"While batter is resting, preheat your skillet to medium heat. Use a non-stick skillet to avoid the need to add oil or vegan butter to the pan. If you use a non-stick skillet you will have no problem flipping the pancakes without oil. However, if you prefer to use something, I recommend using a coconut oil cooking spray. When skillet is hot, add batter, about 1/4 cup.",
+"Wait for batter to bubble about 3-4 minutes, then flip, and cook the other side an additional 2-3 minutes. Serve with maple syrup! Enjoy!"
+],
+"yield": "4"
+},
+"yield": "4"
 },
 "pe-vegan-refried-beans": {
 "account": "thepickyeater",
@@ -50835,22 +51687,40 @@
 "color": "#a7b275",
 "creator": "thepickyeater",
 "date": "2025-04-29",
-"extraction": "none",
+"extraction": "video",
 "fetched_at": "2026-10-11T21:20:42+00:00",
 "id": "tt-7498504957784689966",
-"ingredients": [],
+"ingredients": [
+"lemon",
+"garlic",
+"olive oil",
+"apple",
+"salt",
+"pepper",
+"water",
+"avocado"
+],
 "kind": "creator",
 "links": [],
 "mealPrep": false,
 "mealPrep_basis": [],
 "minutes": 5,
+"mirror": {
+"caption": "Game-Changing 5-Minute Green Goddess Dressing You’ll Want to Put on Everything! 🥑💚 #shorts\nSalads will never be boring again! This avocado green goddess dressing is your new go-to for salads, bowls, and dipping veggies! 🥑🌿 Creamy, zesty, and SO easy to make! \nTry it out in just 5 minutes with only 9 ingredients! \n#GreenGoddessDressing #AvocadoLovers #HealthyEating #SaladDressing #VeganRecipes #5MinuteRecipe #PlantBased #Foodie #HealthyMeals #Yummy #CookingMadeEasy #DressingRecipe #CleanEating\n\"",
+"id": "yt-r-oMASqPphg",
+"platform": "youtube",
+"url": "https://www.youtube.com/shorts/r-oMASqPphg"
+},
 "notes": [],
 "page_minutes": null,
 "platform": "tiktok",
+"recipePage": "r/tt-7498504957784689966.html",
 "recipeSourceUrl": null,
-"recipe_from": "caption",
+"recipe_from": "video",
 "status": "ok",
-"steps": [],
+"steps": [
+"Fresh herbs, lemon into a high-speed food processor, add crushed garlic, ripe avocados, extra virgin olive oil, apple cider vinegar, mayo, salt and pepper, blend until smooth, one to 2 tablespoons of cold water."
+],
 "strict_food": true,
 "summary": "Creamy, zesty, and SO easy to make! This avocado green goddess dressing is your new go-to for salads, bowls, and dipping veggies!",
 "tags": [
@@ -50863,6 +51733,29 @@
 "time_basis": "says 5 min",
 "title": "This avocado green goddess dressing is your new go-to for salads, bowls, and…",
 "url": "https://www.tiktok.com/@pickyeaterblog/video/7498504957784689966",
+"video": {
+"checked_at": "2026-11-07T15:52:08+00:00",
+"ingredients": [
+"lemon",
+"garlic",
+"olive oil",
+"apple",
+"salt",
+"pepper",
+"water",
+"avocado"
+],
+"kind": "video",
+"narration": "fresh herbs, lemon into a high-speed food processor, add crushed garlic, ripe avocados, extra virgin olive oil, apple cider vinegar, mayo, salt and pepper, blend until smooth, one to two tablespoons of cold water. You'll have a creamy avocado green goddess dressing with 50 calories and 5 grams fats in just five minutes. Want the full recipe? Click the link in my bio.",
+"onscreen": [],
+"steps": [
+"Fresh herbs, lemon into a high-speed food processor, add crushed garlic, ripe avocados, extra virgin olive oil, apple cider vinegar, mayo, salt and pepper, blend until smooth, one to 2 tablespoons of cold water."
+],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7499189163506289966": {
@@ -50874,10 +51767,20 @@
 "color": "#a18f74",
 "creator": "soniamazri_",
 "date": "2025-04-30",
-"extraction": "none",
+"extraction": "video",
 "fetched_at": "2026-10-11T02:23:34+00:00",
 "id": "tt-7499189163506289966",
-"ingredients": [],
+"ingredients": [
+"zucchini",
+"carrots",
+"onion",
+"rice",
+"pepper",
+"garlic powder",
+"broth",
+"chicken",
+"water"
+],
 "kind": "creator",
 "links": [],
 "mealPrep": false,
@@ -50886,12 +51789,19 @@
 "notes": [],
 "page_minutes": null,
 "platform": "tiktok",
+"recipePage": "r/tt-7499189163506289966.html",
 "recipeSourceUrl": null,
-"recipe_from": "caption",
+"recipe_from": "video",
 "status": "ok",
-"steps": [],
+"steps": [
+"Chop them in a food processor like this so they're easier to blend with the rice.",
+"Then stir the vegetables, add some seasonings you like."
+],
 "summary": "Veggie rice recipe for my 8 months old -1 zucchini -2 carrots -1 small onion -1cup rice -2cups water -Bone marrow Chop all vegetables stir together with the bone marrow then add the rice, cover with water and let it cook…",
 "tags": [
+"breakfast",
+"lunch",
+"dinner",
 "veggies"
 ],
 "thumb": "thumbs/tt-7499189163506289966.webp",
@@ -50901,6 +51811,31 @@
 "time_basis": "",
 "title": "Veggie rice recipe for my 8 months old -1 zucchini -2 carrots -1 small onion…",
 "url": "https://www.tiktok.com/@soniamazri/video/7499189163506289966",
+"video": {
+"checked_at": "2026-11-07T15:52:02+00:00",
+"ingredients": [
+"zucchini",
+"carrots",
+"onion",
+"rice",
+"pepper",
+"garlic powder",
+"broth",
+"chicken",
+"water"
+],
+"kind": "video",
+"narration": "Let's make veggie rice lunch for my 8 months old who doesn't have any teeth yet. You can use any veggies you have at home. I use zucchini, carrots, and onion. Chop them in a food processor like this so they're easier to blend with the rice. If you want to save recipes like this one, you can use the recipe app. It allows you to import any recipes you want to save from anywhere and save it in the app. You can then organize the recipes the way you want. For example, I have baby lead weaning recipes, baby purees, and others. This makes it way easier on me to plan ahead my kids meals. It also has meal plan features so you can plan what to make for breakfast, lunch, and dinner every day. Going back to this recipe, I am using bone marrow that's optional but great. Then stir the vegetables, add some seasonings you like. I use black pepper, garlic powder, and paprika. I added the rice after washing it and mixed everything together. For one part rice, I am adding two parts water. If you didn't use bone marrow, you can use bone broth or chicken broth instead of water.",
+"onscreen": [],
+"steps": [
+"Chop them in a food processor like this so they're easier to blend with the rice.",
+"Then stir the vegetables, add some seasonings you like."
+],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7499971485407169838": {
@@ -50912,10 +51847,13 @@
 "color": "#a98c68",
 "creator": "soniamazri_",
 "date": "2025-05-02",
-"extraction": "none",
+"extraction": "video-partial",
 "fetched_at": "2026-10-11T02:23:34+00:00",
 "id": "tt-7499971485407169838",
-"ingredients": [],
+"ingredients": [
+"chicken",
+"onion"
+],
 "kind": "creator",
 "links": [],
 "mealPrep": false,
@@ -50925,7 +51863,7 @@
 "page_minutes": null,
 "platform": "tiktok",
 "recipeSourceUrl": null,
-"recipe_from": "caption",
+"recipe_from": "video",
 "status": "ok",
 "steps": [],
 "summary": "Let’s make chicken veggie recipe for my 8 months old -1 small onion -1 carrot -small piece of chicken breast -1egg -1tsp heavy cream -1TBSP cream cheese Seasonings -black pepper -turmeric -cinnamon",
@@ -50939,6 +51877,21 @@
 "time_basis": "",
 "title": "Let’s make chicken veggie recipe for my 8 months old -1 small onion -1 carrot…",
 "url": "https://www.tiktok.com/@soniamazri/video/7499971485407169838",
+"video": {
+"checked_at": "2026-11-07T15:51:53+00:00",
+"ingredients": [
+"chicken",
+"onion"
+],
+"kind": "video-partial",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7501091782197857582": {
@@ -50978,6 +51931,18 @@
 "time_basis": "",
 "title": "These baked strawberry donuts are perfect for any sweet craving",
 "url": "https://www.tiktok.com/@pickyeaterblog/video/7501091782197857582",
+"video": {
+"checked_at": "2026-11-07T15:51:47+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7501092423750126891": {
@@ -51019,6 +51984,18 @@
 "time_basis": "",
 "title": "Need a dinner the whole family will eat (and love)?",
 "url": "https://www.tiktok.com/@pickyeaterblog/video/7501092423750126891",
+"video": {
+"checked_at": "2026-11-07T15:51:50+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7502120019342527786": {
@@ -51030,34 +52007,80 @@
 "color": "#a27f4c",
 "creator": "thepickyeater",
 "date": "2025-05-08",
-"extraction": "none",
+"extraction": "video",
 "fetched_at": "2026-10-11T21:20:41+00:00",
 "id": "tt-7502120019342527786",
-"ingredients": [],
+"ingredients": [
+"milk",
+"yogurt",
+"eggs",
+"vanilla",
+"butter"
+],
 "kind": "creator",
 "links": [],
 "mealPrep": false,
 "mealPrep_basis": [],
-"minutes": null,
+"minutes": 12,
+"mirror": {
+"caption": "How to make birthday cake muffins for breakfast?? Yes please! #shorts",
+"id": "yt-7EfT4rbGd9I",
+"platform": "youtube",
+"url": "https://www.youtube.com/shorts/7EfT4rbGd9I"
+},
 "notes": [],
 "page_minutes": null,
 "platform": "tiktok",
+"recipePage": "r/tt-7502120019342527786.html",
 "recipeSourceUrl": null,
-"recipe_from": "caption",
+"recipe_from": "video",
 "status": "ok",
-"steps": [],
+"steps": [
+"In a separate bowl, combine milk, yogurt, eggs, vanilla and melted butter.",
+"Gently fold the wet ingredients into the dry.",
+"Don't over mix or your muffins won't be as fluffy.",
+"Now, fold in 3 quarters of the sprinkles and don't forget to save some for the top.",
+"Spoon the batter into a mini muffin tray and top with the remaining sprinkles.",
+"Bake at 350 degrees Fahrenheit for 10 to 12 minutes, then let them cool."
+],
 "strict_food": true,
 "summary": "! Fluffy, sweet, and loaded with sprinkles—perfect for birthdays, brunch, or just treating yourself!",
 "tags": [
+"breakfast",
 "sweet"
 ],
 "thumb": "thumbs/tt-7502120019342527786.webp",
 "thumb_h": 533,
 "thumb_w": 400,
-"time": "unknown",
-"time_basis": "",
+"time": "quick",
+"time_basis": "says 12 min",
 "title": "These birthday cake muffins are EVERYTHING",
 "url": "https://www.tiktok.com/@pickyeaterblog/video/7502120019342527786",
+"video": {
+"checked_at": "2026-11-07T15:51:45+00:00",
+"ingredients": [
+"milk",
+"yogurt",
+"eggs",
+"vanilla",
+"butter"
+],
+"kind": "video",
+"narration": "Let's make my easy homemade birthday cake muffins. Start by whisking flour, baking powder, baking soda, sugar and a pinch of salt in a bowl. In a separate bowl, combine milk, yogurt, eggs, vanilla and melted butter. Gently fold the wet ingredients into the dry. Don't over mix or your muffins won't be as fluffy. Now, fold in 3 quarters of the sprinkles and don't forget to save some for the top. Spoon the batter into a mini muffin tray and top with the remaining sprinkles. Bake at 350 degrees Fahrenheit for 10 to 12 minutes, then let them cool. Perfect for any celebration. Grab the full recipe at www.pickyaterblog.com",
+"onscreen": [],
+"steps": [
+"In a separate bowl, combine milk, yogurt, eggs, vanilla and melted butter.",
+"Gently fold the wet ingredients into the dry.",
+"Don't over mix or your muffins won't be as fluffy.",
+"Now, fold in 3 quarters of the sprinkles and don't forget to save some for the top.",
+"Spoon the batter into a mini muffin tray and top with the remaining sprinkles.",
+"Bake at 350 degrees Fahrenheit for 10 to 12 minutes, then let them cool."
+],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7502499344571190574": {
@@ -51132,6 +52155,18 @@
 "time_basis": "",
 "title": "Craving a cozy coffee treat?",
 "url": "https://www.tiktok.com/@pickyeaterblog/video/7502544187926236462",
+"video": {
+"checked_at": "2026-11-07T15:51:32+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "I think it rains",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7502553520013610286": {
@@ -51171,6 +52206,18 @@
 "time_basis": "",
 "title": "Many processed lunch items contain artificial ingredients, preservatives, and…",
 "url": "https://www.tiktok.com/@pickyeaterblog/video/7502553520013610286",
+"video": {
+"checked_at": "2026-11-07T15:51:39+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7502928543362354474": {
@@ -51212,6 +52259,18 @@
 "time_basis": "",
 "title": "Avocado toast just got an upgrade",
 "url": "https://www.tiktok.com/@pickyeaterblog/video/7502928543362354474",
+"video": {
+"checked_at": "2026-11-07T15:51:37+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "Yeah, you got that yum-yum, that yum-yum",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7504409112495656234": {
@@ -51223,10 +52282,13 @@
 "color": "#e0d6ce",
 "creator": "thepickyeater",
 "date": "2025-05-14",
-"extraction": "none",
+"extraction": "video-partial",
 "fetched_at": "2026-10-11T21:20:39+00:00",
 "id": "tt-7504409112495656234",
-"ingredients": [],
+"ingredients": [
+"quinoa",
+"rice"
+],
 "kind": "creator",
 "links": [],
 "mealPrep": false,
@@ -51236,7 +52298,7 @@
 "page_minutes": null,
 "platform": "tiktok",
 "recipeSourceUrl": null,
-"recipe_from": "caption",
+"recipe_from": "video",
 "status": "ok",
 "steps": [],
 "strict_food": true,
@@ -51249,6 +52311,21 @@
 "time_basis": "",
 "title": "Consider swapping them for healthier alternatives like quinoa or brown rice…",
 "url": "https://www.tiktok.com/@pickyeaterblog/video/7504409112495656234",
+"video": {
+"checked_at": "2026-11-07T15:51:28+00:00",
+"ingredients": [
+"quinoa",
+"rice"
+],
+"kind": "video-partial",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7505106719064870190": {
@@ -51260,22 +52337,40 @@
 "color": "#7b522f",
 "creator": "thepickyeater",
 "date": "2025-05-16",
-"extraction": "none",
+"extraction": "video",
 "fetched_at": "2026-10-11T21:20:39+00:00",
 "id": "tt-7505106719064870190",
-"ingredients": [],
+"ingredients": [
+"garlic",
+"ginger",
+"pepper",
+"chickpeas",
+"cream",
+"tomato"
+],
 "kind": "creator",
 "links": [],
 "mealPrep": false,
 "mealPrep_basis": [],
-"minutes": null,
+"minutes": 25,
+"mirror": {
+"caption": "Comforting chickpea curry ready in minutes! #shorts\nLooking for a quick, healthy, and vegan dinner? This Chickpea Tikka Masala has all the flavor and none of the dairy! 🌱 \n\nSave this recipe for your next dinner! Share with a friend who loves curry! 🍛 #ChickpeaTikkaMasala #VeganCurry #HealthyDinner #PlantBased #IndianFood #ComfortFood #EasyMeals",
+"id": "yt-AohlNKlehX4",
+"platform": "youtube",
+"url": "https://www.youtube.com/shorts/AohlNKlehX4"
+},
 "notes": [],
 "page_minutes": null,
 "platform": "tiktok",
+"recipePage": "r/tt-7505106719064870190.html",
 "recipeSourceUrl": null,
-"recipe_from": "caption",
+"recipe_from": "video",
 "status": "ok",
-"steps": [],
+"steps": [
+"Add garlic and ginger, cumin, ground coriander, paprika and cayenne pepper, garam masala, chickpeas, coconut cream and diced tomato.",
+"Stir and let it simmer for 25 minutes until it thickens up in the flavors marry.",
+"Serve with rice and fresh cilantro."
+],
 "strict_food": true,
 "summary": "This Chickpea Tikka Masala has all the flavor and none of the dairy! ⁠ ⁠ Save this recipe for your next dinner, and tag a friend who loves curry!",
 "tags": [
@@ -51284,10 +52379,33 @@
 "thumb": "thumbs/tt-7505106719064870190.webp",
 "thumb_h": 533,
 "thumb_w": 400,
-"time": "quick",
-"time_basis": "quick",
+"time": "long",
+"time_basis": "says 25 min",
 "title": "Looking for a quick, healthy, and vegan dinner?",
 "url": "https://www.tiktok.com/@pickyeaterblog/video/7505106719064870190",
+"video": {
+"checked_at": "2026-11-07T15:51:26+00:00",
+"ingredients": [
+"garlic",
+"ginger",
+"pepper",
+"chickpeas",
+"cream",
+"tomato"
+],
+"kind": "video",
+"narration": "If you love bold flavors and cozy meals, this chickpea tikka masala is perfect for you. Start by sautéing diced onion and coconut oil. Add garlic and ginger, cumin, ground coriander, paprika and cayenne pepper, garam masala, chickpeas, coconut cream and diced tomato. Stir and let it simmer for 25 minutes until it thickens up in the flavors marry. Serve with rice and fresh cilantro. Follow for more easy, healthy recipes your whole family",
+"onscreen": [],
+"steps": [
+"Add garlic and ginger, cumin, ground coriander, paprika and cayenne pepper, garam masala, chickpeas, coconut cream and diced tomato.",
+"Stir and let it simmer for 25 minutes until it thickens up in the flavors marry.",
+"Serve with rice and fresh cilantro."
+],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7505537666046233902": {
@@ -51325,6 +52443,18 @@
 "time_basis": "",
 "title": "Craving Ice Cream?",
 "url": "https://www.tiktok.com/@pickyeaterblog/video/7505537666046233902",
+"video": {
+"checked_at": "2026-11-07T15:51:21+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7506190382607142190": {
@@ -51336,10 +52466,15 @@
 "color": "#d0b687",
 "creator": "thepickyeater",
 "date": "2025-05-19",
-"extraction": "none",
+"extraction": "video",
 "fetched_at": "2026-10-11T21:20:38+00:00",
 "id": "tt-7506190382607142190",
-"ingredients": [],
+"ingredients": [
+"garlic",
+"butternut squash",
+"carrots",
+"broth"
+],
 "kind": "creator",
 "links": [],
 "mealPrep": false,
@@ -51348,13 +52483,20 @@
 "notes": [],
 "page_minutes": null,
 "platform": "tiktok",
+"recipePage": "r/tt-7506190382607142190.html",
 "recipeSourceUrl": null,
-"recipe_from": "caption",
+"recipe_from": "video",
 "status": "ok",
-"steps": [],
+"steps": [
+"Add garlic, butternut squash, carrots, and vegetable broth, and let everything simmer until tender.",
+"Then blend it all up until smooth and velvety.",
+"Let it simmer just a little longer, season to taste"
+],
 "strict_food": true,
 "summary": "! This creamy soup is perfect for chilly days and can easily be made vegan or gluten-free!",
-"tags": [],
+"tags": [
+"veggies"
+],
 "thumb": "thumbs/tt-7506190382607142190.webp",
 "thumb_h": 533,
 "thumb_w": 400,
@@ -51362,6 +52504,27 @@
 "time_basis": "",
 "title": "The coziest bowl of Butternut Squash Bisque is just minutes away",
 "url": "https://www.tiktok.com/@pickyeaterblog/video/7506190382607142190",
+"video": {
+"checked_at": "2026-11-07T15:51:16+00:00",
+"ingredients": [
+"garlic",
+"butternut squash",
+"carrots",
+"broth"
+],
+"kind": "video",
+"narration": "Let's make a cozy, creamy butternut squash bisque ready in under an hour. Start by sautéing chopped onion in a bit of olive oil until it's soft and fragrant. Add garlic, butternut squash, carrots, and vegetable broth, and let everything simmer until tender. Then blend it all up until smooth and velvety. Finish with a pinch of nutmeg and a splash of cream for that warm, comforting flavor. Let it simmer just a little longer, season to taste and you're done. Follow for more easy, wholesome recipes your family will love.",
+"onscreen": [],
+"steps": [
+"Add garlic, butternut squash, carrots, and vegetable broth, and let everything simmer until tender.",
+"Then blend it all up until smooth and velvety.",
+"Let it simmer just a little longer, season to taste"
+],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7506264405235993902": {
@@ -51402,6 +52565,18 @@
 "time_basis": "says 15 min",
 "title": "Looking for a healthy, quick dinner idea?",
 "url": "https://www.tiktok.com/@pickyeaterblog/video/7506264405235993902",
+"video": {
+"checked_at": "2026-11-07T15:51:19+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "This is so delicious This is so delicious",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7507006704656157994": {
@@ -51442,6 +52617,18 @@
 "time_basis": "",
 "title": "This Vegetarian Zucchini Lasagna is a feel-good meal that brings smiles…",
 "url": "https://www.tiktok.com/@pickyeaterblog/video/7507006704656157994",
+"video": {
+"checked_at": "2026-11-07T15:51:05+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "Thank you so much for watching!",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7507377602848427307": {
@@ -51453,22 +52640,38 @@
 "color": "#bc9546",
 "creator": "thepickyeater",
 "date": "2025-05-22",
-"extraction": "none",
+"extraction": "video",
 "fetched_at": "2026-10-11T21:20:36+00:00",
 "id": "tt-7507377602848427307",
-"ingredients": [],
+"ingredients": [
+"broth",
+"carrot",
+"potato"
+],
 "kind": "creator",
 "links": [],
 "mealPrep": false,
 "mealPrep_basis": [],
-"minutes": null,
+"minutes": 45,
+"mirror": {
+"caption": "Creamy, Comforting Carrot Potato Soup #shorts\nNothing says cozy like a warm bowl of this creamy Carrot Potato Soup! It's hearty, comforting, and incredibly easy to make, perfect when you need a nourishing pick-me-up.\n\nFollow for more healthy plant based recipes!\n\n#ComfortFood #SoupSeason #HealthySoups #EasyRecipe #CozyMeals #PlantBased #SoupLovers",
+"id": "yt-ygwQlXTwKac",
+"platform": "youtube",
+"url": "https://www.youtube.com/shorts/ygwQlXTwKac"
+},
 "notes": [],
 "page_minutes": null,
 "platform": "tiktok",
+"recipePage": "r/tt-7507377602848427307.html",
 "recipeSourceUrl": null,
-"recipe_from": "caption",
+"recipe_from": "video",
 "status": "ok",
-"steps": [],
+"steps": [
+"Start by sautéing onions and garlic, then toss in carrots, potatoes, celery, and a sprinkle of Italian herbs.",
+"Add veggie broth and bay leaves, then let it simmer.",
+"Blend half for that creamy texture, stir it back in, season to taste, and let it simmer a few more minutes.",
+"Serve it warm and enjoy every cozy, comforting spoonful, grab the full recipe at piccaderblog.com"
+],
 "strict_food": true,
 "summary": "! It's hearty, comforting, and incredibly easy to make—perfect for chilly days or when you need a nourishing pick-me-up.⁠ ⁠ Save this recipe for later, and don’t forget to tag me when you give it a try!⁠ Grab the full re…",
 "tags": [
@@ -51477,10 +52680,31 @@
 "thumb": "thumbs/tt-7507377602848427307.webp",
 "thumb_h": 533,
 "thumb_w": 400,
-"time": "unknown",
-"time_basis": "",
+"time": "long",
+"time_basis": "says 45 min",
 "title": "Nothing says cozy like a warm bowl of this creamy Carrot Potato Soup",
 "url": "https://www.tiktok.com/@pickyeaterblog/video/7507377602848427307",
+"video": {
+"checked_at": "2026-11-07T15:51:01+00:00",
+"ingredients": [
+"broth",
+"carrot",
+"potato"
+],
+"kind": "video",
+"narration": "Craving comfort food? Let's make creamy carrot potato soup in under 45 minutes. Start by sautéing onions and garlic, then toss in carrots, potatoes, celery, and a sprinkle of Italian herbs. Add veggie broth and bay leaves, then let it simmer. For 15 to 20 minutes. Blend half for that creamy texture, stir it back in, season to taste, and let it simmer a few more minutes. Serve it warm and enjoy every cozy, comforting spoonful, grab the full recipe at piccaderblog.com",
+"onscreen": [],
+"steps": [
+"Start by sautéing onions and garlic, then toss in carrots, potatoes, celery, and a sprinkle of Italian herbs.",
+"Add veggie broth and bay leaves, then let it simmer.",
+"Blend half for that creamy texture, stir it back in, season to taste, and let it simmer a few more minutes.",
+"Serve it warm and enjoy every cozy, comforting spoonful, grab the full recipe at piccaderblog.com"
+],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7507733414582291758": {
@@ -51488,36 +52712,71 @@
 "account_name": "Anjali",
 "account_url": "https://www.tiktok.com/@pickyeaterblog",
 "caption": "Boba lovers, meet your new obsession—Boba Smoothies! 4 amazing flavors to try: Strawberry Banana, Mango, Honeydew, or Blueberry. ⁠Which one will you make first? ⁠ ⁠ #bobasmoothie #bubbletealover #smoothiegoals #chewydelicious #fruitsmoothie #bobalife #tapiocapearls #drinkgoals #bubbleteaaddict #foodie #vegansmoothie #breakfastsmoothie #easyrecipes",
-"category": "meal",
+"category": "sweet",
 "color": "#e3c0ae",
 "creator": "thepickyeater",
 "date": "2025-05-25",
-"extraction": "none",
+"extraction": "video",
 "fetched_at": "2026-10-11T21:20:36+00:00",
 "id": "tt-7507733414582291758",
-"ingredients": [],
+"ingredients": [
+"strawberries",
+"banana",
+"yogurt",
+"milk",
+"maple syrup"
+],
 "kind": "creator",
 "links": [],
 "mealPrep": false,
 "mealPrep_basis": [],
-"minutes": null,
+"minutes": 15,
 "notes": [],
 "page_minutes": null,
 "platform": "tiktok",
+"recipePage": "r/tt-7507733414582291758.html",
 "recipeSourceUrl": null,
-"recipe_from": "caption",
+"recipe_from": "video",
 "status": "ok",
-"steps": [],
+"steps": [
+"Boil some tapioca pearls and mix them with a little brown sugar.",
+"Then blend strawberries, a frozen banana, coconut yogurt, almond milk, and a splash of maple syrup.",
+"Stir in the sweet tapioca pearls."
+],
 "strict_food": true,
 "summary": "! 4 amazing flavors to try: Strawberry Banana, Mango, Honeydew, or Blueberry.",
-"tags": [],
+"tags": [
+"sweet"
+],
 "thumb": "thumbs/tt-7507733414582291758.webp",
 "thumb_h": 533,
 "thumb_w": 400,
-"time": "unknown",
-"time_basis": "",
+"time": "quick",
+"time_basis": "says 15 min",
 "title": "Boba lovers, meet your new obsession—Boba Smoothies",
 "url": "https://www.tiktok.com/@pickyeaterblog/video/7507733414582291758",
+"video": {
+"checked_at": "2026-11-07T15:50:47+00:00",
+"ingredients": [
+"strawberries",
+"banana",
+"yogurt",
+"milk",
+"maple syrup"
+],
+"kind": "video",
+"narration": "Did you know you can make a creamy boba smoothie at home in just 15 minutes? Boil some tapioca pearls and mix them with a little brown sugar. Then blend strawberries, a frozen banana, coconut yogurt, almond milk, and a splash of maple syrup. Stir in the sweet tapioca pearls. And viola. Your dreamy bubble tea smoothie is ready to sip. Follow for more healthy, easy, and delicious recipes.",
+"onscreen": [],
+"steps": [
+"Boil some tapioca pearls and mix them with a little brown sugar.",
+"Then blend strawberries, a frozen banana, coconut yogurt, almond milk, and a splash of maple syrup.",
+"Stir in the sweet tapioca pearls."
+],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7507748789411826990": {
@@ -51555,6 +52814,18 @@
 "time_basis": "",
 "title": "Many popular sauces and condiments are packed with harmful ingredients that…",
 "url": "https://www.tiktok.com/@pickyeaterblog/video/7507748789411826990",
+"video": {
+"checked_at": "2026-11-07T15:50:49+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7509227539601132843": {
@@ -51566,32 +52837,75 @@
 "color": "#b7a898",
 "creator": "thepickyeater",
 "date": "2025-05-27",
-"extraction": "none",
+"extraction": "video",
 "fetched_at": "2026-10-11T21:20:35+00:00",
 "id": "tt-7509227539601132843",
-"ingredients": [],
+"ingredients": [
+"flour",
+"baking soda",
+"salt",
+"tahini",
+"vanilla",
+"egg"
+],
 "kind": "creator",
 "links": [],
 "mealPrep": false,
 "mealPrep_basis": [],
-"minutes": null,
+"minutes": 30,
 "notes": [],
 "page_minutes": null,
 "platform": "tiktok",
+"recipePage": "r/tt-7509227539601132843.html",
 "recipeSourceUrl": null,
-"recipe_from": "caption",
+"recipe_from": "video",
 "status": "ok",
-"steps": [],
+"steps": [
+"In one bowl, mix flour, baking soda, and salt.",
+"Then add tahini, vanilla, and an egg.",
+"Mix until smooth.",
+"Now gently mix in the dry ingredients.",
+"Scoop the dough onto a tray and chill for 30 minutes.",
+"Flat in each one with a glass and bake at 350 degrees Fahrenheit for 10 to 12 minutes.",
+"Let them cool and enjoy."
+],
 "strict_food": true,
 "summary": "These black sesame cookies are not your average treat—earthy, nutty, and so satisfying! Whether you're a sesame fan or new to it, you'll love these.",
 "tags": [],
 "thumb": "thumbs/tt-7509227539601132843.webp",
 "thumb_h": 533,
 "thumb_w": 400,
-"time": "unknown",
-"time_basis": "",
+"time": "long",
+"time_basis": "says 30 min",
 "title": "These black sesame cookies are not your average treat—earthy, nutty, and so…",
 "url": "https://www.tiktok.com/@pickyeaterblog/video/7509227539601132843",
+"video": {
+"checked_at": "2026-11-07T15:50:43+00:00",
+"ingredients": [
+"flour",
+"baking soda",
+"salt",
+"tahini",
+"vanilla",
+"egg"
+],
+"kind": "video",
+"narration": "Did you know you can make cookies with black sesame seeds? Just grind them into a fine powder. In one bowl, mix flour, baking soda, and salt. In another bowl, beat together butter, brown sugar, white sugar, and the ground sesame. Then add tahini, vanilla, and an egg. Mix until smooth. Now gently mix in the dry ingredients. Scoop the dough onto a tray and chill for 30 minutes. Flat in each one with a glass and bake at 350 degrees Fahrenheit for 10 to 12 minutes. Let them cool and enjoy. Get the full recipe at thepicky-eaterblog.com.",
+"onscreen": [],
+"steps": [
+"In one bowl, mix flour, baking soda, and salt.",
+"Then add tahini, vanilla, and an egg.",
+"Mix until smooth.",
+"Now gently mix in the dry ingredients.",
+"Scoop the dough onto a tray and chill for 30 minutes.",
+"Flat in each one with a glass and bake at 350 degrees Fahrenheit for 10 to 12 minutes.",
+"Let them cool and enjoy."
+],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7511830678464433450": {
@@ -51631,6 +52945,18 @@
 "time_basis": "",
 "title": "These ingredients are often found in processed foods, and they can promote…",
 "url": "https://www.tiktok.com/@pickyeaterblog/video/7511830678464433450",
+"video": {
+"checked_at": "2026-11-07T15:49:59+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "Don't forget to like and subscribe!",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7514057230086409518": {
@@ -51668,6 +52994,18 @@
 "time_basis": "",
 "title": "This plant-based recipe is simple, satisfying, and made with ingredients you…",
 "url": "https://www.tiktok.com/@pickyeaterblog/video/7514057230086409518",
+"video": {
+"checked_at": "2026-11-07T15:49:47+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "Doesn't it seem so strange that our society eats so much junk food that eating real food is considered dieting?",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7515186508077206830": {
@@ -59576,7 +60914,8 @@
 "mango",
 "potato",
 "broccoli",
-"avocado"
+"avocado",
+"beef"
 ],
 "kind": "creator",
 "links": [],
@@ -59614,7 +60953,8 @@
 "mango",
 "potato",
 "broccoli",
-"avocado"
+"avocado",
+"beef"
 ],
 "kind": "video-partial",
 "narration": "",
@@ -70039,22 +71379,36 @@
 "color": "#8d715b",
 "creator": "thepickyeater",
 "date": "2025-05-23",
-"extraction": "none",
+"extraction": "video",
 "fetched_at": "2026-10-11T21:15:08+00:00",
 "id": "yt-7EfT4rbGd9I",
-"ingredients": [],
+"ingredients": [
+"milk",
+"yogurt",
+"eggs",
+"vanilla",
+"butter"
+],
 "kind": "creator",
 "links": [],
 "mealPrep": false,
 "mealPrep_basis": [],
-"minutes": null,
+"merged_into": "tt-7502120019342527786",
+"minutes": 12,
 "notes": [],
 "page_minutes": null,
 "platform": "youtube",
 "recipeSourceUrl": null,
-"recipe_from": "caption",
-"status": "ok",
-"steps": [],
+"recipe_from": "video",
+"status": "merged",
+"steps": [
+"In a separate bowl, combine milk, yogurt, eggs, vanilla, and melted butter.",
+"Gently fold the wet ingredients into the dry.",
+"Don't over mix or your muffins won't be as fluffy.",
+"Now, fold in 3 quarters of the sprinkles, and don't forget to save some for the top.",
+"Spoon the batter into a mini muffin tray and top with the remaining sprinkles.",
+"Bake at 350 degrees Fahrenheit for 10 to 12 minutes, then let them cool."
+],
 "summary": "",
 "tags": [
 "breakfast",
@@ -70063,10 +71417,35 @@
 "thumb": "thumbs/yt-7EfT4rbGd9I.webp",
 "thumb_h": 225,
 "thumb_w": 400,
-"time": "unknown",
-"time_basis": "",
+"time": "quick",
+"time_basis": "says 12 min",
 "title": "How to make birthday cake muffins for breakfast??",
 "url": "https://www.youtube.com/shorts/7EfT4rbGd9I",
+"video": {
+"checked_at": "2026-11-07T15:50:56+00:00",
+"ingredients": [
+"milk",
+"yogurt",
+"eggs",
+"vanilla",
+"butter"
+],
+"kind": "video",
+"narration": "Let's make my easy homemade birthday cake muffins. Start by whisking flour, baking powder, baking soda, sugar, and a pinch of salt in a bowl. In a separate bowl, combine milk, yogurt, eggs, vanilla, and melted butter. Gently fold the wet ingredients into the dry. Don't over mix or your muffins won't be as fluffy. Now, fold in 3 quarters of the sprinkles, and don't forget to save some for the top. Spoon the batter into a mini muffin tray and top with the remaining sprinkles. Bake at 350 degrees Fahrenheit for 10 to 12 minutes, then let them cool. Perfect for any celebration! Grab the full recipe at www.pickyaterblog.com",
+"onscreen": [],
+"steps": [
+"In a separate bowl, combine milk, yogurt, eggs, vanilla, and melted butter.",
+"Gently fold the wet ingredients into the dry.",
+"Don't over mix or your muffins won't be as fluffy.",
+"Now, fold in 3 quarters of the sprinkles, and don't forget to save some for the top.",
+"Spoon the batter into a mini muffin tray and top with the remaining sprinkles.",
+"Bake at 350 degrees Fahrenheit for 10 to 12 minutes, then let them cool."
+],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "yt-7ZU7L-B6KIM": {
@@ -70501,22 +71880,34 @@
 "color": "#766b51",
 "creator": "thepickyeater",
 "date": "2025-06-01",
-"extraction": "none",
+"extraction": "video",
 "fetched_at": "2026-10-11T21:14:33+00:00",
 "id": "yt-AohlNKlehX4",
-"ingredients": [],
+"ingredients": [
+"garlic",
+"ginger",
+"pepper",
+"chickpeas",
+"cream",
+"tomato"
+],
 "kind": "creator",
 "links": [],
 "mealPrep": false,
 "mealPrep_basis": [],
-"minutes": null,
+"merged_into": "tt-7505106719064870190",
+"minutes": 25,
 "notes": [],
 "page_minutes": null,
 "platform": "youtube",
 "recipeSourceUrl": null,
-"recipe_from": "caption",
-"status": "ok",
-"steps": [],
+"recipe_from": "video",
+"status": "merged",
+"steps": [
+"Add garlic and ginger, cumin, ground coriander, paprika and cayenne pepper, garam masala, chickpeas, coconut cream and diced tomato.",
+"Stir and let it simmer for 25 minutes until it thickens up in the flavors marry.",
+"Serve with rice and fresh cilantro."
+],
 "summary": "Looking for a quick, healthy, and vegan dinner? This Chickpea Tikka Masala has all the flavor and none of the dairy!",
 "tags": [
 "dinner"
@@ -70524,10 +71915,33 @@
 "thumb": "thumbs/yt-AohlNKlehX4.webp",
 "thumb_h": 225,
 "thumb_w": 400,
-"time": "quick",
-"time_basis": "quick",
+"time": "long",
+"time_basis": "says 25 min",
 "title": "Comforting chickpea curry ready in minutes",
 "url": "https://www.youtube.com/shorts/AohlNKlehX4",
+"video": {
+"checked_at": "2026-11-07T15:50:32+00:00",
+"ingredients": [
+"garlic",
+"ginger",
+"pepper",
+"chickpeas",
+"cream",
+"tomato"
+],
+"kind": "video",
+"narration": "If you love bold flavors and cozy meals, this chickpea tikka masala is perfect for you. Start by sautéing diced onion in coconut oil. Add garlic and ginger, cumin, ground coriander, paprika and cayenne pepper, garam masala, chickpeas, coconut cream and diced tomato. Stir and let it simmer for 25 minutes until it thickens up in the flavors marry. Serve with rice and fresh cilantro. Follow for more easy, healthy recipes your whole family will love.",
+"onscreen": [],
+"steps": [
+"Add garlic and ginger, cumin, ground coriander, paprika and cayenne pepper, garam masala, chickpeas, coconut cream and diced tomato.",
+"Stir and let it simmer for 25 minutes until it thickens up in the flavors marry.",
+"Serve with rice and fresh cilantro."
+],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "yt-AplbknbuIpc": {
@@ -71607,6 +73021,18 @@
 "time_basis": "says 5 min",
 "title": "High Protein, 5 Minute Breakfast",
 "url": "https://www.youtube.com/shorts/IQp_GS3jWxw",
+"video": {
+"checked_at": "2026-11-07T15:50:25+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "yt-IoVXMpUc6ZI": {
@@ -72092,6 +73518,18 @@
 "time_basis": "",
 "title": "Vegan Donuts That Taste Like The Real Deal",
 "url": "https://www.youtube.com/shorts/MDZZ1usl19s",
+"video": {
+"checked_at": "2026-11-07T15:49:52+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "yt-MHbtdRUtSHw": {
@@ -73110,6 +74548,18 @@
 "time_basis": "",
 "title": "Low Carb, High Protein Greek Salad",
 "url": "https://www.youtube.com/shorts/SETDLTxpkR4",
+"video": {
+"checked_at": "2026-11-07T15:50:07+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "Here's my refreshing keto Greek salad, a low carb twist on the classic that's just as delicious. Start by slicing the cherry tomatoes in half, dicing the bell pepper, thinly slicing the onion, and cubing the cucumber. Add in your capers and olives, then mix until well combined. My homemade dressing has no added sugar, just olive oil, oregano, red wine vinegar, and a pinch of salt. Toss everything together and top with creamy feta cheese. It's perfect for light lunches, easy dinners, or even your next potluck. Grab the full recipe at KikiEaterBlog.com",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "yt-SZ6F74PMja4": {
@@ -73745,10 +75195,16 @@
 "color": "#80704d",
 "creator": "thepickyeater",
 "date": "2025-05-30",
-"extraction": "none",
+"extraction": "video",
 "fetched_at": "2026-10-11T21:14:38+00:00",
 "id": "yt-YJ0tVrUXytU",
-"ingredients": [],
+"ingredients": [
+"butter",
+"cream",
+"cinnamon",
+"salt",
+"banana"
+],
 "kind": "creator",
 "links": [],
 "mealPrep": false,
@@ -73757,10 +75213,13 @@
 "notes": [],
 "page_minutes": null,
 "platform": "youtube",
+"recipePage": "r/yt-YJ0tVrUXytU.html",
 "recipeSourceUrl": null,
-"recipe_from": "caption",
+"recipe_from": "video",
 "status": "ok",
-"steps": [],
+"steps": [
+"Add banana slices and cook until they're golden and caramelized."
+],
 "summary": "Looking for a quick and delicious dessert? These caramelized bananas are an easy way to elevate any sweet treat, ready in minutes and packed with rich, indulgent flavor.",
 "tags": [
 "snack",
@@ -73773,6 +75232,26 @@
 "time_basis": "quick",
 "title": "The easiest dessert you'll ever make",
 "url": "https://www.youtube.com/shorts/YJ0tVrUXytU",
+"video": {
+"checked_at": "2026-11-07T15:50:38+00:00",
+"ingredients": [
+"butter",
+"cream",
+"cinnamon",
+"salt",
+"banana"
+],
+"kind": "video",
+"narration": "Did you know you can make a quick and cozy dessert with just a few ingredients? All you need is a skillet, some butter, brown sugar, a splash of cream, cinnamon, and a pinch of salt. Add banana slices and cook until they're golden and caramelized. It's sweet, warm, and naturally gluten-free perfect for a quick treat. Follow for more easy recipes.",
+"onscreen": [],
+"steps": [
+"Add banana slices and cook until they're golden and caramelized."
+],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "yt-Ygw4_Arwcqo": {
@@ -73896,10 +75375,16 @@
 "color": "#82716b",
 "creator": "thepickyeater",
 "date": "2025-05-21",
-"extraction": "none",
+"extraction": "video",
 "fetched_at": "2026-10-11T21:15:09+00:00",
 "id": "yt-ZRCNq7sag78",
-"ingredients": [],
+"ingredients": [
+"strawberries",
+"banana",
+"yogurt",
+"milk",
+"maple syrup"
+],
 "kind": "creator",
 "links": [],
 "mealPrep": false,
@@ -73908,10 +75393,14 @@
 "notes": [],
 "page_minutes": null,
 "platform": "youtube",
+"recipePage": "r/yt-ZRCNq7sag78.html",
 "recipeSourceUrl": null,
-"recipe_from": "caption",
+"recipe_from": "video",
 "status": "ok",
-"steps": [],
+"steps": [
+"Boil some tapioca pearls and mix them with a little brown sugar, then blend strawberries, a frozen banana, coconut yogurt, almond milk, and a splash of maple syrup.",
+"Stir in the sweet tapioca pearls."
+],
 "summary": "Did you know you can make a creamy boba smoothie at home in just 15 minutes? Boil some tapioca pearls and mix them with a little brown sugar.",
 "tags": [
 "sweet"
@@ -73923,6 +75412,27 @@
 "time_basis": "says 15 min",
 "title": "The BEST Homemade Boba Smoothie Ever (like Boba Tea but better!)",
 "url": "https://www.youtube.com/shorts/ZRCNq7sag78",
+"video": {
+"checked_at": "2026-11-07T15:51:12+00:00",
+"ingredients": [
+"strawberries",
+"banana",
+"yogurt",
+"milk",
+"maple syrup"
+],
+"kind": "video",
+"narration": "Did you know you can make a creamy boba smoothie at home in just 15 minutes? Boil some tapioca pearls and mix them with a little brown sugar, then blend strawberries, a frozen banana, coconut yogurt, almond milk, and a splash of maple syrup. Stir in the sweet tapioca pearls. And voila, your dreamy bubble tea smoothie is ready to sip. Follow for more healthy, easy, and delicious recipes.",
+"onscreen": [],
+"steps": [
+"Boil some tapioca pearls and mix them with a little brown sugar, then blend strawberries, a frozen banana, coconut yogurt, almond milk, and a splash of maple syrup.",
+"Stir in the sweet tapioca pearls."
+],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "yt-ZU7jT1Uu80U": {
@@ -76264,36 +77774,76 @@
 "color": "#9c846c",
 "creator": "thepickyeater",
 "date": "2025-06-13",
-"extraction": "none",
+"extraction": "video",
 "fetched_at": "2026-10-11T21:14:14+00:00",
 "id": "yt-q9Pm28O4gIc",
-"ingredients": [],
+"ingredients": [
+"flax seeds",
+"cinnamon",
+"milk",
+"1 tablespoon of maple syrup",
+"1 teaspoon of vanilla",
+"berries",
+"bananas",
+"yogurt"
+],
 "kind": "creator",
 "links": [],
 "mealPrep": true,
 "mealPrep_basis": [
 "meal-prep"
 ],
-"minutes": null,
+"merged_into": "yt-vqZ4qXrheU8",
+"minutes": 180,
 "notes": [],
 "page_minutes": null,
 "platform": "youtube",
 "recipeSourceUrl": null,
-"recipe_from": "caption",
-"status": "ok",
-"steps": [],
+"recipe_from": "video",
+"status": "merged",
+"steps": [
+"Just mix 3 fourths cup of ground flax seeds, 1 fourth double spoon cinnamon, 1 and 1 fourth cups of unsweetened almond milk, 1 tablespoon of maple syrup, and 1 teaspoon of vanilla extract.",
+"In a bowl, whisk it all up until smooth, refrigerate it for at least 3 hours, or overnight.",
+"When it's ready, you can add your favorite toppings like fresh berries, crushed nuts, bananas, maple syrup, or coconut yogurt."
+],
 "summary": "The Creamiest Healthy Pudding Recipe! Did you know flaxseeds can thicken into a creamy pudding packed with fiber and healthy fats?",
 "tags": [
 "breakfast",
-"snack"
+"snack",
+"sweet"
 ],
 "thumb": "thumbs/yt-q9Pm28O4gIc.webp",
 "thumb_h": 225,
 "thumb_w": 400,
-"time": "unknown",
-"time_basis": "",
+"time": "long",
+"time_basis": "says 180 min",
 "title": "Perfect for breakfast or snacks",
 "url": "https://www.youtube.com/shorts/q9Pm28O4gIc",
+"video": {
+"checked_at": "2026-11-07T15:49:44+00:00",
+"ingredients": [
+"flax seeds",
+"cinnamon",
+"milk",
+"1 tablespoon of maple syrup",
+"1 teaspoon of vanilla",
+"berries",
+"bananas",
+"yogurt"
+],
+"kind": "video",
+"narration": "Did you know you can make a high fiber pudding using flax seeds? Just mix 3 fourths cup of ground flax seeds, 1 fourth double spoon cinnamon, 1 and 1 fourth cups of unsweetened almond milk, 1 tablespoon of maple syrup, and 1 teaspoon of vanilla extract. In a bowl, whisk it all up until smooth, refrigerate it for at least 3 hours, or overnight. When it's ready, you can add your favorite toppings like fresh berries, crushed nuts, bananas, maple syrup, or coconut yogurt. You'll have a fiber packed. Pudding that's perfect for breakfast, snacks, or dessert.",
+"onscreen": [],
+"steps": [
+"Just mix 3 fourths cup of ground flax seeds, 1 fourth double spoon cinnamon, 1 and 1 fourth cups of unsweetened almond milk, 1 tablespoon of maple syrup, and 1 teaspoon of vanilla extract.",
+"In a bowl, whisk it all up until smooth, refrigerate it for at least 3 hours, or overnight.",
+"When it's ready, you can add your favorite toppings like fresh berries, crushed nuts, bananas, maple syrup, or coconut yogurt."
+],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "yt-qbajK4tILMc": {
@@ -76344,22 +77894,33 @@
 "color": "#6c5f50",
 "creator": "thepickyeater",
 "date": "2025-04-29",
-"extraction": "none",
+"extraction": "video",
 "fetched_at": "2026-10-11T21:15:16+00:00",
 "id": "yt-r-oMASqPphg",
-"ingredients": [],
+"ingredients": [
+"lemon",
+"garlic",
+"olive oil",
+"apple",
+"salt",
+"pepper",
+"water"
+],
 "kind": "creator",
 "links": [],
 "mealPrep": false,
 "mealPrep_basis": [],
+"merged_into": "tt-7498504957784689966",
 "minutes": 5,
 "notes": [],
 "page_minutes": null,
 "platform": "youtube",
 "recipeSourceUrl": null,
-"recipe_from": "caption",
-"status": "ok",
-"steps": [],
+"recipe_from": "video",
+"status": "merged",
+"steps": [
+"If you blend fresh herbs, lemon into a high-speed food processor, add crushed garlic, ripe avocados, extra virgin olive oil, apple cider vinegar, mayo, salt and pepper, blend until smooth, add 1-2 tablespoons of cold water."
+],
 "summary": "Salads will never be boring again! This avocado green goddess dressing is your new go-to for salads, bowls, and dipping veggies!",
 "tags": [
 "veggies"
@@ -76371,6 +77932,28 @@
 "time_basis": "says 5 min",
 "title": "Game-Changing 5-Minute Green Goddess Dressing You’ll Want to Put on Everything",
 "url": "https://www.youtube.com/shorts/r-oMASqPphg",
+"video": {
+"checked_at": "2026-11-07T15:52:14+00:00",
+"ingredients": [
+"lemon",
+"garlic",
+"olive oil",
+"apple",
+"salt",
+"pepper",
+"water"
+],
+"kind": "video",
+"narration": "If you blend fresh herbs, lemon into a high-speed food processor, add crushed garlic, ripe avocados, extra virgin olive oil, apple cider vinegar, mayo, salt and pepper, blend until smooth, add 1-2 tablespoons of cold water. You'll have a super creamy avocado green goddess dressing with 50 calories and 5 grams fats in just 5 minutes. Want the full recipe? Click the link in my bio.",
+"onscreen": [],
+"steps": [
+"If you blend fresh herbs, lemon into a high-speed food processor, add crushed garlic, ripe avocados, extra virgin olive oil, apple cider vinegar, mayo, salt and pepper, blend until smooth, add 1-2 tablespoons of cold water."
+],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "yt-rBXOqzxc1jw": {
@@ -76810,9 +78393,17 @@
 ],
 "kind": "creator",
 "links": [],
-"mealPrep": false,
-"mealPrep_basis": [],
+"mealPrep": true,
+"mealPrep_basis": [
+"meal-prep"
+],
 "minutes": 180,
+"mirror": {
+"caption": "The Creamiest Healthy Pudding Recipe! #shorts\nDid you know flaxseeds can thicken into a creamy pudding packed with fiber and healthy fats?\n\nIt’s one of the easiest plant-based recipes you can make. No cooking, no blender, no stress.\n\n✅ Perfect for breakfast or snacks\n✅ Great for clean eating or plant-based diets\n✅ Meal-prep friendly\n\nSave this for your next grocery run and follow for more easy plant-based recipes.\n\n#DidYouKnowFood #PlantBasedBasics #HealthyEatingTips #FlaxseedPudding #CleanEatingRecipe #PlantBasedBreakfast #NoCookMeals #GutHealthFoods #EasyHealthyRecipes #PickyEaterBlog #WholeFoodPlantBased",
+"id": "yt-q9Pm28O4gIc",
+"platform": "youtube",
+"url": "https://www.youtube.com/shorts/q9Pm28O4gIc"
+},
 "notes": [],
 "page_minutes": null,
 "platform": "youtube",
@@ -77238,6 +78829,7 @@
 "links": [],
 "mealPrep": false,
 "mealPrep_basis": [],
+"merged_into": "tt-7507377602848427307",
 "minutes": 45,
 "notes": [],
 "page_minutes": null,
@@ -77245,7 +78837,7 @@
 "recipePage": "r/yt-ygwQlXTwKac.html",
 "recipeSourceUrl": null,
 "recipe_from": "video",
-"status": "ok",
+"status": "merged",
 "steps": [
 "Start by sautéing onions and garlic, then toss in carrots, potatoes, celery, and a sprinkle of Italian herbs.",
 "Add veggie broth and bay leaves, then let it simmer for 15 to 20 minutes.",
@@ -77920,6 +79512,8 @@
 "tt-7699865173137427742": "not a food post",
 "tt-7700505192277478686": "not a food post",
 "tt-7702449566506962207": "not a food post",
+"tt-7702979387687308575": "not a food post",
+"tt-7704461560453844255": "not a food post",
 "yt--5sP4x2l_K0": "not a food post",
 "yt--63or12q_A0": "not a food post",
 "yt--W0uEvpIAUU": "not a food post",
@@ -78137,207 +79731,207 @@
 },
 "sources": {
 "instagram_profile https://www.instagram.com/babymealsfreezer/": {
-"checked_at": "2026-10-31T14:45:25+00:00",
+"checked_at": "2026-11-07T15:47:35+00:00",
 "status": "skipped",
 "why": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists"
 },
 "instagram_profile https://www.instagram.com/busymamaeasybites/": {
-"checked_at": "2026-10-31T14:45:25+00:00",
+"checked_at": "2026-11-07T15:47:35+00:00",
 "status": "skipped",
 "why": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists"
 },
 "instagram_profile https://www.instagram.com/kidfriendly.meals/": {
-"checked_at": "2026-10-31T14:45:25+00:00",
+"checked_at": "2026-11-07T15:47:35+00:00",
 "status": "skipped",
 "why": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists"
 },
 "instagram_profile https://www.instagram.com/mini.tiger.zen/": {
-"checked_at": "2026-10-31T14:45:25+00:00",
+"checked_at": "2026-11-07T15:47:35+00:00",
 "status": "skipped",
 "why": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists"
 },
 "instagram_profile https://www.instagram.com/mountain_mothering/": {
-"checked_at": "2026-10-31T14:45:25+00:00",
+"checked_at": "2026-11-07T15:47:35+00:00",
 "status": "skipped",
 "why": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists"
 },
 "instagram_profile https://www.instagram.com/soniamazri_/": {
-"checked_at": "2026-10-31T14:45:25+00:00",
+"checked_at": "2026-11-07T15:47:35+00:00",
 "status": "skipped",
 "why": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists"
 },
 "instagram_profile https://www.instagram.com/thepickyeater/": {
-"checked_at": "2026-10-31T14:45:25+00:00",
+"checked_at": "2026-11-07T15:47:35+00:00",
 "status": "skipped",
 "why": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists"
 },
 "instagram_profile https://www.instagram.com/toddler.snack.therapy/": {
-"checked_at": "2026-10-31T14:45:25+00:00",
+"checked_at": "2026-11-07T15:47:35+00:00",
 "status": "skipped",
 "why": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists"
 },
 "instagram_profile https://www.instagram.com/tuankil28/": {
-"checked_at": "2026-10-31T14:45:25+00:00",
+"checked_at": "2026-11-07T15:47:35+00:00",
 "status": "skipped",
 "why": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists. No public TikTok, YouTube or blog found for this account (Oct 2026)"
 },
 "instagram_reel https://www.instagram.com/reel/DYM-EdVRv5w/": {
 "added": 0,
-"checked_at": "2026-10-31T14:45:25+00:00",
+"checked_at": "2026-11-07T15:47:35+00:00",
 "detail": "kept",
 "status": "ok"
 },
 "instagram_reel https://www.instagram.com/reel/DZNgOJWxKeb/": {
 "added": 0,
-"checked_at": "2026-10-31T14:45:25+00:00",
+"checked_at": "2026-11-07T15:47:35+00:00",
 "detail": "kept",
 "status": "ok"
 },
 "instagram_reel https://www.instagram.com/reel/DbL8lkyxo5u/": {
 "added": 0,
-"checked_at": "2026-10-31T14:45:25+00:00",
+"checked_at": "2026-11-07T15:47:34+00:00",
 "detail": "kept",
 "status": "ok"
 },
 "instagram_reel https://www.instagram.com/reel/DbbXt7wpuIX/": {
 "added": 0,
-"checked_at": "2026-10-31T14:45:25+00:00",
+"checked_at": "2026-11-07T15:47:35+00:00",
 "detail": "kept",
 "status": "ok"
 },
 "instagram_reel https://www.instagram.com/reel/Dbq5xTqNN8Y/": {
 "added": 0,
-"checked_at": "2026-10-31T14:45:25+00:00",
+"checked_at": "2026-11-07T15:47:35+00:00",
 "detail": "kept",
 "status": "ok"
 },
 "instagram_reel https://www.instagram.com/reel/DcFDtQDv_7p/": {
 "added": 0,
-"checked_at": "2026-10-31T14:45:25+00:00",
+"checked_at": "2026-11-07T15:47:35+00:00",
 "detail": "kept",
 "status": "ok"
 },
 "instagram_reel https://www.instagram.com/reel/DcbRdMQoCC2/": {
 "added": 0,
-"checked_at": "2026-10-31T14:45:25+00:00",
+"checked_at": "2026-11-07T15:47:35+00:00",
 "detail": "kept",
 "status": "ok"
 },
 "instagram_reel https://www.instagram.com/reel/DdObMJ6SGYA/": {
 "added": 0,
-"checked_at": "2026-10-31T14:45:25+00:00",
+"checked_at": "2026-11-07T15:47:34+00:00",
 "detail": "kept",
 "status": "ok"
 },
 "instagram_reel https://www.instagram.com/reel/DdnIx7EugPm/": {
 "added": 0,
-"checked_at": "2026-10-31T14:45:25+00:00",
+"checked_at": "2026-11-07T15:47:35+00:00",
 "detail": "kept",
 "status": "ok"
 },
 "instagram_reel https://www.instagram.com/reel/DeQGbyevSm9/": {
 "added": 0,
-"checked_at": "2026-10-31T14:45:25+00:00",
+"checked_at": "2026-11-07T15:47:35+00:00",
 "detail": "kept",
 "status": "ok"
 },
 "tiktok_profile https://www.tiktok.com/@babymealsfreezer": {
 "added": 0,
-"checked_at": "2026-10-31T14:45:59+00:00",
+"checked_at": "2026-11-07T15:48:14+00:00",
 "detail": "listed 31 posts (oldest 2026-03-10)",
 "status": "ok"
 },
 "tiktok_profile https://www.tiktok.com/@busymamaeasybites": {
 "added": 0,
-"checked_at": "2026-10-31T14:45:51+00:00",
+"checked_at": "2026-11-07T15:48:04+00:00",
 "detail": "listed 70 posts (oldest 2026-04-14)",
 "status": "ok"
 },
 "tiktok_profile https://www.tiktok.com/@mini.tiger.zen": {
 "added": 0,
-"checked_at": "2026-10-31T14:45:56+00:00",
-"detail": "listed 83 posts (oldest 2023-04-08)",
+"checked_at": "2026-11-07T15:48:10+00:00",
+"detail": "listed 85 posts (oldest 2023-04-08)",
 "status": "ok"
 },
 "tiktok_profile https://www.tiktok.com/@mountain_mothering": {
 "added": 0,
-"checked_at": "2026-10-31T14:46:02+00:00",
+"checked_at": "2026-11-07T15:48:16+00:00",
 "detail": "listed 15 posts (oldest 2026-09-23)",
 "status": "ok"
 },
 "tiktok_profile https://www.tiktok.com/@pickyeaterblog": {
 "added": 0,
-"checked_at": "2026-10-31T14:46:31+00:00",
+"checked_at": "2026-11-07T15:48:49+00:00",
 "detail": "listed 607 posts (oldest 2022-01-02)",
 "status": "ok"
 },
 "tiktok_profile https://www.tiktok.com/@soniamazri": {
 "added": 0,
-"checked_at": "2026-10-31T14:45:45+00:00",
+"checked_at": "2026-11-07T15:47:57+00:00",
 "detail": "listed 385 posts (oldest 2022-11-14)",
 "status": "ok"
 },
 "tiktok_profile https://www.tiktok.com/@toddler.snack.therapy": {
 "added": 0,
-"checked_at": "2026-10-31T14:46:34+00:00",
+"checked_at": "2026-11-07T15:48:53+00:00",
 "detail": "listed 34 posts (oldest 2025-09-24)",
 "status": "ok"
 },
 "website_category https://pickyeaterblog.com/category/kid-friendly-recipes/": {
-"added": 0,
-"checked_at": "2026-10-31T14:47:01+00:00",
-"detail": "listed 110 pages, considered newest 110",
+"added": 6,
+"checked_at": "2026-11-07T15:49:23+00:00",
+"detail": "listed 113 pages, considered newest 113",
 "status": "ok"
 },
 "website_category https://www.mjandhungryman.com/category/baby-kid-friendly-recipes/": {
-"added": 0,
-"checked_at": "2026-10-31T14:46:57+00:00",
+"added": 2,
+"checked_at": "2026-11-07T15:49:13+00:00",
 "detail": "listed 178 pages, considered newest 150",
 "status": "ok"
 },
 "website_sitemap https://babyfoode.com/post-sitemap.xml": {
-"added": 0,
-"checked_at": "2026-10-31T14:47:05+00:00",
-"detail": "listed 115 pages, considered newest 15",
+"added": 1,
+"checked_at": "2026-11-07T15:49:26+00:00",
+"detail": "listed 116 pages, considered newest 15",
 "status": "ok"
 },
 "website_sitemap https://weelicious.com/post-sitemap.xml": {
 "added": 0,
-"checked_at": "2026-10-31T14:47:06+00:00",
+"checked_at": "2026-11-07T15:49:29+00:00",
 "detail": "listed 108 pages, considered newest 15",
 "status": "ok"
 },
 "website_sitemap https://www.healthylittlefoodies.com/post-sitemap.xml": {
 "added": 0,
-"checked_at": "2026-10-31T14:47:03+00:00",
+"checked_at": "2026-11-07T15:49:24+00:00",
 "detail": "listed 85 pages, considered newest 18",
 "status": "ok"
 },
 "youtube_channel https://www.youtube.com/@busymamaeasybites/shorts": {
 "added": 0,
-"checked_at": "2026-10-31T14:46:44+00:00",
+"checked_at": "2026-11-07T15:48:59+00:00",
 "detail": "listed 2 videos",
 "status": "ok"
 },
 "youtube_channel https://www.youtube.com/@kidfriendlymeals/shorts": {
 "added": 0,
-"checked_at": "2026-10-31T14:46:43+00:00",
+"checked_at": "2026-11-07T15:48:58+00:00",
 "detail": "listed 8 videos",
 "status": "ok"
 },
 "youtube_channel https://www.youtube.com/@mountain_mothering/shorts": {
 "added": 0,
-"checked_at": "2026-10-31T14:46:36+00:00",
+"checked_at": "2026-11-07T15:48:54+00:00",
 "detail": "listed 33 videos",
 "status": "ok"
 },
 "youtube_channel https://www.youtube.com/@thepickyeater/shorts": {
 "added": 0,
-"checked_at": "2026-10-31T14:46:42+00:00",
+"checked_at": "2026-11-07T15:48:57+00:00",
 "detail": "listed 291 videos",
 "status": "ok"
 }
 },
-"updated_at": "2026-10-31T14:50:37+00:00",
-"video_pending": 501
+"updated_at": "2026-11-07T15:52:23+00:00",
+"video_pending": 471
 }
