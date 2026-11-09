@@ -39,10 +39,16 @@
         "facebook": "https://www.facebook.com/LittleRadAdventure",
         "site": "https://littleradadventure.com/",
         "note": "Facebook page Littleradadventure, also posted as Must Do In Colorado. Added from Chanel FB share 2026-10-03 (reel 1738726840765924 → Tiny Town & Railroad, Morrison). Park is seasonal and closed after Labor Day, so no pin until it reopens. IG scrubbed through 2026-10-23."
+      },
+      {
+        "name": "City of Arvada community events",
+        "site": "https://www.arvadaco.gov/calendar.aspx",
+        "example": "https://www.arvadaco.gov/1589/Food-Trucks-and-Fireworks",
+        "note": "Added at Chanel's request 2026-11-06. Check the arvadaco.gov calendar (Community Events + Majestic View Nature Center) and special-events pages for free family events; Olde Town Arvada holiday events are listed on oldetownarvada.org / visitarvada.org."
       }
     ],
-    "updated": "2026-11-06",
-    "scrub_window": "2026-11-06 Mon/Wed/Fri pass: Instagram Nov 4–6 posts via public profile embeds (all five accounts). New pin: Wonderland Lake Trail + Park, Boulder (CKAR Nov 4 toddler hike). Corrected Anythink Nature Library address/coords/hours (CKAR Nov 5 rediscovery). New event: THE POLAR EXPRESS Train Ride at Colorado Railroad Museum Nov 6–Dec 23 (LRA Nov 5). Barr Lake skipped (Niedrach berm closure + ~41 min). Prior scrubs retained.",
+    "updated": "2026-11-09",
+    "scrub_window": "2026-11-09 Mon/Wed/Fri pass: Instagram Nov 6–8 posts via public profile embeds (all five) + first City of Arvada calendar check. New pins: Rocky Mountain Arsenal NWR + Pat Schroeder Visitor Center (CKAR Nov 7), Majestic View Nature Center (City of Arvada). New events: Cabela's Thornton free Santa photos Nov 8–Dec 24, Orchard Winterfest Nov 14, Majestic View Nature Playdate Nov 12 and Storytime Nov 19, Olde Town Arvada Tree Lighting Nov 28, Lakewood Lights Dec 3. Prior scrubs retained.",
     "notes": "Why-notes paraphrased/quoted from source captions and newsletters. Drive times are rough estimates from Arvada 80004; verify in Google Maps. Do not invent venues — every pin cites a named source. Seasonal spots kept if still relevant for fall 2026 or evergreen otherwise. Home base updated to W 64th Ave & Ward Rd; drive times refreshed via public OSRM routing on 2026-10-02."
   },
   "places": [
@@ -4471,6 +4477,88 @@
       "farther_than_30min": true,
       "approx_drive_minutes": 39,
       "straight_line_miles": 18.1
+    },
+    {
+      "id": "majestic-view-nature-center",
+      "name": "Majestic View Nature Center + Park (Arvada)",
+      "lat": 39.824117,
+      "lng": -105.0995581,
+      "address": "7030 Garrison St, Arvada, CO 80004",
+      "why": "City of Arvada nature center (found via the arvadaco.gov community calendar, now a tracked source): 3,000 sq ft of hands-on displays, wildlife exhibits, a kids' activity area, an augmented-reality sandbox and a beaver lodge, plus a 25,000 sq ft demonstration garden in Majestic View Park. Free toddler-friendly programs like Nature Playdate (ages 2–12) and Nature Storytime (all ages).",
+      "source": "City of Arvada (arvadaco.gov) Majestic View Nature Center page + community calendar, checked 2026-11-09",
+      "source_accounts": [
+        "City of Arvada"
+      ],
+      "links": [
+        {
+          "label": "City of Arvada: Majestic View Nature Center",
+          "url": "https://www.arvadaco.gov/1215/Majestic-View-Nature-Center"
+        },
+        {
+          "label": "City of Arvada calendar (Nature Playdate, Storytime)",
+          "url": "https://www.arvadaco.gov/calendar.aspx"
+        },
+        {
+          "label": "Directions and hours",
+          "url": "https://www.arvadaco.gov/1255/Directions-and-Hours"
+        }
+      ],
+      "hours": "Winter hours Sep 15–May 15: Thu–Sat 9 AM–1 PM (closed Sun–Wed). Summer: Wed–Fri 9–1, Sat 9–4. Park grounds open daily.",
+      "cost": "Free drop-in; some programs need registration via CivicRec",
+      "toddler_notes": "Small indoor stop that fits a morning before the ~2pm nap wake-up window. Winter hours are short (Thu–Sat mornings only), so check before going. Pair with the park outside.",
+      "tags": [
+        "nature",
+        "indoor",
+        "museum",
+        "free",
+        "arvada",
+        "classes"
+      ],
+      "drive_note": "~7 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~2.3 mi straight-line)",
+      "farther_than_30min": false,
+      "approx_drive_minutes": 7,
+      "straight_line_miles": 2.3
+    },
+    {
+      "id": "rocky-mountain-arsenal-nwr",
+      "name": "Rocky Mountain Arsenal National Wildlife Refuge + Pat Schroeder Visitor Center (Commerce City)",
+      "lat": 39.815131,
+      "lng": -104.880352,
+      "address": "6550 Gateway Rd, Commerce City, CO 80022",
+      "why": "Colorado Kids Are Rad Nov 7: a free 3-stop outing. Cruise the Wildlife Drive and look for bison, then explore the visitor center's mini museum, hands-on exhibits, kids' discovery room and outdoor areas.",
+      "source": "Colorado Kids Are Rad (@coloradokidsarerad) Instagram post 2026-11-07; U.S. Fish & Wildlife Service",
+      "source_accounts": [
+        "@coloradokidsarerad"
+      ],
+      "links": [
+        {
+          "label": "CKAR 3 free stops: Arsenal + visitor center (Nov 7)",
+          "url": "https://www.instagram.com/p/DfdsIHSxnE_/"
+        },
+        {
+          "label": "USFWS: Rocky Mountain Arsenal",
+          "url": "https://www.fws.gov/refuge/rocky-mountain-arsenal"
+        },
+        {
+          "label": "USFWS: Visit us (hours, rules)",
+          "url": "https://www.fws.gov/refuge/rocky-mountain-arsenal/visit-us"
+        }
+      ],
+      "hours": "Refuge sunrise–sunset (fall/winter/spring). Visitor Center Wed–Sun 9 AM–4 PM, closed federal holidays. Refuge closed Thanksgiving, Christmas, New Year's Day.",
+      "cost": "Free, including the ~11-mile self-guided Wildlife Drive",
+      "toddler_notes": "Great car-seat-friendly outing: the Wildlife Drive is about 45–60 minutes and bison are often visible. Visitor center is closed Mon–Tue. USFWS prescribed burns started Oct 19, 2026 for several weeks (9am–4pm), so smoke or closures are possible. No pets outside vehicles.",
+      "tags": [
+        "nature",
+        "wildlife",
+        "museum",
+        "free",
+        "outdoor",
+        "indoor"
+      ],
+      "drive_note": "~28 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~13.8 mi straight-line)",
+      "farther_than_30min": false,
+      "approx_drive_minutes": 28,
+      "straight_line_miles": 13.8
     }
   ]
 }

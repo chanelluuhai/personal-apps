@@ -9,6 +9,34 @@
 | Colorado Kids Are Rad | https://www.instagram.com/coloradokidsarerad/ | Colorado Kids Are Rad | |
 | Colorado Mama Life (Angelica) | https://www.instagram.com/coloradomamalife/ | https://www.facebook.com/profile.php?id=61577651781310 | https://www.tiktok.com/@coloradomamalife |
 | Little Rad Adventure | https://www.instagram.com/littleradadventure/ | https://www.facebook.com/LittleRadAdventure | https://littleradadventure.com/ |
+| City of Arvada community events | | | https://www.arvadaco.gov/calendar.aspx (calendar incl. Majestic View Nature Center); example https://www.arvadaco.gov/1589/Food-Trucks-and-Fireworks; Olde Town events via https://www.oldetownarvada.org/events |
+
+## Scrub window (2026-11-09 Mon/Wed/Fri pass)
+
+**Checked**
+- Instagram: public profile embed pages returned recent posts for all five accounts (HTTP 200). Cutoff Nov 6 00:00 America/Denver:
+  - @days.in.denver: Nov 6 family patio list (Hudson Gardens free holiday photos Nov 14–15 mentioned, but not on hudsongardens.org's calendar this pass, so not added; Stanley Giving Trees through Dec 13 noted only).
+  - @colorado.kids.explore: Nov 8 Giggling Life Care Farm preschool / Tiny Tots (18m–5y) post. Farm already pinned; no dated event.
+  - @coloradokidsarerad: Nov 7 free 3-stop plan, Rocky Mountain Arsenal Wildlife Drive + Pat Schroeder Visitor Center (new pin) + High Plains Park pump track, Aurora (bike-age, skipped); Nov 6 Living Spaces Thornton free outing (kids' play area is ages 4+, skipped); Nov 8 holiday-overwhelm post (no venue).
+  - @coloradomamalife: Nov 6 free Santa stops list. Added Cabela's Thornton (Nov 8–Dec 24), Orchard Winterfest Nov 14, Lakewood Lights Dec 3; Littleton Candlelight Walk already on the map; Stanley (dates not specified), Castle Rock, Breckenridge, Fort Collins, Brighton skipped as vague or far. Nov 8 Brown Palace Champagne Cascade date day skipped.
+  - @littleradadventure: Nov 7 Loveland ski post, Nov 7 Pennsylvania Wilds travel, Nov 6 Ford Bronco winter list #ad. No toddler venues.
+- City of Arvada (first check, added as a source): arvadaco.gov calendar lists Majestic View Nature Center Nature Playdate Nov 12 (ages 2–12) and Nature Storytime Nov 19 (all ages); Majestic View pinned. Community Events otherwise leaf drop-offs and meetings. The Food Trucks and Fireworks page is a summer series (no current dates). Olde Town Arvada Tree Lighting Nov 28 found via Visit Arvada / oldetownarvada.org.
+- Days.in.denver beehiiv: homepage still tops out at the October newsletter (November issue scrubbed 2026-11-02).
+- Little Rad Adventure site: no new Colorado post (Pennsylvania Wilds piece remains newest).
+- Facebook: login-walled historically, not re-tried; no captions guessed. TikTok: profile meta only.
+- Details confirmed on fws.gov (Arsenal hours, prescribed burns from Oct 19), arvadaco.gov (Majestic View hours), Bass Pro/Cabela's Oct 26 release, theorchardtowncenter.com, lakewoodco.gov, visitarvada.org. Drive times via public OSRM from the 64th & Ward base.
+
+**New pins (2)**
+- Rocky Mountain Arsenal NWR + Pat Schroeder Visitor Center, Commerce City: free Wildlife Drive (bison) + kids' discovery room; VC Wed–Sun 9–4 (CKAR Nov 7; USFWS) (~28 min)
+- Majestic View Nature Center + Park, Arvada: free nature center with kids' activity area, AR sandbox, beaver lodge; winter hours Thu–Sat 9–1 (City of Arvada) (~7 min)
+
+**New events (6)**
+- Nov 8–Dec 24 free Santa photo at Cabela's Thornton (CML Nov 6) (~30 min)
+- Thu Nov 12 10–11am Nature Playdate, Majestic View (City of Arvada) (~7 min)
+- Sat Nov 14 3:30–7:30pm Orchard Town Center Winterfest + Santa (CML Nov 6) (~30 min)
+- Thu Nov 19 10–10:30am Nature Storytime, Majestic View (City of Arvada) (~7 min)
+- Sat Nov 28 5–7pm Olde Town Arvada Tree Lighting (Visit Arvada) (~8 min)
+- Thu Dec 3 5–8pm Lakewood Lights, Heritage Lakewood Belmar Park (CML Nov 6; City of Lakewood) (~19 min)
 
 ## Scrub window (2026-11-06 Mon/Wed/Fri pass)
 
@@ -542,7 +570,7 @@ Cheyenne-Arapaho, Bates-Logan, Washington Park, City View, La Raza, Paco Sanchez
 
 ## Weekly update notes
 
-1. Scrub **all** accounts listed in this SOURCES.md Accounts table (IG/FB/TikTok/newsletter as linked) — currently Days.in.denver, Colorado Kids Explore, Colorado Kids Are Rad, Colorado Mama Life, Little Rad Adventure — plus Days.in.denver beehiiv.
+1. Scrub **all** accounts listed in this SOURCES.md Accounts table (IG/FB/TikTok/newsletter as linked) — currently Days.in.denver, Colorado Kids Explore, Colorado Kids Are Rad, Colorado Mama Life, Little Rad Adventure, City of Arvada community events — plus Days.in.denver beehiiv.
 2. Add/edit rows in `data/places.json` (keep `source` + `links`).
    - **Toddler hikes:** when a feed posts a toddler-friendly hike, trail, or creek walk (short, easy, stroller or carrier OK), add the `toddler-hike` tag (new pin, or add the tag to an existing pin so it stays in its other filters). Fill `hike` with length/route type, stroller yes/no or carrier, and shade only if the post or an official trail page says so. Put the feed reel first in `links` (only the first 4 links show in the place card). Use the trailhead for the pin and drive time; over 30 min gets `farther_than_30min: true` like other pins.
 3. `python3 scripts/build_map.py` (writes `output/` and syncs `docs/` for Pages).

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated": "2026-11-06",
-    "as_of": "2026-11-06",
+    "updated": "2026-11-09",
+    "as_of": "2026-11-09",
     "timezone": "America/Denver",
     "notes": "Upcoming, dated family events kept separate from map pins. Confirm times, access, and weather with the linked organizer before heading out."
   },
@@ -752,6 +752,85 @@
       "drive_note": "~11 min from the 64th & Ward base",
       "source": "Little Rad Adventure IG Nov 5 (https://www.instagram.com/p/DfXVx5GJB55/); Colorado Railroad Museum",
       "note": "Ticketed evening steam-train + heated pavilion show (hot cocoa, cookies, Silver Bell, Santa). Lap riders under age 2 free; Standard Seating about $80 ages 2–15 / $100 ages 16+ (10% off before Thanksgiving)—sells out yearly. Long multi-part evening for a ~20-month-old; earliest 5pm show is the most realistic if nap timing works. Museum already pinned."
+    },
+    {
+      "id": "cabelas-thornton-santa-2026",
+      "title": "Santa's Wonderland: free Santa photo at Cabela's Thornton",
+      "date": "2026-11-08",
+      "end_date": "2026-12-24",
+      "time": "Visit times vary by date; reserve up to 7 days ahead, walk-ins as space allows",
+      "place": "Cabela's, 14050 Lincoln St, Thornton, CO 80023",
+      "lat": 39.9517233,
+      "lng": -104.985659,
+      "link": "https://www.cabelas.com/santa",
+      "drive_note": "~30 min from the 64th & Ward base",
+      "source": "Colorado Mama Life IG Nov 6 (https://www.instagram.com/p/Dfa9-Pulkhb/); Bass Pro/Cabela's Oct 26 release",
+      "note": "Free 4×6 studio photo plus a shareable video; kids' crafts. Free Christmas Tales story time with Santa Tuesdays 5pm Nov 10–Dec 22 (separate reservation)."
+    },
+    {
+      "id": "orchard-winterfest-2026",
+      "title": "Winterfest + Santa's arrival at Orchard Town Center",
+      "date": "2026-11-14",
+      "time": "3:30–7:30 PM (tree lighting 5:20, free Santa visits from 5:30)",
+      "place": "Orchard Town Center, 14697 Delaware St, Westminster, CO 80023",
+      "lat": 39.9612,
+      "lng": -104.9927,
+      "link": "https://theorchardtowncenter.com/event/winterfest-2026/",
+      "drive_note": "~30 min from the 64th & Ward base",
+      "source": "Colorado Mama Life IG Nov 6 (https://www.instagram.com/p/Dfa9-Pulkhb/); Orchard Town Center",
+      "note": "Free, no RSVP. LED Winter Wonderland in the splash pad area, crafts, performances, artisan market; hot cocoa for purchase."
+    },
+    {
+      "id": "majestic-view-nature-playdate-2026-11-12",
+      "title": "Nature Playdate at Majestic View",
+      "date": "2026-11-12",
+      "time": "10:00–11:00 AM",
+      "place": "Majestic View Nature Center, 7030 Garrison St, Arvada, CO 80004",
+      "lat": 39.824117,
+      "lng": -105.0995581,
+      "link": "https://www.arvadaco.gov/calendar.aspx",
+      "drive_note": "~7 min from the 64th & Ward base",
+      "source": "City of Arvada community calendar (arvadaco.gov), checked 2026-11-09",
+      "note": "Geared toward ages 2–12 and held outdoors; register in advance through CivicRec. Dress warmly."
+    },
+    {
+      "id": "majestic-view-nature-storytime-2026-11-19",
+      "title": "Nature Storytime at Majestic View",
+      "date": "2026-11-19",
+      "time": "10:00–10:30 AM",
+      "place": "Majestic View Nature Center, 7030 Garrison St, Arvada, CO 80004",
+      "lat": 39.824117,
+      "lng": -105.0995581,
+      "link": "https://www.arvadaco.gov/calendar.aspx",
+      "drive_note": "~7 min from the 64th & Ward base",
+      "source": "City of Arvada community calendar (arvadaco.gov), checked 2026-11-09",
+      "note": "All ages; short 30-minute story time."
+    },
+    {
+      "id": "olde-town-arvada-tree-lighting-2026",
+      "title": "Olde Town Arvada Holiday Tree Lighting",
+      "date": "2026-11-28",
+      "time": "5:00–7:00 PM (brass band march 5:00, tree lighting 6:00)",
+      "place": "Olde Town Square, Arvada, CO 80002 (march starts at 7401 Grandview Ave)",
+      "lat": 39.8003,
+      "lng": -105.0811,
+      "link": "https://www.visitarvada.org/articles/olde-town-arvada-2026-tree-lighting",
+      "drive_note": "~8 min from the 64th & Ward base",
+      "source": "Visit Arvada / Olde Town Arvada (oldetownarvada.org/events), found during the City of Arvada events check",
+      "note": "Free. Live music and Skating in the Square afterward (skating has a fee). Free parking, including the Olde Town parking hub at 5575 Vance St; the G Line also stops here."
+    },
+    {
+      "id": "lakewood-lights-2026",
+      "title": "Lakewood Lights",
+      "date": "2026-12-03",
+      "time": "5:00–8:00 PM (tree lighting 5:30 at the Gazebo)",
+      "place": "Heritage Lakewood Belmar Park, 801 S Yarrow St, Lakewood, CO 80226",
+      "lat": 39.7072,
+      "lng": -105.0807,
+      "link": "https://www.lakewoodco.gov/Local-Government/Departments/Community-Resources/Arts-and-Culture/Arts-and-Culture-Events/Lakewood-Lights",
+      "drive_note": "~19 min from the 64th & Ward base",
+      "source": "Colorado Mama Life IG Nov 6 (https://www.instagram.com/p/Dfa9-Pulkhb/); City of Lakewood",
+      "note": "Free: tree lighting, carols, light displays, hot cocoa, cookies, ornament crafts and Santa visits. Close to the Lakewood friend."
     }
   ]
 }

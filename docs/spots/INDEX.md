@@ -1,9 +1,9 @@
 # Denver/Arvada Toddler Outing Spots
 
-Updated: 2026-11-06  
+Updated: 2026-11-09  
 Base: W 64th Ave & Ward Rd, Arvada, CO 80004  
 Audience: Toddler ~20 months; prefer ~30 min drive  
-Places: 106
+Places: 108
 
 Each pin has a why-note from a named social/newsletter source. Drive times are rough estimates.
 
@@ -87,6 +87,19 @@ Each pin has a why-note from a named social/newsletter source. Drive times are r
 - [Wheat Ridge — Open Space & Trails](https://www.rootedinfun.com/249/Open-Space-Trails)
 - [National Recreation Trails — Clear Creek Trail](https://www.nationalrecreationtrails.com/trails/clear-creek-trail)
 - [GoHikeColorado — Prospect Park to West Lake](http://www.gohikecolorado.com/cct---prospect-park-to-west-lake.html)
+
+## Majestic View Nature Center + Park (Arvada) (near)
+
+- **Address:** 7030 Garrison St, Arvada, CO 80004
+- **Drive:** ~7 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~2.3 mi straight-line)
+- **Why:** City of Arvada nature center (found via the arvadaco.gov community calendar, now a tracked source): 3,000 sq ft of hands-on displays, wildlife exhibits, a kids' activity area, an augmented-reality sandbox and a beaver lodge, plus a 25,000 sq ft demonstration garden in Majestic View Park. Free toddler-friendly programs like Nature Playdate (ages 2–12) and Nature Storytime (all ages).
+- **Source:** City of Arvada (arvadaco.gov) Majestic View Nature Center page + community calendar, checked 2026-11-09
+- **Hours:** Winter hours Sep 15–May 15: Thu–Sat 9 AM–1 PM (closed Sun–Wed). Summer: Wed–Fri 9–1, Sat 9–4. Park grounds open daily.
+- **Cost:** Free drop-in; some programs need registration via CivicRec
+- **Toddler tip:** Small indoor stop that fits a morning before the ~2pm nap wake-up window. Winter hours are short (Thu–Sat mornings only), so check before going. Pair with the park outside.
+- [City of Arvada: Majestic View Nature Center](https://www.arvadaco.gov/1215/Majestic-View-Nature-Center)
+- [City of Arvada calendar (Nature Playdate, Storytime)](https://www.arvadaco.gov/calendar.aspx)
+- [Directions and hours](https://www.arvadaco.gov/1255/Directions-and-Hours)
 
 ## Wheat Ridge Recreation Center Pool (near)
 
@@ -878,6 +891,19 @@ Each pin has a why-note from a named social/newsletter source. Drive times are r
 - [CKAR Memory Square Park post (Oct 30)](https://www.instagram.com/p/DfI8recxaJb/)
 - [Louisville: two new playgrounds open](https://www.louisvilleco.gov/news/posts/two-new-playgrounds-are-open-come-celebrate-with-ribbon-cuttings/)
 - [Louisville: Memory Square playground replacement](https://www.louisvilleco.gov/news/posts/memory-square-park-playground-replacement/)
+
+## Rocky Mountain Arsenal National Wildlife Refuge + Pat Schroeder Visitor Center (Commerce City) (near)
+
+- **Address:** 6550 Gateway Rd, Commerce City, CO 80022
+- **Drive:** ~28 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~13.8 mi straight-line)
+- **Why:** Colorado Kids Are Rad Nov 7: a free 3-stop outing. Cruise the Wildlife Drive and look for bison, then explore the visitor center's mini museum, hands-on exhibits, kids' discovery room and outdoor areas.
+- **Source:** Colorado Kids Are Rad (@coloradokidsarerad) Instagram post 2026-11-07; U.S. Fish & Wildlife Service
+- **Hours:** Refuge sunrise–sunset (fall/winter/spring). Visitor Center Wed–Sun 9 AM–4 PM, closed federal holidays. Refuge closed Thanksgiving, Christmas, New Year's Day.
+- **Cost:** Free, including the ~11-mile self-guided Wildlife Drive
+- **Toddler tip:** Great car-seat-friendly outing: the Wildlife Drive is about 45–60 minutes and bison are often visible. Visitor center is closed Mon–Tue. USFWS prescribed burns started Oct 19, 2026 for several weeks (9am–4pm), so smoke or closures are possible. No pets outside vehicles.
+- [CKAR 3 free stops: Arsenal + visitor center (Nov 7)](https://www.instagram.com/p/DfdsIHSxnE_/)
+- [USFWS: Rocky Mountain Arsenal](https://www.fws.gov/refuge/rocky-mountain-arsenal)
+- [USFWS: Visit us (hours, rules)](https://www.fws.gov/refuge/rocky-mountain-arsenal/visit-us)
 
 ## Bates-Logan Park (near)
 
