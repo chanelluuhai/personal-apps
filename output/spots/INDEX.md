@@ -1,9 +1,9 @@
 # Denver/Arvada Toddler Outing Spots
 
-Updated: 2026-11-09  
+Updated: 2026-11-11  
 Base: W 64th Ave & Ward Rd, Arvada, CO 80004  
 Audience: Toddler ~20 months; prefer ~30 min drive  
-Places: 108
+Places: 110
 
 Each pin has a why-note from a named social/newsletter source. Drive times are rough estimates.
 
@@ -93,11 +93,12 @@ Each pin has a why-note from a named social/newsletter source. Drive times are r
 - **Address:** 7030 Garrison St, Arvada, CO 80004
 - **Drive:** ~7 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~2.3 mi straight-line)
 - **Why:** City of Arvada nature center (found via the arvadaco.gov community calendar, now a tracked source): 3,000 sq ft of hands-on displays, wildlife exhibits, a kids' activity area, an augmented-reality sandbox and a beaver lodge, plus a 25,000 sq ft demonstration garden in Majestic View Park. Free toddler-friendly programs like Nature Playdate (ages 2–12) and Nature Storytime (all ages).
-- **Source:** City of Arvada (arvadaco.gov) Majestic View Nature Center page + community calendar, checked 2026-11-09
+- **Source:** City of Arvada (arvadaco.gov) Majestic View Nature Center page + community calendar, checked 2026-11-09; Colorado Kids Are Rad Instagram post 2026-11-10 (crawl-in beaver lodge, trails)
 - **Hours:** Winter hours Sep 15–May 15: Thu–Sat 9 AM–1 PM (closed Sun–Wed). Summer: Wed–Fri 9–1, Sat 9–4. Park grounds open daily.
 - **Cost:** Free drop-in; some programs need registration via CivicRec
 - **Toddler tip:** Small indoor stop that fits a morning before the ~2pm nap wake-up window. Winter hours are short (Thu–Sat mornings only), so check before going. Pair with the park outside.
 - [City of Arvada: Majestic View Nature Center](https://www.arvadaco.gov/1215/Majestic-View-Nature-Center)
+- [CKAR: free nature center (Nov 10)](https://www.instagram.com/p/DflWu_dRs3V/)
 - [City of Arvada calendar (Nature Playdate, Storytime)](https://www.arvadaco.gov/calendar.aspx)
 - [Directions and hours](https://www.arvadaco.gov/1255/Directions-and-Hours)
 
@@ -384,6 +385,19 @@ Each pin has a why-note from a named social/newsletter source. Drive times are r
 - [Days.in.denver spider reel (Oct 7)](https://www.instagram.com/days.in.denver/reel/DeMXxxxhM0G/)
 - [Butterfly Pavilion Crawl-O-Ween](https://butterflies.org/event/crawl-o-ween/)
 - [Instagram @colorado.kids.explore](https://www.instagram.com/colorado.kids.explore/)
+
+## Meadowlark Park (Lakewood) (near)
+
+- **Address:** 8601 W 2nd Ave, Lakewood, CO 80226
+- **Drive:** ~17 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~6.7 mi straight-line)
+- **Why:** Colorado Kids Are Rad Nov 9: brand-new playground with a huge main structure, soft turf, a climbing ramp, a dedicated toddler structure with sensory stations, and swings for all. Covered pavilion and picnic tables (one with a chess board), plus a sidewalk loop around the playground.
+- **Source:** Colorado Kids Are Rad (@coloradokidsarerad) Instagram post 2026-11-09; City of Lakewood
+- **Hours:** City park (daylight hours)
+- **Cost:** Free
+- **Toddler tip:** New in fall 2026. The toddler structure and turf surfacing replace the old pea gravel. The sidewalk loop is good for a push bike or walking. There's also a sledding hill by McIntyre Gulch for snow days. About 10 min from the Lakewood friend.
+- [CKAR: Meadowlark Park playground (Nov 9)](https://www.instagram.com/p/Dfi0_m6x0N3/)
+- [City of Lakewood: Meadowlark Park](https://www.lakewoodco.gov/Local-Government/Departments/Community-Resources/Parks-Forestry-and-Open-Space/A-to-Z-Park-List/Meadowlark-Park)
+- [Lakewood Together: playground project](https://www.lakewoodtogether.org/meadowlark-park)
 
 ## Sloan's Lake Park (near)
 
@@ -1376,6 +1390,18 @@ Each pin has a why-note from a named social/newsletter source. Drive times are r
 - [City of Boulder: Wonderland Lake trailhead](https://bouldercolorado.gov/trailhead/wonderland-lake)
 - [City of Boulder: Wonderland Lake Park](https://bouldercolorado.gov/locations/wonderland-lake-park)
 - [AllTrails: Wonderland Lake Trail](https://www.alltrails.com/trail/us/colorado/wonderland-lake-trail)
+
+## Little Grove (Erie) (FARTHER)
+
+- **Address:** 512 Briggs St, Erie, CO 80516
+- **Drive:** ~39 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~16.9 mi straight-line)
+- **Why:** Colorado Mama Life Nov 9: a new mom-owned indoor and outdoor play space with a coffee bar. Inside are Montessori-inspired play, a light-up peg wall, and a climbing structure with a slide. Outside are a seesaw, a slide, and a play kitchen.
+- **Source:** Colorado Mama Life (@coloradomamalife) Instagram post 2026-11-09; littlegroveerie.com
+- **Hours:** Mon–Fri 8:30 AM–12:30 PM & 3:30–6:30 PM (closed 12:30–3:30 to reset); Sat–Sun 9 AM–5 PM (may close for private events)
+- **Cost:** Paid drop-in, punch passes, or membership, booked through Sawyer. Adults are free (up to 2 per family). Check the site for current prices.
+- **Toddler tip:** Opened Nov 9, 2026. For ages 0–7, with a soft baby nook for 0–24 months, a sensory lab, and an enclosed, shaded 2,000 sq ft yard with sand, a mud kitchen, and a water pump. Socks required inside. Reservations are recommended but not required. Street parking on Briggs and Moffat. The weekday morning slot works before his nap.
+- [CML: Little Grove Erie (Nov 9)](https://www.instagram.com/p/DfiYRTSv3fh/)
+- [Little Grove (hours, booking)](https://littlegroveerie.com/)
 
 ## Coot Lake Trail (Boulder) (FARTHER)
 

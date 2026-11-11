@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated": "2026-11-09",
-    "as_of": "2026-11-09",
+    "updated": "2026-11-11",
+    "as_of": "2026-11-11",
     "timezone": "America/Denver",
     "notes": "Upcoming, dated family events kept separate from map pins. Confirm times, access, and weather with the linked organizer before heading out."
   },
@@ -831,6 +831,59 @@
       "drive_note": "~19 min from the 64th & Ward base",
       "source": "Colorado Mama Life IG Nov 6 (https://www.instagram.com/p/Dfa9-Pulkhb/); City of Lakewood",
       "note": "Free: tree lighting, carols, light displays, hot cocoa, cookies, ornament crafts and Santa visits. Close to the Lakewood friend."
+    },
+    {
+      "id": "dazzle-kids-matinee-2026",
+      "title": "Dazzle Kids' Saturday Matinee",
+      "date": "2026-11-14",
+      "end_date": "2026-12-12",
+      "time": "Saturdays: doors 11:30 AM, show 12:00 PM",
+      "place": "Dazzle @ the Arts Complex, 1080 14th St, Denver, CO 80202",
+      "lat": 39.7457525,
+      "lng": -104.99789,
+      "link": "https://www.dazzledenver.com/kids-saturday-matinee",
+      "drive_note": "~21 min from the 64th & Ward base",
+      "source": "Days.in.denver IG Nov 9 (https://www.instagram.com/p/Dfh7SXYhIOD/); Dazzle / VenuePilot tickets",
+      "note": "An interactive musical story show at a downtown jazz club, with brunch you can order before or during the show. Nov 14: The Man Who Blamed His Farts on the Animals. Nov 21: Jack and the Beanstalk. Nov 28, Dec 5, and Dec 12: A Christmas Carol. Tickets are $7.45 each including fees, and there's a 2-item food or drink minimum per person. The listed program age is 5–13, so it's a long sit for a 20-month-old. Arrive at 11:30 for a good seat."
+    },
+    {
+      "id": "union-station-grand-illumination-2026",
+      "title": "Grand Illumination at Denver Union Station",
+      "date": "2026-11-27",
+      "time": "4:00–8:00 PM (tree lighting 6:10 PM)",
+      "place": "Denver Union Station, 1701 Wynkoop St, Denver, CO 80202",
+      "lat": 39.7532277,
+      "lng": -105.0000944,
+      "link": "https://www.denverunionstation.com/events/grand-illumination-2026/",
+      "drive_note": "~20 min from the 64th & Ward base",
+      "source": "Little Rad Adventure IG Nov 9 tree-lighting list (https://www.instagram.com/p/Dfi2IWZpiM0/); Denver Union Station",
+      "note": "Free. Lighting of the 40-foot tree with 7,000+ lights, the Denver Dolls singing carols, Santa and Mrs. Claus, and live music in the Great Hall. Go early in the 4 PM window for Santa before the crowds."
+    },
+    {
+      "id": "olde-golden-candlelight-walk-2026",
+      "title": "Olde Golden Candlelight Walk",
+      "date": "2026-12-04",
+      "time": "6:00–9:00 PM (walk 6:30 from 15th & Washington; lights on ~7:20)",
+      "place": "Washington Ave to Parfet Park, Golden, CO 80401",
+      "lat": 39.7574887,
+      "lng": -105.22243,
+      "link": "https://www.visitgolden.com/events/holiday-events/olde-golden-holidays/candlelight-walk/",
+      "drive_note": "~13 min from the 64th & Ward base",
+      "source": "Little Rad Adventure IG Nov 9 tree-lighting list (https://www.instagram.com/p/Dfi2IWZpiM0/); Visit Golden",
+      "note": "Free. A caroling candle walk down Washington Ave, then Santa switches on 45,000 lights. Golden History Park adds a luminaria walk, a bonfire, and free cocoa. Use a battery candle with a toddler. A free shuttle runs from the Splash Lot (3151 Illinois St) 5–9 PM."
+    },
+    {
+      "id": "broomfield-tree-lighting-2026",
+      "title": "Broomfield Holiday Tree Lighting Ceremony",
+      "date": "2026-12-04",
+      "time": "5:30–8:00 PM",
+      "place": "George Di Ciero City and County Building, 1 DesCombes Dr, Broomfield, CO 80020",
+      "lat": 39.9201777,
+      "lng": -105.0691598,
+      "link": "https://broomfield.org/2468/Holiday-Tree-Lighting-Ceremony",
+      "drive_note": "~23 min from the 64th & Ward base",
+      "source": "Little Rad Adventure IG Nov 9 tree-lighting list (https://www.instagram.com/p/Dfi2IWZpiM0/); City and County of Broomfield",
+      "note": "Free. School choirs, the mayor lights the tree, Santa, holiday wagon rides, food trucks, and cookies. It's the same night as Golden's Candlelight Walk, so pick one."
     }
   ]
 }

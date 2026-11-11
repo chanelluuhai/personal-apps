@@ -47,8 +47,8 @@
         "note": "Added at Chanel's request 2026-11-06. Check the arvadaco.gov calendar (Community Events + Majestic View Nature Center) and special-events pages for free family events; Olde Town Arvada holiday events are listed on oldetownarvada.org / visitarvada.org."
       }
     ],
-    "updated": "2026-11-09",
-    "scrub_window": "2026-11-09 Mon/Wed/Fri pass: Instagram Nov 6–8 posts via public profile embeds (all five) + first City of Arvada calendar check. New pins: Rocky Mountain Arsenal NWR + Pat Schroeder Visitor Center (CKAR Nov 7), Majestic View Nature Center (City of Arvada). New events: Cabela's Thornton free Santa photos Nov 8–Dec 24, Orchard Winterfest Nov 14, Majestic View Nature Playdate Nov 12 and Storytime Nov 19, Olde Town Arvada Tree Lighting Nov 28, Lakewood Lights Dec 3. Prior scrubs retained.",
+    "updated": "2026-11-11",
+    "scrub_window": "2026-11-11 Mon/Wed/Fri pass: Instagram Nov 9–11 posts via public profile embeds (all five) + City of Arvada calendar. New pins: Meadowlark Park Lakewood (CKAR Nov 9), Little Grove Erie (CML Nov 9). Updated: Majestic View (CKAR Nov 10 link). New events: Dazzle Kids' Saturday Matinee Nov 14–Dec 12 (Days), Union Station Grand Illumination Nov 27, Olde Golden Candlelight Walk Dec 4, Broomfield Tree Lighting Dec 4 (Little Rad list). Prior scrubs retained.",
     "notes": "Why-notes paraphrased/quoted from source captions and newsletters. Drive times are rough estimates from Arvada 80004; verify in Google Maps. Do not invent venues — every pin cites a named source. Seasonal spots kept if still relevant for fall 2026 or evergreen otherwise. Home base updated to W 64th Ave & Ward Rd; drive times refreshed via public OSRM routing on 2026-10-02."
   },
   "places": [
@@ -4485,14 +4485,19 @@
       "lng": -105.0995581,
       "address": "7030 Garrison St, Arvada, CO 80004",
       "why": "City of Arvada nature center (found via the arvadaco.gov community calendar, now a tracked source): 3,000 sq ft of hands-on displays, wildlife exhibits, a kids' activity area, an augmented-reality sandbox and a beaver lodge, plus a 25,000 sq ft demonstration garden in Majestic View Park. Free toddler-friendly programs like Nature Playdate (ages 2–12) and Nature Storytime (all ages).",
-      "source": "City of Arvada (arvadaco.gov) Majestic View Nature Center page + community calendar, checked 2026-11-09",
+      "source": "City of Arvada (arvadaco.gov) Majestic View Nature Center page + community calendar, checked 2026-11-09; Colorado Kids Are Rad Instagram post 2026-11-10 (crawl-in beaver lodge, trails)",
       "source_accounts": [
-        "City of Arvada"
+        "City of Arvada",
+        "@coloradokidsarerad"
       ],
       "links": [
         {
           "label": "City of Arvada: Majestic View Nature Center",
           "url": "https://www.arvadaco.gov/1215/Majestic-View-Nature-Center"
+        },
+        {
+          "label": "CKAR: free nature center (Nov 10)",
+          "url": "https://www.instagram.com/p/DflWu_dRs3V/"
         },
         {
           "label": "City of Arvada calendar (Nature Playdate, Storytime)",
@@ -4559,6 +4564,84 @@
       "farther_than_30min": false,
       "approx_drive_minutes": 28,
       "straight_line_miles": 13.8
+    },
+    {
+      "id": "meadowlark-park-lakewood",
+      "name": "Meadowlark Park (Lakewood)",
+      "lat": 39.721079,
+      "lng": -105.093962,
+      "address": "8601 W 2nd Ave, Lakewood, CO 80226",
+      "why": "Colorado Kids Are Rad Nov 9: brand-new playground with a huge main structure, soft turf, a climbing ramp, a dedicated toddler structure with sensory stations, and swings for all. Covered pavilion and picnic tables (one with a chess board), plus a sidewalk loop around the playground.",
+      "source": "Colorado Kids Are Rad (@coloradokidsarerad) Instagram post 2026-11-09; City of Lakewood",
+      "source_accounts": [
+        "@coloradokidsarerad"
+      ],
+      "links": [
+        {
+          "label": "CKAR: Meadowlark Park playground (Nov 9)",
+          "url": "https://www.instagram.com/p/Dfi0_m6x0N3/"
+        },
+        {
+          "label": "City of Lakewood: Meadowlark Park",
+          "url": "https://www.lakewoodco.gov/Local-Government/Departments/Community-Resources/Parks-Forestry-and-Open-Space/A-to-Z-Park-List/Meadowlark-Park"
+        },
+        {
+          "label": "Lakewood Together: playground project",
+          "url": "https://www.lakewoodtogether.org/meadowlark-park"
+        }
+      ],
+      "hours": "City park (daylight hours)",
+      "cost": "Free",
+      "toddler_notes": "New in fall 2026. The toddler structure and turf surfacing replace the old pea gravel. The sidewalk loop is good for a push bike or walking. There's also a sledding hill by McIntyre Gulch for snow days. About 10 min from the Lakewood friend.",
+      "tags": [
+        "playground",
+        "park",
+        "outdoor",
+        "free",
+        "lakewood",
+        "new"
+      ],
+      "drive_note": "~17 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~6.7 mi straight-line)",
+      "farther_than_30min": false,
+      "approx_drive_minutes": 17,
+      "straight_line_miles": 6.7
+    },
+    {
+      "id": "little-grove-erie",
+      "name": "Little Grove (Erie)",
+      "lat": 40.0492318,
+      "lng": -105.0475293,
+      "address": "512 Briggs St, Erie, CO 80516",
+      "why": "Colorado Mama Life Nov 9: a new mom-owned indoor and outdoor play space with a coffee bar. Inside are Montessori-inspired play, a light-up peg wall, and a climbing structure with a slide. Outside are a seesaw, a slide, and a play kitchen.",
+      "source": "Colorado Mama Life (@coloradomamalife) Instagram post 2026-11-09; littlegroveerie.com",
+      "source_accounts": [
+        "@coloradomamalife"
+      ],
+      "links": [
+        {
+          "label": "CML: Little Grove Erie (Nov 9)",
+          "url": "https://www.instagram.com/p/DfiYRTSv3fh/"
+        },
+        {
+          "label": "Little Grove (hours, booking)",
+          "url": "https://littlegroveerie.com/"
+        }
+      ],
+      "hours": "Mon–Fri 8:30 AM–12:30 PM & 3:30–6:30 PM (closed 12:30–3:30 to reset); Sat–Sun 9 AM–5 PM (may close for private events)",
+      "cost": "Paid drop-in, punch passes, or membership, booked through Sawyer. Adults are free (up to 2 per family). Check the site for current prices.",
+      "toddler_notes": "Opened Nov 9, 2026. For ages 0–7, with a soft baby nook for 0–24 months, a sensory lab, and an enclosed, shaded 2,000 sq ft yard with sand, a mud kitchen, and a water pump. Socks required inside. Reservations are recommended but not required. Street parking on Briggs and Moffat. The weekday morning slot works before his nap.",
+      "tags": [
+        "indoor",
+        "play",
+        "outdoor",
+        "cafe",
+        "toddler",
+        "new"
+      ],
+      "drive_note": "~39 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~16.9 mi straight-line)",
+      "farther_than_30min": true,
+      "approx_drive_minutes": 39,
+      "straight_line_miles": 16.9
     }
   ]
 }

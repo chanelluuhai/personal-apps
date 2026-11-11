@@ -11,6 +11,34 @@
 | Little Rad Adventure | https://www.instagram.com/littleradadventure/ | https://www.facebook.com/LittleRadAdventure | https://littleradadventure.com/ |
 | City of Arvada community events | | | https://www.arvadaco.gov/calendar.aspx (calendar incl. Majestic View Nature Center); example https://www.arvadaco.gov/1589/Food-Trucks-and-Fireworks; Olde Town events via https://www.oldetownarvada.org/events |
 
+## Scrub window (2026-11-11 Mon/Wed/Fri pass)
+
+**Checked**
+- Instagram: public profile embed pages returned recent posts for all five accounts (HTTP 200). Cutoff Nov 9 00:00 America/Denver:
+  - @days.in.denver: Nov 9 Dazzle Kids' Saturday Matinee (new event; schedule and price confirmed on VenuePilot / artscomplex.com).
+  - @colorado.kids.explore: no posts on or after Nov 9.
+  - @coloradokidsarerad: Nov 9 Meadowlark Park, Lakewood (new pin; City of Lakewood says the new playground was installed in 2026). Nov 10 Majestic View Nature Center (already pinned; CKAR link added).
+  - @coloradomamalife: Nov 9 Little Grove, Erie (new pin; opened Nov 9 per littlegroveerie.com; ~39 min, marked farther than 30 min). Nov 9 Edgewater Public Market gluten-free lunch: skipped (food stop, not a toddler venue). Nov 11 Reiki post: skipped.
+  - @littleradadventure: Nov 9 list of 20 holiday tree lightings. Added Union Station Grand Illumination Nov 27, Olde Golden Candlelight Walk Dec 4, and Broomfield Tree Lighting Dec 4. Littleton Candlelight Walk and Mile High drone/tree shows are already on the map. Boulder Nov 22 (~35+ min) and the mountain/NoCo towns were skipped as far. Nov 9 Georgetown Loop holiday train (Nov 6–Dec 24) skipped as farther than 30 min. Nov 10–11 Bronco off-road posts: no toddler venue.
+- City of Arvada calendar: Community Events are leaf drop-offs and meetings. Majestic View's Nov 12 Playdate and Nov 19 Storytime are already on the map. Other Majestic View programs are for ages 6+ or adults, or are evening (Astronomy Night Nov 20, 6–7pm), so they were skipped.
+- Days.in.denver beehiiv: the sitemap still has no issue newer than the October newsletter (November issue scrubbed 2026-11-02).
+- Little Rad Adventure site feed: the newest post is still Pennsylvania Wilds (Nov 5).
+- Facebook: login-walled; not re-tried, and no captions guessed. TikTok: profile meta only.
+- Details confirmed on lakewoodco.gov and lakewoodtogether.org, littlegroveerie.com, tickets.venuepilot.com (Dazzle), denverunionstation.com, visitgolden.com, and broomfield.org (search result; the page timed out on direct fetch). Drive times via public OSRM from the 64th & Ward base.
+
+**New pins (2)**
+- Meadowlark Park, Lakewood: new playground with a toddler structure, sensory stations, turf, swings, and a pavilion (CKAR Nov 9; City of Lakewood) (~17 min)
+- Little Grove, Erie: indoor and outdoor play space with a coffee bar and a 0–24 mo baby nook; opened Nov 9 (CML Nov 9; littlegroveerie.com) (~39 min, farther than 30 min)
+
+**Updated pins (1)**
+- Majestic View Nature Center: added the CKAR Nov 10 post link
+
+**New events (4)**
+- Saturdays Nov 14–Dec 12, noon: Dazzle Kids' Matinee downtown, $7.45 (Days Nov 9) (~21 min)
+- Fri Nov 27, 4–8pm: Grand Illumination at Denver Union Station (Little Rad Nov 9) (~20 min)
+- Fri Dec 4, 6–9pm: Olde Golden Candlelight Walk (Little Rad Nov 9; Visit Golden) (~13 min)
+- Fri Dec 4, 5:30–8pm: Broomfield Holiday Tree Lighting (Little Rad Nov 9; Broomfield) (~23 min)
+
 ## Scrub window (2026-11-09 Mon/Wed/Fri pass)
 
 **Checked**
