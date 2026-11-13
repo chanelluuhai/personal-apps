@@ -47,8 +47,8 @@
         "note": "Added at Chanel's request 2026-11-06. Check the arvadaco.gov calendar (Community Events + Majestic View Nature Center) and special-events pages for free family events; Olde Town Arvada holiday events are listed on oldetownarvada.org / visitarvada.org."
       }
     ],
-    "updated": "2026-11-11",
-    "scrub_window": "2026-11-11 Mon/Wed/Fri pass: Instagram Nov 9–11 posts via public profile embeds (all five) + City of Arvada calendar. New pins: Meadowlark Park Lakewood (CKAR Nov 9), Little Grove Erie (CML Nov 9). Updated: Majestic View (CKAR Nov 10 link). New events: Dazzle Kids' Saturday Matinee Nov 14–Dec 12 (Days), Union Station Grand Illumination Nov 27, Olde Golden Candlelight Walk Dec 4, Broomfield Tree Lighting Dec 4 (Little Rad list). Prior scrubs retained.",
+    "updated": "2026-11-13",
+    "scrub_window": "2026-11-13 Mon/Wed/Fri pass: Instagram Nov 11–13 posts via public profile embeds (all five) + City of Arvada calendar. New pin: Sheridan Green Park Westminster (CKAR Nov 13). New events: Sheridan Green Park Grand Opening Nov 13, Disney On Ice Nov 13–15 (CML), Blossoms of Light Nov 20–Jan 10 (Little Rad). Prior scrubs retained.",
     "notes": "Why-notes paraphrased/quoted from source captions and newsletters. Drive times are rough estimates from Arvada 80004; verify in Google Maps. Do not invent venues — every pin cites a named source. Seasonal spots kept if still relevant for fall 2026 or evergreen otherwise. Home base updated to W 64th Ave & Ward Rd; drive times refreshed via public OSRM routing on 2026-10-02."
   },
   "places": [
@@ -4642,6 +4642,42 @@
       "farther_than_30min": true,
       "approx_drive_minutes": 39,
       "straight_line_miles": 16.9
+    },
+    {
+      "id": "sheridan-green-park-westminster",
+      "name": "Sheridan Green Park (Westminster)",
+      "lat": 39.8959493,
+      "lng": -105.063783,
+      "address": "10951 Harlan St, Westminster, CO 80020",
+      "why": "Colorado Kids Are Rad Nov 13: Westminster's newest playground, swamp-themed, with a friendly gator to climb, climbing cattails, interactive nature activities, swings for all ages, and a mini pump track.",
+      "source": "Colorado Kids Are Rad (@coloradokidsarerad) Instagram post 2026-11-13; City of Westminster (Sheridan Green / former Stratford Park expansion)",
+      "source_accounts": [
+        "@coloradokidsarerad"
+      ],
+      "links": [
+        {
+          "label": "CKAR: Sheridan Green Park (Nov 13)",
+          "url": "https://www.instagram.com/p/Dfr3-2qxyue/"
+        },
+        {
+          "label": "City of Westminster: Sheridan Green Park project",
+          "url": "https://www.westminsterco.gov/sheridangreen"
+        }
+      ],
+      "hours": "City park, open daily (dawn to dusk typical; check City of Westminster)",
+      "cost": "Free",
+      "toddler_notes": "Newly renovated (formerly Stratford Park); grand opening Fri Nov 13, 2026, 3–5 PM with free gumbo and beignets while supplies last. Swings for all ages and climbable gator/cattails suit a ~20-month-old; the pump track is for bigger kids on bikes.",
+      "tags": [
+        "playground",
+        "outdoor",
+        "free",
+        "toddler",
+        "new"
+      ],
+      "drive_note": "~21 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~7.0 mi straight-line)",
+      "farther_than_30min": false,
+      "approx_drive_minutes": 21,
+      "straight_line_miles": 7.0
     }
   ]
 }

@@ -11,6 +11,29 @@
 | Little Rad Adventure | https://www.instagram.com/littleradadventure/ | https://www.facebook.com/LittleRadAdventure | https://littleradadventure.com/ |
 | City of Arvada community events | | | https://www.arvadaco.gov/calendar.aspx (calendar incl. Majestic View Nature Center); example https://www.arvadaco.gov/1589/Food-Trucks-and-Fireworks; Olde Town events via https://www.oldetownarvada.org/events |
 
+## Scrub window (2026-11-13 Mon/Wed/Fri pass)
+
+**Checked**
+- Instagram: public profile embed pages returned recent posts for all five accounts (HTTP 200). Cutoff Nov 11 00:00 America/Denver:
+  - @days.in.denver: Nov 11 Fika Coffeehouse with a trail and lookout tower, Parker (skipped; well past 30 min). Nov 13 "ready to get out of the house" reel (no caption details, no venue).
+  - @colorado.kids.explore: no posts on or after Nov 11 (newest is still Nov 8).
+  - @coloradokidsarerad: Nov 13 Sheridan Green Park, Westminster (new pin, plus a grand-opening event today 3–5pm; confirmed on westminsterco.gov). Nov 11 Terry Bison Ranch, Cheyenne #ad (skipped as far). Nov 12 child-safety PSA #ad (no venue).
+  - @coloradomamalife: Nov 12 weekend list for Nov 13–15. Orchard Winterfest and the Dinosaur Ridge free day are already on the map. Added Disney On Ice at Ball Arena (Nov 13–15; showtimes confirmed on ballarena.com). Castle Rock, Boulder, Fort Collins, Springs, Pueblo, and mountain or plains items were skipped as far.
+  - @littleradadventure: Nov 11 Blossoms of Light at Denver Botanic Gardens (new event; dates and prices confirmed on botanicgardens.org). Nov 11 Bill Moore Lake Bronco 4x4 #ad and Nov 11 untitled reel: no toddler venue.
+- City of Arvada calendar: Community Events are leaf drop-offs only. Majestic View Nature Storytime Nov 19 is already on the map. Winter Adaptations Nov 14 is cancelled (ages 6+ anyway). Other programs are for adults or ages 6+, or are evening (Astronomy Night Nov 20, 6–7pm), so they were skipped.
+- Days.in.denver beehiiv: the newest issue is still the November newsletter (scrubbed 2026-11-02). The "Steal This Weekend Idea" subscriber freebie is dated Apr 1, 2026, and its spots are already covered.
+- Little Rad Adventure site feed: the newest post is still Pennsylvania Wilds.
+- Facebook: login-walled; not re-tried, and no captions guessed. TikTok: profile meta only.
+- Drive times via public OSRM from the 64th & Ward base. Sheridan Green is geocoded at its 10951 Harlan St address (Nominatim).
+
+**New pins (1)**
+- Sheridan Green Park, Westminster: new swamp-themed playground with a climbable gator, cattails, nature activities, swings, and a mini pump track (CKAR Nov 13; City of Westminster) (~21 min)
+
+**New events (3)**
+- Fri Nov 13, 3–5pm: Sheridan Green Park Grand Opening, free gumbo and beignets (CKAR Nov 13) (~21 min)
+- Fri–Sun Nov 13–15: Disney On Ice: Find Your Hero at Ball Arena, ticketed (CML Nov 12) (~20 min)
+- Nov 20–Jan 10 nightly: Blossoms of Light at Denver Botanic Gardens, timed tickets $19–$45, kids 2 and under free (Little Rad Nov 11) (~26 min)
+
 ## Scrub window (2026-11-11 Mon/Wed/Fri pass)
 
 **Checked**

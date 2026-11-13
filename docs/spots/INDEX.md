@@ -1,9 +1,9 @@
 # Denver/Arvada Toddler Outing Spots
 
-Updated: 2026-11-11  
+Updated: 2026-11-13  
 Base: W 64th Ave & Ward Rd, Arvada, CO 80004  
 Audience: Toddler ~20 months; prefer ~30 min drive  
-Places: 110
+Places: 111
 
 Each pin has a why-note from a named social/newsletter source. Drive times are rough estimates.
 
@@ -538,6 +538,18 @@ Each pin has a why-note from a named social/newsletter source. Drive times are r
 - **Cost:** Free
 - **Toddler tip:** Park is HUGE — stay in toddler-friendly zones; bring a second adult if possible.
 - [Instagram @coloradokidsarerad](https://www.instagram.com/coloradokidsarerad/)
+
+## Sheridan Green Park (Westminster) (near)
+
+- **Address:** 10951 Harlan St, Westminster, CO 80020
+- **Drive:** ~21 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~7.0 mi straight-line)
+- **Why:** Colorado Kids Are Rad Nov 13: Westminster's newest playground, swamp-themed, with a friendly gator to climb, climbing cattails, interactive nature activities, swings for all ages, and a mini pump track.
+- **Source:** Colorado Kids Are Rad (@coloradokidsarerad) Instagram post 2026-11-13; City of Westminster (Sheridan Green / former Stratford Park expansion)
+- **Hours:** City park, open daily (dawn to dusk typical; check City of Westminster)
+- **Cost:** Free
+- **Toddler tip:** Newly renovated (formerly Stratford Park); grand opening Fri Nov 13, 2026, 3–5 PM with free gumbo and beignets while supplies last. Swings for all ages and climbable gator/cattails suit a ~20-month-old; the pump track is for bigger kids on bikes.
+- [CKAR: Sheridan Green Park (Nov 13)](https://www.instagram.com/p/Dfr3-2qxyue/)
+- [City of Westminster: Sheridan Green Park project](https://www.westminsterco.gov/sheridangreen)
 
 ## Denver Central Library (near)
 

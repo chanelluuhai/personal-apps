@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated": "2026-11-11",
-    "as_of": "2026-11-11",
+    "updated": "2026-11-13",
+    "as_of": "2026-11-13",
     "timezone": "America/Denver",
     "notes": "Upcoming, dated family events kept separate from map pins. Confirm times, access, and weather with the linked organizer before heading out."
   },
@@ -884,6 +884,48 @@
       "drive_note": "~23 min from the 64th & Ward base",
       "source": "Little Rad Adventure IG Nov 9 tree-lighting list (https://www.instagram.com/p/Dfi2IWZpiM0/); City and County of Broomfield",
       "note": "Free. School choirs, the mayor lights the tree, Santa, holiday wagon rides, food trucks, and cookies. It's the same night as Golden's Candlelight Walk, so pick one."
+    },
+    {
+      "id": "sheridan-green-park-grand-opening-2026-11-13",
+      "title": "Sheridan Green Park Grand Opening",
+      "date": "2026-11-13",
+      "end_date": "2026-11-13",
+      "time": "3:00–5:00 PM",
+      "place": "Sheridan Green Park, 10951 Harlan St, Westminster, CO 80020",
+      "lat": 39.8959493,
+      "lng": -105.063783,
+      "link": "https://www.westminsterco.gov/sheridangreen",
+      "drive_note": "~21 min from the 64th & Ward base",
+      "source": "Colorado Kids Are Rad IG Nov 13 (https://www.instagram.com/p/Dfr3-2qxyue/); City of Westminster events page",
+      "note": "Free. First look at the new swamp-themed playground (gator, climbing cattails, swings), with free gumbo and beignets while supplies last. Starts after his ~2pm nap wake-up."
+    },
+    {
+      "id": "blossoms-of-light-2026",
+      "title": "Blossoms of Light at Denver Botanic Gardens",
+      "date": "2026-11-20",
+      "end_date": "2027-01-10",
+      "time": "Nightly 4:30–9:00 PM (closed Nov 26 & Dec 25)",
+      "place": "Denver Botanic Gardens, 1007 York St, Denver, CO 80206",
+      "lat": 39.7319,
+      "lng": -104.9612,
+      "link": "https://www.botanicgardens.org/events/public-events/blossoms-light",
+      "drive_note": "~26 min from the 64th & Ward base",
+      "source": "Little Rad Adventure IG Nov 11 (https://www.instagram.com/p/DfoIHL9u86L/); botanicgardens.org",
+      "note": "Timed tickets bought ahead on the Gardens' site only, $19–$45 by date (cheapest on late-Nov/early-Jan weeknights); kids 2 and under free. Sensory-Friendly Night Tue Dec 1, 5–8 PM. Mordecai Children's Garden is closed during the event. Dress warm; plan ~60–75 min loop."
+    },
+    {
+      "id": "disney-on-ice-find-your-hero-2026",
+      "title": "Disney On Ice: Find Your Hero",
+      "date": "2026-11-13",
+      "end_date": "2026-11-15",
+      "time": "Fri 7 PM; Sat 11 AM, 3 PM, 7 PM; Sun 10:30 AM, 2:30 PM",
+      "place": "Ball Arena, 1000 Chopper Circle, Denver, CO 80204",
+      "lat": 39.7487,
+      "lng": -105.0074,
+      "link": "https://www.ballarena.com/event-pages/disney-on-ice-presents-find-your-hero/",
+      "drive_note": "~20 min from the 64th & Ward base",
+      "source": "Colorado Mama Life IG Nov 12 weekend list (https://www.instagram.com/p/Dfp25Q5T4wP/); Ball Arena; disneyonice.com",
+      "note": "Ticketed via Ticketmaster. Ages 2 and up need a ticket. The Sun 10:30 AM show fits before nap; a long arena show for a 20-month-old, so aisle seats help."
     }
   ]
 }
