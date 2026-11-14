@@ -1112,6 +1112,112 @@
 },
 "yield": "24"
 },
+"bf-chunky-summer-veggie-pasta": {
+"account": "",
+"account_name": "Baby Foode",
+"account_url": "https://babyfoode.com/",
+"category": "pasta",
+"color": "#d6ceb0",
+"creator": null,
+"date": "2015-06-20",
+"extraction": "recipe-page",
+"fetched_at": "2026-11-14T15:48:47+00:00",
+"id": "bf-chunky-summer-veggie-pasta",
+"ingredients": [
+"1/2 small zucchini",
+"6 asparagus spears",
+"1 leek (white and light green parts only)",
+"8-10 basil leaves",
+"1/2 lemon, (juiced)",
+"1/3 cup small shaped pasta",
+"2/3 cup water",
+"sprinkle of parmesan, (optional)"
+],
+"kind": "site",
+"mealPrep": false,
+"mealPrep_basis": [],
+"minutes": 20,
+"notes": [],
+"platform": "web",
+"recipePage": "r/bf-chunky-summer-veggie-pasta.html",
+"recipeSourceUrl": "https://babyfoode.com/blog/chunky-summer-veggie-pasta/",
+"recipe_from": "recipe page",
+"site": "Baby Foode",
+"site_url": "https://babyfoode.com/",
+"status": "ok",
+"steps": [
+"Chop the zucchini, asparagus and leek into 1\" pieces. Roughly chop the basil.",
+"Fill one basket with the zucchini, asparagus and leek. Using the measuring bowl, fill the correlating heating tank to a level 3 with water.",
+"Fill the grain insert with the pasta and water. Using the measuring bowl, fill the correlating heating tank to a level 3 with water.",
+"Lock both bowls in place and turn babycook on.",
+"Run steam cycle for both baskets.",
+"Discard cooking juices and transfer the contents of the zucchini basket along with the basil and lemon juice into the blender and pulse in 3 second bursts until you reach your desired consistency.",
+"Mix 1/2 of the vegetable puree with the cooked pasta and store the remaining puree for future use.",
+"Sprinkle with parmesan and serve.",
+"Chop the zucchini, asparagus, and leek into 1\" pieces. Roughly chop the basil.",
+"In a medium saucepan, bring 2\" of water to a boil over medium heat. Place the zucchini, asparagus, and leek in a steamer basket over the boiling water, cover, and cook for 15 minutes.",
+"Meanwhile, cook pasta according to package directions.",
+"Transfer the zucchini, asparagus, and leek to a blender or food processor, add basil and lemon juice. Puree in short bursts until you reach your desired consistency.",
+"Mix 1/2 of the vegetable puree with the cooked pasta and store the remaining puree for future use.",
+"Sprinkle with parmesan and serve."
+],
+"summary": "My chunky green veggie pasta sauce for baby and toddler combines all the flavors of summer into one bite-sized dish! Made with zucchini, asparagus, leek and basil, this pasta sauce is packed with tast…",
+"tags": [
+"finger food",
+"pasta & noodles",
+"veggies"
+],
+"thumb": "thumbs/bf-chunky-summer-veggie-pasta.webp",
+"thumb_h": 400,
+"thumb_w": 400,
+"time": "quick",
+"time_basis": "recipe says 20 min total",
+"title": "Green Veggie Pasta Sauce for Baby",
+"url": "https://babyfoode.com/blog/chunky-summer-veggie-pasta/",
+"web": {
+"author": null,
+"cuisine": [
+"Baby Food"
+],
+"date": "2015-06-20",
+"description": "My chunky green veggie pasta sauce for baby and toddler combines all the flavors of summer into one bite-sized dish! Made with zucchini, asparagus, leek and basil, this pasta sauce is packed with tasty veggies. I used small whole-grain pasta, but you can use your favorite baby-friendly pasta. Great for a Stage 3 Baby Food Puree, Finger Food or Baby-Led Weaning.",
+"image": "https://babyfoode.com/wp-content/uploads/2015/06/chunky_pasta_baby_toddler-S.jpg",
+"ingredients": [
+"1/2 small zucchini",
+"6 asparagus spears",
+"1 leek (white and light green parts only)",
+"8-10 basil leaves",
+"1/2 lemon, (juiced)",
+"1/3 cup small shaped pasta",
+"2/3 cup water",
+"sprinkle of parmesan, (optional)"
+],
+"keywords": [],
+"minutes": 20,
+"name": "Green Veggie Pasta Sauce for Baby",
+"recipeCategory": [
+"Main Course"
+],
+"steps": [
+"Chop the zucchini, asparagus and leek into 1\" pieces. Roughly chop the basil.",
+"Fill one basket with the zucchini, asparagus and leek. Using the measuring bowl, fill the correlating heating tank to a level 3 with water.",
+"Fill the grain insert with the pasta and water. Using the measuring bowl, fill the correlating heating tank to a level 3 with water.",
+"Lock both bowls in place and turn babycook on.",
+"Run steam cycle for both baskets.",
+"Discard cooking juices and transfer the contents of the zucchini basket along with the basil and lemon juice into the blender and pulse in 3 second bursts until you reach your desired consistency.",
+"Mix 1/2 of the vegetable puree with the cooked pasta and store the remaining puree for future use.",
+"Sprinkle with parmesan and serve.",
+"Chop the zucchini, asparagus, and leek into 1\" pieces. Roughly chop the basil.",
+"In a medium saucepan, bring 2\" of water to a boil over medium heat. Place the zucchini, asparagus, and leek in a steamer basket over the boiling water, cover, and cook for 15 minutes.",
+"Meanwhile, cook pasta according to package directions.",
+"Transfer the zucchini, asparagus, and leek to a blender or food processor, add basil and lemon juice. Puree in short bursts until you reach your desired consistency.",
+"Mix 1/2 of the vegetable puree with the cooked pasta and store the remaining puree for future use.",
+"Sprinkle with parmesan and serve."
+],
+"yield": "12"
+},
+"yield": "12"
+},
 "bf-diy-bagel-bites": {
 "account": "",
 "account_name": "Baby Foode",
@@ -4408,6 +4514,101 @@
 "yield": "9"
 },
 "yield": "9"
+},
+"mj-baked-chicken-and-sweet-potatoes": {
+"account": "kidfriendly.meals",
+"account_name": "Min Kwon · Kidfriendly Meals",
+"account_url": "https://www.mjandhungryman.com/",
+"category": "sweet",
+"color": "#906e4e",
+"creator": "kidfriendly.meals",
+"date": "2026-11-09",
+"extraction": "recipe-page",
+"fetched_at": "2026-11-14T15:48:34+00:00",
+"id": "mj-baked-chicken-and-sweet-potatoes",
+"ingredients": [
+"1 pound chicken breast or thighs, cut into bite-sized pieces",
+"1 medium head of broccoli, cut into florets",
+"1 medium sweet potato, cut into ½-inch pieces",
+"1 small red onion, cut into 1-inch chunks",
+"2 tablespoons avocado or olive oil",
+"1 tablespoon honey or maple syrup",
+"2 teaspoons dried oregano",
+"1 teaspoon garlic powder",
+"1 teaspoon cumin",
+"1 teaspoon smoked paprika",
+"1/2 teaspoon salt"
+],
+"kind": "creator",
+"mealPrep": false,
+"mealPrep_basis": [],
+"minutes": 35,
+"notes": [],
+"platform": "web",
+"recipePage": "r/mj-baked-chicken-and-sweet-potatoes.html",
+"recipeSourceUrl": "https://www.mjandhungryman.com/baked-chicken-and-sweet-potatoes/",
+"recipe_from": "recipe page",
+"site": "MJ and Hungryman",
+"site_url": "https://www.mjandhungryman.com/",
+"status": "ok",
+"steps": [
+"Preheat the oven to 400°F (200°C). Lightly grease or line a large baking dish.",
+"Add the chicken, broccoli, sweet potato, and onion.",
+"In a small bowl, whisk together the oil, honey (or maple syrup), oregano, garlic powder, cumin, salt, and smoked paprika. Pour the sauce over the chicken and vegetables, then toss well to coat evenly.",
+"Cover and bake for 10 minutes. Uncover and bake for another 10–15 minutes, or until the chicken is cooked through and the vegetables are tender."
+],
+"summary": "This baked chicken and sweet potato dish makes weeknight dinners feel effortless! Juicy chicken, sweet caramelized potatoes, and perfectly roasted broccoli come together in one pan, coated in a simple…",
+"tags": [
+"dinner",
+"sweet",
+"veggies"
+],
+"thumb": "thumbs/mj-baked-chicken-and-sweet-potatoes.webp",
+"thumb_h": 400,
+"thumb_w": 400,
+"time": "long",
+"time_basis": "recipe says 35 min total",
+"title": "Baked Chicken and Sweet Potatoes",
+"url": "https://www.mjandhungryman.com/baked-chicken-and-sweet-potatoes/",
+"web": {
+"author": null,
+"cuisine": [
+"American"
+],
+"date": "2026-11-09",
+"description": "This baked chicken and sweet potato dish makes weeknight dinners feel effortless! Juicy chicken, sweet caramelized potatoes, and perfectly roasted broccoli come together in one pan, coated in a simple, flavorful sauce.",
+"image": "https://www.mjandhungryman.com/wp-content/uploads/2025/10/Baked-chicken-and-sweet-potatoes-recipe.jpg",
+"ingredients": [
+"1 pound chicken breast or thighs, cut into bite-sized pieces",
+"1 medium head of broccoli, cut into florets",
+"1 medium sweet potato, cut into ½-inch pieces",
+"1 small red onion, cut into 1-inch chunks",
+"2 tablespoons avocado or olive oil",
+"1 tablespoon honey or maple syrup",
+"2 teaspoons dried oregano",
+"1 teaspoon garlic powder",
+"1 teaspoon cumin",
+"1 teaspoon smoked paprika",
+"1/2 teaspoon salt"
+],
+"keywords": [
+"baked chicken and sweet potatoes",
+"sweet potato chicken bake"
+],
+"minutes": 35,
+"name": "Baked Chicken and Sweet Potatoes",
+"recipeCategory": [
+"Dinner"
+],
+"steps": [
+"Preheat the oven to 400°F (200°C). Lightly grease or line a large baking dish.",
+"Add the chicken, broccoli, sweet potato, and onion.",
+"In a small bowl, whisk together the oil, honey (or maple syrup), oregano, garlic powder, cumin, salt, and smoked paprika. Pour the sauce over the chicken and vegetables, then toss well to coat evenly.",
+"Cover and bake for 10 minutes. Uncover and bake for another 10–15 minutes, or until the chicken is cooked through and the vegetables are tender."
+],
+"yield": "4"
+},
+"yield": "4"
 },
 "mj-baked-hummus-chicken": {
 "account": "kidfriendly.meals",
@@ -26087,6 +26288,107 @@
 },
 "yield": "9"
 },
+"pe-vegan-apple-cake": {
+"account": "thepickyeater",
+"account_name": "Anjali Shah · The Picky Eater",
+"account_url": "https://pickyeaterblog.com/",
+"category": "sweet",
+"color": "#a88773",
+"creator": "thepickyeater",
+"date": "2026-11-11",
+"extraction": "recipe-page",
+"fetched_at": "2026-11-14T15:48:41+00:00",
+"id": "pe-vegan-apple-cake",
+"ingredients": [
+"1 1/2 cups all purpose flour",
+"1 tbsp baking powder",
+"1/2 tsp salt",
+"1/2 cup coconut oil (in its solid form)",
+"1/2 cup raw sugar",
+"1 tsp vanilla extract",
+"1 ripe banana",
+"3/4 cup soy milk",
+"2 medium apples (sliced into 8 pieces each)",
+"1/4 cup raw sugar",
+"1 tbsp cinnamon"
+],
+"kind": "creator",
+"mealPrep": false,
+"mealPrep_basis": [],
+"minutes": 70,
+"notes": [],
+"platform": "web",
+"recipePage": "r/pe-vegan-apple-cake.html",
+"recipeSourceUrl": "https://pickyeaterblog.com/vegan-apple-cake/",
+"recipe_from": "recipe page",
+"site": "The Picky Eater",
+"site_url": "https://pickyeaterblog.com/",
+"status": "ok",
+"steps": [
+"Preheat oven to 350 degrees F. Line a 9 inch baking pan with parchment paper, and grease the sides of the pan with coconut oil.",
+"In a medium bowl, sift together the flour, baking powder, and salt. Set aside.",
+"In a large mixing bowl cream together coconut oil, sugar, and vanilla using a hand or stand mixer.",
+"Add one banana cut into slices. Cream together until combined and light and fluffy. Add the flour to the wet ingredients a little at a time, alternating with soy milk.",
+"Add batter to the prepared cake pan and spread evenly across the top.",
+"Slice and core apples into 8 pieces each or 16 pieces all together using an apple corer. Place apples in a circular pattern on top of the batter, lightly pressing the edges into the batter.",
+"Combine cinnamon and 1/4 cup of raw sugar in a small bowl. Sprinkle on top of the apples.",
+"Allow the cake to cool in the pan on a wire rack for about 10-15 minutes. Run a thin, sharp knife or an offset spatula around the edges of the cake. Place a serving plate on top of the cake and flip it so that it releases from the pan. The will be upside down. Take another plate and flip it again; it will be right side up. Allow the cake to cool completely before slicing and serving."
+],
+"summary": "When it is apple season, my baking knows no bounds, and this vegan apple cake with cinnamon sugar glaze turns fresh apples into a gorgeous dessert with minimal effort. A light vanilla cake is topped w…",
+"tags": [
+"snack",
+"sweet"
+],
+"thumb": "thumbs/pe-vegan-apple-cake.webp",
+"thumb_h": 400,
+"thumb_w": 400,
+"time": "long",
+"time_basis": "recipe says 70 min total",
+"title": "Vegan Apple Cake",
+"url": "https://pickyeaterblog.com/vegan-apple-cake/",
+"web": {
+"author": null,
+"cuisine": [
+"American"
+],
+"date": "2026-11-11",
+"description": "When it is apple season, my baking knows no bounds, and this vegan apple cake with cinnamon sugar glaze turns fresh apples into a gorgeous dessert with minimal effort. A light vanilla cake is topped with sliced apples and cinnamon sugar that turns into a sweet, caramelized topping as it bakes.",
+"image": "https://pickyeaterblog.com/wp-content/uploads/2020/09/vegan-apple-cake-20.jpg",
+"ingredients": [
+"1 1/2 cups all purpose flour",
+"1 tbsp baking powder",
+"1/2 tsp salt",
+"1/2 cup coconut oil (in its solid form)",
+"1/2 cup raw sugar",
+"1 tsp vanilla extract",
+"1 ripe banana",
+"3/4 cup soy milk",
+"2 medium apples (sliced into 8 pieces each)",
+"1/4 cup raw sugar",
+"1 tbsp cinnamon"
+],
+"keywords": [
+"vegan apple cake"
+],
+"minutes": 70,
+"name": "Vegan Apple Cake",
+"recipeCategory": [
+"Dessert"
+],
+"steps": [
+"Preheat oven to 350 degrees F. Line a 9 inch baking pan with parchment paper, and grease the sides of the pan with coconut oil.",
+"In a medium bowl, sift together the flour, baking powder, and salt. Set aside.",
+"In a large mixing bowl cream together coconut oil, sugar, and vanilla using a hand or stand mixer.",
+"Add one banana cut into slices. Cream together until combined and light and fluffy. Add the flour to the wet ingredients a little at a time, alternating with soy milk.",
+"Add batter to the prepared cake pan and spread evenly across the top.",
+"Slice and core apples into 8 pieces each or 16 pieces all together using an apple corer. Place apples in a circular pattern on top of the batter, lightly pressing the edges into the batter.",
+"Combine cinnamon and 1/4 cup of raw sugar in a small bowl. Sprinkle on top of the apples.",
+"Allow the cake to cool in the pan on a wire rack for about 10-15 minutes. Run a thin, sharp knife or an offset spatula around the edges of the cake. Place a serving plate on top of the cake and flip it so that it releases from the pan. The will be upside down. Take another plate and flip it again; it will be right side up. Allow the cake to cool completely before slicing and serving."
+],
+"yield": "8"
+},
+"yield": "8"
+},
 "pe-vegan-baked-potato-soup": {
 "account": "thepickyeater",
 "account_name": "Anjali Shah · The Picky Eater",
@@ -27253,6 +27555,97 @@
 "yield": "12"
 },
 "yield": "12"
+},
+"pe-vegan-cornbread-dressing": {
+"account": "thepickyeater",
+"account_name": "Anjali Shah · The Picky Eater",
+"account_url": "https://pickyeaterblog.com/",
+"category": "meal",
+"color": "#aca272",
+"creator": "thepickyeater",
+"date": "2026-11-11",
+"extraction": "recipe-page",
+"fetched_at": "2026-11-14T15:48:41+00:00",
+"id": "pe-vegan-cornbread-dressing",
+"ingredients": [
+"1 8x8 pan vegan cornbread (dried and cut into cubes (about 8 cups)",
+"1 medium onion (diced)",
+"4 ribs celery (finely chopped)",
+"2 1/4 cups vegetable stock (divided)",
+"1/2 tsp dried basil",
+"1/2 tsp dried thyme",
+"1/2 tsp dried rosemary",
+"1/2 cup fresh parsley (chopped)",
+"salt and pepper (to taste)"
+],
+"kind": "creator",
+"mealPrep": false,
+"mealPrep_basis": [],
+"minutes": 45,
+"notes": [],
+"platform": "web",
+"recipePage": "r/pe-vegan-cornbread-dressing.html",
+"recipeSourceUrl": "https://pickyeaterblog.com/vegan-cornbread-dressing/",
+"recipe_from": "recipe page",
+"site": "The Picky Eater",
+"site_url": "https://pickyeaterblog.com/",
+"status": "ok",
+"steps": [
+"Dry out your cornbread. You can do this by allowing it to sit out and become stale for 1-2 days. If you don't have that time, chop the cornbread into cubes, and place in the oven set to 250 degrees F, and bake for 30-40 minutes.",
+"Preheat your oven to 350 degrees F. Add 1/4 cup of vegetable stock to your large sauté pan at medium-high heat. Add onions and celery. Sauté until soft, about 3-5 minutes.",
+"Add basil, thyme, and rosemary. Stir to coat the onions and celery. Cook for an additional minute. Add the rest of the vegetable stock and fresh parsley. Bring to a boil.",
+"Add dried and cubed cornbread to a large bowl. Slowly ladle broth over the breadcrumbs. Gradually stirring to combine. You don't want to add too much broth, but you also don't want to add too little. Too much broth will make your cornbread break apart and become mushy. Too little broth will make your stuffing turn out dry. Ladle enough broth that the breadcrumbs are coated but still retain their shape. You may not use all of the broth.",
+"Transfer cornbread to an 8x8 inch baking dish or similar. Bake for 25-30 minutes uncovered at 350 F until top browns."
+],
+"summary": "Unlike most people, I get very excited by stale cornbread, and this vegan cornbread dressing is the reason why. The dried cornbread soaks up seasoned vegetable broth with onion, celery, basil, thyme, …",
+"tags": [
+"veggies"
+],
+"thumb": "thumbs/pe-vegan-cornbread-dressing.webp",
+"thumb_h": 556,
+"thumb_w": 400,
+"time": "long",
+"time_basis": "recipe says 45 min total",
+"title": "Vegan Cornbread Dressing",
+"url": "https://pickyeaterblog.com/vegan-cornbread-dressing/",
+"web": {
+"author": null,
+"cuisine": [
+"American"
+],
+"date": "2026-11-11",
+"description": "Unlike most people, I get very excited by stale cornbread, and this vegan cornbread dressing is the reason why. The dried cornbread soaks up seasoned vegetable broth with onion, celery, basil, thyme, and rosemary before baking into a moist and fluffy dressing with golden edges. It takes just 45 minutes from start to finish and has all the savory Thanksgiving flavors I want in a plant-based side.",
+"image": "https://pickyeaterblog.com/wp-content/uploads/2020/09/vegan-cornbread-dressing-11.jpg",
+"ingredients": [
+"1 8x8 pan vegan cornbread (dried and cut into cubes (about 8 cups)",
+"1 medium onion (diced)",
+"4 ribs celery (finely chopped)",
+"2 1/4 cups vegetable stock (divided)",
+"1/2 tsp dried basil",
+"1/2 tsp dried thyme",
+"1/2 tsp dried rosemary",
+"1/2 cup fresh parsley (chopped)",
+"salt and pepper (to taste)"
+],
+"keywords": [
+"vegan cornbread dressing",
+"vegan cornbread stuffing"
+],
+"minutes": 45,
+"name": "Vegan Cornbread Dressing",
+"recipeCategory": [
+"Side Dish"
+],
+"steps": [
+"Dry out your cornbread. You can do this by allowing it to sit out and become stale for 1-2 days. If you don't have that time, chop the cornbread into cubes, and place in the oven set to 250 degrees F, and bake for 30-40 minutes.",
+"Preheat your oven to 350 degrees F. Add 1/4 cup of vegetable stock to your large sauté pan at medium-high heat. Add onions and celery. Sauté until soft, about 3-5 minutes.",
+"Add basil, thyme, and rosemary. Stir to coat the onions and celery. Cook for an additional minute. Add the rest of the vegetable stock and fresh parsley. Bring to a boil.",
+"Add dried and cubed cornbread to a large bowl. Slowly ladle broth over the breadcrumbs. Gradually stirring to combine. You don't want to add too much broth, but you also don't want to add too little. Too much broth will make your cornbread break apart and become mushy. Too little broth will make your stuffing turn out dry. Ladle enough broth that the breadcrumbs are coated but still retain their shape. You may not use all of the broth.",
+"Transfer cornbread to an 8x8 inch baking dish or similar. Bake for 25-30 minutes uncovered at 350 F until top browns."
+],
+"yield": "10"
+},
+"yield": "10"
 },
 "pe-vegan-cottage-pie": {
 "account": "thepickyeater",
@@ -29295,6 +29688,102 @@
 },
 "yield": "9"
 },
+"pe-vegan-pumpkin-chocolate-chip-cookies-recipe": {
+"account": "thepickyeater",
+"account_name": "Anjali Shah · The Picky Eater",
+"account_url": "https://pickyeaterblog.com/",
+"category": "meal",
+"color": "#d4a65a",
+"creator": "thepickyeater",
+"date": "2026-11-13",
+"extraction": "recipe-page",
+"fetched_at": "2026-11-14T15:48:38+00:00",
+"id": "pe-vegan-pumpkin-chocolate-chip-cookies-recipe",
+"ingredients": [
+"1/2 cup vegan butter (softened)",
+"1/2 cup dark brown sugar (packed)",
+"1/2 cup cane sugar",
+"2 tsp vanilla extract",
+"1/3 cup pumpkin puree",
+"2 cups all-purpose flour",
+"1/2 tsp salt",
+"1 tsp baking soda",
+"2 tsp pumpkin pie spice",
+"2 tbsp corn starch",
+"1 cup dark chocolate chips (dairy-free or vegan)"
+],
+"kind": "creator",
+"mealPrep": false,
+"mealPrep_basis": [],
+"minutes": 32,
+"notes": [],
+"platform": "web",
+"recipePage": "r/pe-vegan-pumpkin-chocolate-chip-cookies-recipe.html",
+"recipeSourceUrl": "https://pickyeaterblog.com/vegan-pumpkin-chocolate-chip-cookies-recipe/",
+"recipe_from": "recipe page",
+"site": "The Picky Eater",
+"site_url": "https://pickyeaterblog.com/",
+"status": "ok",
+"steps": [
+"Preheat the oven to 375 F. In a large mixing bowl cream the softened butter for about 1 minute using a stand mixer with a paddle attachment, or hand-beaters.",
+"Add the brown sugar, the cane sugar, and the vanilla extract. Beat together for another 1-2 minutes. Add in the pumpkin puree. Continue to beat until combined. Scrap the edges of the bowl so that the wet ingredients are at the bottom of the bowl.",
+"In a medium mixing bowl, whisk together the flour, salt, baking soda, corn starch, and pumpkin pie spice.",
+"Turn the stand mixer on low, and slowly add the flour until it is completely incorporated. The batter will be thick. Remove the paddle attachment.",
+"Remove the paddle attachment and add in 3/4 of a cup of the chocolate chips. Fold the chocolate chips into the batter using a spatula. (Reserve a 1/4 cup of the chocolate chips.)",
+"Line a baking sheet with parchment paper. Using a cookie scoop, scoop 2 tablespoons of dough ball of dough. Leave a few inches of space between each cookie. They will spread as they bake.",
+"Bake in the preheated oven for 9-10 minutes or until the edges are golden brown and the center is set. Press the remaining chocolate chips on the top of each mound of dough. Allow the cookies to cool for 10 minutes on the baking sheet. Then transfer them. toa cooling rack to cool completely. Enjoy!"
+],
+"summary": "If you want the ultimate fall comfort food, these vegan pumpkin chocolate chip cookies are it. They are packed with pumpkin puree, pumpkin pie spice, and melty chocolate chips.",
+"tags": [],
+"thumb": "thumbs/pe-vegan-pumpkin-chocolate-chip-cookies-recipe.webp",
+"thumb_h": 400,
+"thumb_w": 400,
+"time": "long",
+"time_basis": "recipe says 32 min total",
+"title": "Vegan Pumpkin Chocolate Chip Cookies",
+"url": "https://pickyeaterblog.com/vegan-pumpkin-chocolate-chip-cookies-recipe/",
+"web": {
+"author": null,
+"cuisine": [
+"American"
+],
+"date": "2026-11-13",
+"description": "If you want the ultimate fall comfort food, these vegan pumpkin chocolate chip cookies are it. They are packed with pumpkin puree, pumpkin pie spice, and melty chocolate chips. I bake them into soft and chewy cookies packed with rich chocolate flavor that take just over 30 minutes to make.",
+"image": "https://pickyeaterblog.com/wp-content/uploads/2022/10/pumpkin-chocolate-chip-cookies-5.jpg",
+"ingredients": [
+"1/2 cup vegan butter (softened)",
+"1/2 cup dark brown sugar (packed)",
+"1/2 cup cane sugar",
+"2 tsp vanilla extract",
+"1/3 cup pumpkin puree",
+"2 cups all-purpose flour",
+"1/2 tsp salt",
+"1 tsp baking soda",
+"2 tsp pumpkin pie spice",
+"2 tbsp corn starch",
+"1 cup dark chocolate chips (dairy-free or vegan)"
+],
+"keywords": [
+"vegan pumpkin chocolate chip cookies"
+],
+"minutes": 32,
+"name": "Vegan Pumpkin Chocolate Chip Cookies",
+"recipeCategory": [
+"cookies"
+],
+"steps": [
+"Preheat the oven to 375 F. In a large mixing bowl cream the softened butter for about 1 minute using a stand mixer with a paddle attachment, or hand-beaters.",
+"Add the brown sugar, the cane sugar, and the vanilla extract. Beat together for another 1-2 minutes. Add in the pumpkin puree. Continue to beat until combined. Scrap the edges of the bowl so that the wet ingredients are at the bottom of the bowl.",
+"In a medium mixing bowl, whisk together the flour, salt, baking soda, corn starch, and pumpkin pie spice.",
+"Turn the stand mixer on low, and slowly add the flour until it is completely incorporated. The batter will be thick. Remove the paddle attachment.",
+"Remove the paddle attachment and add in 3/4 of a cup of the chocolate chips. Fold the chocolate chips into the batter using a spatula. (Reserve a 1/4 cup of the chocolate chips.)",
+"Line a baking sheet with parchment paper. Using a cookie scoop, scoop 2 tablespoons of dough ball of dough. Leave a few inches of space between each cookie. They will spread as they bake.",
+"Bake in the preheated oven for 9-10 minutes or until the edges are golden brown and the center is set. Press the remaining chocolate chips on the top of each mound of dough. Allow the cookies to cool for 10 minutes on the baking sheet. Then transfer them. toa cooling rack to cool completely. Enjoy!"
+],
+"yield": "24"
+},
+"yield": "24"
+},
 "pe-vegan-pumpkin-cupcakes": {
 "account": "thepickyeater",
 "account_name": "Anjali Shah · The Picky Eater",
@@ -29395,6 +29884,118 @@
 },
 "yield": "10"
 },
+"pe-vegan-pumpkin-muffins-with-bananas": {
+"account": "thepickyeater",
+"account_name": "Anjali Shah · The Picky Eater",
+"account_url": "https://pickyeaterblog.com/",
+"category": "sweet",
+"color": "#6b5339",
+"creator": "thepickyeater",
+"date": "2026-11-10",
+"extraction": "recipe-page",
+"fetched_at": "2026-11-14T15:48:44+00:00",
+"id": "pe-vegan-pumpkin-muffins-with-bananas",
+"ingredients": [
+"1 1/2 cup whole wheat flour",
+"2 tsp baking powder",
+"1 tsp baking soda",
+"1/4 tsp salt",
+"1 tsp cinnamon",
+"1/4 tsp nutmeg",
+"1/4 tsp cloves",
+"1/4 tsp ginger",
+"1/2 cup brown sugar (or coconut sugar for refined sugar free)",
+"2 whole bananas",
+"1 cup canned pure pumpkin puree",
+"1/4 cup unsweetened applesauce",
+"1/4 cup unsweetened almond milk"
+],
+"kind": "creator",
+"mealPrep": false,
+"mealPrep_basis": [],
+"minutes": 28,
+"notes": [],
+"platform": "web",
+"recipePage": "r/pe-vegan-pumpkin-muffins-with-bananas.html",
+"recipeSourceUrl": "https://pickyeaterblog.com/vegan-pumpkin-muffins-with-bananas/",
+"recipe_from": "recipe page",
+"site": "The Picky Eater",
+"site_url": "https://pickyeaterblog.com/",
+"status": "ok",
+"steps": [
+"Preheat oven to 350 F.",
+"Blend two large bananas in a blender or food processor until completely smooth.",
+"Add applesauce, pumpkin, and almond milk. Blend until combined.",
+"Whisk flour, baking powder, baking soda, salt, cinnamon, nutmeg, cloves, and ginger together in a large bowl.",
+"Whisk in brown sugar and set aside.",
+"Pour the wet ingredients into the bowl with the dry ingredients.",
+"Stir until just combined. Do not over stir.",
+"If you'd like, you can fold in 1/2 cup of chocolate chips, or chopped nuts.",
+"Using a measuring cup scoop 1/4 cup of batter into muffin cups filling 3/4 of the way full.",
+"Bake 18-20 minutes or until a toothpick inserted into center comes out clean.",
+"Cool in muffin trays for 5 minutes. Remove and allow to cool completely on metal cooling rack. Store at room temperature."
+],
+"summary": "It is officially that time of year again, and these vegan pumpkin muffins with bananas are the perfect fall treat. I use ripe bananas, pumpkin puree, and whole wheat flour for a moist and fluffy break…",
+"tags": [
+"breakfast",
+"snack"
+],
+"thumb": "thumbs/pe-vegan-pumpkin-muffins-with-bananas.webp",
+"thumb_h": 480,
+"thumb_w": 400,
+"time": "long",
+"time_basis": "recipe says 28 min total",
+"title": "Vegan Pumpkin Muffins with Bananas",
+"url": "https://pickyeaterblog.com/vegan-pumpkin-muffins-with-bananas/",
+"web": {
+"author": null,
+"cuisine": [
+"American"
+],
+"date": "2026-11-10",
+"description": "It is officially that time of year again, and these vegan pumpkin muffins with bananas are the perfect fall treat. I use ripe bananas, pumpkin puree, and whole wheat flour for a moist and fluffy breakfast treat packed with autumn spices that comes together in under 30 minutes.",
+"image": "https://pickyeaterblog.com/wp-content/uploads/2018/10/vegan-pumpkin-muffins-6.jpg",
+"ingredients": [
+"1 1/2 cup whole wheat flour",
+"2 tsp baking powder",
+"1 tsp baking soda",
+"1/4 tsp salt",
+"1 tsp cinnamon",
+"1/4 tsp nutmeg",
+"1/4 tsp cloves",
+"1/4 tsp ginger",
+"1/2 cup brown sugar (or coconut sugar for refined sugar free)",
+"2 whole bananas",
+"1 cup canned pure pumpkin puree",
+"1/4 cup unsweetened applesauce",
+"1/4 cup unsweetened almond milk"
+],
+"keywords": [
+"vegan pumpkin muffins"
+],
+"minutes": 28,
+"name": "Vegan Pumpkin Muffins with Bananas",
+"recipeCategory": [
+"Breakfast",
+"Snack"
+],
+"steps": [
+"Preheat oven to 350 F.",
+"Blend two large bananas in a blender or food processor until completely smooth.",
+"Add applesauce, pumpkin, and almond milk. Blend until combined.",
+"Whisk flour, baking powder, baking soda, salt, cinnamon, nutmeg, cloves, and ginger together in a large bowl.",
+"Whisk in brown sugar and set aside.",
+"Pour the wet ingredients into the bowl with the dry ingredients.",
+"Stir until just combined. Do not over stir.",
+"If you'd like, you can fold in 1/2 cup of chocolate chips, or chopped nuts.",
+"Using a measuring cup scoop 1/4 cup of batter into muffin cups filling 3/4 of the way full.",
+"Bake 18-20 minutes or until a toothpick inserted into center comes out clean.",
+"Cool in muffin trays for 5 minutes. Remove and allow to cool completely on metal cooling rack. Store at room temperature."
+],
+"yield": "15"
+},
+"yield": "15"
+},
 "pe-vegan-pumpkin-pancakes": {
 "account": "thepickyeater",
 "account_name": "Anjali Shah · The Picky Eater",
@@ -29480,6 +30081,195 @@
 "yield": "4"
 },
 "yield": "4"
+},
+"pe-vegan-pumpkin-pie-bars": {
+"account": "thepickyeater",
+"account_name": "Anjali Shah · The Picky Eater",
+"account_url": "https://pickyeaterblog.com/",
+"category": "sweet",
+"color": "#c49c7b",
+"creator": "thepickyeater",
+"date": "2026-11-10",
+"extraction": "recipe-page",
+"fetched_at": "2026-11-14T15:48:43+00:00",
+"id": "pe-vegan-pumpkin-pie-bars",
+"ingredients": [
+"1 cup gluten-free oats",
+"1 cup blanched almond flour",
+"1/4 cup raw almond butter",
+"1/4 cup ground flax seed",
+"3 tbsp organic maple syrup",
+"1/4 tsp salt",
+"3 cups pumpkin puree",
+"1/4 cup coconut milk (full fat in can)",
+"1/4 cup maple syrup",
+"1/4 cup date sugar",
+"2 tbsp arrowroot powder",
+"2 tsp pumpkin pie spice",
+"1/2 tsp salt"
+],
+"kind": "creator",
+"mealPrep": false,
+"mealPrep_basis": [],
+"minutes": 335,
+"notes": [],
+"platform": "web",
+"recipePage": "r/pe-vegan-pumpkin-pie-bars.html",
+"recipeSourceUrl": "https://pickyeaterblog.com/vegan-pumpkin-pie-bars/",
+"recipe_from": "recipe page",
+"site": "The Picky Eater",
+"site_url": "https://pickyeaterblog.com/",
+"status": "ok",
+"steps": [
+"Preheat oven to 350 F.",
+"Combine oats, almond flour, flax, almond butter, maple syrup, and salt in a food processor. Pulse until it becomes a crumbly texture.",
+"Line an 8 x 8 inch square pan with parchment paper. Press the crust evenly into the pan. Bake at 350 F for 20 minutes.",
+"While the crust is baking, combine the pumpkin puree, coconut milk, maple syrup, arrowroot powder, pumpkin pie spice, and salt in the food processor. Pulse to combine.",
+"When the crust comes out of the oven, allow it to cool. Then pour the pumpkin pie filling on top. Spread evenly. Lightly tap the pan on the counter to even out the filling and remove any bubbles.",
+"Bake at 350 F for 50-60 minutes. When the pie comes out of the oven it will need to cool completely. After allowing the pie to cool completely at room temperature, cover and transfer to the refrigerator and allow to set for at least 4 hours. If making this pie in advance allow to sit overnight. The more time you allow the pie to set the less runny it will be. Overnight works best.",
+"When the pie has cooled completely carefully pull the ends of the parchment paper to remove the pie from the pan. Using a sharp knife cut the ends off of each side creating a smooth finish. Measure 2.5 inches across the left side and bottom of the large square. Gently use a knife to measure across and over creating a grid on the top of the large square, then firmly press your knife on the lines to cut 9 even squares.",
+"Serve topped with coconut whipped cream and a sprinkle of pumpkin pie spice on top."
+],
+"summary": "I am always ready and excited for pumpkin season, and these vegan pumpkin pie bars are one of my favorite ways to turn a classic fall dessert into a handheld treat. I layer creamy pumpkin pie filling …",
+"tags": [
+"snack",
+"sweet"
+],
+"thumb": "thumbs/pe-vegan-pumpkin-pie-bars.webp",
+"thumb_h": 480,
+"thumb_w": 400,
+"time": "long",
+"time_basis": "recipe says 335 min total",
+"title": "Vegan Pumpkin Pie Bars",
+"url": "https://pickyeaterblog.com/vegan-pumpkin-pie-bars/",
+"web": {
+"author": "Anjali Shah",
+"cuisine": [
+"American"
+],
+"date": "2026-11-10",
+"description": "I am always ready and excited for pumpkin season, and these vegan pumpkin pie bars are one of my favorite ways to turn a classic fall dessert into a handheld treat. I layer creamy pumpkin pie filling over a crunchy oat and almond crust, then finish the bars with coconut whipped cream.",
+"image": "https://pickyeaterblog.com/wp-content/uploads/2019/09/vegan-gluten-free-pumpkin-pie-3.jpg",
+"ingredients": [
+"1 cup gluten-free oats",
+"1 cup blanched almond flour",
+"1/4 cup raw almond butter",
+"1/4 cup ground flax seed",
+"3 tbsp organic maple syrup",
+"1/4 tsp salt",
+"3 cups pumpkin puree",
+"1/4 cup coconut milk (full fat in can)",
+"1/4 cup maple syrup",
+"1/4 cup date sugar",
+"2 tbsp arrowroot powder",
+"2 tsp pumpkin pie spice",
+"1/2 tsp salt"
+],
+"keywords": [
+"vegan pumpkin bars"
+],
+"minutes": 335,
+"name": "Vegan Pumpkin Pie Bars",
+"recipeCategory": [
+"Dessert"
+],
+"steps": [
+"Preheat oven to 350 F.",
+"Combine oats, almond flour, flax, almond butter, maple syrup, and salt in a food processor. Pulse until it becomes a crumbly texture.",
+"Line an 8 x 8 inch square pan with parchment paper. Press the crust evenly into the pan. Bake at 350 F for 20 minutes.",
+"While the crust is baking, combine the pumpkin puree, coconut milk, maple syrup, arrowroot powder, pumpkin pie spice, and salt in the food processor. Pulse to combine.",
+"When the crust comes out of the oven, allow it to cool. Then pour the pumpkin pie filling on top. Spread evenly. Lightly tap the pan on the counter to even out the filling and remove any bubbles.",
+"Bake at 350 F for 50-60 minutes. When the pie comes out of the oven it will need to cool completely. After allowing the pie to cool completely at room temperature, cover and transfer to the refrigerator and allow to set for at least 4 hours. If making this pie in advance allow to sit overnight. The more time you allow the pie to set the less runny it will be. Overnight works best.",
+"When the pie has cooled completely carefully pull the ends of the parchment paper to remove the pie from the pan. Using a sharp knife cut the ends off of each side creating a smooth finish. Measure 2.5 inches across the left side and bottom of the large square. Gently use a knife to measure across and over creating a grid on the top of the large square, then firmly press your knife on the lines to cut 9 even squares.",
+"Serve topped with coconut whipped cream and a sprinkle of pumpkin pie spice on top."
+],
+"yield": "9"
+},
+"yield": "9"
+},
+"pe-vegan-pumpkin-spice-latte": {
+"account": "thepickyeater",
+"account_name": "Anjali Shah · The Picky Eater",
+"account_url": "https://pickyeaterblog.com/",
+"category": "meal",
+"color": "#dbcbae",
+"creator": "thepickyeater",
+"date": "2026-11-13",
+"extraction": "recipe-page",
+"fetched_at": "2026-11-14T15:48:39+00:00",
+"id": "pe-vegan-pumpkin-spice-latte",
+"ingredients": [
+"1/2 cup strong black coffee (or 2 shots of espresso)",
+"2 tbsp pumpkin puree",
+"1 tbsp maple syrup",
+"1/2 tsp pumpkin pie spice",
+"1/2 tsp vanilla extract",
+"2 cups unsweetened soy milk",
+"1/4 cup whipped coconut topping"
+],
+"kind": "creator",
+"mealPrep": false,
+"mealPrep_basis": [],
+"minutes": 10,
+"notes": [],
+"platform": "web",
+"recipePage": "r/pe-vegan-pumpkin-spice-latte.html",
+"recipeSourceUrl": "https://pickyeaterblog.com/vegan-pumpkin-spice-latte/",
+"recipe_from": "recipe page",
+"site": "The Picky Eater",
+"site_url": "https://pickyeaterblog.com/",
+"status": "ok",
+"steps": [
+"Prepare 2 shots of espresso or 1/2 cup of strong black coffee.",
+"In a small saucepan over medium heat whisk together the pumpkin puree, pumpkin pie spice. Stir continuously until warm, about 2 minutes. Add maple syrup and vanilla extract. Continue to stir until bubbly, and a thick syrup forms.",
+"Add soy milk to pot. Whisk until smooth and combined.",
+"Transfer to a blender, and blend until smooth and frothy.",
+"Pour the espresso into your mug. Add the pumpkin spice-frothed milk. Top with whipped coconut cream (optional) and a sprinkle of pumpkin pie spice."
+],
+"summary": "Fall mornings are a little brighter when I start them with a homemade vegan pumpkin spice latte. Made with real pumpkin puree, maple syrup, and warm pumpkin spice, this coffeehouse copycat drink is re…",
+"tags": [],
+"thumb": "thumbs/pe-vegan-pumpkin-spice-latte.webp",
+"thumb_h": 400,
+"thumb_w": 400,
+"time": "quick",
+"time_basis": "recipe says 10 min total",
+"title": "Vegan Pumpkin Spice Latte",
+"url": "https://pickyeaterblog.com/vegan-pumpkin-spice-latte/",
+"web": {
+"author": null,
+"cuisine": [
+"American"
+],
+"date": "2026-11-13",
+"description": "Fall mornings are a little brighter when I start them with a homemade vegan pumpkin spice latte. Made with real pumpkin puree, maple syrup, and warm pumpkin spice, this coffeehouse copycat drink is ready in 10 minutes and delivers all the seasonal flavor I love without waiting in line.",
+"image": "https://pickyeaterblog.com/wp-content/uploads/2020/09/vegan-pumpkin-spice-latte-11.jpg",
+"ingredients": [
+"1/2 cup strong black coffee (or 2 shots of espresso)",
+"2 tbsp pumpkin puree",
+"1 tbsp maple syrup",
+"1/2 tsp pumpkin pie spice",
+"1/2 tsp vanilla extract",
+"2 cups unsweetened soy milk",
+"1/4 cup whipped coconut topping"
+],
+"keywords": [
+"vegan pumpkin spice latte"
+],
+"minutes": 10,
+"name": "Vegan Pumpkin Spice Latte",
+"recipeCategory": [
+"Drinks"
+],
+"steps": [
+"Prepare 2 shots of espresso or 1/2 cup of strong black coffee.",
+"In a small saucepan over medium heat whisk together the pumpkin puree, pumpkin pie spice. Stir continuously until warm, about 2 minutes. Add maple syrup and vanilla extract. Continue to stir until bubbly, and a thick syrup forms.",
+"Add soy milk to pot. Whisk until smooth and combined.",
+"Transfer to a blender, and blend until smooth and frothy.",
+"Pour the espresso into your mug. Add the pumpkin spice-frothed milk. Top with whipped coconut cream (optional) and a sprinkle of pumpkin pie spice."
+],
+"yield": "2"
+},
+"yield": "2"
 },
 "pe-vegan-refried-beans": {
 "account": "thepickyeater",
@@ -50520,10 +51310,13 @@
 "color": "#958c80",
 "creator": "soniamazri_",
 "date": "2025-03-18",
-"extraction": "none",
+"extraction": "video-partial",
 "fetched_at": "2026-10-11T02:23:42+00:00",
 "id": "tt-7483240284881554734",
-"ingredients": [],
+"ingredients": [
+"1 cup chicken",
+"meatballs"
+],
 "kind": "creator",
 "links": [],
 "mealPrep": false,
@@ -50533,7 +51326,7 @@
 "page_minutes": null,
 "platform": "tiktok",
 "recipeSourceUrl": null,
-"recipe_from": "caption",
+"recipe_from": "video",
 "status": "ok",
 "steps": [],
 "summary": "Chicken meatballs for my 7 months old baby led weaning -1 cup chicken breast -2TBSP onions -2TBSP bread crumbs -1TBSP parsley -1TBSP water -1egg yolk",
@@ -50545,6 +51338,21 @@
 "time_basis": "",
 "title": "Chicken meatballs for my 7 months old baby led weaning -1 cup chicken breast…",
 "url": "https://www.tiktok.com/@soniamazri/video/7483240284881554734",
+"video": {
+"checked_at": "2026-11-14T15:51:29+00:00",
+"ingredients": [
+"1 cup chicken",
+"meatballs"
+],
+"kind": "video-partial",
+"narration": "Yeah, yeah",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7484449616751119662": {
@@ -50583,6 +51391,18 @@
 "time_basis": "",
 "title": "Baby led weaning lunch for my 7 months old -steamed green beans -steamed and…",
 "url": "https://www.tiktok.com/@soniamazri/video/7484449616751119662",
+"video": {
+"checked_at": "2026-11-14T15:51:17+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7484771171158871338": {
@@ -50600,8 +51420,11 @@
 "ingredients": [],
 "kind": "creator",
 "links": [],
-"mealPrep": false,
-"mealPrep_basis": [],
+"mealPrep": true,
+"mealPrep_basis": [
+"batch",
+"freeze"
+],
 "minutes": null,
 "notes": [],
 "page_minutes": null,
@@ -50619,6 +51442,18 @@
 "time_basis": "",
 "title": "Starting solids essentials",
 "url": "https://www.tiktok.com/@soniamazri/video/7484771171158871338",
+"video": {
+"checked_at": "2026-11-14T15:51:26+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "Here's everything you need to start solids with your little one, first I highly recommend investing in a good high chair because you want your baby to be comfortable when they eat and make sure it has a foot rest because this will lower choking risks. This bear cup is the best training cup to teach your baby straw feed and you can squeeze the bottle to get the water out, my baby learned how to use this straw in 3 days. When you start solids, you need textured spoons like this that are easy to grab for self feed. These ones are also really good and the food sticks really well to the spoon so the baby can grab and eat. He also likes to suck on these pop feeders, we use these a lot especially in the beginning for a first taste of different foods. Of course you need bibs and these ones are really easy to wipe and the opening helps keep the food inside. These are my 2 favorite plates, this one is a bamboo plate with a suction and this one grows with your baby, it can be used with or without the divider and it's dishwasher safe. You'll need a blender, I personally like this one because it blends really well and it comes with different airtight containers and a freezing tray so you can do batch cooking and freeze the food.",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7485099408829418798": {
@@ -50630,22 +51465,33 @@
 "color": "#826f5c",
 "creator": "soniamazri_",
 "date": "2025-03-23",
-"extraction": "none",
+"extraction": "video",
 "fetched_at": "2026-10-11T02:23:41+00:00",
 "id": "tt-7485099408829418798",
-"ingredients": [],
+"ingredients": [
+"zucchini",
+"water",
+"eggs",
+"bread",
+"cheese",
+"avocado oil"
+],
 "kind": "creator",
 "links": [],
 "mealPrep": false,
 "mealPrep_basis": [],
-"minutes": null,
+"minutes": 15,
 "notes": [],
 "page_minutes": null,
 "platform": "tiktok",
+"recipePage": "r/tt-7485099408829418798.html",
 "recipeSourceUrl": null,
-"recipe_from": "caption",
+"recipe_from": "video",
 "status": "ok",
-"steps": [],
+"steps": [
+"Then put it in a mixing bowl, add two eggs, about half cup of bread crumb and handful of cheese.",
+"I love Swiss cheese and mix everything and using a tablespoon take some of the mixture and make patties with your hand."
+],
 "summary": "",
 "tags": [
 "lunch",
@@ -50654,10 +51500,32 @@
 "thumb": "thumbs/tt-7485099408829418798.webp",
 "thumb_h": 711,
 "thumb_w": 400,
-"time": "unknown",
-"time_basis": "",
+"time": "quick",
+"time_basis": "says 15 min",
 "title": "Zucchini for todays baby led weaning lunch",
 "url": "https://www.tiktok.com/@soniamazri/video/7485099408829418798",
+"video": {
+"checked_at": "2026-11-14T15:51:12+00:00",
+"ingredients": [
+"zucchini",
+"water",
+"eggs",
+"bread",
+"cheese",
+"avocado oil"
+],
+"kind": "video",
+"narration": "If you have zucchini you have to try this baby ladwining recipe. They're very soft in the inside and easy to grab. First start by grating one zucchini then use a paper towel or a clean cloth and squeeze to get all that water out. Then put it in a mixing bowl, add two eggs, about half cup of bread crumb and handful of cheese. You can do any cheese. I love Swiss cheese and mix everything and using a tablespoon take some of the mixture and make patties with your hand. I used avocado oil to spray on the patties and I put them in the oven at 400 degrees for 15 minutes. After that I flipped them and baked them for another 5 minutes. I added some plain yogurt and some bananas and that was it.",
+"onscreen": [],
+"steps": [
+"Then put it in a mixing bowl, add two eggs, about half cup of bread crumb and handful of cheese.",
+"I love Swiss cheese and mix everything and using a tablespoon take some of the mixture and make patties with your hand."
+],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7485822998755364142": {
@@ -50696,6 +51564,18 @@
 "time_basis": "",
 "title": "Butternut squash lunch for my 7 months old baby led weaning",
 "url": "https://www.tiktok.com/@soniamazri/video/7485822998755364142",
+"video": {
+"checked_at": "2026-11-14T15:51:07+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "Yeah I'm done I'm done",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7486573222494784810": {
@@ -50734,6 +51614,18 @@
 "time_basis": "",
 "title": "Cauliflower lunch for my 7 months old baby led weaning",
 "url": "https://www.tiktok.com/@soniamazri/video/7486573222494784810",
+"video": {
+"checked_at": "2026-11-14T15:51:02+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7488422714420546859": {
@@ -50745,34 +51637,72 @@
 "color": "#9d8868",
 "creator": "soniamazri_",
 "date": "2025-04-01",
-"extraction": "none",
+"extraction": "video",
 "fetched_at": "2026-10-11T02:23:40+00:00",
 "id": "tt-7488422714420546859",
-"ingredients": [],
+"ingredients": [
+"broccoli",
+"2 tablespoons heavy cream",
+"milk",
+"garlic powder",
+"onion",
+"cheese",
+"avocado oil"
+],
 "kind": "creator",
 "links": [],
 "mealPrep": false,
 "mealPrep_basis": [],
-"minutes": null,
+"minutes": 20,
 "notes": [],
 "page_minutes": null,
 "platform": "tiktok",
+"recipePage": "r/tt-7488422714420546859.html",
 "recipeSourceUrl": null,
-"recipe_from": "caption",
+"recipe_from": "video",
 "status": "ok",
-"steps": [],
+"steps": [
+"In a bowl, mix 4 eggs, 2 tablespoons heavy cream or milk, a little bit of garlic powder and onion powder, and some cheese.",
+"Mix it all up, then take a muffin pan, drizzle it with some avocado oil, add the vegetables in the egg mix, then bake it at 375 degrees for 20 minutes.",
+"I served it for lunch with a chicken vegetable puree and some raspberries."
+],
 "summary": ". -1cup chopped broccoli -1/2cup mixed vegetables -4eggs -2TBSP Heavy cream or milk -garlic powder / onion powder -cheese",
 "tags": [
+"lunch",
 "sweet",
 "veggies"
 ],
 "thumb": "thumbs/tt-7488422714420546859.webp",
 "thumb_h": 711,
 "thumb_w": 400,
-"time": "unknown",
-"time_basis": "",
+"time": "quick",
+"time_basis": "says 20 min",
 "title": "Baby led weaning veggie muffin recipe",
 "url": "https://www.tiktok.com/@soniamazri/video/7488422714420546859",
+"video": {
+"checked_at": "2026-11-14T15:50:59+00:00",
+"ingredients": [
+"broccoli",
+"2 tablespoons heavy cream",
+"milk",
+"garlic powder",
+"onion",
+"cheese",
+"avocado oil"
+],
+"kind": "video",
+"narration": "Your baby will love these veggie muffins. It's such an easy recipe. All you need is one cup finely chopped broccoli, half cup of any other veggies you have. I did carrot and peas. In a bowl, mix 4 eggs, 2 tablespoons heavy cream or milk, a little bit of garlic powder and onion powder, and some cheese. Mix it all up, then take a muffin pan, drizzle it with some avocado oil, add the vegetables in the egg mix, then bake it at 375 degrees for 20 minutes. I served it for lunch with a chicken vegetable puree and some raspberries.",
+"onscreen": [],
+"steps": [
+"In a bowl, mix 4 eggs, 2 tablespoons heavy cream or milk, a little bit of garlic powder and onion powder, and some cheese.",
+"Mix it all up, then take a muffin pan, drizzle it with some avocado oil, add the vegetables in the egg mix, then bake it at 375 degrees for 20 minutes.",
+"I served it for lunch with a chicken vegetable puree and some raspberries."
+],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7488871859509939502": {
@@ -50820,10 +51750,22 @@
 "color": "#a5917f",
 "creator": "soniamazri_",
 "date": "2025-04-05",
-"extraction": "none",
+"extraction": "video",
 "fetched_at": "2026-10-11T02:23:39+00:00",
 "id": "tt-7489859581300968750",
-"ingredients": [],
+"ingredients": [
+"butter",
+"2 tablespoons onion",
+"1 teaspoon garlic",
+"cauliflower",
+"broccoli",
+"water",
+"chicken",
+"broth",
+"2 tablespoon heavy cream",
+"pasta",
+"raspberries"
+],
 "kind": "creator",
 "links": [],
 "mealPrep": false,
@@ -50832,14 +51774,20 @@
 "notes": [],
 "page_minutes": null,
 "platform": "tiktok",
+"recipePage": "r/tt-7489859581300968750.html",
 "recipeSourceUrl": null,
-"recipe_from": "caption",
+"recipe_from": "video",
 "status": "ok",
-"steps": [],
+"steps": [
+"It has been helping me a lot whenever I find a video I want to try I use recipe and it will import the recipe for me with all the ingredients I need and all the steps I can also organize the recipes I have baby lead weaning and purees and the cool part is I can tap from recipe and it will take me to the Video I saved going back to today's recipe You're gonna add some butter, 2 tablespoons onion, 1 teaspoon garlic, cauliflower and broccoli So taste and add water or chicken broth if you want.",
+"I added some bone marrow instead cover and let it cook We're gonna boil some pasta.",
+"You can do whatever works for you Once it's cooked add 2 tablespoon heavy cream and mix blend everything to this texture and mix with the pasta For this lunch we have pasta, grains, vegetables and for protein I'm adding a chicken drumstick that I made last night and raspberries as fruits If you're offering chicken drumstick make sure you remove the skin and any other sharp bones My son really enjoyed the drumstick He's becoming so good at chewing if you're offering the drumstick for the first time I highly recommend you do only the bone and then when they get used to it You can do full drumstick without the skin"
+],
 "summary": "",
 "tags": [
 "lunch",
-"pasta & noodles"
+"pasta & noodles",
+"veggies"
 ],
 "thumb": "thumbs/tt-7489859581300968750.webp",
 "thumb_h": 711,
@@ -50848,6 +51796,34 @@
 "time_basis": "",
 "title": "Cauliflower pasta lunch for my 8 months old baby led weaning",
 "url": "https://www.tiktok.com/@soniamazri/video/7489859581300968750",
+"video": {
+"checked_at": "2026-11-14T15:50:53+00:00",
+"ingredients": [
+"butter",
+"2 tablespoons onion",
+"1 teaspoon garlic",
+"cauliflower",
+"broccoli",
+"water",
+"chicken",
+"broth",
+"2 tablespoon heavy cream",
+"pasta",
+"raspberries"
+],
+"kind": "video",
+"narration": "Let's make this delicious meal for my eight months old. If you ask me how I organize recipes I want to try for my son I use recipe app. It has been helping me a lot whenever I find a video I want to try I use recipe and it will import the recipe for me with all the ingredients I need and all the steps I can also organize the recipes I have baby lead weaning and purees and the cool part is I can tap from recipe and it will take me to the Video I saved going back to today's recipe You're gonna add some butter, 2 tablespoons onion, 1 teaspoon garlic, cauliflower and broccoli So taste and add water or chicken broth if you want. I added some bone marrow instead cover and let it cook We're gonna boil some pasta. I used penny because they're easier to grasp. You can do whatever works for you Once it's cooked add 2 tablespoon heavy cream and mix blend everything to this texture and mix with the pasta For this lunch we have pasta, grains, vegetables and for protein I'm adding a chicken drumstick that I made last night and raspberries as fruits If you're offering chicken drumstick make sure you remove the skin and any other sharp bones My son really enjoyed the drumstick He's becoming so good at chewing if you're offering the drumstick for the first time I highly recommend you do only the bone and then when they get used to it You can do full drumstick without the skin",
+"onscreen": [],
+"steps": [
+"It has been helping me a lot whenever I find a video I want to try I use recipe and it will import the recipe for me with all the ingredients I need and all the steps I can also organize the recipes I have baby lead weaning and purees and the cool part is I can tap from recipe and it will take me to the Video I saved going back to today's recipe You're gonna add some butter, 2 tablespoons onion, 1 teaspoon garlic, cauliflower and broccoli So taste and add water or chicken broth if you want.",
+"I added some bone marrow instead cover and let it cook We're gonna boil some pasta.",
+"You can do whatever works for you Once it's cooked add 2 tablespoon heavy cream and mix blend everything to this texture and mix with the pasta For this lunch we have pasta, grains, vegetables and for protein I'm adding a chicken drumstick that I made last night and raspberries as fruits If you're offering chicken drumstick make sure you remove the skin and any other sharp bones My son really enjoyed the drumstick He's becoming so good at chewing if you're offering the drumstick for the first time I highly recommend you do only the bone and then when they get used to it You can do full drumstick without the skin"
+],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7491045700625583403": {
@@ -50923,6 +51899,18 @@
 "time_basis": "says 25 min",
 "title": "Rice balls lunch for my 8 months old baby led weaning",
 "url": "https://www.tiktok.com/@soniamazri/video/7491445067714956590",
+"video": {
+"checked_at": "2026-11-14T15:50:43+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7491724402292198702": {
@@ -50934,24 +51922,35 @@
 "color": "#ae9e82",
 "creator": "thepickyeater",
 "date": "2025-04-11",
-"extraction": "none",
+"extraction": "video",
 "fetched_at": "2026-10-11T21:20:46+00:00",
 "id": "tt-7491724402292198702",
-"ingredients": [],
+"ingredients": [
+"banana",
+"pumpkin puree",
+"chia seeds",
+"milk",
+"maple syrup",
+"greek yogurt",
+"vanilla"
+],
 "kind": "creator",
 "links": [],
 "mealPrep": true,
 "mealPrep_basis": [
 "mealprep"
 ],
-"minutes": null,
+"minutes": 5,
 "notes": [],
 "page_minutes": null,
 "platform": "tiktok",
+"recipePage": "r/tt-7491724402292198702.html",
 "recipeSourceUrl": null,
-"recipe_from": "caption",
+"recipe_from": "video",
 "status": "ok",
-"steps": [],
+"steps": [
+"Did you know if you combine banana, pumpkin puree, chia seeds, almond milk, maple syrup, Greek yogurt, vanilla extract, and pumpkin spice, you'll have a healthy pumpkin smoothie with 5 grams of protein, 5 grams of fiber, and only 172 calories in under 5 minutes."
+],
 "strict_food": true,
 "summary": "This creamy Healthy Pumpkin Smoothie is packed with protein, real pumpkin, and cozy spices—like fall in a cup! Perfect for breakfast or a snack!",
 "tags": [
@@ -50961,10 +51960,32 @@
 "thumb": "thumbs/tt-7491724402292198702.webp",
 "thumb_h": 533,
 "thumb_w": 400,
-"time": "unknown",
-"time_basis": "",
+"time": "quick",
+"time_basis": "says 5 min",
 "title": "Craving pumpkin pie but want a healthier twist?",
 "url": "https://www.tiktok.com/@pickyeaterblog/video/7491724402292198702",
+"video": {
+"checked_at": "2026-11-14T15:50:31+00:00",
+"ingredients": [
+"banana",
+"pumpkin puree",
+"chia seeds",
+"milk",
+"maple syrup",
+"greek yogurt",
+"vanilla"
+],
+"kind": "video",
+"narration": "Did you know if you combine banana, pumpkin puree, chia seeds, almond milk, maple syrup, Greek yogurt, vanilla extract, and pumpkin spice, you'll have a healthy pumpkin smoothie with 5 grams of protein, 5 grams of fiber, and only 172 calories in under 5 minutes.",
+"onscreen": [],
+"steps": [
+"Did you know if you combine banana, pumpkin puree, chia seeds, almond milk, maple syrup, Greek yogurt, vanilla extract, and pumpkin spice, you'll have a healthy pumpkin smoothie with 5 grams of protein, 5 grams of fiber, and only 172 calories in under 5 minutes."
+],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7491729381971283246": {
@@ -50988,6 +52009,12 @@
 "mealprep"
 ],
 "minutes": null,
+"mirror": {
+"caption": "Low Carb, High Protein Greek Salad! #shorts\nThis salad is perfect for summer! Healthy, low carb and delicious!",
+"id": "yt-SETDLTxpkR4",
+"platform": "youtube",
+"url": "https://www.youtube.com/shorts/SETDLTxpkR4"
+},
 "notes": [],
 "page_minutes": null,
 "platform": "tiktok",
@@ -51005,6 +52032,18 @@
 "time_basis": "",
 "title": "Craving a fresh, flavorful salad without the carbs?",
 "url": "https://www.tiktok.com/@pickyeaterblog/video/7491729381971283246",
+"video": {
+"checked_at": "2026-11-14T15:50:25+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "Here's my refreshing keto Greek salad, a low carb twist on the classic that's just as delicious. Start by slicing the cherry tomatoes in half, dicing the bell pepper, thinly slicing the onion, and cubing the cucumber. Add in your capers and olives, then mix until well combined. My homemade dressing has no added sugar, just olive oil, oregano, red wine vinegar, and a pinch of salt. Toss everything together and top with creamy feta cheese. It's perfect for light lunches, easy dinners, or even your next potluck. Grab the full recipe at pickyeaterblog.com",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7491733453759614254": {
@@ -51054,6 +52093,18 @@
 "time_basis": "says 5 min",
 "title": "The easiest 5-minute breakfast EVER",
 "url": "https://www.tiktok.com/@pickyeaterblog/video/7491733453759614254",
+"video": {
+"checked_at": "2026-11-14T15:50:20+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "Don't pause. Take it to the chorus.",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7491792110962691374": {
@@ -51061,7 +52112,7 @@
 "account_name": "Sonia | Baby Meal Plan",
 "account_url": "https://www.tiktok.com/@soniamazri",
 "caption": "Baby meals planning, I always try to incorporate  Vegetables  Fruits Protein Grain Iron Healthy fats Water Some dairy #babyfood #babyledweaning #blw #blwideas #homemadebabyfood #babymeals #mealprep #mealprepideas #meals ",
-"category": "meal",
+"category": "pasta",
 "color": "#958e86",
 "creator": "soniamazri_",
 "date": "2025-04-10",
@@ -51084,7 +52135,14 @@
 "status": "ok",
 "steps": [],
 "summary": "Baby meals planning, I always try to incorporate Vegetables Fruits Protein Grain Iron Healthy fats Water Some dairy",
-"tags": [],
+"tags": [
+"breakfast",
+"lunch",
+"dinner",
+"pasta & noodles",
+"veggies",
+"dip & spread"
+],
 "thumb": "thumbs/tt-7491792110962691374.webp",
 "thumb_h": 711,
 "thumb_w": 400,
@@ -51092,6 +52150,18 @@
 "time_basis": "",
 "title": "Baby meals planning, I always try to incorporate Vegetables Fruits Protein…",
 "url": "https://www.tiktok.com/@soniamazri/video/7491792110962691374",
+"video": {
+"checked_at": "2026-11-14T15:50:40+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "Here's exactly how I plan my 8 months old weekly meals. By meal planning I don't mean cooking and freezing, although I'm not against that, it just does not work for me. What I mean is knowing exactly what I'm gonna be making for my son a week ahead. And for that I use the recipe app to do meal planning and it's been helping me a lot. Not only I can save videos I like and import them into recipes in the app, I can also create meal plan and use those recipes for breakfast, lunch, and dinner. This way when I wake up I know exactly what I'm gonna be making for my son. And I can tell you this saves me a lot of thinking. Now here's how I pick the right recipes for my son. At 8 months old we're doing 3 meals a day and every day I make sure I offer vegetables, fruits, grains, proteins, healthy fat, and water. Now I don't typically force my son to eat them but I do make sure I offer them. I spread all these nutrition throughout the meals. For example I do carrot for vegetables, eggs or chicken for protein, pasta, or baby cereal for grain, and so on. Let me know in the comments if you want more tips on how to start solids with your little one. Love you all!",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7492225012041059626": {
@@ -51134,6 +52204,18 @@
 "time_basis": "",
 "title": "Start with a consistent meal schedule",
 "url": "https://www.tiktok.com/@pickyeaterblog/video/7492225012041059626",
+"video": {
+"checked_at": "2026-11-14T15:50:27+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7492611589967940910": {
@@ -51182,31 +52264,66 @@
 "color": "#816d60",
 "creator": "soniamazri_",
 "date": "2025-04-18",
-"extraction": "none",
+"extraction": "video",
 "fetched_at": "2026-10-11T02:23:37+00:00",
 "id": "tt-7494748179397610795",
-"ingredients": [],
+"ingredients": [
+"banana",
+"2 tablespoons chia seeds",
+"breast milk",
+"formula"
+],
 "kind": "creator",
 "links": [],
 "mealPrep": false,
 "mealPrep_basis": [],
-"minutes": null,
+"minutes": 1440,
 "notes": [],
 "page_minutes": null,
 "platform": "tiktok",
+"recipePage": "r/tt-7494748179397610795.html",
 "recipeSourceUrl": null,
-"recipe_from": "caption",
+"recipe_from": "video",
 "status": "ok",
-"steps": [],
+"steps": [
+"And it's so easy to add it in your baby's diet.",
+"For this recipe, you're gonna need 1 ripe banana, 2 tablespoons chia seeds, mash the mixture, then add half cup breast milk or formula.",
+"After it's soaked, you can either serve it like that or blend it if your baby likes smoother texture.",
+"For extra vitamin C, I am adding a strawberry on top."
+],
 "summary": ". -1 ripe banana -2TBSP chia seeds -1/2cup breastmilk or formula -1Strawberry optional",
-"tags": [],
+"tags": [
+"breakfast"
+],
 "thumb": "thumbs/tt-7494748179397610795.webp",
 "thumb_h": 574,
 "thumb_w": 400,
-"time": "unknown",
-"time_basis": "",
+"time": "long",
+"time_basis": "says 1440 min",
 "title": "Chia seed pudding for my 8 months old baby",
 "url": "https://www.tiktok.com/@soniamazri/video/7494748179397610795",
+"video": {
+"checked_at": "2026-11-14T15:50:11+00:00",
+"ingredients": [
+"banana",
+"2 tablespoons chia seeds",
+"breast milk",
+"formula"
+],
+"kind": "video",
+"narration": "If you want to include Omega 3 in your baby's food, try this recipe. Did you know that the seed with the highest Omega 3 is chia seed? And it's so easy to add it in your baby's diet. If you want to save recipes like this one, you can use the recipe app to import any recipe you want and have all your favorite recipes in one place. You can organize the recipes the way you want and you can open the video directly from the app. I use this app to also plan all my kids meals. For this recipe, you're gonna need 1 ripe banana, 2 tablespoons chia seeds, mash the mixture, then add half cup breast milk or formula. Then let it soak for 30 minutes or you can leave it overnight for breakfast the next day. If you're using formula, remember it can only stay in the fridge for 24 hours max. After it's soaked, you can either serve it like that or blend it if your baby likes smoother texture. For extra vitamin C, I am adding a strawberry on top. If you're serving chia seeds for the first time, remember to start with a small quantity and then when your baby gets used to it, you can increase it. Let me know what I should try next.",
+"onscreen": [],
+"steps": [
+"And it's so easy to add it in your baby's diet.",
+"For this recipe, you're gonna need 1 ripe banana, 2 tablespoons chia seeds, mash the mixture, then add half cup breast milk or formula.",
+"After it's soaked, you can either serve it like that or blend it if your baby likes smoother texture.",
+"For extra vitamin C, I am adding a strawberry on top."
+],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7495127835263257902": {
@@ -51245,6 +52362,18 @@
 "time_basis": "",
 "title": "Sweet potato taco bowl for me and my 8 months old",
 "url": "https://www.tiktok.com/@soniamazri/video/7495127835263257902",
+"video": {
+"checked_at": "2026-11-14T15:50:04+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7495814120567098666": {
@@ -51281,6 +52410,18 @@
 "time_basis": "",
 "title": "@Catchy Isn’t this great ?",
 "url": "https://www.tiktok.com/@soniamazri/video/7495814120567098666",
+"video": {
+"checked_at": "2026-11-14T15:49:47+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "Look at this. Oh My god, isn't it great? I know it's my dream",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7495874044395261227": {
@@ -51354,6 +52495,18 @@
 "time_basis": "",
 "title": "My son will not drink cold milk and this @Baby Brezza bottle warmer saved the…",
 "url": "https://www.tiktok.com/@soniamazri/video/7496294600756219179",
+"video": {
+"checked_at": "2026-11-14T15:49:40+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "One thing I cannot go out without is the baby breads out bottle warmer. I like this one because it's so much faster than the others. You can warm up breast milk, formula or water and it has different temperature settings to choose from. Honestly, it makes my day so much easier especially now with the nice weather we're gonna be outside a lot. And I have a discount code for you in the caption if you wanna check it out.",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7496604536040131882": {
@@ -51365,15 +52518,22 @@
 "color": "#c1a97d",
 "creator": "thepickyeater",
 "date": "2025-04-23",
-"extraction": "none",
+"extraction": "video",
 "fetched_at": "2026-10-11T21:20:43+00:00",
 "id": "tt-7496604536040131882",
-"ingredients": [],
+"ingredients": [
+"eggs",
+"greek yogurt",
+"garlic",
+"onion",
+"salt",
+"pepper"
+],
 "kind": "creator",
 "links": [],
 "mealPrep": false,
 "mealPrep_basis": [],
-"minutes": null,
+"minutes": 10,
 "mirror": {
 "caption": "Healthy Deviled Eggs That Taste Like The Real Deal! #shorts\nDeviled eggs but make them healthy and no mayo! 🥚💛 Greek yogurt is the creamy high-protein swap that makes these light, fluffy, and absolutely addictive. Try it for your next snack or party tray! \n #DeviledEggs #HealthySwaps #GreekYogurtRecipes #HighProteinSnacks #EasyAppetizers #NoMayoNeeded #FoodTok #HealthyEats",
 "id": "yt-q8RKUM_6n6o",
@@ -51383,10 +52543,13 @@
 "notes": [],
 "page_minutes": null,
 "platform": "tiktok",
+"recipePage": "r/tt-7496604536040131882.html",
 "recipeSourceUrl": null,
-"recipe_from": "caption",
+"recipe_from": "video",
 "status": "ok",
-"steps": [],
+"steps": [
+"Did you know if you boil eggs for 10 minutes, cool in an ice bath, peel, slice in half, scoop out those yolks, mix yolks with greek yogurt, mustard, garlic and onion powder, salt and pepper and chopped dill, mash till creamy, then pipe back into egg whites, top with paprika, dill and chill."
+],
 "strict_food": true,
 "summary": "Greek yogurt is the creamy high-protein swap that makes these light, fluffy, and absolutely addictive. Try it for your next snack or party tray!",
 "tags": [
@@ -51395,10 +52558,31 @@
 "thumb": "thumbs/tt-7496604536040131882.webp",
 "thumb_h": 533,
 "thumb_w": 400,
-"time": "unknown",
-"time_basis": "",
+"time": "quick",
+"time_basis": "says 10 min",
 "title": "Deviled eggs but make them healthy and no mayo",
 "url": "https://www.tiktok.com/@pickyeaterblog/video/7496604536040131882",
+"video": {
+"checked_at": "2026-11-14T15:49:44+00:00",
+"ingredients": [
+"eggs",
+"greek yogurt",
+"garlic",
+"onion",
+"salt",
+"pepper"
+],
+"kind": "video",
+"narration": "Did you know if you boil eggs for 10 minutes, cool in an ice bath, peel, slice in half, scoop out those yolks, mix yolks with greek yogurt, mustard, garlic and onion powder, salt and pepper and chopped dill, mash till creamy, then pipe back into egg whites, top with paprika, dill and chill. You'll have light tangy deviled eggs ready to enjoy.",
+"onscreen": [],
+"steps": [
+"Did you know if you boil eggs for 10 minutes, cool in an ice bath, peel, slice in half, scoop out those yolks, mix yolks with greek yogurt, mustard, garlic and onion powder, salt and pepper and chopped dill, mash till creamy, then pipe back into egg whites, top with paprika, dill and chill."
+],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7496678114127351083": {
@@ -51438,6 +52622,18 @@
 "time_basis": "quick",
 "title": "Here are 5 quick and healthy lunches you can put together in minutes",
 "url": "https://www.tiktok.com/@pickyeaterblog/video/7496678114127351083",
+"video": {
+"checked_at": "2026-11-14T15:49:33+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7496947479267609902": {
@@ -51477,6 +52673,18 @@
 "time_basis": "",
 "title": "Salmon veggie patties recipe for my 8 months old baby led weaning -3to 4 oz…",
 "url": "https://www.tiktok.com/@soniamazri/video/7496947479267609902",
+"video": {
+"checked_at": "2026-11-14T15:49:36+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7497328445999926571": {
@@ -51513,6 +52721,18 @@
 "time_basis": "",
 "title": "Costco favorite products for kids",
 "url": "https://www.tiktok.com/@soniamazri/video/7497328445999926571",
+"video": {
+"checked_at": "2026-11-14T15:49:25+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7497340995013643566": {
@@ -51556,6 +52776,18 @@
 "time_basis": "",
 "title": "These crispy air fryer smashed potatoes are the side dish you’ve been…",
 "url": "https://www.tiktok.com/@pickyeaterblog/video/7497340995013643566",
+"video": {
+"checked_at": "2026-11-14T15:49:29+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "If you love crispy potatoes, you need to try these air fryer smashed potatoes. Start by boiling your baby potatoes until tender. Smash potatoes gently with a glass season with garlic, paprika, salt, and olive oil. Air fry at 400 degrees Fahrenheit for crispy perfection. Top them with parmesan and parsley for the final touch.",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7497709628990491947": {
@@ -51633,6 +52865,18 @@
 "time_basis": "",
 "title": "Can we talk about this @momcozy baby carrier design",
 "url": "https://www.tiktok.com/@soniamazri/video/7498085841353346346",
+"video": {
+"checked_at": "2026-11-14T15:49:21+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7498502689521765678": {
@@ -51676,6 +52920,18 @@
 "time_basis": "says 30 min",
 "title": "Light, fluffy, and packed with plant-based protein, they're the perfect…",
 "url": "https://www.tiktok.com/@pickyeaterblog/video/7498502689521765678",
+"video": {
+"checked_at": "2026-11-14T15:49:19+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7498504957784689966": {
@@ -60914,8 +62170,7 @@
 "mango",
 "potato",
 "broccoli",
-"avocado",
-"beef"
+"avocado"
 ],
 "kind": "creator",
 "links": [],
@@ -60953,8 +62208,7 @@
 "mango",
 "potato",
 "broccoli",
-"avocado",
-"beef"
+"avocado"
 ],
 "kind": "video-partial",
 "narration": "",
@@ -68613,6 +69867,7 @@
 "links": [],
 "mealPrep": false,
 "mealPrep_basis": [],
+"merged_into": "tt-7707507908870753549",
 "minutes": null,
 "notes": [],
 "page_minutes": null,
@@ -68620,7 +69875,7 @@
 "recipePage": "r/tt-7696723245894012190.html",
 "recipeSourceUrl": null,
 "recipe_from": "video",
-"status": "ok",
+"status": "merged",
 "steps": [
 "Then add a banana, tofu, milk, unsweetened cacao powder, and a pinch of salt.",
 "Blend it until it's super creamy and that's it."
@@ -69071,6 +70326,175 @@
 "narration": "Come make some Halloween boo bags with me for my toddler's daycare fall party. I'm partnering with Gerber to put together some goodies for all her classmates. I'm including some fun toys with Gerber's fall-inspired puffs and grain bars. As a first-time mom, I was so excited to make these baggies for my toddler's daycare class since they're too young for candy and I wanted to fill them with toddler-friendly treats. I know all of these Gerber snacks will be a hit because my toddler crushes them every time. And just like that, our boo bags are ready. A few surprises, some yummy Gerber snacks, and lots of Halloween excitement.",
 "onscreen": [],
 "steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
+"yield": null
+},
+"tt-7705679880310033695": {
+"account": "mini.tiger.zen",
+"account_name": "mini.tiger.zen",
+"account_url": "https://www.tiktok.com/@mini.tiger.zen",
+"caption": "Healthy ice cream recipe for toddlers  #blw #babyledweaning #toddlersnacks #snacksforkids #lowcalorie ",
+"category": "meal",
+"color": "#998177",
+"creator": "mini.tiger.zen",
+"date": "2026-11-08",
+"extraction": "none",
+"fetched_at": "2026-11-14T15:47:30+00:00",
+"id": "tt-7705679880310033695",
+"ingredients": [],
+"kind": "creator",
+"links": [],
+"mealPrep": false,
+"mealPrep_basis": [],
+"minutes": null,
+"notes": [],
+"page_minutes": null,
+"platform": "tiktok",
+"recipeSourceUrl": null,
+"recipe_from": "caption",
+"status": "ok",
+"steps": [],
+"summary": "",
+"tags": [],
+"thumb": "thumbs/tt-7705679880310033695.webp",
+"thumb_h": 711,
+"thumb_w": 400,
+"time": "unknown",
+"time_basis": "",
+"title": "Healthy ice cream recipe for toddlers",
+"url": "https://www.tiktok.com/@mini.tiger.zen/video/7705679880310033695",
+"video": {
+"checked_at": "2026-11-14T15:49:11+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
+"yield": null
+},
+"tt-7705894481903635742": {
+"account": "mini.tiger.zen",
+"account_name": "mini.tiger.zen",
+"account_url": "https://www.tiktok.com/@mini.tiger.zen",
+"caption": "I fear this is my biggest accomplishment. This millennial has officially peaked at 35. #HelloKitty #Sanrio #MillennialNostalgia #90sKids #HelloKittyGirl Hello Kitty, Sanrio, Hello Kitty Instagram, Hello Kitty followed me, millennial nostalgia, 90s kids, childhood icons, Hello Kitty girl, Sanrio girl, Hello Kitty fandom, Macy’s Thanksgiving Day Parade 2026, Hello Kitty balloon debut, Hello Kitty Big Apple",
+"category": "meal",
+"color": "#74757f",
+"creator": "mini.tiger.zen",
+"date": "2026-11-08",
+"extraction": "none",
+"fetched_at": "2026-11-14T15:47:30+00:00",
+"id": "tt-7705894481903635742",
+"ingredients": [],
+"kind": "creator",
+"links": [],
+"mealPrep": false,
+"mealPrep_basis": [],
+"minutes": null,
+"notes": [],
+"page_minutes": null,
+"platform": "tiktok",
+"recipeSourceUrl": null,
+"recipe_from": "caption",
+"status": "ok",
+"steps": [],
+"summary": ". This millennial has officially peaked at 35.",
+"tags": [],
+"thumb": "thumbs/tt-7705894481903635742.webp",
+"thumb_h": 572,
+"thumb_w": 400,
+"time": "unknown",
+"time_basis": "",
+"title": "I fear this is my biggest accomplishment",
+"url": "https://www.tiktok.com/@mini.tiger.zen/video/7705894481903635742",
+"video": {
+"checked_at": "2026-11-14T15:49:09+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
+"yield": null
+},
+"tt-7707507908870753549": {
+"account": "mini.tiger.zen",
+"account_name": "mini.tiger.zen",
+"account_url": "https://www.tiktok.com/@mini.tiger.zen",
+"caption": "Lazy mom lunch #proteinshake #protein #healthysnacks #healthymeals #blw",
+"category": "meal",
+"color": "#857162",
+"creator": "mini.tiger.zen",
+"date": "2026-11-13",
+"extraction": "video",
+"fetched_at": "2026-11-14T15:47:29+00:00",
+"id": "tt-7707507908870753549",
+"ingredients": [
+"banana",
+"tofu",
+"milk",
+"salt"
+],
+"kind": "creator",
+"links": [],
+"mealPrep": false,
+"mealPrep_basis": [],
+"minutes": null,
+"mirror": {
+"caption": "Healthy protein shake without protein powder 💪💪  #healthyrecipe #momlife #healthydiet #easyrecipe #mom",
+"id": "tt-7696723245894012190",
+"platform": "tiktok",
+"url": "https://www.tiktok.com/@mini.tiger.zen/video/7696723245894012190"
+},
+"notes": [],
+"page_minutes": null,
+"platform": "tiktok",
+"recipePage": "r/tt-7707507908870753549.html",
+"recipeSourceUrl": null,
+"recipe_from": "video",
+"status": "ok",
+"steps": [
+"First, start with two handfuls of pecans for that rich nutty flavor, then add a banana, tofu, milk, unsweetened cacao powder, and a pinch of salt.",
+"Blend it until it's super creamy and that's it."
+],
+"summary": "",
+"tags": [
+"lunch"
+],
+"thumb": "thumbs/tt-7707507908870753549.webp",
+"thumb_h": 711,
+"thumb_w": 400,
+"time": "unknown",
+"time_basis": "",
+"title": "Lazy mom lunch",
+"url": "https://www.tiktok.com/@mini.tiger.zen/video/7707507908870753549",
+"video": {
+"checked_at": "2026-11-14T15:49:06+00:00",
+"ingredients": [
+"banana",
+"tofu",
+"milk",
+"salt"
+],
+"kind": "video",
+"narration": "Here's how you get 24 grams of protein from real whole foods without protein powder and it actually tastes good. First, start with two handfuls of pecans for that rich nutty flavor, then add a banana, tofu, milk, unsweetened cacao powder, and a pinch of salt. Blend it until it's super creamy and that's it.",
+"onscreen": [],
+"steps": [
+"First, start with two handfuls of pecans for that rich nutty flavor, then add a banana, tofu, milk, unsweetened cacao powder, and a pinch of salt.",
+"Blend it until it's super creamy and that's it."
+],
 "tools": [
 "ffmpeg",
 "whisper"
@@ -73891,6 +75315,54 @@
 "url": "https://www.youtube.com/shorts/OL1-0qlI-yA",
 "yield": null
 },
+"yt-OO3xboFHWuE": {
+"account": "Mountain_Mothering",
+"account_name": "Mountain Mothering ",
+"account_url": "https://www.youtube.com/channel/UCq16tPgNuGoaISwMmnZOrBg",
+"caption": "Free will is making ice cream outside after a snowstorm!\nCream, sugar and vanilla extract add yolk if you want it more custardy! \n\n#icecreamrecipe #funwithkids #momof3 #snackideas",
+"category": "meal",
+"color": "#75323a",
+"creator": "mountain_mothering",
+"date": "2026-11-08",
+"extraction": "none",
+"fetched_at": "2026-11-14T15:48:15+00:00",
+"id": "yt-OO3xboFHWuE",
+"ingredients": [],
+"kind": "creator",
+"links": [],
+"mealPrep": false,
+"mealPrep_basis": [],
+"minutes": null,
+"notes": [],
+"page_minutes": null,
+"platform": "youtube",
+"recipeSourceUrl": null,
+"recipe_from": "caption",
+"status": "ok",
+"steps": [],
+"summary": "Cream, sugar and vanilla extract add yolk if you want it more custardy!",
+"tags": [],
+"thumb": "thumbs/yt-OO3xboFHWuE.webp",
+"thumb_h": 225,
+"thumb_w": 400,
+"time": "unknown",
+"time_basis": "",
+"title": "Free will is making ice cream outside after a snowstorm",
+"url": "https://www.youtube.com/shorts/OO3xboFHWuE",
+"video": {
+"checked_at": "2026-11-14T15:49:16+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
+"yield": null
+},
 "yt-OjHPt1LvXz0": {
 "account": "thepickyeater",
 "account_name": "Anjali Shah",
@@ -74531,13 +76003,14 @@
 "links": [],
 "mealPrep": false,
 "mealPrep_basis": [],
+"merged_into": "tt-7491729381971283246",
 "minutes": null,
 "notes": [],
 "page_minutes": null,
 "platform": "youtube",
 "recipeSourceUrl": null,
 "recipe_from": "caption",
-"status": "ok",
+"status": "merged",
 "steps": [],
 "summary": "This salad is perfect for summer! Healthy, low carb and delicious!",
 "tags": [],
@@ -76547,6 +78020,18 @@
 "time_basis": "says 5 min",
 "title": "The best 5 minute high protein healthy breakfast ever",
 "url": "https://www.youtube.com/shorts/g-_ihDd6_7I",
+"video": {
+"checked_at": "2026-11-14T15:50:16+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "yt-gi6Ga56jhZc": {
@@ -79514,6 +80999,12 @@
 "tt-7702449566506962207": "not a food post",
 "tt-7702979387687308575": "not a food post",
 "tt-7704461560453844255": "not a food post",
+"tt-7705954247174573342": "not a food post",
+"tt-7706353931504356638": "not a food post",
+"tt-7706656240516074782": "not a food post",
+"tt-7707037236465814814": "not a food post",
+"tt-7707357998603078942": "not a food post",
+"tt-7707925655907732766": "not a food post",
 "yt--5sP4x2l_K0": "not a food post",
 "yt--63or12q_A0": "not a food post",
 "yt--W0uEvpIAUU": "not a food post",
@@ -79731,207 +81222,207 @@
 },
 "sources": {
 "instagram_profile https://www.instagram.com/babymealsfreezer/": {
-"checked_at": "2026-11-07T15:47:35+00:00",
+"checked_at": "2026-11-14T15:46:52+00:00",
 "status": "skipped",
 "why": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists"
 },
 "instagram_profile https://www.instagram.com/busymamaeasybites/": {
-"checked_at": "2026-11-07T15:47:35+00:00",
+"checked_at": "2026-11-14T15:46:52+00:00",
 "status": "skipped",
 "why": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists"
 },
 "instagram_profile https://www.instagram.com/kidfriendly.meals/": {
-"checked_at": "2026-11-07T15:47:35+00:00",
+"checked_at": "2026-11-14T15:46:52+00:00",
 "status": "skipped",
 "why": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists"
 },
 "instagram_profile https://www.instagram.com/mini.tiger.zen/": {
-"checked_at": "2026-11-07T15:47:35+00:00",
+"checked_at": "2026-11-14T15:46:52+00:00",
 "status": "skipped",
 "why": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists"
 },
 "instagram_profile https://www.instagram.com/mountain_mothering/": {
-"checked_at": "2026-11-07T15:47:35+00:00",
+"checked_at": "2026-11-14T15:46:52+00:00",
 "status": "skipped",
 "why": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists"
 },
 "instagram_profile https://www.instagram.com/soniamazri_/": {
-"checked_at": "2026-11-07T15:47:35+00:00",
+"checked_at": "2026-11-14T15:46:52+00:00",
 "status": "skipped",
 "why": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists"
 },
 "instagram_profile https://www.instagram.com/thepickyeater/": {
-"checked_at": "2026-11-07T15:47:35+00:00",
+"checked_at": "2026-11-14T15:46:52+00:00",
 "status": "skipped",
 "why": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists"
 },
 "instagram_profile https://www.instagram.com/toddler.snack.therapy/": {
-"checked_at": "2026-11-07T15:47:35+00:00",
+"checked_at": "2026-11-14T15:46:52+00:00",
 "status": "skipped",
 "why": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists"
 },
 "instagram_profile https://www.instagram.com/tuankil28/": {
-"checked_at": "2026-11-07T15:47:35+00:00",
+"checked_at": "2026-11-14T15:46:52+00:00",
 "status": "skipped",
 "why": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists. No public TikTok, YouTube or blog found for this account (Oct 2026)"
 },
 "instagram_reel https://www.instagram.com/reel/DYM-EdVRv5w/": {
 "added": 0,
-"checked_at": "2026-11-07T15:47:35+00:00",
+"checked_at": "2026-11-14T15:46:52+00:00",
 "detail": "kept",
 "status": "ok"
 },
 "instagram_reel https://www.instagram.com/reel/DZNgOJWxKeb/": {
 "added": 0,
-"checked_at": "2026-11-07T15:47:35+00:00",
+"checked_at": "2026-11-14T15:46:52+00:00",
 "detail": "kept",
 "status": "ok"
 },
 "instagram_reel https://www.instagram.com/reel/DbL8lkyxo5u/": {
 "added": 0,
-"checked_at": "2026-11-07T15:47:34+00:00",
+"checked_at": "2026-11-14T15:46:51+00:00",
 "detail": "kept",
 "status": "ok"
 },
 "instagram_reel https://www.instagram.com/reel/DbbXt7wpuIX/": {
 "added": 0,
-"checked_at": "2026-11-07T15:47:35+00:00",
+"checked_at": "2026-11-14T15:46:52+00:00",
 "detail": "kept",
 "status": "ok"
 },
 "instagram_reel https://www.instagram.com/reel/Dbq5xTqNN8Y/": {
 "added": 0,
-"checked_at": "2026-11-07T15:47:35+00:00",
+"checked_at": "2026-11-14T15:46:52+00:00",
 "detail": "kept",
 "status": "ok"
 },
 "instagram_reel https://www.instagram.com/reel/DcFDtQDv_7p/": {
 "added": 0,
-"checked_at": "2026-11-07T15:47:35+00:00",
+"checked_at": "2026-11-14T15:46:52+00:00",
 "detail": "kept",
 "status": "ok"
 },
 "instagram_reel https://www.instagram.com/reel/DcbRdMQoCC2/": {
 "added": 0,
-"checked_at": "2026-11-07T15:47:35+00:00",
+"checked_at": "2026-11-14T15:46:52+00:00",
 "detail": "kept",
 "status": "ok"
 },
 "instagram_reel https://www.instagram.com/reel/DdObMJ6SGYA/": {
 "added": 0,
-"checked_at": "2026-11-07T15:47:34+00:00",
+"checked_at": "2026-11-14T15:46:51+00:00",
 "detail": "kept",
 "status": "ok"
 },
 "instagram_reel https://www.instagram.com/reel/DdnIx7EugPm/": {
 "added": 0,
-"checked_at": "2026-11-07T15:47:35+00:00",
+"checked_at": "2026-11-14T15:46:51+00:00",
 "detail": "kept",
 "status": "ok"
 },
 "instagram_reel https://www.instagram.com/reel/DeQGbyevSm9/": {
 "added": 0,
-"checked_at": "2026-11-07T15:47:35+00:00",
+"checked_at": "2026-11-14T15:46:51+00:00",
 "detail": "kept",
 "status": "ok"
 },
 "tiktok_profile https://www.tiktok.com/@babymealsfreezer": {
 "added": 0,
-"checked_at": "2026-11-07T15:48:14+00:00",
+"checked_at": "2026-11-14T15:47:33+00:00",
 "detail": "listed 31 posts (oldest 2026-03-10)",
 "status": "ok"
 },
 "tiktok_profile https://www.tiktok.com/@busymamaeasybites": {
 "added": 0,
-"checked_at": "2026-11-07T15:48:04+00:00",
+"checked_at": "2026-11-14T15:47:21+00:00",
 "detail": "listed 70 posts (oldest 2026-04-14)",
 "status": "ok"
 },
 "tiktok_profile https://www.tiktok.com/@mini.tiger.zen": {
-"added": 0,
-"checked_at": "2026-11-07T15:48:10+00:00",
-"detail": "listed 85 posts (oldest 2023-04-08)",
+"added": 3,
+"checked_at": "2026-11-14T15:47:30+00:00",
+"detail": "listed 93 posts (oldest 2023-04-08)",
 "status": "ok"
 },
 "tiktok_profile https://www.tiktok.com/@mountain_mothering": {
 "added": 0,
-"checked_at": "2026-11-07T15:48:16+00:00",
-"detail": "listed 15 posts (oldest 2026-09-23)",
+"checked_at": "2026-11-14T15:47:36+00:00",
+"detail": "listed 16 posts (oldest 2026-09-23)",
 "status": "ok"
 },
 "tiktok_profile https://www.tiktok.com/@pickyeaterblog": {
 "added": 0,
-"checked_at": "2026-11-07T15:48:49+00:00",
+"checked_at": "2026-11-14T15:48:09+00:00",
 "detail": "listed 607 posts (oldest 2022-01-02)",
 "status": "ok"
 },
 "tiktok_profile https://www.tiktok.com/@soniamazri": {
 "added": 0,
-"checked_at": "2026-11-07T15:47:57+00:00",
+"checked_at": "2026-11-14T15:47:16+00:00",
 "detail": "listed 385 posts (oldest 2022-11-14)",
 "status": "ok"
 },
 "tiktok_profile https://www.tiktok.com/@toddler.snack.therapy": {
 "added": 0,
-"checked_at": "2026-11-07T15:48:53+00:00",
+"checked_at": "2026-11-14T15:48:13+00:00",
 "detail": "listed 34 posts (oldest 2025-09-24)",
 "status": "ok"
 },
 "website_category https://pickyeaterblog.com/category/kid-friendly-recipes/": {
 "added": 6,
-"checked_at": "2026-11-07T15:49:23+00:00",
-"detail": "listed 113 pages, considered newest 113",
+"checked_at": "2026-11-14T15:48:44+00:00",
+"detail": "listed 117 pages, considered newest 117",
 "status": "ok"
 },
 "website_category https://www.mjandhungryman.com/category/baby-kid-friendly-recipes/": {
-"added": 2,
-"checked_at": "2026-11-07T15:49:13+00:00",
+"added": 1,
+"checked_at": "2026-11-14T15:48:34+00:00",
 "detail": "listed 178 pages, considered newest 150",
 "status": "ok"
 },
 "website_sitemap https://babyfoode.com/post-sitemap.xml": {
 "added": 1,
-"checked_at": "2026-11-07T15:49:26+00:00",
+"checked_at": "2026-11-14T15:48:47+00:00",
 "detail": "listed 116 pages, considered newest 15",
 "status": "ok"
 },
 "website_sitemap https://weelicious.com/post-sitemap.xml": {
 "added": 0,
-"checked_at": "2026-11-07T15:49:29+00:00",
+"checked_at": "2026-11-14T15:48:49+00:00",
 "detail": "listed 108 pages, considered newest 15",
 "status": "ok"
 },
 "website_sitemap https://www.healthylittlefoodies.com/post-sitemap.xml": {
 "added": 0,
-"checked_at": "2026-11-07T15:49:24+00:00",
+"checked_at": "2026-11-14T15:48:45+00:00",
 "detail": "listed 85 pages, considered newest 18",
 "status": "ok"
 },
 "youtube_channel https://www.youtube.com/@busymamaeasybites/shorts": {
 "added": 0,
-"checked_at": "2026-11-07T15:48:59+00:00",
+"checked_at": "2026-11-14T15:48:20+00:00",
 "detail": "listed 2 videos",
 "status": "ok"
 },
 "youtube_channel https://www.youtube.com/@kidfriendlymeals/shorts": {
 "added": 0,
-"checked_at": "2026-11-07T15:48:58+00:00",
+"checked_at": "2026-11-14T15:48:20+00:00",
 "detail": "listed 8 videos",
 "status": "ok"
 },
 "youtube_channel https://www.youtube.com/@mountain_mothering/shorts": {
-"added": 0,
-"checked_at": "2026-11-07T15:48:54+00:00",
-"detail": "listed 33 videos",
+"added": 1,
+"checked_at": "2026-11-14T15:48:15+00:00",
+"detail": "listed 34 videos",
 "status": "ok"
 },
 "youtube_channel https://www.youtube.com/@thepickyeater/shorts": {
 "added": 0,
-"checked_at": "2026-11-07T15:48:57+00:00",
+"checked_at": "2026-11-14T15:48:19+00:00",
 "detail": "listed 291 videos",
 "status": "ok"
 }
 },
-"updated_at": "2026-11-07T15:52:23+00:00",
-"video_pending": 471
+"updated_at": "2026-11-14T15:51:38+00:00",
+"video_pending": 445
 }
