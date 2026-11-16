@@ -45,10 +45,16 @@
         "site": "https://www.arvadaco.gov/calendar.aspx",
         "example": "https://www.arvadaco.gov/1589/Food-Trucks-and-Fireworks",
         "note": "Added at Chanel's request 2026-11-06. Check the arvadaco.gov calendar (Community Events + Majestic View Nature Center) and special-events pages for free family events; Olde Town Arvada holiday events are listed on oldetownarvada.org / visitarvada.org."
+      },
+      {
+        "name": "Destinations with Drew",
+        "instagram": "https://www.instagram.com/destinationswithdrew/",
+        "facebook": "https://www.facebook.com/profile.php?id=61576835055380",
+        "note": "Destinations with Drew - Travel Tips & Hidden Gems. Colorado-based family travel reels, mostly around Colorado Springs plus national road trips. Added at Chanel's request 2026-11-15. Facebook og meta is readable with the facebookexternalhit UA, but reel captions are not, so Instagram @destinationswithdrew is the caption source."
       }
     ],
-    "updated": "2026-11-13",
-    "scrub_window": "2026-11-13 Mon/Wed/Fri pass: Instagram Nov 11–13 posts via public profile embeds (all five) + City of Arvada calendar. New pin: Sheridan Green Park Westminster (CKAR Nov 13). New events: Sheridan Green Park Grand Opening Nov 13, Disney On Ice Nov 13–15 (CML), Blossoms of Light Nov 20–Jan 10 (Little Rad). Prior scrubs retained.",
+    "updated": "2026-11-16",
+    "scrub_window": "2026-11-16 Mon/Wed/Fri pass: Instagram Nov 13–16 posts via public profile embeds (Days, CKAR, CML, Little Rad, plus new source Destinations with Drew; Colorado Kids Explore embed was rate-walled) + City of Arvada calendar. New pin: Fowler Trail, Eldorado Canyon (CKAR Nov 14). Updated City View Park (CKAR Nov 15). New event: Mile High Tree Lighting Nov 20 (Days Nov 15). Prior scrubs retained.",
     "notes": "Why-notes paraphrased/quoted from source captions and newsletters. Drive times are rough estimates from Arvada 80004; verify in Google Maps. Do not invent venues — every pin cites a named source. Seasonal spots kept if still relevant for fall 2026 or evergreen otherwise. Home base updated to W 64th Ave & Ward Rd; drive times refreshed via public OSRM routing on 2026-10-02."
   },
   "places": [
@@ -329,8 +335,8 @@
       "name": "City View Park",
       "lat": 39.8450333,
       "lng": -104.9642197,
-      "address": "Welby / North Metro (City View Park), Adams County, CO",
-      "why": "On Colorado Kids Are Rad’s 10-park list. Neighborhood park with multi-level play and a quieter setting.",
+      "address": "8150 City View Dr, Denver, CO 80229",
+      "why": "Colorado Kids Are Rad Nov 15: a park they keep coming back to, with slides, lots of climbing, and funky art. It was also on their 10-park list. Neighborhood park with multi-level play.",
       "toddler_notes": "Quieter option north of Denver.",
       "tags": [
         "park",
@@ -341,18 +347,22 @@
       "cost": "Free",
       "links": [
         {
+          "label": "CKAR: City View Park (Nov 15)",
+          "url": "https://www.instagram.com/p/DfyOXaHkQ6_/"
+        },
+        {
           "label": "Instagram @coloradokidsarerad",
           "url": "https://www.instagram.com/coloradokidsarerad/"
         }
       ],
-      "source": "Colorado Kids Are Rad (@coloradokidsarerad) — 10-park list",
+      "source": "Colorado Kids Are Rad (@coloradokidsarerad): 10-park list and Instagram post 2026-11-15",
       "source_accounts": [
         "@coloradokidsarerad",
         "Facebook: Colorado Kids Are Rad"
       ],
-      "drive_note": "~23 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~9.6 mi straight-line)",
+      "drive_note": "~22 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~9.6 mi straight-line)",
       "farther_than_30min": false,
-      "approx_drive_minutes": 23,
+      "approx_drive_minutes": 22,
       "straight_line_miles": 9.6
     },
     {
@@ -4678,6 +4688,50 @@
       "farther_than_30min": false,
       "approx_drive_minutes": 21,
       "straight_line_miles": 7.0
+    },
+    {
+      "id": "fowler-trail-eldorado-canyon",
+      "name": "Fowler Trail, Eldorado Canyon State Park",
+      "lat": 39.9295483,
+      "lng": -105.287275,
+      "address": "Fowler Trail, Eldorado Canyon State Park, 9 Kneale Rd, Eldorado Springs, CO 80025",
+      "why": "Colorado Kids Are Rad Nov 14: an easy hike with canyon views from the very start, so you can turn around whenever little legs are done. Good for kids or for showing visitors some Colorado magic.",
+      "source": "Colorado Kids Are Rad (@coloradokidsarerad) Instagram post 2026-11-14; Colorado Parks and Wildlife (Eldorado Canyon State Park); AllTrails",
+      "source_accounts": [
+        "@coloradokidsarerad"
+      ],
+      "links": [
+        {
+          "label": "CKAR: Fowler Trail hike with kids (Nov 14)",
+          "url": "https://www.instagram.com/p/Dfufn5SRdRo/"
+        },
+        {
+          "label": "CPW: Eldorado Canyon trails",
+          "url": "https://cpw.state.co.us/state-parks/eldorado-canyon-state-park/eldorado-canyon-state-park-activities-trails"
+        },
+        {
+          "label": "AllTrails: Fowler Trail",
+          "url": "https://www.alltrails.com/trail/us/colorado/fowler-trail"
+        }
+      ],
+      "hours": "Park open daily, sunrise to sunset. The visitor center is open 9 AM–4 PM and closed Mon–Wed. Timed-entry reservations are needed only on summer weekends (May 1–Oct 1).",
+      "cost": "Colorado State Parks pass required: daily vehicle pass $10–$12 with Colorado plates, or an annual pass",
+      "toddler_notes": "CPW lists the Fowler Trail as easy and stroller- and wheelchair-accessible (unpaved, 0.9 mi one way to the park boundary), with nature-walk signs and fixed binoculars for watching climbers. CKAR warns of some exposed canyon drop-offs, so keep a ~20-month-old in a carrier or holding hands near the edges. The lot fills on weekends 10 AM–2 PM from October to May, so go early. Little shade.",
+      "hike": "Fowler Trail 0.9 mi one way, easy (CPW). CKAR/AllTrails list ~4 mi out and back, 314 ft gain, if you continue past the park boundary.",
+      "tags": [
+        "hike",
+        "trail",
+        "nature",
+        "outdoor",
+        "toddler-hike",
+        "stroller-friendly",
+        "state-park",
+        "boulder"
+      ],
+      "drive_note": "~35 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~11.2 mi straight-line)",
+      "farther_than_30min": true,
+      "approx_drive_minutes": 35,
+      "straight_line_miles": 11.2
     }
   ]
 }

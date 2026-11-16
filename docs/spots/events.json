@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated": "2026-11-13",
-    "as_of": "2026-11-13",
+    "updated": "2026-11-16",
+    "as_of": "2026-11-16",
     "timezone": "America/Denver",
     "notes": "Upcoming, dated family events kept separate from map pins. Confirm times, access, and weather with the linked organizer before heading out."
   },
@@ -750,7 +750,7 @@
       "lng": -105.1925,
       "link": "https://coloradorailroadmuseum.org/polar-express/",
       "drive_note": "~11 min from the 64th & Ward base",
-      "source": "Little Rad Adventure IG Nov 5 (https://www.instagram.com/p/DfXVx5GJB55/); Colorado Railroad Museum",
+      "source": "Little Rad Adventure IG Nov 5 (https://www.instagram.com/p/DfXVx5GJB55/); Colorado Railroad Museum; also Destinations with Drew IG Nov 7 (https://www.instagram.com/p/DfdRMn3KVPf/)",
       "note": "Ticketed evening steam-train + heated pavilion show (hot cocoa, cookies, Silver Bell, Santa). Lap riders under age 2 free; Standard Seating about $80 ages 2–15 / $100 ages 16+ (10% off before Thanksgiving)—sells out yearly. Long multi-part evening for a ~20-month-old; earliest 5pm show is the most realistic if nap timing works. Museum already pinned."
     },
     {
@@ -926,6 +926,19 @@
       "drive_note": "~20 min from the 64th & Ward base",
       "source": "Colorado Mama Life IG Nov 12 weekend list (https://www.instagram.com/p/Dfp25Q5T4wP/); Ball Arena; disneyonice.com",
       "note": "Ticketed via Ticketmaster. Ages 2 and up need a ticket. The Sun 10:30 AM show fits before nap; a long arena show for a 20-month-old, so aisle seats help."
+    },
+    {
+      "id": "mile-high-tree-lighting-2026",
+      "title": "Mile High Tree Lighting Ceremony",
+      "date": "2026-11-20",
+      "time": "5:30 PM lighting; the tree's light shows run every 15 min, 5–10 PM nightly through Dec 31",
+      "place": "Tivoli Quad, Auraria Campus, 1000 Larimer St, Denver, CO 80204",
+      "lat": 39.7457,
+      "lng": -105.0064,
+      "link": "https://visitdenver.com/milehighholidays/mile-high-tree/",
+      "drive_note": "~19 min from the 64th & Ward base",
+      "source": "Days.in.denver IG Nov 15 (https://www.instagram.com/p/DfxTH65hhd0/); Visit Denver Mile High Holidays",
+      "note": "Free. It's the same night Christkindlmarket opens and the first 7 PM drone show, all on the Tivoli Quad. The 110-ft tree holds up to 140 people inside for the light shows. Paid parking on campus. If you miss the 5:30 lighting, the tree runs light shows nightly through Dec 31, so an earlier evening visit is easier with a toddler."
     }
   ]
 }

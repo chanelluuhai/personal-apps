@@ -1,9 +1,9 @@
 # Denver/Arvada Toddler Outing Spots
 
-Updated: 2026-11-13  
+Updated: 2026-11-16  
 Base: W 64th Ave & Ward Rd, Arvada, CO 80004  
 Audience: Toddler ~20 months; prefer ~30 min drive  
-Places: 111
+Places: 112
 
 Each pin has a why-note from a named social/newsletter source. Drive times are rough estimates.
 
@@ -551,6 +551,18 @@ Each pin has a why-note from a named social/newsletter source. Drive times are r
 - [CKAR: Sheridan Green Park (Nov 13)](https://www.instagram.com/p/Dfr3-2qxyue/)
 - [City of Westminster: Sheridan Green Park project](https://www.westminsterco.gov/sheridangreen)
 
+## City View Park (near)
+
+- **Address:** 8150 City View Dr, Denver, CO 80229
+- **Drive:** ~22 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~9.6 mi straight-line)
+- **Why:** Colorado Kids Are Rad Nov 15: a park they keep coming back to, with slides, lots of climbing, and funky art. It was also on their 10-park list. Neighborhood park with multi-level play.
+- **Source:** Colorado Kids Are Rad (@coloradokidsarerad): 10-park list and Instagram post 2026-11-15
+- **Hours:** Dawn–dusk
+- **Cost:** Free
+- **Toddler tip:** Quieter option north of Denver.
+- [CKAR: City View Park (Nov 15)](https://www.instagram.com/p/DfyOXaHkQ6_/)
+- [Instagram @coloradokidsarerad](https://www.instagram.com/coloradokidsarerad/)
+
 ## Denver Central Library (near)
 
 - **Address:** 10 W 14th Ave Pkwy, Denver, CO 80204
@@ -603,17 +615,6 @@ Each pin has a why-note from a named social/newsletter source. Drive times are r
 - [Days.in.denver November newsletter](https://days-in-denver.beehiiv.com/p/days-in-denver-november-newsletter)
 - [SweetPlay Broomfield hours & pricing](https://broomfield.sweetplay.fun/hours-pricing/)
 - [SweetPlay toddler area](https://broomfield.sweetplay.fun/activities/toddler-area/)
-
-## City View Park (near)
-
-- **Address:** Welby / North Metro (City View Park), Adams County, CO
-- **Drive:** ~23 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~9.6 mi straight-line)
-- **Why:** On Colorado Kids Are Rad’s 10-park list. Neighborhood park with multi-level play and a quieter setting.
-- **Source:** Colorado Kids Are Rad (@coloradokidsarerad) — 10-park list
-- **Hours:** Dawn–dusk
-- **Cost:** Free
-- **Toddler tip:** Quieter option north of Denver.
-- [Instagram @coloradokidsarerad](https://www.instagram.com/coloradokidsarerad/)
 
 ## Denver Rock Park (near)
 
@@ -1268,6 +1269,20 @@ Each pin has a why-note from a named social/newsletter source. Drive times are r
 - [City of Boulder: Crest View Park](https://bouldercolorado.gov/locations/crest-view-park)
 - [Slides and Sunshine review](https://slidesandsunshine.com/hidden-boulder-playgrounds/)
 - [CKAR fall playgrounds post (Oct 22)](https://www.instagram.com/p/De0Vi5rRnhj/)
+
+## Fowler Trail, Eldorado Canyon State Park (FARTHER)
+
+- **Address:** Fowler Trail, Eldorado Canyon State Park, 9 Kneale Rd, Eldorado Springs, CO 80025
+- **Drive:** ~35 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~11.2 mi straight-line)
+- **Why:** Colorado Kids Are Rad Nov 14: an easy hike with canyon views from the very start, so you can turn around whenever little legs are done. Good for kids or for showing visitors some Colorado magic.
+- **Source:** Colorado Kids Are Rad (@coloradokidsarerad) Instagram post 2026-11-14; Colorado Parks and Wildlife (Eldorado Canyon State Park); AllTrails
+- **Hours:** Park open daily, sunrise to sunset. The visitor center is open 9 AM–4 PM and closed Mon–Wed. Timed-entry reservations are needed only on summer weekends (May 1–Oct 1).
+- **Cost:** Colorado State Parks pass required: daily vehicle pass $10–$12 with Colorado plates, or an annual pass
+- **Toddler tip:** CPW lists the Fowler Trail as easy and stroller- and wheelchair-accessible (unpaved, 0.9 mi one way to the park boundary), with nature-walk signs and fixed binoculars for watching climbers. CKAR warns of some exposed canyon drop-offs, so keep a ~20-month-old in a carrier or holding hands near the edges. The lot fills on weekends 10 AM–2 PM from October to May, so go early. Little shade.
+- **Trail:** Fowler Trail 0.9 mi one way, easy (CPW). CKAR/AllTrails list ~4 mi out and back, 314 ft gain, if you continue past the park boundary.
+- [CKAR: Fowler Trail hike with kids (Nov 14)](https://www.instagram.com/p/Dfufn5SRdRo/)
+- [CPW: Eldorado Canyon trails](https://cpw.state.co.us/state-parks/eldorado-canyon-state-park/eldorado-canyon-state-park-activities-trails)
+- [AllTrails: Fowler Trail](https://www.alltrails.com/trail/us/colorado/fowler-trail)
 
 ## Cheyenne-Arapaho (Tsistsistas-Hinono'ei) Park (FARTHER)
 

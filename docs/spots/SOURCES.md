@@ -10,6 +10,33 @@
 | Colorado Mama Life (Angelica) | https://www.instagram.com/coloradomamalife/ | https://www.facebook.com/profile.php?id=61577651781310 | https://www.tiktok.com/@coloradomamalife |
 | Little Rad Adventure | https://www.instagram.com/littleradadventure/ | https://www.facebook.com/LittleRadAdventure | https://littleradadventure.com/ |
 | City of Arvada community events | | | https://www.arvadaco.gov/calendar.aspx (calendar incl. Majestic View Nature Center); example https://www.arvadaco.gov/1589/Food-Trucks-and-Fireworks; Olde Town events via https://www.oldetownarvada.org/events |
+| Destinations with Drew - Travel Tips & Hidden Gems | https://www.instagram.com/destinationswithdrew/ | https://www.facebook.com/profile.php?id=61576835055380 (login-walled; og meta only) | Added 2026-11-15 at Chanel's request; mostly Colorado Springs and national road trips |
+
+## Scrub window (2026-11-16 Mon/Wed/Fri pass)
+
+**Checked**
+- Instagram: public profile embed pages, cutoff Nov 13 00:00 America/Denver:
+  - @days.in.denver: Nov 15 Mile High Tree lighting Fri Nov 20, 5:30pm, plus Christkindlmarket opening day and the 7pm drone show (new tree-lighting event, confirmed on visitdenver.com; the market and drone shows were already on the map). Nov 13 "get out of the house" reel: no venue.
+  - @colorado.kids.explore: the embed returned a Facebook/Instagram rate or login wall on 2 tries (no contextJSON). Not scrubbed this pass, and no captions guessed.
+  - @coloradokidsarerad: Nov 14 Fowler Trail, Eldorado Canyon State Park (new pin as a toddler hike; CPW confirms it is easy and stroller-accessible; ~35 min, marked farther than 30 min). Nov 15 City View Park, 8150 City View Dr, Denver 80229 (already pinned; address corrected and CKAR link added). Nov 13 Sheridan Green is already on the map.
+  - @coloradomamalife: Nov 16 Santa/Grinch phone lines (no venue). Nov 15 Tumble HAUS punch-pass giveaway, entries close Nov 22 (the venue is already on the map; giveaway not added). Nov 14 at-home haircut #ugc and Nov 13 American Lore Cowboy Christmas bar pop-up (adult date night): skipped.
+  - @littleradadventure: Nov 14 Loveland snow and Nov 15 "give kids adventures" reels: no toddler venue near Arvada.
+  - @destinationswithdrew (new source, found via web search as Drew's Instagram): Nov 7–12 posts. Polar Express at the Colorado Railroad Museum is already on the map (Drew added as a second source). North Pole Santa's Workshop in Cascade, Colorado Springs restaurants, and the Arizona posts were skipped as far.
+- Destinations with Drew Facebook: og:title and og:description are readable with the facebookexternalhit UA (profile only: Colorado-based travel, 108K followers). The video URL returned no og meta. Captions are login-walled, so none were guessed. No TikTok found.
+- City of Arvada calendar (via WebFetch; curl hit a Cloudflare block): Community Events are leaf drop-offs only. Nature Storytime Nov 19 is already on the map. Astronomy Night Nov 20 (6–7pm), adult programs, and Kids Mindfulness (ages 7+) were skipped.
+- Days.in.denver beehiiv: the sitemap has no new issue.
+- Little Rad Adventure site feed: the newest post is still Pennsylvania (Nov 5).
+- Facebook (other accounts): login-walled; not re-tried. TikTok: profile meta only.
+- Drive times via public OSRM from the 64th & Ward base.
+
+**New pins (1)**
+- Fowler Trail, Eldorado Canyon State Park: easy, stroller-accessible canyon trail (0.9 mi one way), with some exposed drop-offs. State parks pass required (CKAR Nov 14; CPW) (~35 min, farther than 30 min)
+
+**Updated pins (1)**
+- City View Park: address set to 8150 City View Dr, Denver 80229, with the CKAR Nov 15 link added
+
+**New events (1)**
+- Fri Nov 20, 5:30pm: Mile High Tree Lighting Ceremony at Tivoli Quad, Auraria. Free (Days Nov 15; Visit Denver) (~19 min)
 
 ## Scrub window (2026-11-13 Mon/Wed/Fri pass)
 
