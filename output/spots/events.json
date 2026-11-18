@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated": "2026-11-16",
-    "as_of": "2026-11-16",
+    "updated": "2026-11-18",
+    "as_of": "2026-11-18",
     "timezone": "America/Denver",
     "notes": "Upcoming, dated family events kept separate from map pins. Confirm times, access, and weather with the linked organizer before heading out."
   },
@@ -939,6 +939,20 @@
       "drive_note": "~19 min from the 64th & Ward base",
       "source": "Days.in.denver IG Nov 15 (https://www.instagram.com/p/DfxTH65hhd0/); Visit Denver Mile High Holidays",
       "note": "Free. It's the same night Christkindlmarket opens and the first 7 PM drone show, all on the Tivoli Quad. The 110-ft tree holds up to 140 people inside for the light shows. Paid parking on campus. If you miss the 5:30 lighting, the tree runs light shows nightly through Dec 31, so an earlier evening visit is easier with a toddler."
+    },
+    {
+      "id": "outside-days-2027",
+      "title": "Outside Days festival (kids 12 & under free)",
+      "date": "2027-06-04",
+      "end_date": "2027-06-06",
+      "time": "Fri–Sun June 4–6, 2027 (Sat doors 1:00 PM); tickets: presale now, general on-sale Fri Nov 20, 2026 at 10:00 AM MT",
+      "place": "Auraria Campus, Denver, CO 80204",
+      "lat": 39.7457,
+      "lng": -105.0064,
+      "link": "https://outsidedays.outsideonline.com/",
+      "drive_note": "~19 min from the 64th & Ward base",
+      "source": "Days.in.denver IG Nov 17 (https://www.instagram.com/p/Df2Do76B2hR/); outsidedays.outsideonline.com; Denverite Nov 16",
+      "note": "Outdoor music + family-fun festival (Jack Johnson Sat June 5, Jungle, Sierra Ferrell). Kids 12 and under free with a ticketed adult. Adult GA from $79.50/day ($89.50 Sat), 3-day from $194.50; tiered prices rise as tiers sell out. Days.in.denver lists a local presale Nov 19, 10am–10pm. Bring ear protection for a toddler."
     }
   ]
 }

@@ -53,8 +53,8 @@
         "note": "Destinations with Drew - Travel Tips & Hidden Gems. Colorado-based family travel reels, mostly around Colorado Springs plus national road trips. Added at Chanel's request 2026-11-15. Facebook og meta is readable with the facebookexternalhit UA, but reel captions are not, so Instagram @destinationswithdrew is the caption source."
       }
     ],
-    "updated": "2026-11-16",
-    "scrub_window": "2026-11-16 Mon/Wed/Fri pass: Instagram Nov 13–16 posts via public profile embeds (Days, CKAR, CML, Little Rad, plus new source Destinations with Drew; Colorado Kids Explore embed was rate-walled) + City of Arvada calendar. New pin: Fowler Trail, Eldorado Canyon (CKAR Nov 14). Updated City View Park (CKAR Nov 15). New event: Mile High Tree Lighting Nov 20 (Days Nov 15). Prior scrubs retained.",
+    "updated": "2026-11-18",
+    "scrub_window": "2026-11-18 Mon/Wed/Fri pass: Instagram Nov 16–18 posts via public profile embeds (Days, CKAR, CML, Little Rad, Destinations with Drew; Colorado Kids Explore embed rate-walled again) + City of Arvada calendar + Days beehiiv sitemap + Little Rad site feed. Facebook/TikTok login-walled.",
     "notes": "Why-notes paraphrased/quoted from source captions and newsletters. Drive times are rough estimates from Arvada 80004; verify in Google Maps. Do not invent venues — every pin cites a named source. Seasonal spots kept if still relevant for fall 2026 or evergreen otherwise. Home base updated to W 64th Ave & Ward Rd; drive times refreshed via public OSRM routing on 2026-10-02."
   },
   "places": [
@@ -3663,15 +3663,20 @@
       "lat": 39.7609797,
       "lng": -104.8608595,
       "address": "11255 E Martin Luther King Jr Blvd, Denver, CO 80238",
-      "why": "Days.in.denver Oct 13 reel: hike with nature-play extras — a giant bird's nest climb and a build-your-own-shelter / tepee area, not just a plain trail.",
-      "source": "Days.in.denver (@days.in.denver) Instagram reel 2026-10-13",
+      "why": "Days.in.denver Oct 13 reel: hike with nature-play extras — a giant bird's nest climb and a build-your-own-shelter / tepee area, not just a plain trail. CKAR Nov 16 post: free, giant bird's nest climb, outdoor nature play stations, and views; trails optional for toddlers.",
+      "source": "Days.in.denver (@days.in.denver) Instagram reel 2026-10-13; Colorado Kids Are Rad (@coloradokidsarerad) Instagram post 2026-11-16",
       "source_accounts": [
-        "@days.in.denver"
+        "@days.in.denver",
+        "@coloradokidsarerad"
       ],
       "links": [
         {
           "label": "Days.in.denver Bluff Lake / hikes reel (Oct 13)",
           "url": "https://www.instagram.com/days.in.denver/reel/Deb02B6hKEQ/"
+        },
+        {
+          "label": "Colorado Kids Are Rad Bluff Lake post (Nov 16)",
+          "url": "https://www.instagram.com/p/Df0z804RDRB/"
         },
         {
           "label": "Bluff Lake Nature Center — Visiting",

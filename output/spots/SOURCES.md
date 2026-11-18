@@ -12,6 +12,28 @@
 | City of Arvada community events | | | https://www.arvadaco.gov/calendar.aspx (calendar incl. Majestic View Nature Center); example https://www.arvadaco.gov/1589/Food-Trucks-and-Fireworks; Olde Town events via https://www.oldetownarvada.org/events |
 | Destinations with Drew - Travel Tips & Hidden Gems | https://www.instagram.com/destinationswithdrew/ | https://www.facebook.com/profile.php?id=61576835055380 (login-walled; og meta only) | Added 2026-11-15 at Chanel's request; mostly Colorado Springs and national road trips |
 
+## Scrub window (2026-11-18 Mon/Wed/Fri pass)
+
+**Checked**
+- Instagram: public profile embed pages, cutoff Nov 16 00:00 America/Denver:
+  - @days.in.denver: Nov 17 Outside Days festival, June 4–6, 2027 at Auraria Campus, kids 12 and under free (new event; dates, kid policy, and prices confirmed on outsidedays.outsideonline.com, jackjohnsonmusic.com, and Denverite). Nov 18 Red Door rental stay in Englewood (#partner rental; skipped, no new venue; Hudson Gardens already pinned).
+  - @colorado.kids.explore: the embed returned a Facebook/Instagram rate or login wall on 2 tries (no contextJSON). Not scrubbed, no captions guessed.
+  - @coloradokidsarerad: Nov 16 Bluff Lake Nature Center (already pinned; CKAR link added). Nov 17 LINC Library Innovation Center, Greeley (skipped; ~1 hr, well past 30 min).
+  - @coloradomamalife: Nov 17 Reima snowsuit #ad, Nov 17 experience-gift list (no venue named in caption), Nov 16 Santa/Grinch phone lines: skipped.
+  - @littleradadventure: no posts on or after Nov 16.
+  - @destinationswithdrew: no posts on or after Nov 16; Nov 14 Montana post skipped (far).
+- Destinations with Drew Facebook: the facebookexternalhit UA returned no og meta this pass. Captions login-walled; none guessed. No TikTok found.
+- City of Arvada calendar (WebFetch): Community Events are leaf drop-offs only. Nature Storytime Nov 19 already on the map. Astronomy Night Nov 20 (6–7pm), adult programs, and Kids Mindfulness (ages 7+) skipped.
+- Days.in.denver beehiiv: the sitemap has no issue newer than the November newsletter.
+- Little Rad Adventure site feed: newest post still Pennsylvania (Nov 5).
+- Facebook (other accounts): login-walled; not re-tried. TikTok: profile meta only.
+
+**Updated pins (1)**
+- Bluff Lake Nature Center: added the CKAR Nov 16 post link (free; giant bird's nest and nature play stations)
+
+**New events (1)**
+- Fri–Sun June 4–6, 2027: Outside Days festival at Auraria Campus, Denver. Kids 12 and under free with a ticketed adult; general on-sale Fri Nov 20 at 10am MT (Days Nov 17) (~19 min)
+
 ## Scrub window (2026-11-16 Mon/Wed/Fri pass)
 
 **Checked**

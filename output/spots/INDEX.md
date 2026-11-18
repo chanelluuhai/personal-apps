@@ -1,6 +1,6 @@
 # Denver/Arvada Toddler Outing Spots
 
-Updated: 2026-11-16  
+Updated: 2026-11-18  
 Base: W 64th Ave & Ward Rd, Arvada, CO 80004  
 Audience: Toddler ~20 months; prefer ~30 min drive  
 Places: 112
@@ -846,13 +846,14 @@ Each pin has a why-note from a named social/newsletter source. Drive times are r
 
 - **Address:** 11255 E Martin Luther King Jr Blvd, Denver, CO 80238
 - **Drive:** ~26 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~14.4 mi straight-line)
-- **Why:** Days.in.denver Oct 13 reel: hike with nature-play extras — a giant bird's nest climb and a build-your-own-shelter / tepee area, not just a plain trail.
-- **Source:** Days.in.denver (@days.in.denver) Instagram reel 2026-10-13
+- **Why:** Days.in.denver Oct 13 reel: hike with nature-play extras — a giant bird's nest climb and a build-your-own-shelter / tepee area, not just a plain trail. CKAR Nov 16 post: free, giant bird's nest climb, outdoor nature play stations, and views; trails optional for toddlers.
+- **Source:** Days.in.denver (@days.in.denver) Instagram reel 2026-10-13; Colorado Kids Are Rad (@coloradokidsarerad) Instagram post 2026-11-16
 - **Hours:** Sunrise–sunset daily (verify on site)
 - **Cost:** Free
 - **Toddler tip:** Nature play stations (nest, shelter) make this more toddler-friendly than a plain trail.
 - **Trail:** Short nature trails + nature play · stroller usability unknown · urban open space
 - [Days.in.denver Bluff Lake / hikes reel (Oct 13)](https://www.instagram.com/days.in.denver/reel/Deb02B6hKEQ/)
+- [Colorado Kids Are Rad Bluff Lake post (Nov 16)](https://www.instagram.com/p/Df0z804RDRB/)
 - [Bluff Lake Nature Center — Visiting](https://www.blufflake.org/about/visiting)
 - [Instagram @days.in.denver](https://www.instagram.com/days.in.denver/)
 
