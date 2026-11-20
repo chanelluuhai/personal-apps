@@ -12,6 +12,28 @@
 | City of Arvada community events | | | https://www.arvadaco.gov/calendar.aspx (calendar incl. Majestic View Nature Center); example https://www.arvadaco.gov/1589/Food-Trucks-and-Fireworks; Olde Town events via https://www.oldetownarvada.org/events |
 | Destinations with Drew - Travel Tips & Hidden Gems | https://www.instagram.com/destinationswithdrew/ | https://www.facebook.com/profile.php?id=61576835055380 (login-walled; og meta only) | Added 2026-11-15 at Chanel's request; mostly Colorado Springs and national road trips |
 
+## Scrub window (2026-11-20 Mon/Wed/Fri pass)
+
+**Checked**
+- Instagram: public profile embed pages, cutoff Nov 18 00:00 America/Denver:
+  - @days.in.denver: Nov 18 Red Door rental stay in Englewood (#partner; skipped, no new venue). Nov 19 holiday traditions list (the caption names no venues or dates; the holiday guide was emailed only). Skipped.
+  - @colorado.kids.explore: the embed returned a Facebook/Instagram rate or login wall on 2 tries (no contextJSON). Not scrubbed, no captions guessed.
+  - @coloradokidsarerad: Nov 18 Ken Mitchell Park, Brighton (new pin; address and 2025 playground reopening confirmed with the City of Brighton). Nov 19 Little Thompson Overlook Trail (Rabbit Mountain) + Bohn Park, Lyons: skipped. That's about 1 hr away, and Boulder County has a prescribed-burn window Nov 15, 2026–May 31, 2027 with ignition-day closures.
+  - @coloradomamalife: Nov 18 Wayfair Denver grand opening, Nov 20–22 (shopping; skipped). Nov 19 Nov 20–22 weekend plans (the caption says reindeer, holiday train, and cookie crawl but names no venues; skipped). Nov 20 Reima snowsuit #ad (skipped).
+  - @littleradadventure: Nov 19 Zoo Lights at Denver Zoo, Nov 23–Jan 3 (new event; dates, hours, and prices confirmed on denverzoo.org). Nov 18 Pennsylvania B&B (skipped; far).
+  - @destinationswithdrew: Nov 18 Cano's Castle, Antonito (skipped; far).
+- Destinations with Drew Facebook: the facebookexternalhit UA returned no og meta again. Captions login-walled; none guessed.
+- City of Arvada calendar (WebFetch): Community Events are leaf drop-offs only (Nov 20–21). Majestic View Astronomy Night Nov 20 (6–7pm, all ages) skipped, since it's past toddler bedtime. Kids Mindfulness Nov 21 cancelled.
+- Days.in.denver beehiiv: the sitemap's newest issue is still the November newsletter. The holiday guide is not public.
+- Little Rad Adventure site feed: newest post still Pennsylvania (Nov 5).
+- Facebook (other accounts): login-walled; not re-tried. TikTok: profile meta only.
+
+**New pins (1)**
+- Ken Mitchell Park, 889 Kinglet Ct, Brighton: new shaded playground with sensory stations, climbable butterfly, and fishing dock (CKAR Nov 18) (~33 min, farther than 30 min)
+
+**New events (1)**
+- Nov 23–Jan 3 (select nights): Zoo Lights 35 at Denver Zoo, 4:30–9/10 PM. Kids 2 and under free; adults $25.95–$29.95 (Little Rad Nov 19) (~24 min)
+
 ## Scrub window (2026-11-18 Mon/Wed/Fri pass)
 
 **Checked**

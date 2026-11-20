@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated": "2026-11-18",
-    "as_of": "2026-11-18",
+    "updated": "2026-11-20",
+    "as_of": "2026-11-20",
     "timezone": "America/Denver",
     "notes": "Upcoming, dated family events kept separate from map pins. Confirm times, access, and weather with the linked organizer before heading out."
   },
@@ -953,6 +953,21 @@
       "drive_note": "~19 min from the 64th & Ward base",
       "source": "Days.in.denver IG Nov 17 (https://www.instagram.com/p/Df2Do76B2hR/); outsidedays.outsideonline.com; Denverite Nov 16",
       "note": "Outdoor music + family-fun festival (Jack Johnson Sat June 5, Jungle, Sierra Ferrell). Kids 12 and under free with a ticketed adult. Adult GA from $79.50/day ($89.50 Sat), 3-day from $194.50; tiered prices rise as tiers sell out. Days.in.denver lists a local presale Nov 19, 10am–10pm. Bring ear protection for a toddler."
+    },
+    {
+      "id": "zoo-lights-2026",
+      "title": "Zoo Lights 35 at Denver Zoo",
+      "place_id": "denver-zoo",
+      "date": "2026-11-23",
+      "end_date": "2027-01-03",
+      "time": "Select nights Nov 23–Jan 3: Sun–Thu 4:30–9:00 PM, Fri–Sat 4:30–10:00 PM (closed Thanksgiving and Christmas)",
+      "place": "Denver Zoo, 2300 Steele St, Denver, CO 80205",
+      "lat": 39.7502,
+      "lng": -104.949,
+      "link": "https://denverzoo.org/events/zoo-lights/",
+      "drive_note": "~24 min from the 64th & Ward base",
+      "source": "Little Rad Adventure IG Nov 19 (https://www.instagram.com/p/Df8hudmn4oV/); denverzoo.org",
+      "note": "35th season: 80 acres and 3 million lights. Kids 2 and under free. Adults $29.95 and youth $22.95 on regular nights; value nights (Nov 29–Dec 2, Dec 6, 8–9, 13–16, Jan 2–3) are $25.95 adults and $18.95 youth. The $28.65–$44.95 bundle adds hot cocoa plus two train/carousel vouchers. Little Rad says to buy ahead because some nights sell out, and to dress warm."
     }
   ]
 }

@@ -1,9 +1,9 @@
 # Denver/Arvada Toddler Outing Spots
 
-Updated: 2026-11-18  
+Updated: 2026-11-20  
 Base: W 64th Ave & Ward Rd, Arvada, CO 80004  
 Audience: Toddler ~20 months; prefer ~30 min drive  
-Places: 112
+Places: 113
 
 Each pin has a why-note from a named social/newsletter source. Drive times are rough estimates.
 
@@ -1158,6 +1158,19 @@ Each pin has a why-note from a named social/newsletter source. Drive times are r
 - [Instagram @days.in.denver](https://www.instagram.com/days.in.denver/)
 - [Days in Denver July newsletter](https://days-in-denver.beehiiv.com/p/july-newsletter)
 - [Days in Denver May newsletter](https://days-in-denver.beehiiv.com/p/may-newsletter-7ae4c6d9c4e11cee)
+
+## Ken Mitchell Park (Brighton) (FARTHER)
+
+- **Address:** 889 Kinglet Ct, Brighton, CO 80601
+- **Drive:** ~33 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~19.5 mi straight-line)
+- **Why:** Colorado Kids Are Rad Nov 18: a playground with large shade structures, interactive sensory stations, a climbable butterfly, frog sculptures, lots of room to run, and a fishing dock with lake views and birdwatching.
+- **Source:** Colorado Kids Are Rad (@coloradokidsarerad) Instagram post 2026-11-18; City of Brighton (the playground was replaced and reopened in 2025)
+- **Hours:** City park, open daily (check City of Brighton for hours)
+- **Cost:** Free
+- **Toddler tip:** New playground with poured-in-place surfacing, shade canopies, and sensory stations, which suit a ~22-month-old. Walking paths, a restroom, and a parking lot. The fishing dock is over the lake, so keep hands held there. Fishing is by permit only.
+- [CKAR: Ken Mitchell Park (Nov 18)](https://www.instagram.com/p/Df5_qxQxLRY/)
+- [City of Brighton: playground reopened](https://www.instagram.com/p/DJujC-7SANV/)
+- [City of Brighton: Ken Mitchell Park fishing pier](https://www.brightonco.gov/facilities/facility/details/Ken-Mitchell-Park-Fishing-Pier-and-Board-26)
 
 ## Belleview Park (Farm & Train) (FARTHER)
 

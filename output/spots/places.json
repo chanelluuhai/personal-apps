@@ -53,8 +53,8 @@
         "note": "Destinations with Drew - Travel Tips & Hidden Gems. Colorado-based family travel reels, mostly around Colorado Springs plus national road trips. Added at Chanel's request 2026-11-15. Facebook og meta is readable with the facebookexternalhit UA, but reel captions are not, so Instagram @destinationswithdrew is the caption source."
       }
     ],
-    "updated": "2026-11-18",
-    "scrub_window": "2026-11-18 Mon/Wed/Fri pass: Instagram Nov 16–18 posts via public profile embeds (Days, CKAR, CML, Little Rad, Destinations with Drew; Colorado Kids Explore embed rate-walled again) + City of Arvada calendar + Days beehiiv sitemap + Little Rad site feed. Facebook/TikTok login-walled.",
+    "updated": "2026-11-20",
+    "scrub_window": "2026-11-20 Mon/Wed/Fri pass: Instagram Nov 18–20 posts via public profile embeds (Days, CKAR, CML, Little Rad, Destinations with Drew; Colorado Kids Explore embed rate-walled again) + City of Arvada calendar + Days beehiiv sitemap + Little Rad site feed. New pin: Ken Mitchell Park, Brighton (CKAR Nov 18). New event: Zoo Lights Nov 23–Jan 3 (Little Rad Nov 19). Facebook/TikTok login-walled.",
     "notes": "Why-notes paraphrased/quoted from source captions and newsletters. Drive times are rough estimates from Arvada 80004; verify in Google Maps. Do not invent venues — every pin cites a named source. Seasonal spots kept if still relevant for fall 2026 or evergreen otherwise. Home base updated to W 64th Ave & Ward Rd; drive times refreshed via public OSRM routing on 2026-10-02."
   },
   "places": [
@@ -4737,6 +4737,46 @@
       "farther_than_30min": true,
       "approx_drive_minutes": 35,
       "straight_line_miles": 11.2
+    },
+    {
+      "id": "ken-mitchell-park-brighton",
+      "name": "Ken Mitchell Park (Brighton)",
+      "lat": 39.9728,
+      "lng": -104.8362,
+      "address": "889 Kinglet Ct, Brighton, CO 80601",
+      "why": "Colorado Kids Are Rad Nov 18: a playground with large shade structures, interactive sensory stations, a climbable butterfly, frog sculptures, lots of room to run, and a fishing dock with lake views and birdwatching.",
+      "source": "Colorado Kids Are Rad (@coloradokidsarerad) Instagram post 2026-11-18; City of Brighton (the playground was replaced and reopened in 2025)",
+      "source_accounts": [
+        "@coloradokidsarerad"
+      ],
+      "links": [
+        {
+          "label": "CKAR: Ken Mitchell Park (Nov 18)",
+          "url": "https://www.instagram.com/p/Df5_qxQxLRY/"
+        },
+        {
+          "label": "City of Brighton: playground reopened",
+          "url": "https://www.instagram.com/p/DJujC-7SANV/"
+        },
+        {
+          "label": "City of Brighton: Ken Mitchell Park fishing pier",
+          "url": "https://www.brightonco.gov/facilities/facility/details/Ken-Mitchell-Park-Fishing-Pier-and-Board-26"
+        }
+      ],
+      "hours": "City park, open daily (check City of Brighton for hours)",
+      "cost": "Free",
+      "toddler_notes": "New playground with poured-in-place surfacing, shade canopies, and sensory stations, which suit a ~22-month-old. Walking paths, a restroom, and a parking lot. The fishing dock is over the lake, so keep hands held there. Fishing is by permit only.",
+      "tags": [
+        "playground",
+        "outdoor",
+        "free",
+        "toddler",
+        "nature"
+      ],
+      "drive_note": "~33 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~19.5 mi straight-line)",
+      "farther_than_30min": true,
+      "approx_drive_minutes": 33,
+      "straight_line_miles": 19.5
     }
   ]
 }
