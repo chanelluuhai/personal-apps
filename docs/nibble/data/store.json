@@ -6230,6 +6230,95 @@
 },
 "yield": "6"
 },
+"mj-butternut-squash-mac-and-cheese": {
+"account": "kidfriendly.meals",
+"account_name": "Min Kwon · Kidfriendly Meals",
+"account_url": "https://www.mjandhungryman.com/",
+"category": "pasta",
+"color": "#c8ab6c",
+"creator": "kidfriendly.meals",
+"date": "2026-11-15",
+"extraction": "recipe-page",
+"fetched_at": "2026-11-21T15:51:16+00:00",
+"id": "mj-butternut-squash-mac-and-cheese",
+"ingredients": [
+"16 ounces elbow macaroni or any small shaped pasta",
+"8 ounces frozen butternut squash (thawed (see note)",
+"1 cup whole milk cottage cheese (255g)",
+"1 1/2 cups shredded sharp cheddar cheese",
+"3/4 - 1 cup milk",
+"1 tablespoon cornstarch (see note)",
+"1/2 teaspoon garlic powder",
+"1/2 teaspoon onion powder",
+"1/2 teaspoon dijon mustard",
+"black pepper to taste"
+],
+"kind": "creator",
+"mealPrep": false,
+"mealPrep_basis": [],
+"minutes": 30,
+"notes": [],
+"platform": "web",
+"recipePage": "r/mj-butternut-squash-mac-and-cheese.html",
+"recipeSourceUrl": "https://www.mjandhungryman.com/butternut-squash-mac-and-cheese/",
+"recipe_from": "recipe page",
+"site": "MJ and Hungryman",
+"site_url": "https://www.mjandhungryman.com/",
+"status": "ok",
+"steps": [
+"Cook the pasta. Bring a large pot of water to a boil. Cook the macaroni according to package directions until tender. Reserve about 1/2 cup of the pasta water, then drain.",
+"Blend the sauce. While the pasta cooks, add the butternut squash and the rest of the ingredients into a high-speed blender. Blend until completely smooth and creamy.",
+"Cook the sauce. Pour the blended mixture into the same pot used for the pasta. Cook over medium-low heat for 3–5 minutes, stirring frequently, until the sauce is heated through and thickened. Do NOT bring to a boil.",
+"Combine. Add the cooked macaroni and stir until evenly coated. If the sauce is too thick, add reserved pasta water or milk, a tablespoon at a time, until it reaches your desired consistency."
+],
+"summary": "Creamy butternut squash cottage cheese mac and cheese made with a simple blender sauce! Packed with protein, easy to make, and family-friendly.",
+"tags": [
+"dinner",
+"pasta & noodles"
+],
+"thumb": "thumbs/mj-butternut-squash-mac-and-cheese.webp",
+"thumb_h": 400,
+"thumb_w": 400,
+"time": "long",
+"time_basis": "recipe says 30 min total",
+"title": "Cottage Cheese Mac and Cheese (with Butternut Squash)",
+"url": "https://www.mjandhungryman.com/butternut-squash-mac-and-cheese/",
+"web": {
+"author": null,
+"cuisine": [
+"American"
+],
+"date": "2026-11-15",
+"description": "Creamy butternut squash cottage cheese mac and cheese made with a simple blender sauce! Packed with protein, easy to make, and family-friendly.",
+"image": "https://www.mjandhungryman.com/wp-content/uploads/2026/11/Cottage-cheese-mac-and-cheese-recipe.jpg",
+"ingredients": [
+"16 ounces elbow macaroni or any small shaped pasta",
+"8 ounces frozen butternut squash (thawed (see note)",
+"1 cup whole milk cottage cheese (255g)",
+"1 1/2 cups shredded sharp cheddar cheese",
+"3/4 - 1 cup milk",
+"1 tablespoon cornstarch (see note)",
+"1/2 teaspoon garlic powder",
+"1/2 teaspoon onion powder",
+"1/2 teaspoon dijon mustard",
+"black pepper to taste"
+],
+"keywords": [],
+"minutes": 30,
+"name": "Cottage Cheese Mac and Cheese (with Butternut Squash)",
+"recipeCategory": [
+"Dinner"
+],
+"steps": [
+"Cook the pasta. Bring a large pot of water to a boil. Cook the macaroni according to package directions until tender. Reserve about 1/2 cup of the pasta water, then drain.",
+"Blend the sauce. While the pasta cooks, add the butternut squash and the rest of the ingredients into a high-speed blender. Blend until completely smooth and creamy.",
+"Cook the sauce. Pour the blended mixture into the same pot used for the pasta. Cook over medium-low heat for 3–5 minutes, stirring frequently, until the sauce is heated through and thickened. Do NOT bring to a boil.",
+"Combine. Add the cooked macaroni and stir until evenly coated. If the sauce is too thick, add reserved pasta water or milk, a tablespoon at a time, until it reaches your desired consistency."
+],
+"yield": "6"
+},
+"yield": "6"
+},
 "mj-carrot-cake-baked-oatmeal": {
 "account": "kidfriendly.meals",
 "account_name": "Min Kwon · Kidfriendly Meals",
@@ -15837,6 +15926,85 @@
 "Fold in the chocolate chips, if using. Spread the batter evenly into the prepared pan.",
 "Bake for 25-30 minutes, or until the edges are lightly golden and a toothpick inserted into the center comes out mostly clean.",
 "Allow the blondies to cool completely before slicing and serving."
+],
+"yield": "12"
+},
+"yield": "12"
+},
+"mj-sweet-potato-mochi-balls": {
+"account": "kidfriendly.meals",
+"account_name": "Min Kwon · Kidfriendly Meals",
+"account_url": "https://www.mjandhungryman.com/",
+"category": "sweet",
+"color": "#b694a3",
+"creator": "kidfriendly.meals",
+"date": "2026-11-19",
+"extraction": "recipe-page",
+"fetched_at": "2026-11-21T15:51:15+00:00",
+"id": "mj-sweet-potato-mochi-balls",
+"ingredients": [
+"1 cup cooked mashed sweet potatoes (250g)",
+"50 grams glutinous rice flour or tapioca flour (see note)",
+"2-3 tablespoons milk (see note)",
+"2-3 tablespoons honey or maple syrup (see note)"
+],
+"kind": "creator",
+"mealPrep": false,
+"mealPrep_basis": [],
+"minutes": 40,
+"notes": [],
+"platform": "web",
+"recipePage": "r/mj-sweet-potato-mochi-balls.html",
+"recipeSourceUrl": "https://www.mjandhungryman.com/sweet-potato-mochi-balls/",
+"recipe_from": "recipe page",
+"site": "MJ and Hungryman",
+"site_url": "https://www.mjandhungryman.com/",
+"status": "ok",
+"steps": [
+"Cook the sweet potatoes until fork-tender, then mash until completely smooth. Let cool before making the dough. Do this in advance if you can!",
+"Add the mashed sweet potatoes, tapioca flour, and optional sweetener to a mixing bowl. Stir until combined. Add milk, 1 tablespoon at a time, until a soft, pliable dough forms.",
+"Scoop out small portions of dough and roll between your palms into evenly sized balls.",
+"Bake air fry at 350°F for 12-15 minutes or in the oven for 15-20 minutes."
+],
+"summary": "These sweet potato mochi balls are soft, chewy, and made with just 3 simple ingredients! An easy snack you can bake or air fry.",
+"tags": [
+"snack",
+"sweet"
+],
+"thumb": "thumbs/mj-sweet-potato-mochi-balls.webp",
+"thumb_h": 400,
+"thumb_w": 400,
+"time": "long",
+"time_basis": "recipe says 40 min total",
+"title": "Sweet Potato Mochi Balls",
+"url": "https://www.mjandhungryman.com/sweet-potato-mochi-balls/",
+"web": {
+"author": null,
+"cuisine": [
+"Asian"
+],
+"date": "2026-11-19",
+"description": "These sweet potato mochi balls are soft, chewy, and made with just 3 simple ingredients! An easy snack you can bake or air fry.",
+"image": "https://www.mjandhungryman.com/wp-content/uploads/2026/11/Sweet-potato-mochi-balls-recipe.jpg",
+"ingredients": [
+"1 cup cooked mashed sweet potatoes (250g)",
+"50 grams glutinous rice flour or tapioca flour (see note)",
+"2-3 tablespoons milk (see note)",
+"2-3 tablespoons honey or maple syrup (see note)"
+],
+"keywords": [
+"mochi balls"
+],
+"minutes": 40,
+"name": "Sweet Potato Mochi Balls",
+"recipeCategory": [
+"Snack"
+],
+"steps": [
+"Cook the sweet potatoes until fork-tender, then mash until completely smooth. Let cool before making the dough. Do this in advance if you can!",
+"Add the mashed sweet potatoes, tapioca flour, and optional sweetener to a mixing bowl. Stir until combined. Add milk, 1 tablespoon at a time, until a soft, pliable dough forms.",
+"Scoop out small portions of dough and roll between your palms into evenly sized balls.",
+"Bake air fry at 350°F for 12-15 minutes or in the oven for 15-20 minutes."
 ],
 "yield": "12"
 },
@@ -27773,6 +27941,86 @@
 },
 "yield": "9"
 },
+"pe-vegan-cranberry-sauce": {
+"account": "thepickyeater",
+"account_name": "Anjali Shah · The Picky Eater",
+"account_url": "https://pickyeaterblog.com/",
+"category": "sweet",
+"color": "#9b6c5d",
+"creator": "thepickyeater",
+"date": "2026-11-19",
+"extraction": "recipe-page",
+"fetched_at": "2026-11-21T15:51:20+00:00",
+"id": "pe-vegan-cranberry-sauce",
+"ingredients": [
+"1/4 cup maple syrup (for sweeter taste add an additional 1/4 cup )",
+"1/2 cup orange juice",
+"1/2 cup water",
+"1 tbsp orange zest",
+"1 tsp cinnamon",
+"4 cups cranberries (fresh or frozen)"
+],
+"kind": "creator",
+"mealPrep": false,
+"mealPrep_basis": [],
+"minutes": 35,
+"notes": [],
+"platform": "web",
+"recipePage": "r/pe-vegan-cranberry-sauce.html",
+"recipeSourceUrl": "https://pickyeaterblog.com/vegan-cranberry-sauce/",
+"recipe_from": "recipe page",
+"site": "The Picky Eater",
+"site_url": "https://pickyeaterblog.com/",
+"status": "ok",
+"steps": [
+"In a saucepan combine maple syrup, orange juice, water, and orange zest. Bring to a boil.",
+"Add cranberries and cinnamon. Reduce heat. Cover and simmer for 10 minutes or until cranberries burst and soften.",
+"Remove from heat. Transfer to a bowl, and chill. Cranberry sauce will thicken as it cools."
+],
+"summary": "Every holiday table needs something gorgeously bright, tart, and fresh, and this vegan cranberry sauce checks all the boxes. I use fresh cranberries, orange juice, maple syrup, and a little cinnamon f…",
+"tags": [
+"sweet"
+],
+"thumb": "thumbs/pe-vegan-cranberry-sauce.webp",
+"thumb_h": 400,
+"thumb_w": 400,
+"time": "long",
+"time_basis": "recipe says 35 min total",
+"title": "Vegan Cranberry Sauce",
+"url": "https://pickyeaterblog.com/vegan-cranberry-sauce/",
+"web": {
+"author": null,
+"cuisine": [
+"American"
+],
+"date": "2026-11-19",
+"description": "Every holiday table needs something gorgeously bright, tart, and fresh, and this vegan cranberry sauce checks all the boxes. I use fresh cranberries, orange juice, maple syrup, and a little cinnamon for a naturally vibrant sauce with just the right balance of sweet and tart. It takes just 35 minutes from start to finish and can completely transform a holiday plate.",
+"image": "https://pickyeaterblog.com/wp-content/uploads/2020/09/vegan-cranberry-sauce-19.jpg",
+"ingredients": [
+"1/4 cup maple syrup (for sweeter taste add an additional 1/4 cup )",
+"1/2 cup orange juice",
+"1/2 cup water",
+"1 tbsp orange zest",
+"1 tsp cinnamon",
+"4 cups cranberries (fresh or frozen)"
+],
+"keywords": [
+"vegan cranberry sauce"
+],
+"minutes": 35,
+"name": "Vegan Cranberry Sauce",
+"recipeCategory": [
+"Side Dish"
+],
+"steps": [
+"In a saucepan combine maple syrup, orange juice, water, and orange zest. Bring to a boil.",
+"Add cranberries and cinnamon. Reduce heat. Cover and simmer for 10 minutes or until cranberries burst and soften.",
+"Remove from heat. Transfer to a bowl, and chill. Cranberry sauce will thicken as it cools."
+],
+"yield": "8"
+},
+"yield": "8"
+},
 "pe-vegan-dairy-free-thousand-island-dressing": {
 "account": "thepickyeater",
 "account_name": "Anjali Shah · The Picky Eater",
@@ -28417,6 +28665,101 @@
 "yield": "36"
 },
 "yield": "36"
+},
+"pe-vegan-green-bean-casserole": {
+"account": "thepickyeater",
+"account_name": "Anjali Shah · The Picky Eater",
+"account_url": "https://pickyeaterblog.com/",
+"category": "meal",
+"color": "#a78c61",
+"creator": "thepickyeater",
+"date": "2026-11-19",
+"extraction": "recipe-page",
+"fetched_at": "2026-11-21T15:51:21+00:00",
+"id": "pe-vegan-green-bean-casserole",
+"ingredients": [
+"16 oz frozen green beans",
+"3/4 cup sliced mushrooms",
+"4 tbsp vegetable stock",
+"2 tbsp gluten-free flour",
+"1 1/2 cups unsweetened soy milk",
+"1 tbsp dijon mustard",
+"1/2 tsp salt",
+"1/4 tsp sage",
+"1/4 tsp oregano",
+"1/4 tsp black pepper",
+"1 small white onion (finely sliced)",
+"1/4 cup gluten free Panko breadcrumbs"
+],
+"kind": "creator",
+"mealPrep": false,
+"mealPrep_basis": [],
+"minutes": 50,
+"notes": [],
+"platform": "web",
+"recipePage": "r/pe-vegan-green-bean-casserole.html",
+"recipeSourceUrl": "https://pickyeaterblog.com/vegan-green-bean-casserole/",
+"recipe_from": "recipe page",
+"site": "The Picky Eater",
+"site_url": "https://pickyeaterblog.com/",
+"status": "ok",
+"steps": [
+"Preheat oven to 375 F. Add green beans, then mushrooms to casserole dish. Set aside.",
+"In a saucepan on low heat, add 2 tbsps of vegetable stock. Stir in the gluten-free flour until a paste is formed. Add soy milk, dijon mustard, salt, pepper, sage, and oregano. Whisk together. Continue to whisk until sauce begins to thicken. Remove from heat, and set aside.",
+"Add 2 tbsp of vegetable stock to fry pan. Add thinly sliced onions. Sauté until soft about 3 minutes. Sprinkle gluten-free breadcrumbs overtop. Continue to sauté for an additional 2-3 minutes or until breadcrumbs are toasted and onions begin to brown.",
+"Pour cream sauce overtop the mushrooms and green beans. Top with onions and breadcrumbs. Add a touch more breadcrumbs if you desire.",
+"Bake for 35 minutes. Remove and allow to cool for 10 minutes before serving."
+],
+"summary": "I love vegan green bean casserole for the way tender green beans and mushrooms sit under a creamy herb sauce with a crisp onion and breadcrumb topping. This delicious side dish comes together in just …",
+"tags": [],
+"thumb": "thumbs/pe-vegan-green-bean-casserole.webp",
+"thumb_h": 400,
+"thumb_w": 400,
+"time": "long",
+"time_basis": "recipe says 50 min total",
+"title": "Vegan Green Bean Casserole",
+"url": "https://pickyeaterblog.com/vegan-green-bean-casserole/",
+"web": {
+"author": null,
+"cuisine": [
+"American"
+],
+"date": "2026-11-19",
+"description": "I love vegan green bean casserole for the way tender green beans and mushrooms sit under a creamy herb sauce with a crisp onion and breadcrumb topping. This delicious side dish comes together in just under an hour and has all the familiar flavors that make it perfect for a Thanksgiving meal.",
+"image": "https://pickyeaterblog.com/wp-content/uploads/2020/09/dairy-free-green-bean-casserole-FI.jpg",
+"ingredients": [
+"16 oz frozen green beans",
+"3/4 cup sliced mushrooms",
+"4 tbsp vegetable stock",
+"2 tbsp gluten-free flour",
+"1 1/2 cups unsweetened soy milk",
+"1 tbsp dijon mustard",
+"1/2 tsp salt",
+"1/4 tsp sage",
+"1/4 tsp oregano",
+"1/4 tsp black pepper",
+"1 small white onion (finely sliced)",
+"1/4 cup gluten free Panko breadcrumbs"
+],
+"keywords": [
+"dairy free green bean casserole",
+"vegan green bean casserole"
+],
+"minutes": 50,
+"name": "Vegan Green Bean Casserole",
+"recipeCategory": [
+"Side Dish"
+],
+"steps": [
+"Preheat oven to 375 F. Add green beans, then mushrooms to casserole dish. Set aside.",
+"In a saucepan on low heat, add 2 tbsps of vegetable stock. Stir in the gluten-free flour until a paste is formed. Add soy milk, dijon mustard, salt, pepper, sage, and oregano. Whisk together. Continue to whisk until sauce begins to thicken. Remove from heat, and set aside.",
+"Add 2 tbsp of vegetable stock to fry pan. Add thinly sliced onions. Sauté until soft about 3 minutes. Sprinkle gluten-free breadcrumbs overtop. Continue to sauté for an additional 2-3 minutes or until breadcrumbs are toasted and onions begin to brown.",
+"Pour cream sauce overtop the mushrooms and green beans. Top with onions and breadcrumbs. Add a touch more breadcrumbs if you desire.",
+"Bake for 35 minutes. Remove and allow to cool for 10 minutes before serving."
+],
+"yield": "8"
+},
+"yield": "8"
 },
 "pe-vegan-halloween-cupcakes": {
 "account": "thepickyeater",
@@ -29165,6 +29508,109 @@
 },
 "yield": "4"
 },
+"pe-vegan-pecan-pie-without-corn-syrup": {
+"account": "thepickyeater",
+"account_name": "Anjali Shah · The Picky Eater",
+"account_url": "https://pickyeaterblog.com/",
+"category": "sweet",
+"color": "#c0aa98",
+"creator": "thepickyeater",
+"date": "2026-11-18",
+"extraction": "recipe-page",
+"fetched_at": "2026-11-21T15:51:24+00:00",
+"id": "pe-vegan-pecan-pie-without-corn-syrup",
+"ingredients": [
+"1 batch gluten-free pie crust",
+"1 cup chopped pecans",
+"1/3 cup pecan halves",
+"3 tbsp vegan butter",
+"1/2 cup organic brown sugar",
+"1/3 cup pure maple syrup",
+"1/2 cup full fat coconut milk",
+"2 tbsp corn starch",
+"1 tsp vanilla extract",
+"1/2 tsp salt",
+"1/4 tsp nutmeg"
+],
+"kind": "creator",
+"mealPrep": false,
+"mealPrep_basis": [],
+"minutes": 225,
+"notes": [],
+"platform": "web",
+"recipePage": "r/pe-vegan-pecan-pie-without-corn-syrup.html",
+"recipeSourceUrl": "https://pickyeaterblog.com/vegan-pecan-pie-without-corn-syrup/",
+"recipe_from": "recipe page",
+"site": "The Picky Eater",
+"site_url": "https://pickyeaterblog.com/",
+"status": "ok",
+"steps": [
+"Prepare gluten-free pie crust.",
+"Preheat oven to 350 F. Over medium heat melt butter. Add the organic brown sugar. Whisk together until the brown sugar is melted and golden brown in color. Add the maple syrup, vanilla extract, salt, and nutmeg. Whisk together until combined.",
+"In a small bowl, whisk together the coconut milk and corn starch.",
+"Quickly whisk in the coconut milk and corn starch into the saucepan over medium heat. Then remove from heat.",
+"Spread the chopped pecans evenly on the bottom of the pie crust.",
+"Pour the the filling over the pecans, use a spatula to spread evenly.",
+"Add the pecan halves around the edge of the pie for decoration (optional).",
+"Bake for 30-35 minutes or until the crust is golden brown and the filling is bubbling. After about 15 minutes cover the edges of the pie crust with aluminum foil to avoid the edges from burning.",
+"Remove from the oven and allow to cool at room temperature for 1 hour. Then transfer to the refrigerator to chill for 2-3 hours before slicing and serving."
+],
+"summary": "Just because I follow a plant-based diet does not mean I miss out on traditional holiday desserts, and this vegan pecan pie without corn syrup is one that leaves no room for FOMO. I combine a buttery …",
+"tags": [
+"snack",
+"sweet"
+],
+"thumb": "thumbs/pe-vegan-pecan-pie-without-corn-syrup.webp",
+"thumb_h": 400,
+"thumb_w": 400,
+"time": "long",
+"time_basis": "recipe says 225 min total",
+"title": "Vegan Pecan Pie without Corn Syrup",
+"url": "https://pickyeaterblog.com/vegan-pecan-pie-without-corn-syrup/",
+"web": {
+"author": null,
+"cuisine": [
+"American"
+],
+"date": "2026-11-18",
+"description": "Just because I follow a plant-based diet does not mean I miss out on traditional holiday desserts, and this vegan pecan pie without corn syrup is one that leaves no room for FOMO. I combine a buttery vegan crust, toasted pecans, and maple syrup for a holiday pie with that classic caramel-style filling.",
+"image": "https://pickyeaterblog.com/wp-content/uploads/2021/11/vegan-pecan-pie-12.jpg",
+"ingredients": [
+"1 batch gluten-free pie crust",
+"1 cup chopped pecans",
+"1/3 cup pecan halves",
+"3 tbsp vegan butter",
+"1/2 cup organic brown sugar",
+"1/3 cup pure maple syrup",
+"1/2 cup full fat coconut milk",
+"2 tbsp corn starch",
+"1 tsp vanilla extract",
+"1/2 tsp salt",
+"1/4 tsp nutmeg"
+],
+"keywords": [
+"vegan pecan pie"
+],
+"minutes": 225,
+"name": "Vegan Pecan Pie without Corn Syrup",
+"recipeCategory": [
+"Dessert"
+],
+"steps": [
+"Prepare gluten-free pie crust.",
+"Preheat oven to 350 F. Over medium heat melt butter. Add the organic brown sugar. Whisk together until the brown sugar is melted and golden brown in color. Add the maple syrup, vanilla extract, salt, and nutmeg. Whisk together until combined.",
+"In a small bowl, whisk together the coconut milk and corn starch.",
+"Quickly whisk in the coconut milk and corn starch into the saucepan over medium heat. Then remove from heat.",
+"Spread the chopped pecans evenly on the bottom of the pie crust.",
+"Pour the the filling over the pecans, use a spatula to spread evenly.",
+"Add the pecan halves around the edge of the pie for decoration (optional).",
+"Bake for 30-35 minutes or until the crust is golden brown and the filling is bubbling. After about 15 minutes cover the edges of the pie crust with aluminum foil to avoid the edges from burning.",
+"Remove from the oven and allow to cool at room temperature for 1 hour. Then transfer to the refrigerator to chill for 2-3 hours before slicing and serving."
+],
+"yield": "8"
+},
+"yield": "8"
+},
 "pe-vegan-pigs-in-a-blanket": {
 "account": "thepickyeater",
 "account_name": "Anjali Shah · The Picky Eater",
@@ -29883,6 +30329,89 @@
 "yield": "10"
 },
 "yield": "10"
+},
+"pe-vegan-pumpkin-dip": {
+"account": "thepickyeater",
+"account_name": "Anjali Shah · The Picky Eater",
+"account_url": "https://pickyeaterblog.com/",
+"category": "finger",
+"color": "#daaa6a",
+"creator": "thepickyeater",
+"date": "2026-11-18",
+"extraction": "recipe-page",
+"fetched_at": "2026-11-21T15:51:23+00:00",
+"id": "pe-vegan-pumpkin-dip",
+"ingredients": [
+"14 oz coconut milk (remove cream from the top of the can)",
+"1 cup pumpkin puree",
+"1/4 cup maple syrup",
+"1 tbsp pumpkin pie spice",
+"1 box vegan ginger snap cookies"
+],
+"kind": "creator",
+"mealPrep": false,
+"mealPrep_basis": [],
+"minutes": 35,
+"notes": [],
+"platform": "web",
+"recipePage": "r/pe-vegan-pumpkin-dip.html",
+"recipeSourceUrl": "https://pickyeaterblog.com/vegan-pumpkin-dip/",
+"recipe_from": "recipe page",
+"site": "The Picky Eater",
+"site_url": "https://pickyeaterblog.com/",
+"status": "ok",
+"steps": [
+"Skim the coconut cream off the top of the can. Dispose of the water that has fallen to the bottom.",
+"Combine coconut cream, pumpkin puree, maple syrup, and pumpkin pie spice in a mixing bowl. Stir to combine.",
+"Use a hand mixer to whip the ingredients together until they create a light and fluffy texture, about 1-2 minutes. Refrigerate for 30 minutes to an hour. Dip will thicken as it cools."
+],
+"summary": "Pumpkin puree, coconut cream, and maple syrup make this vegan pumpkin dip taste just like a spoonful of pumpkin pie filling! I whip everything together with pumpkin pie spice for a creamy and lightly …",
+"tags": [
+"snack",
+"sweet",
+"finger food"
+],
+"thumb": "thumbs/pe-vegan-pumpkin-dip.webp",
+"thumb_h": 556,
+"thumb_w": 400,
+"time": "long",
+"time_basis": "recipe says 35 min total",
+"title": "Vegan Pumpkin Dip",
+"url": "https://pickyeaterblog.com/vegan-pumpkin-dip/",
+"web": {
+"author": "Anjali Shah",
+"cuisine": [
+"American"
+],
+"date": "2026-11-18",
+"description": "Pumpkin puree, coconut cream, and maple syrup make this vegan pumpkin dip taste just like a spoonful of pumpkin pie filling! I whip everything together with pumpkin pie spice for a creamy and lightly sweet dessert dip that takes just 35 minutes to have ready and on the table.",
+"image": "https://pickyeaterblog.com/wp-content/uploads/2020/07/vegan-pumpkin-dip-9.jpg",
+"ingredients": [
+"14 oz coconut milk (remove cream from the top of the can)",
+"1 cup pumpkin puree",
+"1/4 cup maple syrup",
+"1 tbsp pumpkin pie spice",
+"1 box vegan ginger snap cookies"
+],
+"keywords": [
+"pumpkin fluff",
+"vegan pumpkin dip"
+],
+"minutes": 35,
+"name": "Vegan Pumpkin Dip",
+"recipeCategory": [
+"Appetizer",
+"dips",
+"Snack"
+],
+"steps": [
+"Skim the coconut cream off the top of the can. Dispose of the water that has fallen to the bottom.",
+"Combine coconut cream, pumpkin puree, maple syrup, and pumpkin pie spice in a mixing bowl. Stir to combine.",
+"Use a hand mixer to whip the ingredients together until they create a light and fluffy texture, about 1-2 minutes. Refrigerate for 30 minutes to an hour. Dip will thicken as it cools."
+],
+"yield": "15"
+},
+"yield": "15"
 },
 "pe-vegan-pumpkin-muffins-with-bananas": {
 "account": "thepickyeater",
@@ -50495,6 +51024,18 @@
 "time_basis": "",
 "title": "Let’s make chicken vegetable puree for my 6 months old",
 "url": "https://www.tiktok.com/@soniamazri/video/7475008814429801771",
+"video": {
+"checked_at": "2026-11-21T15:54:05+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7475448411966147882": {
@@ -50531,6 +51072,18 @@
 "time_basis": "",
 "title": "He’s having the best time",
 "url": "https://www.tiktok.com/@soniamazri/video/7475448411966147882",
+"video": {
+"checked_at": "2026-11-21T15:53:58+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7475451003039583531": {
@@ -50571,6 +51124,18 @@
 "time_basis": "",
 "title": "These strawberry cheesecake cookies are a game-changer",
 "url": "https://www.tiktok.com/@pickyeaterblog/video/7475451003039583531",
+"video": {
+"checked_at": "2026-11-21T15:54:01+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7475637346457849134": {
@@ -50611,6 +51176,18 @@
 "time_basis": "",
 "title": "And its helped my kids to be less picky at dinner",
 "url": "https://www.tiktok.com/@pickyeaterblog/video/7475637346457849134",
+"video": {
+"checked_at": "2026-11-21T15:53:48+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "This might be an unpopular opinion, but I don't give my kids an afternoon snack and they actually eat their dinner because of it. Sound crazy? Hear me out. Most kids fill up on snacks right before they eat dinner, which makes it impossible to get them to try new foods because they're not really that hungry. So when it comes to dinner time, they refuse to eat real food. So instead, I serve dinner really early, right when they're the hungriest, around 3.45 or 4 o'clock, right when they get home from school. And guess what? They actually sit down and eat it. No complaints, no food battles. It's super easy. And then, before bed, I give them their afternoon snack, so they still get their afternoon snack just at the end of the day. Try this and tell me if it works for you. Follow for more picky eater hacks.",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7475665360113372462": {
@@ -50686,6 +51263,18 @@
 "time_basis": "",
 "title": "He worked hard with the meatball but he loved it",
 "url": "https://www.tiktok.com/@soniamazri/video/7476183899039665450",
+"video": {
+"checked_at": "2026-11-21T15:53:53+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7476214756685155627": {
@@ -50697,10 +51286,13 @@
 "color": "#b89844",
 "creator": "thepickyeater",
 "date": "2025-02-27",
-"extraction": "none",
+"extraction": "video-partial",
 "fetched_at": "2026-10-11T21:20:49+00:00",
 "id": "tt-7476214756685155627",
-"ingredients": [],
+"ingredients": [
+"lemon",
+"ginger"
+],
 "kind": "creator",
 "links": [],
 "mealPrep": false,
@@ -50710,7 +51302,7 @@
 "page_minutes": null,
 "platform": "tiktok",
 "recipeSourceUrl": null,
-"recipe_from": "caption",
+"recipe_from": "video",
 "status": "ok",
 "steps": [],
 "strict_food": true,
@@ -50723,6 +51315,21 @@
 "time_basis": "says 10 min",
 "title": "My easy homemade lemon ginger turmeric shots come together in just 10…",
 "url": "https://www.tiktok.com/@pickyeaterblog/video/7476214756685155627",
+"video": {
+"checked_at": "2026-11-21T15:53:55+00:00",
+"ingredients": [
+"lemon",
+"ginger"
+],
+"kind": "video-partial",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7477067530360704287": {
@@ -50763,6 +51370,18 @@
 "time_basis": "",
 "title": "I’m not a morning person, and I always hated making breakfast in the morning…",
 "url": "https://www.tiktok.com/@pickyeaterblog/video/7477067530360704287",
+"video": {
+"checked_at": "2026-11-21T15:53:35+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "Oh, you can't find this in the store. Uh-uh, not this baby. This right here. This is customized. Mmm, he better get like me.",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7477301658947456302": {
@@ -50802,6 +51421,18 @@
 "time_basis": "",
 "title": "Let’s make my 6 months old salmon veggie puree",
 "url": "https://www.tiktok.com/@soniamazri/video/7477301658947456302",
+"video": {
+"checked_at": "2026-11-21T15:53:38+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7477354064901049642": {
@@ -50842,6 +51473,18 @@
 "time_basis": "",
 "title": "Smoothies are literally the easiest way I’ve found to hydrate with fresh…",
 "url": "https://www.tiktok.com/@pickyeaterblog/video/7477354064901049642",
+"video": {
+"checked_at": "2026-11-21T15:53:41+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "Is it an addiction? Is it an addiction? No, I don't think it's an addiction. I think it does put me, like, it makes me happy, but no, it's not an addiction.",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7477697683075976490": {
@@ -50881,6 +51524,18 @@
 "time_basis": "",
 "title": "We’re still working on that avocado texture",
 "url": "https://www.tiktok.com/@soniamazri/video/7477697683075976490",
+"video": {
+"checked_at": "2026-11-21T15:53:30+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7478052506652642603": {
@@ -50898,8 +51553,10 @@
 "ingredients": [],
 "kind": "creator",
 "links": [],
-"mealPrep": false,
-"mealPrep_basis": [],
+"mealPrep": true,
+"mealPrep_basis": [
+"lunchbox"
+],
 "minutes": null,
 "notes": [],
 "page_minutes": null,
@@ -50912,6 +51569,7 @@
 "summary": "Try this hack and let me know if it helps your kids eat more veggies!",
 "tags": [
 "breakfast",
+"lunch",
 "veggies"
 ],
 "thumb": "thumbs/tt-7478052506652642603.webp",
@@ -50921,6 +51579,18 @@
 "time_basis": "",
 "title": "Broccoli for breakfast for my kids??",
 "url": "https://www.tiktok.com/@pickyeaterblog/video/7478052506652642603",
+"video": {
+"checked_at": "2026-11-21T15:53:27+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "I decided to give my kids broccoli for breakfast today. Have you ever spent hours trying to plan the perfect lunch for your kids only to have half of it come back uneaten every single day? That's what was happening with my kids in my house and I just got so tired of it that I decided to just switch their breakfast and lunch. They actually ate broccoli for breakfast. I'm not kidding. I want them to eat veggies but I don't want to have to force them to eat veggies at lunch at school if it's not going to happen. I actually packed their breakfast items in their lunchbox which was so much easier for me to- I didn't have to deal with any battles. I didn't have to deal with any wasted food and I'm literally going to do this every single day now.",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7478390483115396398": {
@@ -50959,6 +51629,18 @@
 "time_basis": "",
 "title": "Let’s make baby led weaning sweet potato for my 7 months old",
 "url": "https://www.tiktok.com/@soniamazri/video/7478390483115396398",
+"video": {
+"checked_at": "2026-11-21T15:53:22+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7478514023303023915": {
@@ -50970,10 +51652,16 @@
 "color": "#82767a",
 "creator": "thepickyeater",
 "date": "2025-03-06",
-"extraction": "none",
+"extraction": "video",
 "fetched_at": "2026-10-11T21:20:47+00:00",
 "id": "tt-7478514023303023915",
-"ingredients": [],
+"ingredients": [
+"blueberries",
+"oats",
+"raisins",
+"chia seeds",
+"milk"
+],
 "kind": "creator",
 "links": [],
 "mealPrep": false,
@@ -50982,22 +51670,46 @@
 "notes": [],
 "page_minutes": null,
 "platform": "tiktok",
+"recipePage": "r/tt-7478514023303023915.html",
 "recipeSourceUrl": null,
-"recipe_from": "caption",
+"recipe_from": "video",
 "status": "ok",
-"steps": [],
+"steps": [
+"My kids love avocado toast, this one I topped with some carrots and mame tahini and some sesame seeds."
+],
 "strict_food": true,
 "summary": "! My kids love them but they’re great for adults too!",
 "tags": [
-"breakfast"
+"breakfast",
+"veggies"
 ],
 "thumb": "thumbs/tt-7478514023303023915.webp",
 "thumb_h": 711,
 "thumb_w": 400,
-"time": "unknown",
-"time_basis": "",
+"time": "quick",
+"time_basis": "quick",
 "title": "I love making these three recipes for breakfast",
 "url": "https://www.tiktok.com/@pickyeaterblog/video/7478514023303023915",
+"video": {
+"checked_at": "2026-11-21T15:53:15+00:00",
+"ingredients": [
+"blueberries",
+"oats",
+"raisins",
+"chia seeds",
+"milk"
+],
+"kind": "video",
+"narration": "If you need something quick and easy, here are three breakfasts I prepared for my kids this week. My kids love avocado toast, this one I topped with some carrots and mame tahini and some sesame seeds. Smoothies are always a win in my house, this one I made with blueberries, some oats, some raisins, cashews, some chia seeds, and almond milk just blended all together, it was delicious. My kids also love oatmeal, I like switching up the toppings so you can do berries, nuts, nut butters, fruits, all kinds of stuff, my kids love it. Follow for more simple recipes that the whole family will love.",
+"onscreen": [],
+"steps": [
+"My kids love avocado toast, this one I topped with some carrots and mame tahini and some sesame seeds."
+],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7478825081280449834": {
@@ -51037,6 +51749,18 @@
 "time_basis": "",
 "title": "I really do believe you can “have your cake” and eat it too",
 "url": "https://www.tiktok.com/@pickyeaterblog/video/7478825081280449834",
+"video": {
+"checked_at": "2026-11-21T15:53:18+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7479158835156897070": {
@@ -51073,6 +51797,18 @@
 "time_basis": "",
 "title": "Baby led weaning meatball for my 7 months old",
 "url": "https://www.tiktok.com/@soniamazri/video/7479158835156897070",
+"video": {
+"checked_at": "2026-11-21T15:53:10+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7479576753938173230": {
@@ -51109,6 +51845,18 @@
 "time_basis": "",
 "title": "Red lentils puree for my 7 months old.Red lentils are rich in iron and zinc…",
 "url": "https://www.tiktok.com/@soniamazri/video/7479576753938173230",
+"video": {
+"checked_at": "2026-11-21T15:53:07+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7480721659880852782": {
@@ -51147,6 +51895,18 @@
 "time_basis": "",
 "title": "Baby led weaning lunch for my 7 months old",
 "url": "https://www.tiktok.com/@soniamazri/video/7480721659880852782",
+"video": {
+"checked_at": "2026-11-21T15:53:04+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7481351211409526062": {
@@ -51175,7 +51935,9 @@
 "status": "ok",
 "steps": [],
 "summary": ". @OmieLife plates are not just good for babies they’re great for toddlers to learn how to self feed",
-"tags": [],
+"tags": [
+"lunch"
+],
 "thumb": "thumbs/tt-7481351211409526062.webp",
 "thumb_h": 574,
 "thumb_w": 400,
@@ -51183,6 +51945,18 @@
 "time_basis": "",
 "title": "Drumsticks for baby led weaning",
 "url": "https://www.tiktok.com/@soniamazri/video/7481351211409526062",
+"video": {
+"checked_at": "2026-11-21T15:53:01+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "Let's make babylite we need lunch for my seven months old today. I am using a new plate that was sent to me by omie It's the easy school plate and it's designed to help children self-feed and the inside is made of corn starch and sugar cane So all natural material and it's safe for children. Anyway, I know I'm gonna get attacked on this But I am giving my baby a chicken drumstick. I removed most of the meats drumsticks are really good for oral mapping And they're a very low-risk choking food on top of that I'm adding the red lentil puree and natural plain yogurt",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7481728428694310190": {
@@ -51233,10 +52007,13 @@
 "color": "#918c7b",
 "creator": "soniamazri_",
 "date": "2025-03-14",
-"extraction": "none",
+"extraction": "video-partial",
 "fetched_at": "2026-10-11T02:23:42+00:00",
 "id": "tt-7481751103143562539",
-"ingredients": [],
+"ingredients": [
+"1cup potato",
+"1/2cup carrot"
+],
 "kind": "creator",
 "links": [],
 "mealPrep": false,
@@ -51246,7 +52023,7 @@
 "page_minutes": null,
 "platform": "tiktok",
 "recipeSourceUrl": null,
-"recipe_from": "caption",
+"recipe_from": "video",
 "status": "ok",
 "steps": [],
 "summary": "Baby led weaning lunch for my 7 months old -1cup potato -1/2cup carrot -1/2cup broccoli -handful cheese",
@@ -51261,6 +52038,21 @@
 "time_basis": "",
 "title": "Baby led weaning lunch for my 7 months old -1cup potato -1/2cup carrot…",
 "url": "https://www.tiktok.com/@soniamazri/video/7481751103143562539",
+"video": {
+"checked_at": "2026-11-21T15:52:55+00:00",
+"ingredients": [
+"1cup potato",
+"1/2cup carrot"
+],
+"kind": "video-partial",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7482545250201013550": {
@@ -51299,6 +52091,18 @@
 "time_basis": "",
 "title": "Mango pancake for my 7 months old baby led weaning",
 "url": "https://www.tiktok.com/@soniamazri/video/7482545250201013550",
+"video": {
+"checked_at": "2026-11-21T15:52:52+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "tt-7483240284881554734": {
@@ -70502,6 +71306,775 @@
 },
 "yield": null
 },
+"tt-7708229599884233997": {
+"account": "pickyeaterblog",
+"account_name": "Anjali",
+"account_url": "https://www.tiktok.com/@pickyeaterblog",
+"caption": "We haven't eaten dinner as a family since my kids were babies. And it's the reason they eat every single vegetable. I sat with them. But I didn't eat with them. Why it works in the caption 👇 --- **Caption:** Everyone told me I had to do family dinner with my kids, but we almost never did family dinner, and I'd do it the same way again. Here's why. When you're trying to eat your own dinner, you have no patience left for a toddler complaining about the food you made. So you give in. Out comes the grilled cheese, just so you can eat in peace. We've all been there! So I split dinner in two: The kids ate first, and I sat with them for the whole meal. I didn't eat. I talked with them and helped to get them to eat veggies and everything I had cooked one tiny bite at a time. I ate after they were done, in peace. Since I wasn't also trying to eat, I could stay calm, offer the next bite and not cave. I was 100% present for the hard part. My kids are 12 and 9 now, and they eat every vegetable you can name. Save this and share with a mom who needs to try this, and follow @thepickyeater for practical tips you won't hear anywhere else! Could you try this for one week? Tell me in the comments what would make it hard in your house.",
+"category": "meal",
+"color": "#7d7166",
+"creator": "thepickyeater",
+"date": "2026-11-15",
+"extraction": "none",
+"fetched_at": "2026-11-21T15:50:51+00:00",
+"id": "tt-7708229599884233997",
+"ingredients": [],
+"kind": "creator",
+"links": [],
+"mealPrep": false,
+"mealPrep_basis": [],
+"minutes": null,
+"notes": [],
+"page_minutes": null,
+"platform": "tiktok",
+"recipeSourceUrl": null,
+"recipe_from": "caption",
+"status": "ok",
+"steps": [],
+"strict_food": true,
+"summary": ". And it's the reason they eat every single vegetable.",
+"tags": [
+"dinner",
+"veggies"
+],
+"thumb": "thumbs/tt-7708229599884233997.webp",
+"thumb_h": 711,
+"thumb_w": 400,
+"time": "unknown",
+"time_basis": "",
+"title": "We haven't eaten dinner as a family since my kids were babies",
+"url": "https://www.tiktok.com/@pickyeaterblog/video/7708229599884233997",
+"video": {
+"checked_at": "2026-11-21T15:52:49+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
+"yield": null
+},
+"tt-7708380542055599374": {
+"account": "soniamazri",
+"account_name": "Sonia | Baby Meal Plan",
+"account_url": "https://www.tiktok.com/@soniamazri",
+"caption": "5 toddler breakfasts that are always a win in our house! 🥞🍓🤍 Easy, delicious, and perfect for busy mornings with little ones! 🥑 Find all 5 recipes in the MunchMind app — link in bio! #toddlerbreakfast #toddlermeals #toddlerrecipes #pickyeater #breakfastideas ",
+"category": "finger",
+"color": "#837067",
+"creator": "soniamazri_",
+"date": "2026-11-15",
+"extraction": "video",
+"fetched_at": "2026-11-21T15:49:57+00:00",
+"id": "tt-7708380542055599374",
+"ingredients": [
+"avocado",
+"yogurt",
+"honey",
+"peanut butter",
+"banana",
+"eggs",
+"oats",
+"blueberries",
+"cottage cheese"
+],
+"kind": "creator",
+"links": [],
+"mealPrep": true,
+"mealPrep_basis": [
+"batch",
+"freezer"
+],
+"minutes": null,
+"notes": [],
+"page_minutes": null,
+"platform": "tiktok",
+"recipePage": "r/tt-7708380542055599374.html",
+"recipeSourceUrl": null,
+"recipe_from": "video",
+"status": "ok",
+"steps": [
+"I just blend avocado with his favorite yogurt, add a little honey and drizzle peanut butter on top because he loves it.",
+"You can totally do maple syrup, almond butter or whatever spread your toddler likes.",
+"They're made with kiwi, banana and eggs and I usually serve them with some berries or yogurt.",
+"You can use baby oats cereal or just blend regular oats, cook them with blueberries then blend everything with cottage cheese.",
+"And of course I drizzle some peanut butter on top for healthy fats and that's it.",
+"I like to boil the sweet potato the night before so it's ready to go in the morning.",
+"I like to serve them with fruits or whatever spread they're into that day.",
+"I always batch cook these and keep some in the freezer so on mornings when I really don't feel like making breakfast I still have something ready that I know he'll actually eat."
+],
+"summary": "Easy, delicious, and perfect for busy mornings with little ones! Find all 5 recipes in the MunchMind app — link in bio!",
+"tags": [
+"breakfast",
+"sweet",
+"finger food",
+"veggies",
+"dip & spread"
+],
+"thumb": "thumbs/tt-7708380542055599374.webp",
+"thumb_h": 711,
+"thumb_w": 400,
+"time": "unknown",
+"time_basis": "",
+"title": "5 toddler breakfasts that are always a win in our house",
+"url": "https://www.tiktok.com/@soniamazri/video/7708380542055599374",
+"video": {
+"checked_at": "2026-11-21T15:52:47+00:00",
+"ingredients": [
+"avocado",
+"yogurt",
+"honey",
+"peanut butter",
+"banana",
+"eggs",
+"oats",
+"blueberries",
+"cottage cheese"
+],
+"kind": "video",
+"narration": "Here are 5 toddler breakfasts I always go back to when my toddler is being picky and for some reason he always eats them. My toddler hates avocado but he will literally finish this entire bowl. I just blend avocado with his favorite yogurt, add a little honey and drizzle peanut butter on top because he loves it. You can totally do maple syrup, almond butter or whatever spread your toddler likes. He doesn't taste the avocado but the nutrients are there so I'll take it. Next are these kiwi pancakes. They're so easy to make and actually so good. They're made with kiwi, banana and eggs and I usually serve them with some berries or yogurt. My toddler loves basically anything with yogurt. This blueberry cottage cheese oatmeal is another one he's been eating since he was a little baby and he still loves it. You can use baby oats cereal or just blend regular oats, cook them with blueberries then blend everything with cottage cheese. And of course I drizzle some peanut butter on top for healthy fats and that's it. These sweet potato waffles are always in our rotation too. All three of my kids love eating them in the morning before school including my toddler. I like to boil the sweet potato the night before so it's ready to go in the morning. And they're actually really easy to make. All you need is a waffle maker. I like to serve them with fruits or whatever spread they're into that day. And one more pancake recipe because these blueberry cottage cheese pancakes are probably my toddler's favorite. I always batch cook these and keep some in the freezer so on mornings when I really don't feel like making breakfast I still have something ready that I know he'll actually eat. Come and breakfast and I'll send you all five recipes and follow for more easy",
+"onscreen": [],
+"steps": [
+"I just blend avocado with his favorite yogurt, add a little honey and drizzle peanut butter on top because he loves it.",
+"You can totally do maple syrup, almond butter or whatever spread your toddler likes.",
+"They're made with kiwi, banana and eggs and I usually serve them with some berries or yogurt.",
+"You can use baby oats cereal or just blend regular oats, cook them with blueberries then blend everything with cottage cheese.",
+"And of course I drizzle some peanut butter on top for healthy fats and that's it.",
+"I like to boil the sweet potato the night before so it's ready to go in the morning.",
+"I like to serve them with fruits or whatever spread they're into that day.",
+"I always batch cook these and keep some in the freezer so on mornings when I really don't feel like making breakfast I still have something ready that I know he'll actually eat."
+],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
+"yield": null
+},
+"tt-7708382179994225951": {
+"account": "soniamazri",
+"account_name": "Sonia | Baby Meal Plan",
+"account_url": "https://www.tiktok.com/@soniamazri",
+"caption": "Sweet Potato Waffles 🍠🧇 One of those easy toddler breakfasts I keep coming back to 🤍 Naturally a little sweet from the sweet potato, soft on the inside, and so easy to freeze for busy mornings. Ingredients * 1 cup mashed sweet potato * 2 eggs * ½ cup whole milk * ¾ cup all-purpose flour * 2 tbsp avocado oil or melted butter * 1 tsp baking powder * Pinch of cinnamon (optional) Directions Steam or boil the sweet potato until very soft and mash. Whisk the eggs, milk, and oil/butter, then mix in the sweet potato. Stir in the flour, baking powder, and cinnamon. Cook in a lightly greased waffle maker until golden and set 🧇 Using self-rising flour? Skip the baking powder. ❤️ This recipe is just one of 200+ inside MunchMind. If you're tired of wondering what to feed your little one every day, MunchMind helps you plan meals with confidence. 🥣 200+ picky toddler-approved recipes 📅 Personalized meal plans already planned for you 🛒 Grocery lists ready in seconds ✨ New recipes added regularly Take the guesswork out of mealtime. 🤍 Find it in my bio ✨ #toddlerbreakfast #sweetpotatowaffles #toddlerrecipes #toddlermeals #breakfastideas ",
+"category": "sweet",
+"color": "#8c7b61",
+"creator": "soniamazri_",
+"date": "2026-11-17",
+"extraction": "caption",
+"fetched_at": "2026-11-21T15:49:57+00:00",
+"id": "tt-7708382179994225951",
+"ingredients": [
+"1 cup mashed sweet potato",
+"2 eggs",
+"½ cup whole milk",
+"¾ cup all-purpose flour",
+"2 tbsp avocado oil or melted butter",
+"1 tsp baking powder",
+"Pinch of cinnamon (optional)"
+],
+"kind": "creator",
+"links": [],
+"mealPrep": true,
+"mealPrep_basis": [
+"freeze"
+],
+"minutes": null,
+"notes": [],
+"page_minutes": null,
+"platform": "tiktok",
+"recipePage": "r/tt-7708382179994225951.html",
+"recipeSourceUrl": null,
+"recipe_from": "caption",
+"status": "ok",
+"steps": [
+"Steam or boil the sweet potato until very soft and mash.",
+"Whisk the eggs, milk, and oil/butter, then mix in the sweet potato.",
+"Stir in the flour, baking powder, and cinnamon.",
+"Cook in a lightly greased waffle maker until golden and set"
+],
+"summary": "Naturally a little sweet from the sweet potato, soft on the inside, and so easy to freeze for busy mornings. Ingredients * 1 cup mashed sweet potato * 2 eggs * ½ cup whole milk * ¾ cup all-purpose flour * 2 tbsp avocado …",
+"tags": [
+"breakfast",
+"sweet",
+"veggies"
+],
+"thumb": "thumbs/tt-7708382179994225951.webp",
+"thumb_h": 711,
+"thumb_w": 400,
+"time": "unknown",
+"time_basis": "",
+"title": "Sweet Potato Waffles",
+"url": "https://www.tiktok.com/@soniamazri/video/7708382179994225951",
+"yield": null
+},
+"tt-7708384652351917325": {
+"account": "soniamazri",
+"account_name": "Sonia | Baby Meal Plan",
+"account_url": "https://www.tiktok.com/@soniamazri",
+"caption": "Mango Oatmeal Breakfast 🥭🤍 Creamy, naturally sweet, and such an easy toddler breakfast. ¼ cup rolled oats 1 cup water ½ tsp ground flaxseed ½ cup ripe mango 1 tbsp cottage cheese or Greek yogurt Peanut butter + honey (1 year+), optional Blend the oats, then cook with the water, flaxseed, and mango until thick and creamy. Let cool slightly and blend briefly with cottage cheese or Greek yogurt. Finish with peanut butter and honey or your toddler’s favorite spread. 🤍 ❤️ This recipe is just one of 200+ inside MunchMind. If you're tired of wondering what to feed your little one every day, MunchMind helps you plan meals with confidence. 🥣 200+ picky toddler-approved recipes 📅 Personalized meal plans already planned for you 🛒 Grocery lists ready in seconds ✨ New recipes added regularly Take the guesswork out of mealtime. 🤍 Find it in my bio ✨ #toddlerbreakfast #toddlerrecipes #mangooatmeal #toddlermeals #pickyeater ",
+"category": "sweet",
+"color": "#998061",
+"creator": "soniamazri_",
+"date": "2026-11-18",
+"extraction": "video-partial",
+"fetched_at": "2026-11-21T15:49:56+00:00",
+"id": "tt-7708384652351917325",
+"ingredients": [
+"mango",
+"oatmeal"
+],
+"kind": "creator",
+"links": [],
+"mealPrep": false,
+"mealPrep_basis": [],
+"minutes": null,
+"notes": [],
+"page_minutes": null,
+"platform": "tiktok",
+"recipeSourceUrl": null,
+"recipe_from": "video",
+"status": "ok",
+"steps": [],
+"summary": "Creamy, naturally sweet, and such an easy toddler breakfast. ¼ cup rolled oats Peanut butter + honey (1 year+), optional Blend the oats, then cook with the water, flaxseed, and mango until thick and creamy.",
+"tags": [
+"breakfast",
+"sweet",
+"dip & spread"
+],
+"thumb": "thumbs/tt-7708384652351917325.webp",
+"thumb_h": 711,
+"thumb_w": 400,
+"time": "unknown",
+"time_basis": "",
+"title": "Mango Oatmeal Breakfast",
+"url": "https://www.tiktok.com/@soniamazri/video/7708384652351917325",
+"video": {
+"checked_at": "2026-11-21T15:51:57+00:00",
+"ingredients": [
+"mango",
+"oatmeal"
+],
+"kind": "video-partial",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
+"yield": null
+},
+"tt-7708387138110295309": {
+"account": "soniamazri",
+"account_name": "Sonia | Baby Meal Plan",
+"account_url": "https://www.tiktok.com/@soniamazri",
+"caption": "Dinners I’ve been making for my family lately 🍝🤍 Easy, delicious, toddler-friendly meals that the whole family can enjoy! Because we’re not making separate dinners over here 🙌 🥑 Find all the recipes in the MunchMind app — link in bio! #familydinner #toddlermeals #easyfamilydinners #toddlerrecipes #dinnerideas ",
+"category": "meal",
+"color": "#9e9388",
+"creator": "soniamazri_",
+"date": "2026-11-19",
+"extraction": "none",
+"fetched_at": "2026-11-21T15:49:55+00:00",
+"id": "tt-7708387138110295309",
+"ingredients": [],
+"kind": "creator",
+"links": [],
+"mealPrep": false,
+"mealPrep_basis": [],
+"minutes": null,
+"notes": [],
+"page_minutes": null,
+"platform": "tiktok",
+"recipeSourceUrl": null,
+"recipe_from": "caption",
+"status": "ok",
+"steps": [],
+"summary": "Easy, delicious, toddler-friendly meals that the whole family can enjoy! Because we’re not making separate dinners over here Find all the recipes in the MunchMind app — link in bio!",
+"tags": [],
+"thumb": "thumbs/tt-7708387138110295309.webp",
+"thumb_h": 711,
+"thumb_w": 400,
+"time": "unknown",
+"time_basis": "",
+"title": "Dinners I’ve been making for my family lately",
+"url": "https://www.tiktok.com/@soniamazri/video/7708387138110295309",
+"video": {
+"checked_at": "2026-11-21T15:51:53+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
+"yield": null
+},
+"tt-7708389571213511950": {
+"account": "soniamazri",
+"account_name": "Sonia | Baby Meal Plan",
+"account_url": "https://www.tiktok.com/@soniamazri",
+"caption": "POV: You have no idea what to make for dinner, so you let munchmind figure it out for you 👀🍝 I asked MunchMind’s AI assistant for a recipe, and here’s what we made! 🤍 From finding recipes with ingredients I already have to quick dinner ideas and easy ingredient swaps, Ask MunchMind makes figuring out what to cook SO much easier. 🥑 Less time wondering what’s for dinner, more time enjoying it with my family! ✨ Try Ask MunchMind — link in bio! #toddlermeals #familydinner #mealideas #toddlerrecipes #feedingtoddlers ",
+"category": "pasta",
+"color": "#9d968b",
+"creator": "soniamazri_",
+"date": "2026-11-20",
+"extraction": "none",
+"fetched_at": "2026-11-21T15:49:55+00:00",
+"id": "tt-7708389571213511950",
+"ingredients": [],
+"kind": "creator",
+"links": [],
+"mealPrep": false,
+"mealPrep_basis": [],
+"minutes": null,
+"notes": [],
+"page_minutes": null,
+"platform": "tiktok",
+"recipeSourceUrl": null,
+"recipe_from": "caption",
+"status": "ok",
+"steps": [],
+"summary": "POV: You have no idea what to make for dinner, so you let munchmind figure it out for you I asked MunchMind’s AI assistant for a recipe, and here’s what we made! From finding recipes with ingredients I already have to qu…",
+"tags": [
+"dinner",
+"pasta & noodles"
+],
+"thumb": "thumbs/tt-7708389571213511950.webp",
+"thumb_h": 711,
+"thumb_w": 400,
+"time": "quick",
+"time_basis": "quick",
+"title": "Less time wondering what’s for dinner, more time enjoying it with my family",
+"url": "https://www.tiktok.com/@soniamazri/video/7708389571213511950",
+"video": {
+"checked_at": "2026-11-21T15:51:51+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "I have chicken and orzo and I don't feel like cooking tonight. So let's see what we can make",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
+"yield": null
+},
+"tt-7708391192144137486": {
+"account": "soniamazri",
+"account_name": "Sonia | Baby Meal Plan",
+"account_url": "https://www.tiktok.com/@soniamazri",
+"caption": "Butternut Squash Mac & Cheese 🎃🧀 Creamy mac & cheese with an entire butternut squash blended into the sauce 🤍 Ingredients: 1 medium butternut squash 8 oz small pasta 1½ cups whole milk 2 tbsp butter 2 cups cheddar ½ cup Parmesan 1 tsp garlic powder ½ tsp onion powder ¼ tsp paprika Black pepper Salt (1 year+ only) Roast the squash cut-side down at 400°F for 40–50 min until completely soft. Blend the flesh with milk, butter & seasonings. Warm over low heat and stir in the cheeses until creamy. Cook the pasta, then toss with 2–2½ cups sauce, adding a splash of pasta water if needed. Save the extra sauce for another meal 🤍 ❤️ This recipe is just one of 200+ inside MunchMind. 🥣 200+ picky toddler-approved recipes 📅 Personalized meal plans already planned for you 🛒 Grocery lists ready in seconds ✨ New recipes added regularly Take the guesswork out of mealtime. 🤍 Find it in my bio ✨ #toddlerrecipes #macandcheese #butternutsquash #toddlermeals #pickyeater ",
+"category": "pasta",
+"color": "#a78a5f",
+"creator": "soniamazri_",
+"date": "2026-11-21",
+"extraction": "caption",
+"fetched_at": "2026-11-21T15:49:54+00:00",
+"id": "tt-7708391192144137486",
+"ingredients": [],
+"kind": "creator",
+"links": [],
+"mealPrep": false,
+"mealPrep_basis": [],
+"minutes": 50,
+"notes": [],
+"page_minutes": null,
+"platform": "tiktok",
+"recipeSourceUrl": null,
+"recipe_from": "caption",
+"status": "ok",
+"steps": [
+"Blend the flesh with milk, butter & seasonings.",
+"Warm over low heat and stir in the cheeses until creamy.",
+"Cook the pasta, then toss with 2–2½ cups sauce, adding a splash of pasta water if needed.",
+"Save the extra sauce for another meal"
+],
+"summary": "Creamy mac & cheese with an entire butternut squash blended into the sauce Ingredients 1½ cups whole milk Black pepper Salt (1 year+ only) Roast the squash cut-side down at 400°F for 40–50 min until completely soft. Blen…",
+"tags": [
+"pasta & noodles"
+],
+"thumb": "thumbs/tt-7708391192144137486.webp",
+"thumb_h": 711,
+"thumb_w": 400,
+"time": "long",
+"time_basis": "says 50 min",
+"title": "Butternut Squash Mac & Cheese",
+"url": "https://www.tiktok.com/@soniamazri/video/7708391192144137486",
+"yield": null
+},
+"tt-7708592580270787853": {
+"account": "mini.tiger.zen",
+"account_name": "mini.tiger.zen",
+"account_url": "https://www.tiktok.com/@mini.tiger.zen",
+"caption": "Tin fish girlie #proteinsnack #cannedfish #protein #healthysnack #easyrecipe ",
+"category": "meal",
+"color": "#ad6566",
+"creator": "mini.tiger.zen",
+"date": "2026-11-16",
+"extraction": "none",
+"fetched_at": "2026-11-21T15:50:12+00:00",
+"id": "tt-7708592580270787853",
+"ingredients": [],
+"kind": "creator",
+"links": [],
+"mealPrep": false,
+"mealPrep_basis": [],
+"minutes": null,
+"notes": [],
+"page_minutes": null,
+"platform": "tiktok",
+"recipeSourceUrl": null,
+"recipe_from": "caption",
+"status": "ok",
+"steps": [],
+"summary": "",
+"tags": [
+"seafood"
+],
+"thumb": "thumbs/tt-7708592580270787853.webp",
+"thumb_h": 711,
+"thumb_w": 400,
+"time": "unknown",
+"time_basis": "",
+"title": "Tin fish girlie",
+"url": "https://www.tiktok.com/@mini.tiger.zen/video/7708592580270787853",
+"video": {
+"checked_at": "2026-11-21T15:52:32+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "You can't cope with any more.",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
+"yield": null
+},
+"tt-7709184577419463967": {
+"account": "mini.tiger.zen",
+"account_name": "mini.tiger.zen",
+"account_url": "https://www.tiktok.com/@mini.tiger.zen",
+"caption": "Tin fish snacks 4eva #healthysnacks #proteinrich #proteinsnack #easysnack @Fishwife ",
+"category": "sweet",
+"color": "#9d7169",
+"creator": "mini.tiger.zen",
+"date": "2026-11-17",
+"extraction": "none",
+"fetched_at": "2026-11-21T15:50:11+00:00",
+"id": "tt-7709184577419463967",
+"ingredients": [],
+"kind": "creator",
+"links": [],
+"mealPrep": false,
+"mealPrep_basis": [],
+"minutes": null,
+"notes": [],
+"page_minutes": null,
+"platform": "tiktok",
+"recipeSourceUrl": null,
+"recipe_from": "caption",
+"status": "ok",
+"steps": [],
+"summary": "",
+"tags": [
+"snack",
+"seafood"
+],
+"thumb": "thumbs/tt-7709184577419463967.webp",
+"thumb_h": 572,
+"thumb_w": 400,
+"time": "unknown",
+"time_basis": "",
+"title": "Tin fish snacks 4eva @Fishwife",
+"url": "https://www.tiktok.com/@mini.tiger.zen/video/7709184577419463967",
+"video": {
+"checked_at": "2026-11-21T15:52:12+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
+"yield": null
+},
+"tt-7709531791207566622": {
+"account": "mini.tiger.zen",
+"account_name": "mini.tiger.zen",
+"account_url": "https://www.tiktok.com/@mini.tiger.zen",
+"caption": "Don’t want to get in trouble for sharing this 👀🎈 but it’s just a historical pattern! For the past 5 years (2022–2026), Balloonfest has taken place on the first Saturday of November in East Rutherford, NJ. From 2023–2026, it was held in a parking lot at MetLife Stadium. Not open to the public, but I’ve seen plenty of locals with strollers and snacks watching from just outside the fence. 😂 No promises for future years! #nycinsider #nycmom #macysthanksgivingdayparade ",
+"category": "sweet",
+"color": "#71767c",
+"creator": "mini.tiger.zen",
+"date": "2026-11-18",
+"extraction": "none",
+"fetched_at": "2026-11-21T15:50:11+00:00",
+"id": "tt-7709531791207566622",
+"ingredients": [],
+"kind": "creator",
+"links": [],
+"mealPrep": false,
+"mealPrep_basis": [],
+"minutes": null,
+"notes": [],
+"page_minutes": null,
+"platform": "tiktok",
+"recipeSourceUrl": null,
+"recipe_from": "caption",
+"status": "ok",
+"steps": [],
+"summary": "! For the past 5 years (2022–2026), Balloonfest has taken place on the first Saturday of November in East Rutherford, NJ.",
+"tags": [
+"snack"
+],
+"thumb": "thumbs/tt-7709531791207566622.webp",
+"thumb_h": 711,
+"thumb_w": 400,
+"time": "unknown",
+"time_basis": "",
+"title": "Don’t want to get in trouble for sharing this but it’s just a historical pattern",
+"url": "https://www.tiktok.com/@mini.tiger.zen/video/7709531791207566622",
+"video": {
+"checked_at": "2026-11-21T15:52:09+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "A little insider tip for spotting the new balloons before Thanksgiving Day parade. Weeks before Thanksgiving, these giant balloons actually get a test run in a parking lot in New Jersey. For the past five years, it's happened on the first Saturday of November. It's not open to public, but I've seen many people hanging out nearby with snacks watching from a short distance.",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
+"yield": null
+},
+"tt-7709595615600053518": {
+"account": "busymamaeasybites",
+"account_name": "Busymamaeasybites",
+"account_url": "https://www.tiktok.com/@busymamaeasybites",
+"caption": "Easy Toddler Breakfast Rice Balls 🍙🥑🍳 When you’re tired of making the same breakfast every morning, try these cheesy chicken & avocado rice balls! So easy to make, packed with protein and healthy fats, and perfect for little hands! 🤍 Ingredients: * 1 tbsp ground chicken * 1 egg * Cooked white rice (about ½ cup) * ¼ avocado * Shredded cheese * Garlic powder * Olive oil @Trader Joe's  Directions: 1. Heat a little olive oil in a pan and cook the ground chicken with a sprinkle of garlic powder. 2. Push the chicken to one side and scramble an egg in the same pan. 3. Mix the chicken and egg together until fully cooked. 4. Add the mixture to your cooked white rice. 5. Mash in ¼ avocado, shredded cheese, and another sprinkle of garlic powder. 6. Mix everything together and form into little rice balls! And breakfast is served! 🍙✨ Save this for your next toddler breakfast idea! 💛 #ToddlerMeals #ToddlerBreakfast #EasyToddlerMeals #easyrecipe ",
+"category": "meal",
+"color": "#9b8975",
+"creator": "busymamaeasybites",
+"date": "2026-11-18",
+"extraction": "caption",
+"fetched_at": "2026-11-21T15:50:04+00:00",
+"id": "tt-7709595615600053518",
+"ingredients": [
+"1 tbsp ground chicken",
+"1 egg",
+"Cooked white rice (about ½ cup)",
+"¼ avocado",
+"Shredded cheese",
+"Garlic powder",
+"Olive oil @Trader Joe's"
+],
+"kind": "creator",
+"links": [],
+"mealPrep": false,
+"mealPrep_basis": [],
+"minutes": null,
+"notes": [],
+"page_minutes": null,
+"platform": "tiktok",
+"recipePage": "r/tt-7709595615600053518.html",
+"recipeSourceUrl": null,
+"recipe_from": "caption",
+"status": "ok",
+"steps": [
+"Heat a little olive oil in a pan and cook the ground chicken with a sprinkle of garlic powder.",
+"Push the chicken to one side and scramble an egg in the same pan.",
+"Mix the chicken and egg together until fully cooked.",
+"Add the mixture to your cooked white rice.",
+"Mash in ¼ avocado, shredded cheese, and another sprinkle of garlic powder.",
+"Mix everything together and form into little rice balls! And breakfast is served!"
+],
+"summary": "When you’re tired of making the same breakfast every morning, try these cheesy chicken & avocado rice balls! So easy to make, packed with protein and healthy fats, and perfect for little hands!",
+"tags": [
+"breakfast",
+"veggies"
+],
+"thumb": "thumbs/tt-7709595615600053518.webp",
+"thumb_h": 572,
+"thumb_w": 400,
+"time": "unknown",
+"time_basis": "",
+"title": "Easy Toddler Breakfast Rice Balls",
+"url": "https://www.tiktok.com/@busymamaeasybites/video/7709595615600053518",
+"yield": null
+},
+"tt-7709631851853368589": {
+"account": "busymamaeasybites",
+"account_name": "Busymamaeasybites",
+"account_url": "https://www.tiktok.com/@busymamaeasybites",
+"caption": "🥑🍳 Easy Avocado Egg Breakfast Bites for Toddlers! Need a quick, nutritious breakfast for your little one? These avocado egg bites are soft, delicious, and so easy to make! Plus, they’re a great way to use up leftover bread! 💚 Ingredients: 🥑 1/2 Avocado 🥚 1 egg 🍞 Slice of whole wheat bread, cubed 🧀 2 tbsp shredded cheese 🧄 Garlic powder @Trader Joe's  🫒 Olive oil @traderjoes  Instructions: 1. Mash the avocado in a bowl. 2. Add the egg and mix until combined. 3. Sprinkle in some garlic powder. 4. Add 2 tbsp shredded cheese and cubed whole wheat bread. Mix everything together. 5. Heat olive oil in a skillet over low-medium heat. 6. Scoop small portions into the pan and cook until golden on both sides and the egg is fully cooked. Serve with fresh fruit for an easy toddler breakfast! 🍓 💗 Save this recipe for your next busy morning and follow @busymamaeasybites for more easy toddler recipes!  #easyrecipe #toddlermeals #toddlersnacks #toddlerbreakfast",
+"category": "finger",
+"color": "#947458",
+"creator": "busymamaeasybites",
+"date": "2026-11-18",
+"extraction": "caption",
+"fetched_at": "2026-11-21T15:50:04+00:00",
+"id": "tt-7709631851853368589",
+"ingredients": [
+"1/2 Avocado",
+"1 egg",
+"Slice of whole wheat bread, cubed",
+"2 tbsp shredded cheese",
+"Garlic powder @Trader Joe's",
+"Olive oil @traderjoes"
+],
+"kind": "creator",
+"links": [],
+"mealPrep": false,
+"mealPrep_basis": [],
+"minutes": null,
+"notes": [],
+"page_minutes": null,
+"platform": "tiktok",
+"recipePage": "r/tt-7709631851853368589.html",
+"recipeSourceUrl": null,
+"recipe_from": "caption",
+"status": "ok",
+"steps": [
+"Mash the avocado in a bowl.",
+"Add the egg and mix until combined.",
+"Sprinkle in some garlic powder.",
+"Add 2 tbsp shredded cheese and cubed whole wheat bread. Mix everything together.",
+"Heat olive oil in a skillet over low-medium heat.",
+"Scoop small portions into the pan and cook until golden on both sides and the egg is fully cooked. Serve with fresh fruit for an easy toddler breakfast!"
+],
+"summary": "! Need a quick, nutritious breakfast for your little one?",
+"tags": [
+"breakfast",
+"snack",
+"finger food",
+"veggies"
+],
+"thumb": "thumbs/tt-7709631851853368589.webp",
+"thumb_h": 572,
+"thumb_w": 400,
+"time": "quick",
+"time_basis": "quick",
+"title": "Easy Avocado Egg Breakfast Bites for Toddlers",
+"url": "https://www.tiktok.com/@busymamaeasybites/video/7709631851853368589",
+"yield": null
+},
+"tt-7709645725432401182": {
+"account": "mini.tiger.zen",
+"account_name": "mini.tiger.zen",
+"account_url": "https://www.tiktok.com/@mini.tiger.zen",
+"caption": "8 beauty finds from my last trip to Korea that you can now get in the U.S. 1. [Lilybyred] Smiley Lip Blending Stick (02 Smiley) — Perfect for overlining. I blend it just past my upper lip line for a subtle boost. 2. [Baren] Non-Slip Shea Butter Sleeping Heel Patches — Shea butter patches that stick right onto dry heels before bed. 3. [Rom&nd] Better Than Palette (03 Pampas Garden) — Soft peachy shades for daytime, extra sparkle for a night out, and the darkest shade doubles as eyeliner. 4. [Tony Moly] Makeup Brush Set — The little case keeps my brushes from rolling around loose in my makeup bag. 5. [Banila Co] Clean It Zero Original Cleansing Balm Travel Kit — Individually packed cleansing balm for trips. I pack one packet for every 2 nights. 6. [Mediheal] Essential Mask — I pick by ingredient. My favorites are Vitamin C (brightening), Rose PDRN (pore tightening), and Ceramide (moisture barrier) 7. [ATOPALM] Soothing Gel Lotion — Lightweight, easy to spread, and I share it with my 4-year-old. 8. [Eclado] Golden Sandalwood Gua Sha — My favorite is a scalp massage at the end of the day. It feels so good along my jawline and neck, too. Comment “K-BEAUTY” or tap the link in my bio to shop. 🤍",
+"category": "meal",
+"color": "#a48c7d",
+"creator": "mini.tiger.zen",
+"date": "2026-11-18",
+"extraction": "none",
+"fetched_at": "2026-11-21T15:50:10+00:00",
+"id": "tt-7709645725432401182",
+"ingredients": [],
+"kind": "creator",
+"links": [],
+"mealPrep": false,
+"mealPrep_basis": [],
+"minutes": null,
+"notes": [],
+"page_minutes": null,
+"platform": "tiktok",
+"recipeSourceUrl": null,
+"recipe_from": "caption",
+"status": "ok",
+"steps": [],
+"summary": "",
+"tags": [
+"dip & spread"
+],
+"thumb": "thumbs/tt-7709645725432401182.webp",
+"thumb_h": 572,
+"thumb_w": 400,
+"time": "long",
+"time_basis": "overnight",
+"title": "8 beauty finds from my last trip to Korea that you can now get in the U.S",
+"url": "https://www.tiktok.com/@mini.tiger.zen/video/7709645725432401182",
+"video": {
+"checked_at": "2026-11-21T15:52:04+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "these are my favorite beauty finds from a recent trip to korea this lip liner makes my super thin lips look a little bigger korea even has overnight masks for your feet so you wake up with softer heels i use this palette for all my eye makeup from brows to liner bottom row for every day and top row for a night out these makeup brushes come in a little case perfect for travel another travel favorite is this cleansing balm that comes in little packets of vitamin c mask for a little glow and i love this soothing gel for instant hydration a sturdy wooden gua sha that i used from head to toe now you can get them on the us with carly and for product links comment to check out my bio",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
+"yield": null
+},
+"tt-7709959705115839758": {
+"account": "busymamaeasybites",
+"account_name": "Busymamaeasybites",
+"account_url": "https://www.tiktok.com/@busymamaeasybites",
+"caption": "🍤🥔 Toddler-Friendly Shrimp & Potato Bites! So easy, soft, and yummy for the whole family! These little bites are perfect for toddlers and a great way to use up that one potato sitting in your kitchen! 🤭 Ingredients: * 1 medium potato, peeled & grated * 4–5 shrimp, peeled & finely chopped * 4 tbsp all-purpose flour * Garlic powder & onion powder, to taste * Sprinkle of dried parsley flakes * Pinch of salt * Splash of water * Olive oil for cooking Instructions: 1. Peel and grate your potato using the largest holes on your grater. 2. Lightly salt and let sit for 3–5 minutes, then squeeze out as much water as possible. 💡 The potato may turn slightly orange due to oxidation, so try to cook it shortly after grating! 3. Finely chop the shrimp into small, toddler-friendly pieces. 4. Combine the grated potato, shrimp, flour, garlic powder, onion powder, and parsley. 5. Add a splash of water and mix until there’s no dry flour left. The mixture should be slightly wet but still hold together. 6. Heat olive oil in a pan over medium heat. Scoop small portions into the pan and gently flatten into little bites. 7. Cook both sides until golden brown and the potato is tender and shrimp is fully cooked through (145°F for shrimp). ✨ These come out soft and delicious, making them easy for little ones to enjoy! And we all know toddlers LOVE to dip, so serve these with a little ketchup! 🍅❤️ Let cool before serving, and cut into age-appropriate pieces. Save this recipe and give it a try next time you have an extra potato lying around! 🥔💛 #easyrecipe #toddlerrecipes #toddlermealideas #toddlerlunch #toddlerfood",
+"category": "finger",
+"color": "#aa926b",
+"creator": "busymamaeasybites",
+"date": "2026-11-19",
+"extraction": "caption",
+"fetched_at": "2026-11-21T15:50:03+00:00",
+"id": "tt-7709959705115839758",
+"ingredients": [
+"1 medium potato, peeled & grated",
+"4–5 shrimp, peeled & finely chopped",
+"4 tbsp all-purpose flour",
+"Garlic powder & onion powder, to taste",
+"Sprinkle of dried parsley flakes",
+"Pinch of salt",
+"Splash of water",
+"Olive oil for cooking"
+],
+"kind": "creator",
+"links": [],
+"mealPrep": false,
+"mealPrep_basis": [],
+"minutes": 5,
+"notes": [],
+"page_minutes": null,
+"platform": "tiktok",
+"recipePage": "r/tt-7709959705115839758.html",
+"recipeSourceUrl": null,
+"recipe_from": "caption",
+"status": "ok",
+"steps": [
+"Peel and grate your potato using the largest holes on your grater.",
+"Lightly salt and let sit for 3–5 minutes, then squeeze out as much water as possible."
+],
+"summary": "! So easy, soft, and yummy for the whole family!",
+"tags": [
+"snack",
+"finger food",
+"seafood"
+],
+"thumb": "thumbs/tt-7709959705115839758.webp",
+"thumb_h": 572,
+"thumb_w": 400,
+"time": "quick",
+"time_basis": "says 5 min",
+"title": "Toddler-Friendly Shrimp & Potato Bites",
+"url": "https://www.tiktok.com/@busymamaeasybites/video/7709959705115839758",
+"yield": null
+},
 "wee-apple-sausage-stuffing-bites": {
 "account": "",
 "account_name": "Weelicious",
@@ -72792,6 +74365,60 @@
 "time_basis": "overnight",
 "title": "Easy Matcha Overnight Oats",
 "url": "https://www.youtube.com/shorts/6Pq6N37vhtc",
+"yield": null
+},
+"yt-6jvcoE6h3-I": {
+"account": "thepickyeater",
+"account_name": "Anjali Shah",
+"account_url": "https://www.youtube.com/channel/UC6rFxJxXqjnmfKb4NlVf8Yg",
+"caption": "This healthy carrot cake recipe has no added sugar and is super moist fluffy and perfectly sweet!\nGet this recipe plus 100 more healthy snacks that taste just like dessert here! https://thepickyeater.samcart.com/products/healthy-snacks",
+"category": "sweet",
+"color": "#957c71",
+"creator": "thepickyeater",
+"date": "2026-11-17",
+"extraction": "none",
+"fetched_at": "2026-11-21T15:51:00+00:00",
+"id": "yt-6jvcoE6h3-I",
+"ingredients": [],
+"kind": "creator",
+"links": [
+"https://thepickyeater.samcart.com/products/healthy-snacks"
+],
+"mealPrep": false,
+"mealPrep_basis": [],
+"minutes": null,
+"notes": [],
+"page_minutes": null,
+"platform": "youtube",
+"recipeSourceUrl": null,
+"recipe_from": "caption",
+"status": "ok",
+"steps": [],
+"summary": "This healthy carrot cake recipe has no added sugar and is super moist fluffy and perfectly sweet! Get this recipe plus 100 more healthy snacks that taste just like dessert here!",
+"tags": [
+"snack",
+"sweet",
+"veggies"
+],
+"thumb": "thumbs/yt-6jvcoE6h3-I.webp",
+"thumb_h": 225,
+"thumb_w": 400,
+"time": "unknown",
+"time_basis": "",
+"title": "Healthy carrot cake recipe has no added sugar and",
+"url": "https://www.youtube.com/shorts/6jvcoE6h3-I",
+"video": {
+"checked_at": "2026-11-21T15:52:22+00:00",
+"ingredients": [],
+"kind": "none",
+"narration": "",
+"onscreen": [],
+"steps": [],
+"tools": [
+"ffmpeg",
+"whisper"
+]
+},
 "yield": null
 },
 "yt-7EfT4rbGd9I": {
@@ -81005,6 +82632,7 @@
 "tt-7707037236465814814": "not a food post",
 "tt-7707357998603078942": "not a food post",
 "tt-7707925655907732766": "not a food post",
+"tt-7710486012035697951": "not a food post",
 "yt--5sP4x2l_K0": "not a food post",
 "yt--63or12q_A0": "not a food post",
 "yt--W0uEvpIAUU": "not a food post",
@@ -81222,207 +82850,207 @@
 },
 "sources": {
 "instagram_profile https://www.instagram.com/babymealsfreezer/": {
-"checked_at": "2026-11-14T15:46:52+00:00",
+"checked_at": "2026-11-21T15:49:29+00:00",
 "status": "skipped",
 "why": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists"
 },
 "instagram_profile https://www.instagram.com/busymamaeasybites/": {
-"checked_at": "2026-11-14T15:46:52+00:00",
+"checked_at": "2026-11-21T15:49:29+00:00",
 "status": "skipped",
 "why": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists"
 },
 "instagram_profile https://www.instagram.com/kidfriendly.meals/": {
-"checked_at": "2026-11-14T15:46:52+00:00",
+"checked_at": "2026-11-21T15:49:29+00:00",
 "status": "skipped",
 "why": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists"
 },
 "instagram_profile https://www.instagram.com/mini.tiger.zen/": {
-"checked_at": "2026-11-14T15:46:52+00:00",
+"checked_at": "2026-11-21T15:49:29+00:00",
 "status": "skipped",
 "why": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists"
 },
 "instagram_profile https://www.instagram.com/mountain_mothering/": {
-"checked_at": "2026-11-14T15:46:52+00:00",
+"checked_at": "2026-11-21T15:49:29+00:00",
 "status": "skipped",
 "why": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists"
 },
 "instagram_profile https://www.instagram.com/soniamazri_/": {
-"checked_at": "2026-11-14T15:46:52+00:00",
+"checked_at": "2026-11-21T15:49:29+00:00",
 "status": "skipped",
 "why": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists"
 },
 "instagram_profile https://www.instagram.com/thepickyeater/": {
-"checked_at": "2026-11-14T15:46:52+00:00",
+"checked_at": "2026-11-21T15:49:29+00:00",
 "status": "skipped",
 "why": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists"
 },
 "instagram_profile https://www.instagram.com/toddler.snack.therapy/": {
-"checked_at": "2026-11-14T15:46:52+00:00",
+"checked_at": "2026-11-21T15:49:29+00:00",
 "status": "skipped",
 "why": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists"
 },
 "instagram_profile https://www.instagram.com/tuankil28/": {
-"checked_at": "2026-11-14T15:46:52+00:00",
+"checked_at": "2026-11-21T15:49:29+00:00",
 "status": "skipped",
 "why": "Instagram profile listing needs a login; skipped until a logged-in box browser option exists. No public TikTok, YouTube or blog found for this account (Oct 2026)"
 },
 "instagram_reel https://www.instagram.com/reel/DYM-EdVRv5w/": {
 "added": 0,
-"checked_at": "2026-11-14T15:46:52+00:00",
+"checked_at": "2026-11-21T15:49:28+00:00",
 "detail": "kept",
 "status": "ok"
 },
 "instagram_reel https://www.instagram.com/reel/DZNgOJWxKeb/": {
 "added": 0,
-"checked_at": "2026-11-14T15:46:52+00:00",
+"checked_at": "2026-11-21T15:49:28+00:00",
 "detail": "kept",
 "status": "ok"
 },
 "instagram_reel https://www.instagram.com/reel/DbL8lkyxo5u/": {
 "added": 0,
-"checked_at": "2026-11-14T15:46:51+00:00",
+"checked_at": "2026-11-21T15:49:28+00:00",
 "detail": "kept",
 "status": "ok"
 },
 "instagram_reel https://www.instagram.com/reel/DbbXt7wpuIX/": {
 "added": 0,
-"checked_at": "2026-11-14T15:46:52+00:00",
+"checked_at": "2026-11-21T15:49:28+00:00",
 "detail": "kept",
 "status": "ok"
 },
 "instagram_reel https://www.instagram.com/reel/Dbq5xTqNN8Y/": {
 "added": 0,
-"checked_at": "2026-11-14T15:46:52+00:00",
+"checked_at": "2026-11-21T15:49:28+00:00",
 "detail": "kept",
 "status": "ok"
 },
 "instagram_reel https://www.instagram.com/reel/DcFDtQDv_7p/": {
 "added": 0,
-"checked_at": "2026-11-14T15:46:52+00:00",
+"checked_at": "2026-11-21T15:49:28+00:00",
 "detail": "kept",
 "status": "ok"
 },
 "instagram_reel https://www.instagram.com/reel/DcbRdMQoCC2/": {
 "added": 0,
-"checked_at": "2026-11-14T15:46:52+00:00",
+"checked_at": "2026-11-21T15:49:28+00:00",
 "detail": "kept",
 "status": "ok"
 },
 "instagram_reel https://www.instagram.com/reel/DdObMJ6SGYA/": {
 "added": 0,
-"checked_at": "2026-11-14T15:46:51+00:00",
+"checked_at": "2026-11-21T15:49:28+00:00",
 "detail": "kept",
 "status": "ok"
 },
 "instagram_reel https://www.instagram.com/reel/DdnIx7EugPm/": {
 "added": 0,
-"checked_at": "2026-11-14T15:46:51+00:00",
+"checked_at": "2026-11-21T15:49:28+00:00",
 "detail": "kept",
 "status": "ok"
 },
 "instagram_reel https://www.instagram.com/reel/DeQGbyevSm9/": {
 "added": 0,
-"checked_at": "2026-11-14T15:46:51+00:00",
+"checked_at": "2026-11-21T15:49:28+00:00",
 "detail": "kept",
 "status": "ok"
 },
 "tiktok_profile https://www.tiktok.com/@babymealsfreezer": {
 "added": 0,
-"checked_at": "2026-11-14T15:47:33+00:00",
+"checked_at": "2026-11-21T15:50:15+00:00",
 "detail": "listed 31 posts (oldest 2026-03-10)",
 "status": "ok"
 },
 "tiktok_profile https://www.tiktok.com/@busymamaeasybites": {
-"added": 0,
-"checked_at": "2026-11-14T15:47:21+00:00",
-"detail": "listed 70 posts (oldest 2026-04-14)",
+"added": 3,
+"checked_at": "2026-11-21T15:50:04+00:00",
+"detail": "listed 73 posts (oldest 2026-04-14)",
 "status": "ok"
 },
 "tiktok_profile https://www.tiktok.com/@mini.tiger.zen": {
-"added": 3,
-"checked_at": "2026-11-14T15:47:30+00:00",
-"detail": "listed 93 posts (oldest 2023-04-08)",
+"added": 4,
+"checked_at": "2026-11-21T15:50:12+00:00",
+"detail": "listed 98 posts (oldest 2023-04-08)",
 "status": "ok"
 },
 "tiktok_profile https://www.tiktok.com/@mountain_mothering": {
 "added": 0,
-"checked_at": "2026-11-14T15:47:36+00:00",
-"detail": "listed 16 posts (oldest 2026-09-23)",
+"checked_at": "2026-11-21T15:50:17+00:00",
+"detail": "listed 0 posts (oldest None)",
 "status": "ok"
 },
 "tiktok_profile https://www.tiktok.com/@pickyeaterblog": {
-"added": 0,
-"checked_at": "2026-11-14T15:48:09+00:00",
-"detail": "listed 607 posts (oldest 2022-01-02)",
+"added": 1,
+"checked_at": "2026-11-21T15:50:51+00:00",
+"detail": "listed 608 posts (oldest 2022-01-02)",
 "status": "ok"
 },
 "tiktok_profile https://www.tiktok.com/@soniamazri": {
-"added": 0,
-"checked_at": "2026-11-14T15:47:16+00:00",
-"detail": "listed 385 posts (oldest 2022-11-14)",
+"added": 6,
+"checked_at": "2026-11-21T15:49:57+00:00",
+"detail": "listed 391 posts (oldest 2022-11-14)",
 "status": "ok"
 },
 "tiktok_profile https://www.tiktok.com/@toddler.snack.therapy": {
 "added": 0,
-"checked_at": "2026-11-14T15:48:13+00:00",
+"checked_at": "2026-11-21T15:50:54+00:00",
 "detail": "listed 34 posts (oldest 2025-09-24)",
 "status": "ok"
 },
 "website_category https://pickyeaterblog.com/category/kid-friendly-recipes/": {
-"added": 6,
-"checked_at": "2026-11-14T15:48:44+00:00",
+"added": 4,
+"checked_at": "2026-11-21T15:51:24+00:00",
 "detail": "listed 117 pages, considered newest 117",
 "status": "ok"
 },
 "website_category https://www.mjandhungryman.com/category/baby-kid-friendly-recipes/": {
-"added": 1,
-"checked_at": "2026-11-14T15:48:34+00:00",
+"added": 2,
+"checked_at": "2026-11-21T15:51:16+00:00",
 "detail": "listed 178 pages, considered newest 150",
 "status": "ok"
 },
 "website_sitemap https://babyfoode.com/post-sitemap.xml": {
-"added": 1,
-"checked_at": "2026-11-14T15:48:47+00:00",
+"added": 0,
+"checked_at": "2026-11-21T15:51:26+00:00",
 "detail": "listed 116 pages, considered newest 15",
 "status": "ok"
 },
 "website_sitemap https://weelicious.com/post-sitemap.xml": {
 "added": 0,
-"checked_at": "2026-11-14T15:48:49+00:00",
+"checked_at": "2026-11-21T15:51:28+00:00",
 "detail": "listed 108 pages, considered newest 15",
 "status": "ok"
 },
 "website_sitemap https://www.healthylittlefoodies.com/post-sitemap.xml": {
 "added": 0,
-"checked_at": "2026-11-14T15:48:45+00:00",
+"checked_at": "2026-11-21T15:51:25+00:00",
 "detail": "listed 85 pages, considered newest 18",
 "status": "ok"
 },
 "youtube_channel https://www.youtube.com/@busymamaeasybites/shorts": {
 "added": 0,
-"checked_at": "2026-11-14T15:48:20+00:00",
+"checked_at": "2026-11-21T15:51:01+00:00",
 "detail": "listed 2 videos",
 "status": "ok"
 },
 "youtube_channel https://www.youtube.com/@kidfriendlymeals/shorts": {
 "added": 0,
-"checked_at": "2026-11-14T15:48:20+00:00",
+"checked_at": "2026-11-21T15:51:01+00:00",
 "detail": "listed 8 videos",
 "status": "ok"
 },
 "youtube_channel https://www.youtube.com/@mountain_mothering/shorts": {
-"added": 1,
-"checked_at": "2026-11-14T15:48:15+00:00",
+"added": 0,
+"checked_at": "2026-11-21T15:50:55+00:00",
 "detail": "listed 34 videos",
 "status": "ok"
 },
 "youtube_channel https://www.youtube.com/@thepickyeater/shorts": {
-"added": 0,
-"checked_at": "2026-11-14T15:48:19+00:00",
-"detail": "listed 291 videos",
+"added": 1,
+"checked_at": "2026-11-21T15:51:00+00:00",
+"detail": "listed 292 videos",
 "status": "ok"
 }
 },
-"updated_at": "2026-11-14T15:51:38+00:00",
-"video_pending": 445
+"updated_at": "2026-11-21T15:54:15+00:00",
+"video_pending": 425
 }
