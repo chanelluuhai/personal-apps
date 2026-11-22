@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated": "2026-11-20",
-    "as_of": "2026-11-20",
+    "updated": "2026-11-22",
+    "as_of": "2026-11-22",
     "timezone": "America/Denver",
     "notes": "Upcoming, dated family events kept separate from map pins. Confirm times, access, and weather with the linked organizer before heading out."
   },
@@ -968,6 +968,35 @@
       "drive_note": "~24 min from the 64th & Ward base",
       "source": "Little Rad Adventure IG Nov 19 (https://www.instagram.com/p/Df8hudmn4oV/); denverzoo.org",
       "note": "35th season: 80 acres and 3 million lights. Kids 2 and under free. Adults $29.95 and youth $22.95 on regular nights; value nights (Nov 29–Dec 2, Dec 6, 8–9, 13–16, Jan 2–3) are $25.95 adults and $18.95 youth. The $28.65–$44.95 bundle adds hot cocoa plus two train/carousel vouchers. Little Rad says to buy ahead because some nights sell out, and to dress warm."
+    },
+    {
+      "id": "snow-days-childrens-museum-2026",
+      "title": "Snow Days at the Children's Museum of Denver",
+      "place_id": "childrens-museum-denver",
+      "date": "2026-11-18",
+      "end_date": "2027-01-31",
+      "time": "Daily 9:00 AM–4:00 PM during museum hours (closed Thanksgiving Day Nov 26, Dec 24, Dec 25, and Jan 1)",
+      "place": "Children's Museum of Denver at Marsico Campus, 2121 Children's Museum Dr, Denver, CO 80211",
+      "lat": 39.7658,
+      "lng": -105.0026,
+      "link": "https://www.mychildsmuseum.org/visit",
+      "drive_note": "~17 min from the 64th & Ward base",
+      "source": "Colorado Mama Life Facebook reel (https://www.facebook.com/reel/2362233171288367/); mychildsmuseum.org",
+      "note": "Real snow sledding, a sock skating rink, and ice fishing. Included with admission: age 1 $17.75, ages 2–59 $19.75, under 1 free. Tickets are not sold online (buy at the door). Free parking. Closed Thanksgiving Day, Dec 24, Dec 25, and Jan 1."
+    },
+    {
+      "id": "ratatouille-golden-library-2026-11-24",
+      "title": "Thanksgiving Family Movie: Ratatouille",
+      "date": "2026-11-24",
+      "end_date": "2026-11-24",
+      "time": "2:00–4:00 PM",
+      "place": "Golden Library, 1019 10th St, Golden, CO 80401",
+      "lat": 39.7558188,
+      "lng": -105.2256101,
+      "link": "https://jeffcolibrary.bibliocommons.com/v2/events/6abb49b8e8cf1c005cafd973",
+      "drive_note": "~13 min from the 64th & Ward base",
+      "source": "Colorado Mama Life Facebook reel (https://www.facebook.com/reel/2362233171288367/); Jefferson County Public Library",
+      "note": "Free (no fee listed). Bring a blanket or pillow; popcorn is provided. Babies and toddlers welcome."
     }
   ]
 }
