@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated": "2026-11-22",
-    "as_of": "2026-11-22",
+    "updated": "2026-11-23",
+    "as_of": "2026-11-23",
     "timezone": "America/Denver",
     "notes": "Upcoming, dated family events kept separate from map pins. Confirm times, access, and weather with the linked organizer before heading out."
   },
@@ -1265,6 +1265,20 @@
       "drive_note": "~6 min from the 64th & Ward base",
       "source": "Apex Park and Recreation District (https://apexprd.org/event/winter-wonderland-bash-3/); Visit Arvada 2026 Holiday Guide",
       "note": "Indoor kids' party with ninja courses, open gymnastics, bounce houses, games, crafts, prizes, temporary tattoos, hair tinsel, and vendors. Registration through Apex is required before the event (no fee listed on the event page). The 1pm start is a little earlier than his usual wake-up, so you may want to arrive after 2."
+    },
+    {
+      "id": "santas-workshop-north-pole-2026",
+      "title": "Santa's Workshop at the North Pole",
+      "date": "2026-11-23",
+      "end_date": "2026-12-24",
+      "time": "9:30 AM–4:30 PM on open days (rides usually close at 4:15 PM; Christmas Eve closes at 4:00 PM)",
+      "place": "The North Pole – Santa's Workshop, 5050 Pikes Peak Hwy, Cascade, CO 80809",
+      "lat": 38.905747,
+      "lng": -104.9776155,
+      "link": "https://northpolecolorado.com/ride-passes-dates/",
+      "drive_note": "~110 min from the 64th & Ward base (farther than 30 min)",
+      "source": "Fillmysoul Withadventure Facebook reel (https://www.facebook.com/share/r/19usSN1vHi/?mibextid=wwXIfr); northpolecolorado.com calendar",
+      "note": "Christmas amusement park at the foot of Pikes Peak: meet Santa, watch the magic show, ride the rides, and mail a postcard with a North Pole postmark. Kids 2 and under are free (reserve a free Under 2 ticket on peak days). Peak days still to come — reservations required, $38 ages 3+ including rides — are Nov 23–25 and 27–29, Dec 5–6, 12–13, and 17–24. Tickets go on sale weekly on the official site. Free-entry days (Santa and the magic show included; optional $38 ride wristband for ages 3–59): Nov 30, Dec 3, 4, 7, 10, 11, and 14. Closed Thanksgiving Day and Tuesdays/Wednesdays except holiday weeks. Outdoor and weather-dependent, so check the calendar before you go. This is a long day trip (~110 min each way) that would cut across his usual 2pm nap."
     }
   ]
 }
