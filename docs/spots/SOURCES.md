@@ -12,6 +12,30 @@
 | City of Arvada community events | | | https://www.arvadaco.gov/calendar.aspx (calendar incl. Majestic View Nature Center); example https://www.arvadaco.gov/1589/Food-Trucks-and-Fireworks; Olde Town events via https://www.oldetownarvada.org/events |
 | Destinations with Drew - Travel Tips & Hidden Gems | https://www.instagram.com/destinationswithdrew/ | https://www.facebook.com/profile.php?id=61576835055380 (login-walled; og meta only) | Added 2026-11-15 at Chanel's request; mostly Colorado Springs and national road trips |
 
+## Scrub window (2026-11-23 Mon/Wed/Fri pass)
+
+**Checked**
+- Instagram: public profile embed pages, cutoff Nov 20 00:00 America/Denver:
+  - @days.in.denver: Nov 23 Snow Days at the Children's Museum (already on the map; Days link added to the event source). Nov 22 "sunny Red Rocks loop" winter hike: the caption doesn't name the trail, so skipped. The Red Rocks Trading Post Trail is already pinned, but this post isn't confirmed to be that trail. Nov 21 fireplace/Christmas music post (no venue; skipped).
+  - @colorado.kids.explore: the embed returned a Facebook/Instagram rate or login wall on 2 tries (no contextJSON). Not scrubbed, no captions guessed.
+  - @coloradokidsarerad: Nov 21 Christmas in Color (new event; Water World and Red Rocks prices from christmasincolor.net ticket pages, dates/hours from the Westword Nov 19 guide). Nov 22 Greeley day trip (Twin Rivers Park, LINC Library, Wiley Roots Brewing): skipped, ~1 hr away.
+  - @coloradomamalife: Nov 22 Santa's Storytime & Cocoa at Little Monkey Bizness, Westminster Dec 3 / Parker Dec 10 (new event for Westminster; confirmed on littlemonkeybizness.com). Nov 20 HYBYCOZO at Madden Gallery, Greenwood Village (new event; free, Tue–Fri 10–4, through Feb 26, 2027, confirmed on moaonline.org; ~37 min).
+  - @littleradadventure: Nov 22 Colorado Railbike Adventures holiday rides (Erie Depot, 4121 County Rd 3): skipped. It's ~41 min away and $212 per 4-seat bike; kids under 3 need a reserved 5-point harness. Nov 22 Reima sale (ad; skipped). Nov 20 The Broskis, Boulder (restaurant; skipped).
+  - @destinationswithdrew: Nov 21 American West montage (no venue; skipped).
+- Destinations with Drew Facebook: the facebookexternalhit UA returned no og meta again. Captions login-walled; none guessed.
+- City of Arvada calendar (WebFetch list view, Nov + Dec): Community Events are leaf drop-offs and meetings only. New: Majestic View Nature Storytime Dec 17, 10–10:30am (all ages; added). Winter Solstice Celebration Dec 21, 6–8pm (all ages) skipped as past toddler bedtime. Other programs are for adults or ages 8+.
+- Days.in.denver beehiiv: the sitemap's newest issue is still the November newsletter.
+- Little Rad Adventure site feed: newest post still Pennsylvania (Nov 5).
+- Facebook (other accounts): login-walled; not re-tried. TikTok: profile meta only.
+
+**New pins (0)**
+
+**New events (4)**
+- Now–Jan 2 nightly 5–10pm: Christmas in Color drive-thru, Water World (Federal Heights); Red Rocks from Nov 27. From $34.99 per car + $5 fee (CKAR Nov 21) (~19 min)
+- Dec 3, 5–7:30pm: Santa's Storytime & Cocoa, Little Monkey Bizness Westminster. $25 per child, reservations required (CML Nov 22) (~31 min)
+- Nov 19–Feb 26, Tue–Fri 10–4: HYBYCOZO light sculptures, Madden Gallery, Greenwood Village. Free (CML Nov 20) (~37 min, farther than 30 min)
+- Dec 17, 10–10:30am: Nature Storytime, Majestic View Nature Center. Free (City of Arvada) (~7 min)
+
 ## Scrub window (2026-11-20 Mon/Wed/Fri pass)
 
 **Checked**

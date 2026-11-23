@@ -981,7 +981,7 @@
       "lng": -105.0026,
       "link": "https://www.mychildsmuseum.org/visit",
       "drive_note": "~17 min from the 64th & Ward base",
-      "source": "Colorado Mama Life Facebook reel (https://www.facebook.com/reel/2362233171288367/); mychildsmuseum.org",
+      "source": "Colorado Mama Life Facebook reel (https://www.facebook.com/reel/2362233171288367/); mychildsmuseum.org; Days.in.denver IG Nov 23 (https://www.instagram.com/p/DgFq5gIBqGo/)",
       "note": "Real snow sledding, a sock skating rink, and ice fishing. Included with admission: age 1 $17.75, ages 2–59 $19.75, under 1 free. Tickets are not sold online (buy at the door). Free parking. Closed Thanksgiving Day, Dec 24, Dec 25, and Jan 1."
     },
     {
@@ -1279,6 +1279,62 @@
       "drive_note": "~110 min from the 64th & Ward base (farther than 30 min)",
       "source": "Fillmysoul Withadventure Facebook reel (https://www.facebook.com/share/r/19usSN1vHi/?mibextid=wwXIfr); northpolecolorado.com calendar",
       "note": "Christmas amusement park at the foot of Pikes Peak: meet Santa, watch the magic show, ride the rides, and mail a postcard with a North Pole postmark. Kids 2 and under are free (reserve a free Under 2 ticket on peak days). Peak days still to come — reservations required, $38 ages 3+ including rides — are Nov 23–25 and 27–29, Dec 5–6, 12–13, and 17–24. Tickets go on sale weekly on the official site. Free-entry days (Santa and the magic show included; optional $38 ride wristband for ages 3–59): Nov 30, Dec 3, 4, 7, 10, 11, and 14. Closed Thanksgiving Day and Tuesdays/Wednesdays except holiday weeks. Outdoor and weather-dependent, so check the calendar before you go. This is a long day trip (~110 min each way) that would cut across his usual 2pm nap."
+    },
+    {
+      "id": "christmas-in-color-water-world-2026",
+      "title": "Christmas in Color drive-thru lights (Water World; Red Rocks from Nov 27)",
+      "date": "2026-11-23",
+      "end_date": "2027-01-02",
+      "time": "Nightly, timed entry every 30 min 5:00–10:00 PM (closed Thanksgiving Nov 26 and Christmas Day per listings); ~30-minute drive-through",
+      "place": "Water World, 8800 N Pecos St, Federal Heights, CO 80260",
+      "lat": 39.856399,
+      "lng": -105.005845,
+      "link": "https://christmasincolor.net/",
+      "drive_note": "~19 min from the 64th & Ward base (Red Rocks location ~21 min)",
+      "source": "Colorado Kids Are Rad IG Nov 21 (https://www.instagram.com/p/DgBoE8hRsbH/); christmasincolor.net + ticket pages; Westword winter guide Nov 19",
+      "note": "Drive-through light show synced to music. You stay in the car, so it works even past bedtime in PJs. One ticket per car: Classic from $34.99 and Family Pass (with LED party pack) from $49.99, plus a $5 venue fee; prices vary by date. Water World is open now. The Red Rocks location (18300 W Alameda Pkwy, Morrison) opens Nov 27, and there is also a Centennial location. Westword lists both metro shows through Jan 2. CKAR shared code RADFAM15 for 15% off. Water World tickets: https://wonderteam.ticketspice.com/christmas-in-color-waterworld-26 ; Red Rocks: https://wonderteam.ticketspice.com/christmas-in-color-red-rocks-26"
+    },
+    {
+      "id": "little-monkey-santa-storytime-westminster-2026",
+      "title": "Santa's Storytime & Cocoa at Little Monkey Bizness Westminster",
+      "place_id": "little-monkey-bizness-westminster",
+      "date": "2026-12-03",
+      "end_date": "2026-12-03",
+      "time": "Thu 5:00–7:30 PM",
+      "place": "Little Monkey Bizness, 14693 Orchard Pkwy, Westminster, CO 80023",
+      "lat": 39.962894,
+      "lng": -104.993923,
+      "link": "https://www.littlemonkeybizness.com/blog/santas-storytime-cocoa-westminster",
+      "drive_note": "~31 min from the 64th & Ward base (farther than 30 min)",
+      "source": "Colorado Mama Life IG Nov 22 (https://www.instagram.com/p/DgDABpBz0Kj/); littlemonkeybizness.com",
+      "note": "PJ party: Santa reads a story, plus hot cocoa with whipped cream, a holiday craft, and 2.5 hours of play. $25 per child, 2 adults free. Reservations are required for every guest, including free adults. The Parker location repeats it Thu Dec 10, 5–7:30 PM (farther away)."
+    },
+    {
+      "id": "hybycozo-madden-gallery-2026",
+      "title": "HYBYCOZO: The Art of Light Forms (free glowing-sculpture exhibit)",
+      "date": "2026-11-19",
+      "end_date": "2027-02-26",
+      "time": "Tue–Fri 10:00 AM–4:00 PM",
+      "place": "Madden Gallery at the Museum of Outdoor Arts, 6363 S Fiddler's Green Cir, Suite 110, Greenwood Village, CO 80111",
+      "lat": 39.600152,
+      "lng": -104.8922242,
+      "link": "https://moaonline.org/hybycozo/",
+      "drive_note": "~37 min from the 64th & Ward base (farther than 30 min)",
+      "source": "Colorado Mama Life IG Nov 20 (https://www.instagram.com/p/Df-rR8Fz6jO/); moaonline.org",
+      "note": "Glowing steel sculptures that cast patterned shadows across the walls and ceiling. The centerpiece, Point of View, is meant to be touched and turned. Free admission and free parking (lot west of Palazzo Verdi). CML says both her toddler and baby enjoyed it and it didn't feel overstimulating. Not a kids-only exhibit, so supervise little hands. Weekdays only, so it fits a morning before his ~2pm nap wake-up."
+    },
+    {
+      "id": "majestic-view-nature-storytime-2026-12-17",
+      "title": "Nature Storytime at Majestic View",
+      "date": "2026-12-17",
+      "time": "10:00–10:30 AM",
+      "place": "Majestic View Nature Center, 7030 Garrison St, Arvada, CO 80004",
+      "lat": 39.824117,
+      "lng": -105.0995581,
+      "link": "https://www.arvadaco.gov/calendar.aspx",
+      "drive_note": "~7 min from the 64th & Ward base",
+      "source": "City of Arvada community calendar (arvadaco.gov), checked 2026-11-23",
+      "note": "All ages; short 30-minute story time."
     }
   ]
 }
