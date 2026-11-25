@@ -12,6 +12,34 @@
 | City of Arvada community events | | | https://www.arvadaco.gov/calendar.aspx (calendar incl. Majestic View Nature Center); example https://www.arvadaco.gov/1589/Food-Trucks-and-Fireworks; Olde Town events via https://www.oldetownarvada.org/events |
 | Destinations with Drew - Travel Tips & Hidden Gems | https://www.instagram.com/destinationswithdrew/ | https://www.facebook.com/profile.php?id=61576835055380 (login-walled; og meta only) | Added 2026-11-15 at Chanel's request; mostly Colorado Springs and national road trips |
 
+## Scrub window (2026-11-25 Mon/Wed/Fri pass)
+
+**Checked**
+- Instagram: public profile embed pages (the first desktop-UA request returned a login page for all six; a retry with the facebookexternalhit UA returned posts). Posts since the Nov 23 pass:
+  - @days.in.denver: Nov 24 "kids giving around Denver" reel. Giving Machine at the Cherry Creek Holiday Market (new event; market dates/hours confirmed on cherrycreeknorth.com and cherrycreekholidaymarket.com, Giving Machine 24/7 Nov 19–Jan 4 on givingmachinedenver.org). Giving Trees at Stanley Marketplace through Dec 13 (Stanley is already pinned; confirmed on stanleymarketplace.com, and its holidays page added free weekend Santas and Kids' Noon Year's Eve as new events). Roll-it-Forward Toy Drive at Roller City, Lakewood, Sat Dec 12, 11am–2pm: skipped. It's not listed on rollercitywest.com (events section is script-rendered) or mix100.com, so it couldn't be confirmed on an official page. Nov 23 Snow Days was already covered.
+  - @colorado.kids.explore: the embed returned contextJSON null (rate/login wall) on 2 tries. Not scrubbed, no captions guessed.
+  - @coloradokidsarerad: Nov 24 Morrison Nature Center, Aurora (already pinned; CKAR link added). Nov 23 Strider Bike Builder #ad (skipped).
+  - @coloradomamalife: no posts newer than Nov 21 (already scrubbed).
+  - @littleradadventure: Nov 24 Reima sale/ski snack tips #ad featuring Loveland Ski Area (skipped; far). Nov 24 Montezuma near Keystone (skipped; ~1.5 hr).
+  - @destinationswithdrew: Nov 24 Iowa advocacy post and Nov 23 Rocky Mountain gas-station view (no venue; skipped).
+- Destinations with Drew Facebook (facebookexternalhit UA): og:title/og:description readable again (profile only: "Colorado based" travel, 109,415 followers). Reel captions login-walled; none guessed.
+- City of Arvada calendar (WebFetch list view, Nov + Dec): nothing new. Community Events are a Dec 3 neighborhood meeting only. Nature Storytime Dec 17 is already on the map. Winter Solstice Dec 21 (6–8pm) skipped as past toddler bedtime; other programs are adults or ages 8+.
+- Days.in.denver beehiiv: the sitemap's newest issue is still the November newsletter.
+- Little Rad Adventure site feed: newest post still Pennsylvania (Nov 5).
+- TikTok @colorado.kids.explore / @coloradomamalife: profile meta only (no captions). Facebook (other accounts): login-walled; not re-tried.
+- Drive times via public OSRM from the 64th & Ward base.
+
+**New pins (0)**
+
+**Updated pins (2)**
+- Morrison Nature Center: added the CKAR Nov 24 reel (free indoor + outdoor nature play)
+- Stanley Marketplace: added the Holidays at Stanley link
+
+**New events (3)**
+- Now–Dec 24 daily: Cherry Creek Holiday Market, Fillmore Plaza, plus the Giving Machine at 2nd & Fillmore (24/7 through Jan 4). Free (Days Nov 24) (~29 min)
+- Sat/Sun Nov 28–Dec 20, 11am–1pm: free walk-up Santa visits (a different Santa each weekend; Sensory Santa Nov 28) + Stanley Bear's Great Adventure trail, Stanley Marketplace (Days Nov 24; stanleymarketplace.com) (~30 min)
+- Thu Dec 31, 11am: Kids' Noon Year's Eve, Stanley Marketplace (stanleymarketplace.com) (~30 min)
+
 ## Scrub window (2026-11-23 Mon/Wed/Fri pass)
 
 **Checked**

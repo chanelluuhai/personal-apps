@@ -1,6 +1,6 @@
 # Denver/Arvada Toddler Outing Spots
 
-Updated: 2026-11-23  
+Updated: 2026-11-25  
 Base: W 64th Ave & Ward Rd, Arvada, CO 80004  
 Audience: Toddler ~20 months; prefer ~30 min drive  
 Places: 113
@@ -1012,6 +1012,7 @@ Each pin has a why-note from a named social/newsletter source. Drive times are r
 - [Days in Denver May newsletter](https://days-in-denver.beehiiv.com/p/may-newsletter-7ae4c6d9c4e11cee)
 - [Days.in.denver playground reel](https://www.instagram.com/days.in.denver/reel/DeExVgtB1UU/)
 - [Days.in.denver Friends of Friends post (Oct 18)](https://www.instagram.com/p/Deo0h_CnK9h/)
+- [Stanley: Holidays at Stanley (Santa schedule)](https://www.stanleymarketplace.com/holidays)
 
 ## The Bookies Bookstore (FARTHER)
 
@@ -1070,7 +1071,7 @@ Each pin has a why-note from a named social/newsletter source. Drive times are r
 
 - **Address:** 16002 E Smith Rd, Aurora, CO 80011
 - **Drive:** ~31 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~18.4 mi straight-line) — farther
-- **Why:** Days.in.denver Oct 13 reel: easy Star K Ranch loop from Morrison Nature Center, plus a new inclusive Nature Exploration Area / nature playground outside the center. Colorado Mama Life Oct 18 reel: free indoor animals, costumes, puppets, and puzzles, plus the outdoor nature play area with a giant beaver lodge to crawl inside; bring lunch and walk the Star K Ranch trails.
+- **Why:** Days.in.denver Oct 13 reel: easy Star K Ranch loop from Morrison Nature Center, plus a new inclusive Nature Exploration Area / nature playground outside the center. Colorado Mama Life Oct 18 reel: free indoor animals, costumes, puppets, and puzzles, plus the outdoor nature play area with a giant beaver lodge to crawl inside; bring lunch and walk the Star K Ranch trails. Colorado Kids Are Rad Nov 24 reel: free indoor + outdoor fun, with an outdoor nature play area, animal friends, a cozy indoor space with games, books, and toys, and nearby trails.
 - **Source:** Days.in.denver (@days.in.denver) Instagram reel 2026-10-13
 - **Hours:** Grounds sunrise–sunset; check nature center building hours
 - **Cost:** Free
@@ -1079,6 +1080,7 @@ Each pin has a why-note from a named social/newsletter source. Drive times are r
 - [Days.in.denver Star K / hikes reel (Oct 13)](https://www.instagram.com/days.in.denver/reel/Deb02B6hKEQ/)
 - [Aurora — Morrison Nature Center](https://www.auroragov.org/things_to_do/parks__open_space___trails/nature___open_space/nature_centers/morrison_nature_center)
 - [Colorado Mama Life Morrison Nature Center reel (Oct 18)](https://www.instagram.com/coloradomamalife/reel/DeqDv8ST6Aw/)
+- [CKAR Morrison Nature Center reel (Nov 24)](https://www.instagram.com/p/DgJedEsRY-Z/)
 
 ## Little Monkey Bizness (Westminster) (FARTHER)
 

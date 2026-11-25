@@ -53,8 +53,8 @@
         "note": "Destinations with Drew - Travel Tips & Hidden Gems. Colorado-based family travel reels, mostly around Colorado Springs plus national road trips. Added at Chanel's request 2026-11-15. Facebook og meta is readable with the facebookexternalhit UA, but reel captions are not, so Instagram @destinationswithdrew is the caption source."
       }
     ],
-    "updated": "2026-11-23",
-    "scrub_window": "2026-11-23 Mon/Wed/Fri pass: Instagram Nov 20–23 posts via public profile embeds (Days, CKAR, CML, Little Rad, Destinations with Drew; Colorado Kids Explore embed rate-walled again) + City of Arvada calendar (Nov/Dec list view) + Days beehiiv sitemap + Little Rad site feed. No new pins. New events: Christmas in Color (CKAR Nov 21), Santa's Storytime at Little Monkey Bizness Westminster Dec 3 (CML Nov 22), HYBYCOZO at Madden Gallery (CML Nov 20), Majestic View Nature Storytime Dec 17 (City of Arvada). Facebook/TikTok login-walled.",
+    "updated": "2026-11-25",
+    "scrub_window": "2026-11-25 Mon/Wed/Fri pass: Instagram Nov 23–25 posts via public profile embeds (Days, CKAR, CML, Little Rad, Destinations with Drew; Colorado Kids Explore embed rate-walled again) + City of Arvada calendar (Nov/Dec list view) + Days beehiiv sitemap + Little Rad site feed. No new pins. New events: Cherry Creek Holiday Market + Giving Machine and Stanley weekend Santas (Days Nov 24), Stanley Kids' Noon Year's Eve Dec 31. Morrison Nature Center: CKAR Nov 24 link added. Facebook/TikTok login-walled.",
     "notes": "Why-notes paraphrased/quoted from source captions and newsletters. Drive times are rough estimates from Arvada 80004; verify in Google Maps. Do not invent venues — every pin cites a named source. Seasonal spots kept if still relevant for fall 2026 or evergreen otherwise. Home base updated to W 64th Ave & Ward Rd; drive times refreshed via public OSRM routing on 2026-10-02."
   },
   "places": [
@@ -2238,6 +2238,10 @@
         {
           "label": "Days.in.denver Friends of Friends post (Oct 18)",
           "url": "https://www.instagram.com/p/Deo0h_CnK9h/"
+        },
+        {
+          "label": "Stanley: Holidays at Stanley (Santa schedule)",
+          "url": "https://www.stanleymarketplace.com/holidays"
         }
       ],
       "hours": "Marketplace hours; story times Wed/Sun",
@@ -3711,11 +3715,12 @@
       "lat": 39.7537644,
       "lng": -104.8009588,
       "address": "16002 E Smith Rd, Aurora, CO 80011",
-      "why": "Days.in.denver Oct 13 reel: easy Star K Ranch loop from Morrison Nature Center, plus a new inclusive Nature Exploration Area / nature playground outside the center. Colorado Mama Life Oct 18 reel: free indoor animals, costumes, puppets, and puzzles, plus the outdoor nature play area with a giant beaver lodge to crawl inside; bring lunch and walk the Star K Ranch trails.",
+      "why": "Days.in.denver Oct 13 reel: easy Star K Ranch loop from Morrison Nature Center, plus a new inclusive Nature Exploration Area / nature playground outside the center. Colorado Mama Life Oct 18 reel: free indoor animals, costumes, puppets, and puzzles, plus the outdoor nature play area with a giant beaver lodge to crawl inside; bring lunch and walk the Star K Ranch trails. Colorado Kids Are Rad Nov 24 reel: free indoor + outdoor fun, with an outdoor nature play area, animal friends, a cozy indoor space with games, books, and toys, and nearby trails.",
       "source": "Days.in.denver (@days.in.denver) Instagram reel 2026-10-13",
       "source_accounts": [
         "@days.in.denver",
-        "@coloradomamalife"
+        "@coloradomamalife",
+        "@coloradokidsarerad"
       ],
       "links": [
         {
@@ -3729,6 +3734,10 @@
         {
           "label": "Colorado Mama Life Morrison Nature Center reel (Oct 18)",
           "url": "https://www.instagram.com/coloradomamalife/reel/DeqDv8ST6Aw/"
+        },
+        {
+          "label": "CKAR Morrison Nature Center reel (Nov 24)",
+          "url": "https://www.instagram.com/p/DgJedEsRY-Z/"
         }
       ],
       "hours": "Grounds sunrise–sunset; check nature center building hours",

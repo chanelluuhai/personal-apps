@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated": "2026-11-23",
-    "as_of": "2026-11-23",
+    "updated": "2026-11-25",
+    "as_of": "2026-11-25",
     "timezone": "America/Denver",
     "notes": "Upcoming, dated family events kept separate from map pins. Confirm times, access, and weather with the linked organizer before heading out."
   },
@@ -1335,6 +1335,50 @@
       "drive_note": "~7 min from the 64th & Ward base",
       "source": "City of Arvada community calendar (arvadaco.gov), checked 2026-11-23",
       "note": "All ages; short 30-minute story time."
+    },
+    {
+      "id": "cherry-creek-holiday-market-2026",
+      "title": "Cherry Creek Holiday Market + Giving Machine",
+      "date": "2026-11-19",
+      "end_date": "2026-12-24",
+      "time": "Daily: Mon–Wed 12–7 PM; Thu–Sat and Dec 18–23 11 AM–9 PM; Sun 11 AM–7 PM; Thanksgiving Nov 26 and Christmas Eve 12–3 PM. Giving Machine open 24/7 Nov 19–Jan 4",
+      "place": "Fillmore Plaza (Fillmore St between 1st and 2nd Ave), Cherry Creek North, Denver, CO 80206",
+      "lat": 39.7183,
+      "lng": -104.9536,
+      "link": "https://cherrycreeknorth.com/event/cherry-creek-holiday-market/",
+      "drive_note": "~29 min from the 64th & Ward base",
+      "source": "Days.in.denver IG Nov 24 (https://www.instagram.com/p/DgIJoqShE9s/); cherrycreeknorth.com; givingmachinedenver.org",
+      "note": "Free, all-ages outdoor holiday market (Après Ski theme, 50+ local makers). Days.in.denver suggests letting kids pick a gift at the Giving Machine (vending machine of donations to local and global nonprofits) at the market entrance, 2nd Ave & Fillmore. Garage and street parking nearby."
+    },
+    {
+      "id": "stanley-weekend-santas-2026",
+      "title": "Meet the Santas + Stanley Bear's Great Adventure at Stanley Marketplace",
+      "place_id": "stanley-marketplace",
+      "date": "2026-11-28",
+      "end_date": "2026-12-20",
+      "time": "Santa visits Sat & Sun 11 AM–1 PM, Nov 28–Dec 20 (a different Santa each weekend); Stanley Bear trail from Nov 28",
+      "place": "Stanley Marketplace, 2501 Dallas St, Aurora, CO 80010",
+      "lat": 39.7530014,
+      "lng": -104.8779448,
+      "link": "https://www.stanleymarketplace.com/holidays",
+      "drive_note": "~30 min from the 64th & Ward base",
+      "source": "Days.in.denver IG Nov 24 (https://www.instagram.com/p/DgIJoqShE9s/) (Stanley Giving Trees holiday day out); stanleymarketplace.com/holidays",
+      "note": "Free, walk-up Santa visits with no reservations. Sat Nov 28 is Old St. Nick plus Sensory Santa (quieter visit, 2nd floor by elevator). Stanley Bear's Great Adventure is a free, self-guided, stroller-friendly 10-stop trail; pick up a boarding pass at the southeast entrance desk. Giving Tree tags are by the southeast stairs; return gifts by Dec 13. Playground out back. Free parking."
+    },
+    {
+      "id": "stanley-kids-noon-years-eve-2026",
+      "title": "Kids' Noon Year's Eve at Stanley Marketplace",
+      "place_id": "stanley-marketplace",
+      "date": "2026-12-31",
+      "end_date": "2026-12-31",
+      "time": "11:00 AM (countdown at noon)",
+      "place": "Stanley Marketplace, 2501 Dallas St, Aurora, CO 80010",
+      "lat": 39.7530014,
+      "lng": -104.8779448,
+      "link": "https://www.stanleymarketplace.com/holidays",
+      "drive_note": "~30 min from the 64th & Ward base",
+      "source": "stanleymarketplace.com/holidays (found while verifying Days.in.denver IG Nov 24)",
+      "note": "DJ, party hats, and a disco ball with a noon countdown, so you're home in time for naps."
     }
   ]
 }
