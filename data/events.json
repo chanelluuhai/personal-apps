@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated": "2026-11-25",
-    "as_of": "2026-11-25",
+    "updated": "2026-11-27",
+    "as_of": "2026-11-27",
     "timezone": "America/Denver",
     "notes": "Upcoming, dated family events kept separate from map pins. Confirm times, access, and weather with the linked organizer before heading out."
   },
@@ -1379,6 +1379,21 @@
       "drive_note": "~30 min from the 64th & Ward base",
       "source": "stanleymarketplace.com/holidays (found while verifying Days.in.denver IG Nov 24)",
       "note": "DJ, party hats, and a disco ball with a noon countdown, so you're home in time for naps."
+    },
+    {
+      "id": "cpw-fresh-air-friday-2026",
+      "title": "Fresh Air Friday: free entry to all Colorado state parks",
+      "place_id": "fowler-trail-eldorado-canyon",
+      "date": "2026-11-27",
+      "end_date": "2026-11-27",
+      "time": "8:00 AM–10:00 PM",
+      "place": "Any Colorado state park (pinned: Eldorado Canyon State Park, 9 Kneale Rd, Eldorado Springs; other metro-area options include Chatfield, Cherry Creek, Barr Lake, and Golden Gate Canyon)",
+      "lat": 39.9295483,
+      "lng": -105.287275,
+      "link": "https://cpw.state.co.us/event/2026/11/free-state-park-entry-fresh-air-friday",
+      "drive_note": "Eldorado Canyon ~35 min from the 64th & Ward base",
+      "source": "Colorado Kids Are Rad IG Nov 27 (https://www.instagram.com/p/DgP-S9OkWOl/); cpw.state.co.us event page",
+      "note": "No park pass is needed at any of the 43 state parks today. CPW visitor centers are closed Nov 26–27, so bring snacks and plan restroom stops. Eldorado's Fowler Trail is easy and stroller-friendly, but the lot fills 10 AM–2 PM, so go early or after nap."
     }
   ]
 }

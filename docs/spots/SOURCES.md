@@ -12,6 +12,34 @@
 | City of Arvada community events | | | https://www.arvadaco.gov/calendar.aspx (calendar incl. Majestic View Nature Center); example https://www.arvadaco.gov/1589/Food-Trucks-and-Fireworks; Olde Town events via https://www.oldetownarvada.org/events |
 | Destinations with Drew - Travel Tips & Hidden Gems | https://www.instagram.com/destinationswithdrew/ | https://www.facebook.com/profile.php?id=61576835055380 (login-walled; og meta only) | Added 2026-11-15 at Chanel's request; mostly Colorado Springs and national road trips |
 
+## Scrub window (2026-11-27 Mon/Wed/Fri pass)
+
+**Checked**
+- Instagram: public profile embed pages (facebookexternalhit UA). Posts since the Nov 25 pass:
+  - @days.in.denver: nothing newer than the Nov 24 giving reel (already scrubbed; Roll-it-Forward Toy Drive Dec 12 still not confirmed on an official page, so it's still skipped).
+  - @colorado.kids.explore: the embed returned a login page with no contextJSON on 2 tries (facebookexternalhit and iPhone app UAs). Not scrubbed, no captions guessed.
+  - @coloradokidsarerad: Nov 27 "Black Friday deals that are 100% off," 5 free adventures. Rocky Mountain Arsenal, Bluff Lake, Trading Post Trail, and Meadowlark Park are already pinned (CKAR link added to each). High Plains Park pump track, Denver, is a new pin, confirmed on the Denver Parks & Rec project sheet. Bonus: Fresh Air Friday free state parks Nov 27, pictured at Eldorado Canyon (new event, confirmed on cpw.state.co.us; Eldorado/Fowler Trail is already pinned and got the CKAR link). Nov 26 Thanksgiving post (no venue). Nov 25 Christmas in Color giveaway (already on the map, through Dec 2; not added).
+  - @coloradomamalife: Nov 26 Thanksgiving post (no venue; skipped).
+  - @littleradadventure: Nov 27 Loveland/Reima ski-sale tips #ad (skipped; far). Nov 26 Thanksgiving post. Nov 25 C Lazy U Ranch, Granby (skipped; ~2 hr all-inclusive resort, horseback ages 6+). Nov 24 ski snack tips #ad and Montezuma (already skipped Nov 25).
+  - @destinationswithdrew: nothing newer than the Nov 24 Iowa advocacy post (no venue).
+- Destinations with Drew Facebook (facebookexternalhit UA): og:title/og:description readable (profile only, "Colorado based" travel, 109,656 followers). Reel captions login-walled; none guessed.
+- City of Arvada calendar (WebFetch list view, Nov + Dec): nothing new. Community Events are a Dec 3 neighborhood meeting only. Nature Storytime Dec 17 is already on the map. Winter Solstice Dec 21 (6–8pm) skipped as past toddler bedtime. Other programs are adults or ages 8+.
+- Days.in.denver beehiiv: the sitemap's newest issue is still the November newsletter.
+- Little Rad Adventure site feed: newest post is still Pennsylvania (Nov 5).
+- TikTok @colorado.kids.explore / @coloradomamalife: profile meta only (no captions). Facebook (other accounts): login-walled; not re-tried.
+- Drive times via public OSRM from the 64th & Ward base.
+
+**New pins (1)**
+- High Plains Park, E 57th Ave & N Elmira Ct, Denver 80238: nature-play playground, open lawn, and an all-ages asphalt pump track (CKAR Nov 27; Denver Parks & Rec project sheet) (~27 min)
+
+**Updated pins (5)**
+- Rocky Mountain Arsenal NWR, Bluff Lake Nature Center, Red Rocks Trading Post Trail, Meadowlark Park, Fowler Trail / Eldorado Canyon: added the CKAR Nov 27 free-adventures post
+
+**New events (1)**
+- Fri Nov 27, 8am–10pm: Fresh Air Friday, free entry to all 43 Colorado state parks (visitor centers closed) (CKAR Nov 27; cpw.state.co.us) (Eldorado Canyon ~35 min)
+
+**Closed / moved:** none found.
+
 ## Scrub window (2026-11-25 Mon/Wed/Fri pass)
 
 **Checked**

@@ -53,8 +53,8 @@
         "note": "Destinations with Drew - Travel Tips & Hidden Gems. Colorado-based family travel reels, mostly around Colorado Springs plus national road trips. Added at Chanel's request 2026-11-15. Facebook og meta is readable with the facebookexternalhit UA, but reel captions are not, so Instagram @destinationswithdrew is the caption source."
       }
     ],
-    "updated": "2026-11-25",
-    "scrub_window": "2026-11-25 Mon/Wed/Fri pass: Instagram Nov 23–25 posts via public profile embeds (Days, CKAR, CML, Little Rad, Destinations with Drew; Colorado Kids Explore embed rate-walled again) + City of Arvada calendar (Nov/Dec list view) + Days beehiiv sitemap + Little Rad site feed. No new pins. New events: Cherry Creek Holiday Market + Giving Machine and Stanley weekend Santas (Days Nov 24), Stanley Kids' Noon Year's Eve Dec 31. Morrison Nature Center: CKAR Nov 24 link added. Facebook/TikTok login-walled.",
+    "updated": "2026-11-27",
+    "scrub_window": "2026-11-27 Mon/Wed/Fri pass: Instagram Nov 24–27 posts via public profile embeds (Days, CKAR, CML, Little Rad, Destinations with Drew; Colorado Kids Explore embed rate-walled again) + City of Arvada calendar (Nov/Dec list view) + Days beehiiv sitemap + Little Rad site feed + Destinations with Drew FB og meta. New pin: High Plains Park, Denver (CKAR Nov 27). New event: Fresh Air Friday free state parks Nov 27 (CKAR Nov 27; cpw.state.co.us). CKAR Nov 27 link added to Rocky Mountain Arsenal, Bluff Lake, Trading Post Trail, Meadowlark Park, and Eldorado Canyon. Facebook/TikTok login-walled.",
     "notes": "Why-notes paraphrased/quoted from source captions and newsletters. Drive times are rough estimates from Arvada 80004; verify in Google Maps. Do not invent venues — every pin cites a named source. Seasonal spots kept if still relevant for fall 2026 or evergreen otherwise. Home base updated to W 64th Ave & Ward Rd; drive times refreshed via public OSRM routing on 2026-10-02."
   },
   "places": [
@@ -3679,6 +3679,10 @@
           "url": "https://www.instagram.com/days.in.denver/reel/Deb02B6hKEQ/"
         },
         {
+          "label": "CKAR: 5 free Colorado adventures (Nov 27)",
+          "url": "https://www.instagram.com/p/DgP-S9OkWOl/"
+        },
+        {
           "label": "Colorado Kids Are Rad Bluff Lake post (Nov 16)",
           "url": "https://www.instagram.com/p/Df0z804RDRB/"
         },
@@ -3894,6 +3898,10 @@
         {
           "label": "CKAR Red Rocks Trading Post reel (Oct 16)",
           "url": "https://www.instagram.com/coloradokidsarerad/reel/Dek9R8RRW1X/"
+        },
+        {
+          "label": "CKAR: 5 free Colorado adventures (Nov 27)",
+          "url": "https://www.instagram.com/p/DgP-S9OkWOl/"
         },
         {
           "label": "Red Rocks Park & Amphitheatre",
@@ -4565,6 +4573,10 @@
           "url": "https://www.instagram.com/p/DfdsIHSxnE_/"
         },
         {
+          "label": "CKAR: 5 free Colorado adventures (Nov 27)",
+          "url": "https://www.instagram.com/p/DgP-S9OkWOl/"
+        },
+        {
           "label": "USFWS: Rocky Mountain Arsenal",
           "url": "https://www.fws.gov/refuge/rocky-mountain-arsenal"
         },
@@ -4604,6 +4616,10 @@
         {
           "label": "CKAR: Meadowlark Park playground (Nov 9)",
           "url": "https://www.instagram.com/p/Dfi0_m6x0N3/"
+        },
+        {
+          "label": "CKAR: 5 free Colorado adventures (Nov 27)",
+          "url": "https://www.instagram.com/p/DgP-S9OkWOl/"
         },
         {
           "label": "City of Lakewood: Meadowlark Park",
@@ -4720,6 +4736,10 @@
           "url": "https://www.instagram.com/p/Dfufn5SRdRo/"
         },
         {
+          "label": "CKAR: 5 free Colorado adventures (Nov 27)",
+          "url": "https://www.instagram.com/p/DgP-S9OkWOl/"
+        },
+        {
           "label": "CPW: Eldorado Canyon trails",
           "url": "https://cpw.state.co.us/state-parks/eldorado-canyon-state-park/eldorado-canyon-state-park-activities-trails"
         },
@@ -4786,6 +4806,47 @@
       "farther_than_30min": true,
       "approx_drive_minutes": 33,
       "straight_line_miles": 19.5
+    },
+    {
+      "id": "high-plains-park-denver",
+      "name": "High Plains Park (Central Park / Northfield, Denver)",
+      "lat": 39.8016,
+      "lng": -104.8736,
+      "address": "E 57th Ave & N Elmira Ct, Denver, CO 80238",
+      "why": "Colorado Kids Are Rad Nov 27 (free Black Friday adventures): free pump track fun, so bring the bikes and let little legs cruise. Denver Parks & Recreation describes the park as natural berms, an open lawn, a nature-play playground, and an all-ages pump track.",
+      "source": "Colorado Kids Are Rad (@coloradokidsarerad) Instagram post 2026-11-27; Denver Parks & Recreation project sheet (park completed summer 2023)",
+      "source_accounts": [
+        "@coloradokidsarerad"
+      ],
+      "links": [
+        {
+          "label": "CKAR: 5 free Colorado adventures (Nov 27)",
+          "url": "https://www.instagram.com/p/DgP-S9OkWOl/"
+        },
+        {
+          "label": "Denver Parks & Rec: High Plains Park project sheet",
+          "url": "https://www.denvergov.org/files/assets/public/v/2/parks-and-recreation/documents/planning/specs/project-sheets/dpr-projectsheet_highplainspark.pdf"
+        },
+        {
+          "label": "Front Porch: High Plains Park pump track opens (2023)",
+          "url": "https://frontporchne.com/central-park-playground-playtime-ramps-up-as-reimagined-park-opens/"
+        }
+      ],
+      "hours": "Denver city park, open daily (check Denver Parks & Recreation for hours)",
+      "cost": "Free",
+      "toddler_notes": "For a ~22-month-old, the main draw is the nature-play playground and the open lawn. The asphalt pump track (about 15,000 sq ft, designed by Velosolutions) suits a balance bike on the gentle rollers. Bigger kids on bikes and skateboards use the bowl and wall ride, so stay close on the track. No lights. Shade and restrooms aren't confirmed.",
+      "tags": [
+        "playground",
+        "park",
+        "outdoor",
+        "free",
+        "denver",
+        "bike"
+      ],
+      "drive_note": "~27 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~14.2 mi straight-line)",
+      "farther_than_30min": false,
+      "approx_drive_minutes": 27,
+      "straight_line_miles": 14.2
     }
   ]
 }

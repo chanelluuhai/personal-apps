@@ -1,9 +1,9 @@
 # Denver/Arvada Toddler Outing Spots
 
-Updated: 2026-11-25  
+Updated: 2026-11-27  
 Base: W 64th Ave & Ward Rd, Arvada, CO 80004  
 Audience: Toddler ~20 months; prefer ~30 min drive  
-Places: 113
+Places: 114
 
 Each pin has a why-note from a named social/newsletter source. Drive times are rough estimates.
 
@@ -396,6 +396,7 @@ Each pin has a why-note from a named social/newsletter source. Drive times are r
 - **Cost:** Free
 - **Toddler tip:** New in fall 2026. The toddler structure and turf surfacing replace the old pea gravel. The sidewalk loop is good for a push bike or walking. There's also a sledding hill by McIntyre Gulch for snow days. About 10 min from the Lakewood friend.
 - [CKAR: Meadowlark Park playground (Nov 9)](https://www.instagram.com/p/Dfi0_m6x0N3/)
+- [CKAR: 5 free Colorado adventures (Nov 27)](https://www.instagram.com/p/DgP-S9OkWOl/)
 - [City of Lakewood: Meadowlark Park](https://www.lakewoodco.gov/Local-Government/Departments/Community-Resources/Parks-Forestry-and-Open-Space/A-to-Z-Park-List/Meadowlark-Park)
 - [Lakewood Together: playground project](https://www.lakewoodtogether.org/meadowlark-park)
 
@@ -770,6 +771,7 @@ Each pin has a why-note from a named social/newsletter source. Drive times are r
 - **Toddler tip:** Bring the carrier rather than the stroller: packed dirt, stairs, and rocky stretches. Trails can be icy in winter. Restrooms at the Trading Post.
 - **Trail:** 1.6-mile loop · ~318 ft gain · moderate with stairs and rocky sections · carrier, not stroller (CKAR / AllTrails)
 - [CKAR Red Rocks Trading Post reel (Oct 16)](https://www.instagram.com/coloradokidsarerad/reel/Dek9R8RRW1X/)
+- [CKAR: 5 free Colorado adventures (Nov 27)](https://www.instagram.com/p/DgP-S9OkWOl/)
 - [Red Rocks Park & Amphitheatre](https://www.redrocksonline.com/)
 - [Trail details (Trailforks)](https://www.trailforks.com/trails/trading-post/)
 
@@ -853,6 +855,7 @@ Each pin has a why-note from a named social/newsletter source. Drive times are r
 - **Toddler tip:** Nature play stations (nest, shelter) make this more toddler-friendly than a plain trail.
 - **Trail:** Short nature trails + nature play · stroller usability unknown · urban open space
 - [Days.in.denver Bluff Lake / hikes reel (Oct 13)](https://www.instagram.com/days.in.denver/reel/Deb02B6hKEQ/)
+- [CKAR: 5 free Colorado adventures (Nov 27)](https://www.instagram.com/p/DgP-S9OkWOl/)
 - [Colorado Kids Are Rad Bluff Lake post (Nov 16)](https://www.instagram.com/p/Df0z804RDRB/)
 - [Bluff Lake Nature Center — Visiting](https://www.blufflake.org/about/visiting)
 - [Instagram @days.in.denver](https://www.instagram.com/days.in.denver/)
@@ -869,6 +872,19 @@ Each pin has a why-note from a named social/newsletter source. Drive times are r
 - [CKAR fall playgrounds post (Oct 22)](https://www.instagram.com/p/De0Vi5rRnhj/)
 - [Westminster park page](https://www.westminsterco.gov/facilities/facility/details/Big-Dry-Creek-Park-10)
 - [Hyland Hills park page](https://www.hylandhills.gov/location/big-dry-creek-park-3/)
+
+## High Plains Park (Central Park / Northfield, Denver) (near)
+
+- **Address:** E 57th Ave & N Elmira Ct, Denver, CO 80238
+- **Drive:** ~27 min drive from W 64th Ave & Ward Rd, Arvada, CO 80004 (~14.2 mi straight-line)
+- **Why:** Colorado Kids Are Rad Nov 27 (free Black Friday adventures): free pump track fun, so bring the bikes and let little legs cruise. Denver Parks & Recreation describes the park as natural berms, an open lawn, a nature-play playground, and an all-ages pump track.
+- **Source:** Colorado Kids Are Rad (@coloradokidsarerad) Instagram post 2026-11-27; Denver Parks & Recreation project sheet (park completed summer 2023)
+- **Hours:** Denver city park, open daily (check Denver Parks & Recreation for hours)
+- **Cost:** Free
+- **Toddler tip:** For a ~22-month-old, the main draw is the nature-play playground and the open lawn. The asphalt pump track (about 15,000 sq ft, designed by Velosolutions) suits a balance bike on the gentle rollers. Bigger kids on bikes and skateboards use the bowl and wall ride, so stay close on the track. No lights. Shade and restrooms aren't confirmed.
+- [CKAR: 5 free Colorado adventures (Nov 27)](https://www.instagram.com/p/DgP-S9OkWOl/)
+- [Denver Parks & Rec: High Plains Park project sheet](https://www.denvergov.org/files/assets/public/v/2/parks-and-recreation/documents/planning/specs/project-sheets/dpr-projectsheet_highplainspark.pdf)
+- [Front Porch: High Plains Park pump track opens (2023)](https://frontporchne.com/central-park-playground-playtime-ramps-up-as-reimagined-park-opens/)
 
 ## Sweet Play (Toddler Tuesday) (near)
 
@@ -930,6 +946,7 @@ Each pin has a why-note from a named social/newsletter source. Drive times are r
 - **Cost:** Free, including the ~11-mile self-guided Wildlife Drive
 - **Toddler tip:** Great car-seat-friendly outing: the Wildlife Drive is about 45–60 minutes and bison are often visible. Visitor center is closed Mon–Tue. USFWS prescribed burns started Oct 19, 2026 for several weeks (9am–4pm), so smoke or closures are possible. No pets outside vehicles.
 - [CKAR 3 free stops: Arsenal + visitor center (Nov 7)](https://www.instagram.com/p/DfdsIHSxnE_/)
+- [CKAR: 5 free Colorado adventures (Nov 27)](https://www.instagram.com/p/DgP-S9OkWOl/)
 - [USFWS: Rocky Mountain Arsenal](https://www.fws.gov/refuge/rocky-mountain-arsenal)
 - [USFWS: Visit us (hours, rules)](https://www.fws.gov/refuge/rocky-mountain-arsenal/visit-us)
 
@@ -1297,6 +1314,7 @@ Each pin has a why-note from a named social/newsletter source. Drive times are r
 - **Toddler tip:** CPW lists the Fowler Trail as easy and stroller- and wheelchair-accessible (unpaved, 0.9 mi one way to the park boundary), with nature-walk signs and fixed binoculars for watching climbers. CKAR warns of some exposed canyon drop-offs, so keep a ~20-month-old in a carrier or holding hands near the edges. The lot fills on weekends 10 AM–2 PM from October to May, so go early. Little shade.
 - **Trail:** Fowler Trail 0.9 mi one way, easy (CPW). CKAR/AllTrails list ~4 mi out and back, 314 ft gain, if you continue past the park boundary.
 - [CKAR: Fowler Trail hike with kids (Nov 14)](https://www.instagram.com/p/Dfufn5SRdRo/)
+- [CKAR: 5 free Colorado adventures (Nov 27)](https://www.instagram.com/p/DgP-S9OkWOl/)
 - [CPW: Eldorado Canyon trails](https://cpw.state.co.us/state-parks/eldorado-canyon-state-park/eldorado-canyon-state-park-activities-trails)
 - [AllTrails: Fowler Trail](https://www.alltrails.com/trail/us/colorado/fowler-trail)
 
